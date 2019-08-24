@@ -6,6 +6,9 @@ class hzSerialPort
 {
 public:
     hzSerialPort();
+
+private:
+    void initDevice();
 };
 
 #endif // HZSERIALPORT_H
