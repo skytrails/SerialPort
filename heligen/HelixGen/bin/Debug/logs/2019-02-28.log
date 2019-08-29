@@ -1,0 +1,93 @@
+2019-02-28 08:56:11.4129 DEBUG ----- Starting -----
+2019-02-28 09:01:35.6581 DEBUG ----- Starting -----
+2019-02-28 09:02:48.9989 DEBUG ----- Starting -----
+2019-02-28 09:03:42.2386 DEBUG ----- Starting -----
+2019-02-28 09:05:44.2234 DEBUG ----- Starting -----
+2019-02-28 10:18:12.4585 DEBUG ----- Starting -----
+2019-02-28 10:19:17.0219 DEBUG ----- Starting -----
+2019-02-28 10:29:45.4020 DEBUG ----- Starting -----
+2019-02-28 11:49:57.8006 DEBUG ----- Starting -----
+2019-02-28 11:50:19.2243 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 11:50:19.2602 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 11:51:03.1023 DEBUG ----- Starting -----
+2019-02-28 11:51:31.4585 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 11:51:31.4964 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 11:53:22.8140 DEBUG ----- Starting -----
+2019-02-28 11:53:49.8407 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 11:54:32.5226 DEBUG ----- Starting -----
+2019-02-28 11:55:32.3366 DEBUG ----- Starting -----
+2019-02-28 11:57:23.9800 DEBUG Opening results file to: ..\..\Logs\Measurement\2019_02_28_11_57_23\Temperature Log.csv
+2019-02-28 11:57:23.9800 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2019-02-28 11:57:23.9800 DEBUG Executing the action: HelixGen.Model.chasisAction
+2019-02-28 11:57:41.9051 DEBUG ----- Starting -----
+2019-02-28 11:58:06.9475 DEBUG Opening results file to: ..\..\Logs\Measurement\2019_02_28_11_58_06\Temperature Log.csv
+2019-02-28 11:58:06.9475 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2019-02-28 11:58:06.9475 DEBUG Executing the action: HelixGen.Model.chasisAction
+2019-02-28 13:07:48.2372 DEBUG ----- Starting -----
+2019-02-28 13:29:47.1489 DEBUG ----- Starting -----
+2019-02-28 13:31:08.2217 DEBUG ----- Starting -----
+2019-02-28 13:32:02.9452 DEBUG ----- Starting -----
+2019-02-28 13:33:38.0250 DEBUG ----- Starting -----
+2019-02-28 13:33:57.2515 DEBUG ----- Starting -----
+2019-02-28 13:35:03.1493 DEBUG ----- Starting -----
+2019-02-28 13:36:17.9523 DEBUG ----- Starting -----
+2019-02-28 13:37:48.1001 DEBUG ----- Starting -----
+2019-02-28 13:37:53.7077 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:37:58.6784 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2019-02-28 13:38:58.8245 DEBUG ----- Starting -----
+2019-02-28 13:39:05.6303 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:39:10.5222 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2019-02-28 13:40:26.9728 DEBUG ----- Starting -----
+2019-02-28 13:40:33.4694 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:40:43.0258 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2019-02-28 13:50:06.5817 DEBUG ----- Starting -----
+2019-02-28 13:50:07.3018 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:50:21.4669 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2019-02-28 13:50:53.4035 DEBUG ----- Starting -----
+2019-02-28 13:51:06.6481 DEBUG ----- Starting -----
+2019-02-28 13:51:07.3303 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:52:17.5605 DEBUG ----- Starting -----
+2019-02-28 13:52:18.3354 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:53:21.9792 DEBUG ----- Starting -----
+2019-02-28 13:53:22.9296 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:54:31.7994 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2019-02-28 13:54:45.0972 DEBUG ----- Starting -----
+2019-02-28 13:54:45.8551 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 13:55:16.9978 DEBUG ----- Starting -----
+2019-02-28 13:55:17.6800 DEBUG motorBoardModel::Initialize() Caught an exception: 对端口“COM8”的访问被拒绝。
+2019-02-28 14:11:25.2371 DEBUG ----- Starting -----
+2019-02-28 14:12:26.4069 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:12:26.4388 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:14:11.2886 DEBUG ----- Starting -----
+2019-02-28 14:14:36.7655 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:14:36.7974 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:15:18.2532 DEBUG ----- Starting -----
+2019-02-28 14:17:03.9197 DEBUG ----- Starting -----
+2019-02-28 14:17:15.4838 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:17:15.5216 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:20:51.0327 DEBUG ----- Starting -----
+2019-02-28 14:21:16.7171 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:25:05.2328 DEBUG ----- Starting -----
+2019-02-28 14:27:13.8449 DEBUG ----- Starting -----
+2019-02-28 14:27:30.6899 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:27:30.7337 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:34:20.9214 DEBUG ----- Starting -----
+2019-02-28 14:34:31.7903 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2019-02-28 14:38:13.7015 DEBUG ----- Starting -----
+2019-02-28 14:38:40.3083 DEBUG ----- Starting -----
+2019-02-28 14:44:14.4118 DEBUG ----- Starting -----
+2019-02-28 14:52:25.3328 DEBUG ----- Starting -----
+2019-02-28 14:53:02.0120 DEBUG ----- Starting -----
+2019-02-28 14:54:06.8311 DEBUG ----- Starting -----
+2019-02-28 14:59:58.2826 DEBUG ----- Starting -----
+2019-02-28 15:00:26.2399 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2019-02-28 15:00:26.2678 DEBUG ReadCmd, got an exception: 端口被关闭。
+2019-02-28 15:00:26.2788 DEBUG ReadCmd, got an exception: 端口被关闭。
+2019-02-28 16:00:52.7613 DEBUG ----- Starting -----
+2019-02-28 16:02:13.6069 DEBUG ----- Starting -----
+2019-02-28 16:03:58.5812 DEBUG ----- Starting -----
+2019-02-28 16:05:00.3769 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2019-02-28 16:05:00.4108 DEBUG ReadCmd, got an exception: 端口被关闭。
+2019-02-28 16:05:00.4238 DEBUG ReadCmd, got an exception: 端口被关闭。

@@ -1,0 +1,911 @@
+2018-05-18 08:31:55.9811 DEBUG ----- Starting -----
+2018-05-18 08:31:56.9156 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:32:09.3631 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_08_32_09\Temperature Log.csv
+2018-05-18 08:32:09.6933 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 19
+2018-05-18 08:32:09.7233 DEBUG gotoTempAndStay: temperature = 72 time = 60 ms
+2018-05-18 08:32:09.7433 DEBUG Setting the temperature to 72
+2018-05-18 08:32:09.7634 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2018-05-18 08:32:09.7935 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.589 to temp is 95
+2018-05-18 08:32:09.7935 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.589 making settings for the temperature range: From: 0-90 To: 90-110
+2018-05-18 08:32:09.7935 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-18 08:32:09.8436 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 08:32:09.9034 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 08:32:10.0335 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 08:32:10.0836 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 08:32:25.4674 DEBUG At temperature.
+2018-05-18 08:32:25.4674 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2018-05-18 08:32:25.5175 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-05-18 08:32:25.5675 DEBUG Setting the temperature to 84
+2018-05-18 08:32:25.5975 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 84
+2018-05-18 08:32:25.6275 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_05_18_08_32_09\Melt Curve logging.csv
+2018-05-18 08:32:25.8376 DEBUG In meltcurve, curTemp = 71.0810012817383
+2018-05-18 08:32:33.5617 DEBUG In meltcurve, curTemp = 69.8010025024414
+2018-05-18 08:32:36.9936 DEBUG In meltcurve, curTemp = 69.9530029296875
+2018-05-18 08:32:40.4454 DEBUG In meltcurve, curTemp = 70.072998046875
+2018-05-18 08:32:43.9810 DEBUG In meltcurve, curTemp = 70.2080001831055
+2018-05-18 08:32:47.4128 DEBUG In meltcurve, curTemp = 70.3259963989258
+2018-05-18 08:33:09.7279 DEBUG In meltcurve, curTemp = 71.0920028686523
+2018-05-18 08:33:13.2199 DEBUG In meltcurve, curTemp = 71.2020034790039
+2018-05-18 08:33:16.7516 DEBUG In meltcurve, curTemp = 71.318000793457
+2018-05-18 08:33:20.2735 DEBUG In meltcurve, curTemp = 71.4309997558594
+2018-05-18 08:33:23.8054 DEBUG In meltcurve, curTemp = 71.5429992675781
+2018-05-18 08:33:27.3372 DEBUG In meltcurve, curTemp = 71.6579971313477
+2018-05-18 08:33:30.8491 DEBUG In meltcurve, curTemp = 71.7730026245117
+2018-05-18 08:33:34.3512 DEBUG In meltcurve, curTemp = 71.8830032348633
+2018-05-18 08:33:37.8530 DEBUG In meltcurve, curTemp = 71.9980010986328
+2018-05-18 08:33:41.3649 DEBUG In meltcurve, curTemp = 72.1070022583008
+2018-05-18 08:33:44.8868 DEBUG In meltcurve, curTemp = 72.2109985351563
+2018-05-18 08:33:48.3986 DEBUG In meltcurve, curTemp = 72.3239974975586
+2018-05-18 08:33:51.8505 DEBUG In meltcurve, curTemp = 72.4369964599609
+2018-05-18 08:33:55.3222 DEBUG In meltcurve, curTemp = 72.5410003662109
+2018-05-18 08:33:58.7740 DEBUG In meltcurve, curTemp = 72.6529998779297
+2018-05-18 08:34:02.2858 DEBUG In meltcurve, curTemp = 72.7620010375977
+2018-05-18 08:34:05.7377 DEBUG In meltcurve, curTemp = 72.8659973144531
+2018-05-18 08:34:09.2896 DEBUG In meltcurve, curTemp = 72.9830017089844
+2018-05-18 08:34:12.7415 DEBUG In meltcurve, curTemp = 73.0849990844727
+2018-05-18 08:34:16.2233 DEBUG In meltcurve, curTemp = 73.1900024414063
+2018-05-18 08:34:19.7554 DEBUG In meltcurve, curTemp = 73.3010025024414
+2018-05-18 08:34:23.3170 DEBUG In meltcurve, curTemp = 73.4100036621094
+2018-05-18 08:34:26.7991 DEBUG In meltcurve, curTemp = 73.5210037231445
+2018-05-18 08:34:30.3208 DEBUG In meltcurve, curTemp = 73.6320037841797
+2018-05-18 08:34:33.8028 DEBUG In meltcurve, curTemp = 73.7369995117188
+2018-05-18 08:34:37.3147 DEBUG In meltcurve, curTemp = 73.8460006713867
+2018-05-18 08:34:40.8366 DEBUG In meltcurve, curTemp = 73.947998046875
+2018-05-18 08:34:44.3708 DEBUG In meltcurve, curTemp = 74.0599975585938
+2018-05-18 08:35:01.2171 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 08:40:34.6783 DEBUG ----- Starting -----
+2018-05-18 08:40:35.5199 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:45:11.0060 DEBUG ----- Starting -----
+2018-05-18 08:45:12.0287 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:46:36.1479 DEBUG ----- Starting -----
+2018-05-18 08:46:37.7690 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:50:54.4449 DEBUG ----- Starting -----
+2018-05-18 08:50:55.3110 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:51:35.9841 DEBUG ----- Starting -----
+2018-05-18 08:51:36.9582 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:52:02.6021 DEBUG ----- Starting -----
+2018-05-18 08:52:03.4889 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:52:25.7925 DEBUG ----- Starting -----
+2018-05-18 08:52:26.8076 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:53:44.3651 DEBUG ----- Starting -----
+2018-05-18 08:53:45.2850 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:57:22.4305 DEBUG ----- Starting -----
+2018-05-18 08:57:23.2447 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 08:57:36.5584 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-18 08:59:00.2554 DEBUG ----- Starting -----
+2018-05-18 08:59:01.1653 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:02:16.3954 DEBUG ----- Starting -----
+2018-05-18 09:02:17.4175 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:02:30.5244 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-18 09:03:54.3897 DEBUG ----- Starting -----
+2018-05-18 09:04:05.3020 DEBUG ----- Starting -----
+2018-05-18 09:04:06.2453 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:05:34.1178 DEBUG ----- Starting -----
+2018-05-18 09:05:35.0574 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:07:34.2991 DEBUG ----- Starting -----
+2018-05-18 09:07:35.2266 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:13:06.3889 DEBUG ----- Starting -----
+2018-05-18 09:13:31.6388 DEBUG ----- Starting -----
+2018-05-18 09:13:32.5192 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:15:35.5334 DEBUG ----- Starting -----
+2018-05-18 09:15:36.5897 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:41:59.5074 DEBUG ----- Starting -----
+2018-05-18 09:42:00.3877 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:42:20.1440 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_09_42_20\Temperature Log.csv
+2018-05-18 09:42:20.4242 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 23
+2018-05-18 09:42:20.4441 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:42:20.4641 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 09:42:20.5142 DEBUG Protocol::Execute caught an exception: The port is closed.
+2018-05-18 09:43:12.3597 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 09:44:12.4245 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 09:44:12.4245 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_09_44_12\Temperature Log.csv
+2018-05-18 09:44:12.6401 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 23
+2018-05-18 09:44:12.6592 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:44:12.6722 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 09:45:15.2091 DEBUG ----- Starting -----
+2018-05-18 09:45:16.1376 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 09:45:36.9064 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 09:45:36.9064 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_09_45_36\Temperature Log.csv
+2018-05-18 09:45:37.1514 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 23
+2018-05-18 09:45:37.1712 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:45:37.1912 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 09:45:46.5014 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:45:46.5212 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 09:45:49.5430 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:45:49.5628 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 09:46:01.4892 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:46:01.5092 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 09:46:07.7728 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:46:07.8026 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 09:46:10.8342 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:46:10.8542 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 09:46:17.0753 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 09:46:17.1053 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 09:50:17.0550 DEBUG ----- Starting -----
+2018-05-18 09:51:06.4147 DEBUG ----- Starting -----
+2018-05-18 13:10:04.1874 DEBUG ----- Starting -----
+2018-05-18 13:11:30.5650 DEBUG ----- Starting -----
+2018-05-18 13:11:59.7489 DEBUG ----- Starting -----
+2018-05-18 13:12:12.6184 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 3
+2018-05-18 13:12:12.6986 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 2
+2018-05-18 13:12:12.8087 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1
+2018-05-18 13:12:12.8485 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1; source command: /04o0R; iteration: 0; error code: 15
+2018-05-18 13:12:32.2205 DEBUG ----- Starting -----
+2018-05-18 13:13:06.8067 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_13_13_06\Temperature Log.csv
+2018-05-18 13:13:07.0569 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 19
+2018-05-18 13:13:07.0668 DEBUG gotoTempAndStay: temperature = 72 time = 60 ms
+2018-05-18 13:13:07.0768 DEBUG Setting the temperature to 72
+2018-05-18 13:13:07.0970 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2018-05-18 13:13:07.1269 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 25.472 to temp is 95
+2018-05-18 13:13:07.1469 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 25.472 making settings for the temperature range: From: 0-90 To: 90-110
+2018-05-18 13:13:07.1569 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-18 13:13:07.1869 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 13:13:07.2269 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 13:13:07.2570 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 13:13:07.2869 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 13:13:23.6758 DEBUG At temperature.
+2018-05-18 13:13:23.6857 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2018-05-18 13:13:23.9058 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-05-18 13:13:23.9658 DEBUG Setting the temperature to 84
+2018-05-18 13:13:23.9858 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 84
+2018-05-18 13:13:24.0158 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_05_18_13_13_06\Melt Curve logging.csv
+2018-05-18 13:13:24.2260 DEBUG In meltcurve, curTemp = 71.1050033569336
+2018-05-18 13:13:27.8879 DEBUG In meltcurve, curTemp = 69.7710037231445
+2018-05-18 13:13:31.3498 DEBUG In meltcurve, curTemp = 69.8679962158203
+2018-05-18 13:13:34.9117 DEBUG In meltcurve, curTemp = 69.9800033569336
+2018-05-18 13:13:38.4637 DEBUG In meltcurve, curTemp = 70.1119995117188
+2018-05-18 13:13:41.9956 DEBUG In meltcurve, curTemp = 70.2440032958984
+2018-05-18 13:13:45.5273 DEBUG In meltcurve, curTemp = 70.3619995117188
+2018-05-18 13:13:49.0692 DEBUG In meltcurve, curTemp = 70.4899978637695
+2018-05-18 13:13:52.5911 DEBUG In meltcurve, curTemp = 70.6110000610352
+2018-05-18 13:13:56.1231 DEBUG In meltcurve, curTemp = 70.7259979248047
+2018-05-18 13:13:59.6250 DEBUG In meltcurve, curTemp = 70.8420028686523
+2018-05-18 13:14:03.1567 DEBUG In meltcurve, curTemp = 70.9589996337891
+2018-05-18 13:14:06.6986 DEBUG In meltcurve, curTemp = 71.0739974975586
+2018-05-18 13:14:10.2105 DEBUG In meltcurve, curTemp = 71.1900024414063
+2018-05-18 13:14:13.7323 DEBUG In meltcurve, curTemp = 71.3059997558594
+2018-05-18 13:14:17.2344 DEBUG In meltcurve, curTemp = 71.4169998168945
+2018-05-18 13:14:20.7162 DEBUG In meltcurve, curTemp = 71.5279998779297
+2018-05-18 13:14:24.1679 DEBUG In meltcurve, curTemp = 71.6370010375977
+2018-05-18 13:14:27.6497 DEBUG In meltcurve, curTemp = 71.7509994506836
+2018-05-18 13:14:31.1816 DEBUG In meltcurve, curTemp = 71.8600006103516
+2018-05-18 13:14:34.6337 DEBUG In meltcurve, curTemp = 71.9680023193359
+2018-05-18 13:14:38.1353 DEBUG In meltcurve, curTemp = 72.0810012817383
+2018-05-18 13:14:41.6474 DEBUG In meltcurve, curTemp = 72.1940002441406
+2018-05-18 13:14:45.1792 DEBUG In meltcurve, curTemp = 72.3030014038086
+2018-05-18 13:14:48.7111 DEBUG In meltcurve, curTemp = 72.4120025634766
+2018-05-18 13:14:52.2729 DEBUG In meltcurve, curTemp = 72.5210037231445
+2018-05-18 13:14:55.8047 DEBUG In meltcurve, curTemp = 72.6289978027344
+2018-05-18 13:14:59.3068 DEBUG In meltcurve, curTemp = 72.7409973144531
+2018-05-18 13:15:02.8385 DEBUG In meltcurve, curTemp = 72.8489990234375
+2018-05-18 13:15:06.3504 DEBUG In meltcurve, curTemp = 72.9599990844727
+2018-05-18 13:15:09.9923 DEBUG In meltcurve, curTemp = 73.0719985961914
+2018-05-18 13:15:13.4942 DEBUG In meltcurve, curTemp = 73.1790008544922
+2018-05-18 13:15:17.0260 DEBUG In meltcurve, curTemp = 73.2919998168945
+2018-05-18 13:15:20.5479 DEBUG In meltcurve, curTemp = 73.3960037231445
+2018-05-18 13:15:24.0398 DEBUG In meltcurve, curTemp = 73.5080032348633
+2018-05-18 13:15:27.5617 DEBUG In meltcurve, curTemp = 73.6119995117188
+2018-05-18 13:15:31.1419 DEBUG In meltcurve, curTemp = 73.7210006713867
+2018-05-18 13:15:34.6231 DEBUG In meltcurve, curTemp = 73.8270034790039
+2018-05-18 13:15:38.0688 DEBUG In meltcurve, curTemp = 73.9380035400391
+2018-05-18 13:15:41.5307 DEBUG In meltcurve, curTemp = 74.0400009155273
+2018-05-18 13:16:02.6606 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 13:17:04.5761 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 13:19:43.6311 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 14:06:43.7905 DEBUG ----- Starting -----
+2018-05-18 14:07:27.1999 DEBUG ----- Starting -----
+2018-05-18 14:07:34.4366 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-05-18 14:07:34.5294 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-05-18 14:07:34.6393 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-05-18 14:07:34.6793 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-05-18 14:07:34.6993 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-05-18 14:13:02.1565 DEBUG ----- Starting -----
+2018-05-18 14:13:12.3714 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-18 14:13:22.4405 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-18 14:13:27.8033 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-18 14:13:36.8380 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-18 14:14:26.5868 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_14_26\Temperature Log.csv
+2018-05-18 14:14:26.8571 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-18 14:14:26.8869 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-18 14:14:29.9986 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-18 14:14:30.0286 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:14:33.0502 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 7
+2018-05-18 14:14:33.0802 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:33.0902 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:14:36.1218 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:36.1419 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:14:37.7927 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:37.7927 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:14:40.8045 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:40.8143 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:14:42.4952 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:42.5153 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:14:45.5269 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:45.5569 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:14:47.2778 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:47.2778 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:14:50.3196 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:50.3494 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:14:52.0404 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:52.0703 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:14:55.1120 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:55.1520 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:14:56.8129 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:56.8429 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:14:59.8445 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:14:59.8645 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:15:01.5754 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:01.6054 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:15:04.5970 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:04.6270 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:15:06.2981 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:06.3180 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:15:09.3496 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:09.3696 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:15:11.0605 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:11.0605 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:15:14.0521 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:14.0821 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:15:15.7630 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:15.7830 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:15:18.7946 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:15:18.7946 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:15:20.5255 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2018-05-18 14:15:20.5555 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:15:20.6155 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-05-18 14:15:20.6356 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:16:20.6605 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-18 14:16:20.6906 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 14:16:20.7348 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-18 14:16:20.7510 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 14:16:38.9645 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-18 14:16:38.9895 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 14:16:39.8841 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-18 14:16:39.9041 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 14:16:47.4542 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-18 14:16:47.4716 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:16:50.5010 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:16:50.5281 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 14:16:51.0972 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:16:51.1323 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 14:17:03.7567 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 14:17:03.7740 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:17:06.8036 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 14:17:06.8216 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-18 14:17:18.1136 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-18 14:17:18.1316 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-18 14:17:32.1106 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-18 14:17:32.1405 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-18 14:17:43.5456 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-18 14:17:43.5717 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 14:21:51.1774 DEBUG ----- Starting -----
+2018-05-18 14:21:58.2692 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-18 14:21:59.0206 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-18 14:21:59.0504 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-18 14:22:01.7160 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-18 14:22:01.7460 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-18 14:22:07.0290 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-18 14:22:07.0691 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-18 14:22:15.9938 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-18 14:22:32.2088 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_22_32\Temperature Log.csv
+2018-05-18 14:22:32.4448 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-18 14:22:32.4748 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-18 14:22:35.5965 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-18 14:22:35.6265 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:22:35.6965 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-18 14:22:35.7265 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:23:35.7533 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 8
+2018-05-18 14:23:35.8032 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:35.8332 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:23:38.8849 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:38.9249 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:23:40.5958 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:40.6358 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:23:43.6376 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:43.6774 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:23:45.3583 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:45.3883 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:23:48.3999 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:48.4299 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:23:50.1110 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:50.1309 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:23:53.1224 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:53.1424 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:23:54.8034 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:54.8333 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:23:57.8551 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:57.8850 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:23:59.5759 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:23:59.5959 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:24:02.6277 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:02.6575 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:24:04.3384 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:04.3584 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:24:07.3600 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:07.3800 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:24:09.0711 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:09.0810 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:24:12.1125 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:12.1526 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:24:13.8335 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:13.8535 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:24:16.8451 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:16.8751 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:24:18.5560 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:18.5860 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:24:21.6376 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:24:21.6576 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:24:23.3386 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-05-18 14:24:23.3685 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:24:33.4039 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-18 14:24:33.4339 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 14:24:33.4639 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-18 14:24:33.4739 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 14:24:51.7737 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-18 14:24:51.7937 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 14:24:52.6843 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-18 14:24:52.7142 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 14:25:00.2882 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-18 14:25:00.3082 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:25:03.3398 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:25:03.3698 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 14:25:03.9401 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:25:03.9702 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 14:25:16.6469 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 14:25:16.7270 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:25:19.7786 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 14:25:19.8086 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-18 14:25:31.1046 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-18 14:25:31.1347 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-18 14:25:45.2121 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-18 14:25:45.2422 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-18 14:25:56.6182 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-18 14:25:56.6482 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 14:26:32.4244 DEBUG ----- Starting -----
+2018-05-18 14:26:39.3239 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-18 14:26:40.0740 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-18 14:26:40.1221 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-18 14:26:42.7890 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-18 14:26:42.8368 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-18 14:26:48.1072 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-18 14:26:48.1552 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-18 14:26:57.0832 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-18 14:30:24.8858 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_30_24\Temperature Log.csv
+2018-05-18 14:30:25.1875 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-18 14:30:25.2275 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-18 14:30:28.3492 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-18 14:30:28.3792 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:30:28.5193 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-18 14:30:28.5293 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:31:28.5513 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 8
+2018-05-18 14:31:28.6013 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:28.6113 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:31:31.6130 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:31.6429 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:31:33.3338 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:33.3738 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:31:36.3956 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:36.4254 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:31:38.0964 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:38.1263 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:31:41.1380 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:41.1679 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:31:42.8488 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:42.8789 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:31:45.8806 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:45.9105 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:31:47.5914 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:47.6214 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:31:50.6231 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:50.6231 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:31:52.3139 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:52.3339 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:31:55.3355 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:55.3555 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:31:57.0164 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:31:57.0364 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:32:00.0280 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:32:00.0580 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:32:01.7089 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:32:01.7289 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:32:04.7507 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:32:04.7805 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:32:06.4614 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:32:06.4914 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:32:09.4931 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:32:09.5231 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:32:11.2140 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:32:11.2340 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 14:32:14.2457 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 14:32:14.2457 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 14:32:15.9465 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-05-18 14:32:15.9565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:32:25.9918 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-18 14:32:26.0218 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 14:32:26.0719 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-18 14:32:26.0819 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 14:32:44.3116 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-18 14:32:44.3416 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 14:32:45.2521 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-18 14:32:45.2621 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 14:32:52.8461 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-18 14:32:52.8761 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:32:55.9078 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:32:55.9378 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 14:32:56.5181 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:32:56.5381 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 14:33:09.1248 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 14:33:09.1248 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:33:12.1665 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 14:33:12.1965 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-18 14:33:23.4425 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-18 14:33:23.4724 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-18 14:33:37.4399 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-18 14:33:37.4599 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-18 14:33:48.8460 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-18 14:33:48.8660 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 14:37:25.2595 DEBUG ----- Starting -----
+2018-05-18 14:37:40.7283 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_37_40\Temperature Log.csv
+2018-05-18 14:37:40.9886 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:37:41.0285 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:37:41.0786 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:37:41.0786 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:38:36.3008 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_38_36\Temperature Log.csv
+2018-05-18 14:38:36.5709 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:38:36.5810 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:38:36.6910 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:38:36.7110 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:38:41.1135 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 14:38:41.1634 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 14:38:46.7564 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_38_46\Temperature Log.csv
+2018-05-18 14:38:47.0265 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:38:47.0565 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:38:47.0966 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:38:47.1066 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:39:50.9797 DEBUG ----- Starting -----
+2018-05-18 14:45:03.7939 DEBUG ----- Starting -----
+2018-05-18 14:51:20.8988 DEBUG ----- Starting -----
+2018-05-18 14:51:36.5287 DEBUG ----- Starting -----
+2018-05-18 14:52:07.1397 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_52_07\Temperature Log.csv
+2018-05-18 14:52:07.3999 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:52:07.4199 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 14:52:16.2996 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 14:52:26.6137 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:52:26.6237 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:52:26.9439 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 14:52:26.9539 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:59:08.8041 DEBUG ----- Starting -----
+2018-05-18 14:59:21.3055 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_14_59_21\Temperature Log.csv
+2018-05-18 14:59:21.5372 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 14:59:21.5472 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 14:59:25.5793 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 14:59:25.5893 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 14:59:25.7494 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 14:59:25.7494 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 14:59:45.7346 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-18 14:59:45.7456 DEBUG Setting the temperature to 85
+2018-05-18 14:59:45.7640 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-18 14:59:45.7956 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 29.383 to temp is 95
+2018-05-18 14:59:45.7956 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 29.383 making settings for the temperature range: From: 0-90 To: 90-110
+2018-05-18 14:59:45.8177 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-18 14:59:45.8439 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 14:59:45.8753 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 14:59:45.9075 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 14:59:45.9397 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 15:00:02.5444 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-18 15:00:02.5444 DEBUG Setting the temperature to 50
+2018-05-18 15:00:02.6069 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-18 15:00:02.7824 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 50
+2018-05-18 15:00:02.7944 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-05-18 15:00:02.7944 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-18 15:00:02.8306 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 15:00:02.8627 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 15:00:02.8938 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 15:00:02.9267 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 15:00:45.2182 DEBUG ----- Starting -----
+2018-05-18 15:01:08.8744 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_01_08\Temperature Log.csv
+2018-05-18 15:01:09.1447 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 15:01:09.1746 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 15:01:56.7456 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:02:02.9876 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:03:05.3823 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 15:03:05.3923 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 15:03:05.6024 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 15:03:05.6124 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 15:03:46.9301 DEBUG ----- Starting -----
+2018-05-18 15:03:56.0411 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_03_56\Temperature Log.csv
+2018-05-18 15:03:56.2712 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 15:03:56.3012 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 15:04:04.4157 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:04:07.1193 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:04:22.6128 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:04:42.3714 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 15:04:42.3714 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 15:04:42.7917 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 15:04:42.8017 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 15:05:18.2224 DEBUG ----- Starting -----
+2018-05-18 15:05:28.1891 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_05_28\Temperature Log.csv
+2018-05-18 15:05:28.4492 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 15:05:28.4492 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 15:05:47.6853 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:06:08.2782 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 15:06:08.2782 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 15:06:08.6684 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 15:06:08.6884 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 15:07:08.6999 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 15:07:08.7398 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 15:07:19.1236 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:07:40.2567 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:08:31.0618 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:08:42.8889 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-18 15:08:42.8889 DEBUG Setting the temperature to 50
+2018-05-18 15:08:42.9221 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-18 15:09:50.8771 DEBUG ----- Starting -----
+2018-05-18 15:10:12.2565 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:10:43.0213 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:13:04.1798 DEBUG ----- Starting -----
+2018-05-18 15:15:39.9536 DEBUG ----- Starting -----
+2018-05-18 15:16:32.3482 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:20:15.9173 DEBUG ----- Starting -----
+2018-05-18 15:22:29.3545 DEBUG ----- Starting -----
+2018-05-18 15:24:07.7445 DEBUG ----- Starting -----
+2018-05-18 15:29:38.4349 DEBUG ----- Starting -----
+2018-05-18 15:30:55.2209 DEBUG ----- Starting -----
+2018-05-18 15:31:31.2339 DEBUG ----- Starting -----
+2018-05-18 15:31:54.9538 DEBUG ----- Starting -----
+2018-05-18 15:32:42.8808 DEBUG ----- Starting -----
+2018-05-18 15:32:49.1673 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:32:52.4870 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:32:53.5876 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:32:54.6082 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:32:55.6187 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:32:56.6393 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:32:57.6498 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:32:58.6603 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:32:59.6709 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:00.6814 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:01.6920 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:02.7125 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:03.7330 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:04.7436 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:05.7541 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:06.7647 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:07.7752 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:08.7857 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:09.7963 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:10.8168 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:11.8474 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:12.8779 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:13.9084 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:14.9490 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:15.9896 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:17.0103 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:18.0307 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:19.0612 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:20.1017 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:21.1323 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:22.1528 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:23.1834 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:24.2239 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:25.2545 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:26.2850 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:27.3256 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:28.3661 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:29.3967 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:30.4173 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:31.4378 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:32.4884 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:33.5089 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:34.5494 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:35.5900 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:36.6305 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:41.6550 DEBUG ----- Starting -----
+2018-05-18 15:33:50.3582 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:33:52.4811 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:33:56.2241 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:57.2547 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:58.2752 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:33:59.2957 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:00.3263 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:01.3669 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:02.3874 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:03.4180 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:04.4585 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:05.4991 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:06.5296 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:07.5602 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:08.6007 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:09.6413 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:10.6718 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:11.7124 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:12.7529 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:13.8035 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:14.8540 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:15.9046 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:16.9552 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:18.0058 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:19.0563 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:20.1069 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:21.1674 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:22.2180 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:23.2686 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:24.3091 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:25.3397 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:26.3902 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:27.4207 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:28.4513 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:29.4819 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:30.5224 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:31.5629 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:32.5935 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:33.6341 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:34.6746 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:35.7052 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:36.7357 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:37.7762 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:38.8168 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:39.8574 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:34:40.6678 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-18 15:34:40.7078 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-18 15:34:53.4433 DEBUG ----- Starting -----
+2018-05-18 15:35:50.0519 DEBUG ----- Starting -----
+2018-05-18 15:36:07.2635 DEBUG ----- Starting -----
+2018-05-18 15:36:33.2452 DEBUG ----- Starting -----
+2018-05-18 15:37:52.5134 DEBUG ----- Starting -----
+2018-05-18 15:37:58.4140 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:37:58.4340 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:38:34.2077 DEBUG ----- Starting -----
+2018-05-18 15:38:40.5076 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:38:40.5247 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:41:29.7865 DEBUG ----- Starting -----
+2018-05-18 15:41:30.1414 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:41:30.3459 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:43:09.9390 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 15:45:07.3508 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_45_07\Temperature Log.csv
+2018-05-18 15:45:07.3708 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:45:07.4308 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:45:11.2309 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_45_11\Temperature Log.csv
+2018-05-18 15:45:11.2309 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:45:11.2738 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:45:12.9447 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_45_12\Temperature Log.csv
+2018-05-18 15:45:12.9547 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:45:13.0047 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:45:16.3465 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_45_16\Temperature Log.csv
+2018-05-18 15:45:16.3565 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:45:16.4065 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:45:19.0179 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_45_19\Temperature Log.csv
+2018-05-18 15:45:19.0581 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:45:19.1280 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:45:51.4983 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_45_51\Temperature Log.csv
+2018-05-18 15:45:51.4983 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:45:51.5884 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:46:45.7580 DEBUG ----- Starting -----
+2018-05-18 15:46:46.0282 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:46:46.0582 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:48:27.8527 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_48_27\Temperature Log.csv
+2018-05-18 15:48:27.8627 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:48:27.9228 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:48:51.9172 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_15_48_51\Temperature Log.csv
+2018-05-18 15:48:51.9372 DEBUG Found the optics port closed, reopening.
+2018-05-18 15:48:52.0072 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 15:49:50.3224 DEBUG ----- Starting -----
+2018-05-18 15:49:50.5941 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:49:50.6322 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:49:58.4933 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-18 15:49:58.5043 DEBUG Setting the temperature to 50
+2018-05-18 15:49:58.5915 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-18 15:49:58.6241 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.078 to temp is 95
+2018-05-18 15:49:58.6241 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.078 making settings for the temperature range: From: 0-90 To: 90-110
+2018-05-18 15:49:58.6431 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-18 15:49:58.6712 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 15:49:58.7029 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 15:49:58.7347 DEBUG TEC; setting the overshootDuration to 1
+2018-05-18 15:49:58.7669 DEBUG TEC; setting the overshootoffset to 1
+2018-05-18 15:55:51.7077 DEBUG ----- Starting -----
+2018-05-18 15:55:52.0564 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:55:52.0764 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:57:42.3176 DEBUG ----- Starting -----
+2018-05-18 15:57:42.6627 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 15:57:42.7027 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 15:59:40.1195 DEBUG ----- Starting -----
+2018-05-18 16:04:21.1032 DEBUG ----- Starting -----
+2018-05-18 16:04:35.3478 DEBUG ----- Starting -----
+2018-05-18 16:04:36.8901 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:04:36.9102 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:05:21.1652 DEBUG ----- Starting -----
+2018-05-18 16:05:21.5703 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:05:21.5974 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:05:40.5807 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:06:26.4602 DEBUG ----- Starting -----
+2018-05-18 16:06:26.7329 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:06:26.7600 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:07:01.1844 DEBUG ----- Starting -----
+2018-05-18 16:07:01.4892 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:07:01.5213 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:09:35.4509 DEBUG ----- Starting -----
+2018-05-18 16:09:35.7197 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:09:35.7998 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:12:10.9903 DEBUG ----- Starting -----
+2018-05-18 16:12:11.3150 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:12:11.3850 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:13:05.2719 DEBUG ----- Starting -----
+2018-05-18 16:13:05.6270 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:13:05.7170 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:13:15.4470 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_13_15\Temperature Log.csv
+2018-05-18 16:13:15.4670 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:13:15.5271 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:13:58.8573 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_13_58\Temperature Log.csv
+2018-05-18 16:13:58.8773 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:13:58.9273 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:16:17.3039 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:16:25.9283 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:16:50.1050 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:16:50.1050 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_16_50\Temperature Log.csv
+2018-05-18 16:16:50.1341 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:16:50.2027 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:17:41.2749 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_17_41\Temperature Log.csv
+2018-05-18 16:17:41.2850 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:17:41.3349 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:18:24.7296 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_18_24\Temperature Log.csv
+2018-05-18 16:18:27.2345 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:18:29.6555 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:18:39.1634 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:18:39.1765 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:18:39.2175 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:19:21.0475 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_19_21\Temperature Log.csv
+2018-05-18 16:19:24.1552 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:19:26.6568 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:19:36.3219 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:19:45.4632 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:19:45.4732 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:19:52.1892 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:20:08.9420 DEBUG ----- Starting -----
+2018-05-18 16:20:09.2175 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:20:09.2775 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:20:18.8693 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_20_18\Temperature Log.csv
+2018-05-18 16:20:41.8523 DEBUG ----- Starting -----
+2018-05-18 16:20:42.2344 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:20:42.2925 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:20:53.7058 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:20:53.7058 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_20_53\Temperature Log.csv
+2018-05-18 16:20:57.9558 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 16:20:57.9658 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:21:00.5157 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 16:21:02.6344 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:21:05.2174 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 16:21:06.9989 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 16:21:06.9989 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:22:07.0189 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 16:22:09.6018 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 16:22:17.2635 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:22:18.0185 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:22:18.0986 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:24:26.2292 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_24_26\Temperature Log.csv
+2018-05-18 16:24:26.2594 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 16:24:26.2692 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 16:24:26.3093 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 16:24:26.3093 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 16:25:26.3478 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 16:25:26.3809 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 16:25:26.9858 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:25:27.0607 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:30:27.2637 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_30_27\Temperature Log.csv
+2018-05-18 16:30:27.2637 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 16:30:27.2837 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 16:30:27.3337 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 16:30:27.3438 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 16:31:27.3615 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 16:31:27.3776 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 16:31:27.6989 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:31:27.7905 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:32:07.3446 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_32_07\Temperature Log.csv
+2018-05-18 16:32:07.3657 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 16:32:07.3789 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 16:32:07.4303 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 16:32:07.4523 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 16:33:07.7880 DEBUG Found the optics port closed, reopening.
+2018-05-18 16:33:07.8679 ERROR RunScript caught an exception; The port is closed.
+2018-05-18 16:44:54.1793 DEBUG ----- Starting -----
+2018-05-18 16:45:05.6468 DEBUG ----- Starting -----
+2018-05-18 16:45:05.9386 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:45:05.9636 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:45:43.6540 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:46:05.3937 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:46:54.4073 DEBUG ----- Starting -----
+2018-05-18 16:46:54.7472 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:46:54.7751 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:47:31.3178 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:47:49.8237 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:48:25.2710 DEBUG ----- Starting -----
+2018-05-18 16:48:25.6094 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:48:25.6494 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:49:21.0855 DEBUG ----- Starting -----
+2018-05-18 16:49:21.4767 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:49:21.5367 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:50:14.7988 DEBUG ----- Starting -----
+2018-05-18 16:50:15.1835 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-05-18 16:50:15.3135 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-18 16:57:59.4839 DEBUG ----- Starting -----
+2018-05-18 16:58:19.3509 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-18 16:58:22.0325 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-18 16:58:27.3452 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-18 16:58:36.1000 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-18 16:59:30.1652 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_18_16_59_30\Temperature Log.csv
+2018-05-18 16:59:30.4455 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-18 16:59:30.4554 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-18 16:59:33.5672 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-18 16:59:33.6071 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-18 16:59:46.3574 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-18 16:59:46.6574 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-18 16:59:46.6674 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 17:00:46.6993 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-05-18 17:00:46.7197 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-18 17:00:46.7445 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 9
+2018-05-18 17:00:46.7575 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:00:46.7708 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:00:49.7541 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:00:49.7672 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:00:51.4259 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:00:51.4526 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:00:54.4505 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:00:54.4809 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:00:56.1521 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:00:56.1777 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:00:59.1778 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:00:59.2089 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:00.8823 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:00.9064 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:01:03.9044 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:03.9244 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:05.5917 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:05.6128 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:01:08.6002 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:08.6101 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:10.2703 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:10.2870 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:01:13.2796 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:13.3065 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:14.9768 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:14.9928 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:01:17.9916 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:18.0217 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:19.6972 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:19.7242 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:01:22.7189 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:22.7419 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:24.4149 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:24.4480 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:01:27.4462 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:27.4753 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:29.1531 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:29.1792 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-18 17:01:32.1734 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-18 17:01:32.1951 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-18 17:01:33.8744 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-18 17:01:33.8914 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 17:01:43.9156 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-18 17:01:43.9367 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 17:02:02.1559 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-18 17:02:02.1850 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 17:02:03.0951 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-18 17:02:03.1132 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 17:02:12.3480 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-18 17:02:12.3696 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 17:02:15.3990 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-18 17:02:15.4351 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-18 17:02:15.9922 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-18 17:02:16.0123 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-18 17:02:28.6486 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-18 17:02:28.6797 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-18 17:02:31.7127 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-18 17:02:31.7377 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-18 17:02:43.0365 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-18 17:02:43.0616 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-18 17:02:57.0456 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-18 17:02:57.0751 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-18 17:03:08.4875 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-18 17:03:08.5146 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-18 17:05:35.9591 DEBUG ----- Starting -----
+2018-05-18 17:05:44.6607 DEBUG ----- Starting -----
+2018-05-18 17:14:21.9658 DEBUG ----- Starting -----

@@ -1,0 +1,31 @@
+2017-08-02 18:54:22.5244 DEBUG ----- Starting -----
+2017-08-02 18:54:23.4844 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:23.5145 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:24.3546 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:24.3945 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:25.2444 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:25.4546 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:27.1945 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:27.6944 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:29.4346 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:30.3846 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:32.1344 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:32.3446 DEBUG TEC; setting the overshootoffset to 0
+2017-08-02 18:54:54.7441 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_08_02_18_54_54\Temperature Log.csv
+2017-08-02 18:54:54.7541 DEBUG Found the optics port closed, reopening.
+2017-08-02 18:54:55.0541 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-08-02 18:54:55.0541 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-08-02 18:54:55.0641 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-08-02 18:54:55.0641 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-08-02 18:54:55.7341 DEBUG gotoTempAndStay: temperature = 98 time = 0 ms
+2017-08-02 18:54:55.7341 DEBUG Setting the temperature to 98
+2017-08-02 18:54:55.7341 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-08-02 18:54:55.9541 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 98
+2017-08-02 18:54:55.9541 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 98.
+2017-08-02 18:54:56.4041 DEBUG Setting the temperature2 to 98
+2017-08-02 18:54:56.4041 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-08-02 18:54:56.4641 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 98
+2017-08-02 18:54:56.4641 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 98.
+2017-08-02 19:14:50.0571 DEBUG ReadCmd, got an exception: The port is closed.
+2017-08-02 19:14:50.0571 DEBUG ReadCmd, got an exception: The port is closed.
+2017-08-02 19:14:50.0671 DEBUG ReadCmd, got an exception: The port is closed.

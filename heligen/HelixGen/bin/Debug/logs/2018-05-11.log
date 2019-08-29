@@ -1,0 +1,15 @@
+2018-05-11 09:02:44.7615 DEBUG ----- Starting -----
+2018-05-11 09:03:04.0213 DEBUG ----- Starting -----
+2018-05-11 09:03:13.8257 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-11 09:07:37.5513 DEBUG ----- Starting -----
+2018-05-11 09:07:40.8762 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-11 09:09:05.2824 DEBUG ----- Starting -----
+2018-05-11 09:09:08.2576 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-11 09:11:29.2584 DEBUG ----- Starting -----
+2018-05-11 09:11:32.1296 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-11 09:19:19.8071 DEBUG ----- Starting -----
+2018-05-11 09:19:43.1925 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-11 14:24:59.1931 DEBUG ----- Starting -----
+2018-05-11 15:33:26.1340 DEBUG ----- Starting -----
+2018-05-11 15:34:49.9467 DEBUG ----- Starting -----
+2018-05-11 15:35:10.9530 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.

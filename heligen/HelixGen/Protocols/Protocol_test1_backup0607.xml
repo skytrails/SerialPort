@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol>
+  <description text="This is a generic protocol." author="Steve Engle" date="3/14/2107" />
+  <steps>
+    <step sliderrn="10114" desc="slide start position"/>
+    
+    <step heater="50" time="10000" />
+    <step heater="85" time="10000"/>
+    <step heater="95" time="10000" desc="heat process"/>
+    <step heater="90" time="10000"/>
+    <step heater="30" time="2000"/>
+    
+    <step r1rn="69300" desc="r1 step"/>
+    <step r2rn="27209" desc="r2 step"/><!--add 2500 to 25209-->
+    <!--<step r1rn="10700" desc="r1 step"/>-->
+    <cycle repetitions="32">
+      <steps>
+        <step r1rn="734" desc="r1 step"/><!--400 to 734-->
+        <step time="500"/>
+        <!--<step r2rn="1252" desc="r2 step"/> -->
+        <step r2rn="793" desc="r2 step"/>
+        <step time="500"/>
+      </steps>
+    </cycle>
+
+    <step r2rnn="47379" desc="r2 to origin"/>
+    <step r1rnn="106372" desc="r1 to origin"/>
+    
+    <step time="10000" desc="mix process"/>
+    <step heaterprn="83612" desc="heat piston to pcr"/><!--83612 to 81612 to 79612-->
+    <step sliderrnn="6156" desc="slider half position"/>
+    <step chasis="2" desc="chasis position"/>
+    <step time="3000" desc="pcr process"/>
+    <step sliderrnn="4000" desc="slider end position"/><!--4456-->
+    <step heaterprn="30020" desc="heat piston to top"/>
+    <step time="6000" desc="wait to move chip"/>
+    <!--
+    <step r2rnn="47379" desc="r2 to origin"/>
+    <step r1rnn="106372" desc="r1 to origin"/>
+    <step heaterprnn="111558" desc="heat piston to origin"/>
+    <step chasis="1" desc="chasis to origin"/>-->
+   </steps>
+</protocol>

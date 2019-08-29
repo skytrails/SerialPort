@@ -1,0 +1,75 @@
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\HelixGen.exe.config
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\NLog.config
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\HelixGen.exe
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\HelixGen.pdb
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\NLog.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\Parser.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\Stateless.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\NLog.xml
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\Stateless.xml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\controls\ledControl.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\MainWindow.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\Pages\MainPage.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\Pages\OpticsControlPage.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\Pages\StartupPage.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\App.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen_Content.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen_MarkupCompile.cache
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen_MarkupCompile.lref
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\controls\ledControl.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\MainWindow.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\Pages\MainPage.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\Pages\OpticsControlPage.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\Pages\StartupPage.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen.g.resources
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen.Properties.Resources.resources
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen.csproj.GenerateResource.Cache
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen.exe
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen.pdb
+Q:\Team Folders\Steve Engle\HelixGen\obj\Debug\HelixGen.csprojResolveAssemblyReference.cache
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\DynamicDataDisplay.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\DynamicDataDisplay.xml
+Q:\Team Folders\Steve Engle\HelixGen\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\HelixGen\bin\Debug\NLog.config
+C:\HelixGen\bin\Debug\HelixGen.exe.config
+C:\HelixGen\bin\Debug\HelixGen.exe
+C:\HelixGen\bin\Debug\HelixGen.pdb
+C:\HelixGen\bin\Debug\NLog.dll
+C:\HelixGen\bin\Debug\Parser.dll
+C:\HelixGen\bin\Debug\Stateless.dll
+C:\HelixGen\bin\Debug\NLog.xml
+C:\HelixGen\bin\Debug\Stateless.xml
+C:\HelixGen\obj\Debug\HelixGen.csprojAssemblyReference.cache
+C:\HelixGen\obj\Debug\controls\ledControl.g.cs
+C:\HelixGen\obj\Debug\MainWindow.g.cs
+C:\HelixGen\obj\Debug\Pages\IDInput.g.cs
+C:\HelixGen\obj\Debug\Pages\loginPage.g.cs
+C:\HelixGen\obj\Debug\Pages\MainPage.g.cs
+C:\HelixGen\obj\Debug\Pages\OpticsControlPage.g.cs
+C:\HelixGen\obj\Debug\Pages\Page1.g.cs
+C:\HelixGen\obj\Debug\Pages\page2.g.cs
+C:\HelixGen\obj\Debug\Pages\setUp.g.cs
+C:\HelixGen\obj\Debug\Pages\StartupPage.g.cs
+C:\HelixGen\obj\Debug\App.g.cs
+C:\HelixGen\obj\Debug\HelixGen_Content.g.cs
+C:\HelixGen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HelixGen\obj\Debug\HelixGen_MarkupCompile.cache
+C:\HelixGen\obj\Debug\HelixGen_MarkupCompile.lref
+C:\HelixGen\obj\Debug\controls\ledControl.baml
+C:\HelixGen\obj\Debug\MainWindow.baml
+C:\HelixGen\obj\Debug\Pages\IDInput.baml
+C:\HelixGen\obj\Debug\Pages\loginPage.baml
+C:\HelixGen\obj\Debug\Pages\MainPage.baml
+C:\HelixGen\obj\Debug\Pages\OpticsControlPage.baml
+C:\HelixGen\obj\Debug\Pages\Page1.baml
+C:\HelixGen\obj\Debug\Pages\page2.baml
+C:\HelixGen\obj\Debug\Pages\setUp.baml
+C:\HelixGen\obj\Debug\Pages\StartupPage.baml
+C:\HelixGen\obj\Debug\HelixGen.g.resources
+C:\HelixGen\obj\Debug\HelixGen.Properties.Resources.resources
+C:\HelixGen\obj\Debug\HelixGen.csproj.GenerateResource.cache
+C:\HelixGen\obj\Debug\HelixGen.csproj.CoreCompileInputs.cache
+C:\HelixGen\obj\Debug\HelixGen.csproj.CopyComplete
+C:\HelixGen\obj\Debug\HelixGen.exe
+C:\HelixGen\obj\Debug\HelixGen.pdb

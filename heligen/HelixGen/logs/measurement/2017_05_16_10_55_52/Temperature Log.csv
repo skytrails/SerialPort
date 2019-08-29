@@ -1,0 +1,6 @@
+Protocol file: C:\HelixGen\Protocols\Protocol_pcr - Copy.xml
+Run date.time: 5/16/2017 10:55:52 AM
+Time, Elapsed Seconds, SPREP Thermal Setpoint, SPREP Thermal C, PCR TEC Setpoint, PCR TEC C, PCR TEC PWR, PRC TEC Amps, PRC TEC CNTL BITS
+"2017-05-16 10:55:55.079",0,0,27.319,50,49.042,9.5,0.441
+"2017-05-16 10:55:56.400",1.3213682,0,27.31,50,49.035,9.6,0.458
+"2017-05-16 10:55:57.422",2.3433317,0,27.307,50,49.038,10.1,0.441

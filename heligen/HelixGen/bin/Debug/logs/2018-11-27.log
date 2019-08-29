@@ -1,0 +1,1457 @@
+2018-11-27 08:36:35.2581 DEBUG ----- Starting -----
+2018-11-27 08:49:44.1222 DEBUG ----- Starting -----
+2018-11-27 08:50:32.3293 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-11-27 08:50:32.3632 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-11-27 08:50:32.3891 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-11-27 09:57:04.7882 DEBUG ----- Starting -----
+2018-11-27 09:57:18.7010 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_27_09_57_18\Temperature Log.csv
+2018-11-27 09:57:18.7190 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 47
+2018-11-27 09:57:18.7190 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-27 09:57:18.7300 DEBUG Executing the action: HelixGen.Model.overTempAction
+2018-11-27 09:57:18.7300 DEBUG gotoTempAndStay: temperature = 40 time = 0 ms
+2018-11-27 09:57:19.0561 DEBUG Setting the temperature to 40
+2018-11-27 09:57:19.1997 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2018-11-27 09:57:19.2476 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 27.758 to temp is 95
+2018-11-27 09:57:19.2606 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 27.758 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 09:57:19.2606 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 09:57:19.2795 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 09:57:19.2955 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 09:57:19.3114 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 09:57:19.3274 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 09:57:20.1262 DEBUG Setting the temperature to 40
+2018-11-27 09:57:20.1901 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2018-11-27 09:57:20.3347 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is -2.688 to temp is 95
+2018-11-27 09:57:20.3387 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for -2.688 to 95.
+2018-11-27 09:57:24.6591 DEBUG gotoTempAndStay: at temperature = 40, sleeping ...
+2018-11-27 09:57:24.6591 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-27 09:57:28.6724 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-27 09:57:28.6724 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-11-27 09:57:28.6724 DEBUG gotoTempAndStay: temperature = 61.5 time = 0 ms
+2018-11-27 09:57:28.6834 DEBUG Setting the temperature to 61.5
+2018-11-27 09:57:28.7382 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 61.5
+2018-11-27 09:57:28.8021 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 40 to temp is 95
+2018-11-27 09:57:28.8080 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 40 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 09:57:28.8080 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 09:57:28.9616 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 09:57:29.1052 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 09:57:29.1222 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 09:57:29.1381 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 09:57:29.7286 DEBUG Setting the temperature to 61.5
+2018-11-27 09:57:29.8243 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 61.5
+2018-11-27 09:57:29.9679 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 40 to temp is 95
+2018-11-27 09:57:29.9679 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 40 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 09:57:29.9679 DEBUG SetChannelSettings; Channel: 3 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 09:57:30.0317 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 09:57:30.1445 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 09:57:30.1604 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 09:57:30.1764 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 09:57:35.7216 DEBUG At temperature.
+2018-11-27 09:57:35.7455 DEBUG gotoTempAndStay: at temperature = 61.5, sleeping ...
+2018-11-27 09:57:35.7455 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-27 09:57:45.7638 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-11-27 09:57:47.0094 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 09:57:48.1294 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 09:57:49.2494 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 09:57:50.3714 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 09:57:51.5003 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 09:57:52.6213 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 09:57:53.7423 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:16.9875 DEBUG ----- Starting -----
+2018-11-27 10:02:33.7190 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_27_10_02_33\Temperature Log.csv
+2018-11-27 10:02:33.7280 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-11-27 10:02:33.7280 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-11-27 10:02:33.7280 DEBUG Setting the temperature to 45
+2018-11-27 10:02:33.7689 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 10:02:33.9025 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30.792 to temp is 95
+2018-11-27 10:02:33.9025 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 30.792 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 10:02:33.9992 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 10:02:34.1688 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 10:02:34.3124 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 10:02:34.3762 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 10:02:34.5358 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 10:02:35.3666 DEBUG Setting the temperature to 45
+2018-11-27 10:02:35.4304 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 10:02:35.4464 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 28.275 to temp is 95
+2018-11-27 10:02:35.4494 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 28.275 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 10:02:35.4494 DEBUG SetChannelSettings; Channel: 3 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 10:02:35.5102 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 10:02:35.5740 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 10:02:35.6069 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 10:02:35.6229 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 10:02:40.0731 DEBUG At temperature.
+2018-11-27 10:02:40.0731 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-11-27 10:02:40.1129 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 10:02:40.1927 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 10:02:40.2396 DEBUG Setting the temperature to 85
+2018-11-27 10:02:40.3044 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 10:02:40.3682 DEBUG Setting the temperature to 85
+2018-11-27 10:02:40.4321 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 10:02:40.5767 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_11_27_10_02_33\Melt Curve logging.csv
+2018-11-27 10:02:40.7514 DEBUG In meltcurve, curTemp = 44.3370018005371
+2018-11-27 10:02:40.7672 DEBUG In meltcurve, curTemp = 44.3370018005371
+2018-11-27 10:02:41.9959 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:42.0936 DEBUG In meltcurve, curTemp = 44.2599983215332
+2018-11-27 10:02:43.1119 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:43.1797 DEBUG In meltcurve, curTemp = 44.4169998168945
+2018-11-27 10:02:44.1990 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:44.2668 DEBUG In meltcurve, curTemp = 44.5369987487793
+2018-11-27 10:02:45.2871 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:45.3370 DEBUG In meltcurve, curTemp = 44.6469993591309
+2018-11-27 10:02:46.3552 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:46.4071 DEBUG In meltcurve, curTemp = 44.7309989929199
+2018-11-27 10:02:47.4253 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:47.4463 DEBUG In meltcurve, curTemp = 44.7410011291504
+2018-11-27 10:02:48.4666 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:48.5164 DEBUG In meltcurve, curTemp = 44.8450012207031
+2018-11-27 10:02:49.5666 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:49.6195 DEBUG In meltcurve, curTemp = 44.9790000915527
+2018-11-27 10:02:50.6398 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:50.6577 DEBUG In meltcurve, curTemp = 45.1759986877441
+2018-11-27 10:02:51.6770 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:51.6959 DEBUG In meltcurve, curTemp = 45.3720016479492
+2018-11-27 10:02:52.7152 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:52.8788 DEBUG In meltcurve, curTemp = 45.5499992370605
+2018-11-27 10:02:53.8980 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:53.9210 DEBUG In meltcurve, curTemp = 45.6940002441406
+2018-11-27 10:02:54.9412 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:55.0031 DEBUG In meltcurve, curTemp = 45.8129997253418
+2018-11-27 10:02:56.0463 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:56.1061 DEBUG In meltcurve, curTemp = 45.9179992675781
+2018-11-27 10:02:57.1234 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:57.3528 DEBUG In meltcurve, curTemp = 46.0750007629395
+2018-11-27 10:02:58.3910 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:58.5187 DEBUG In meltcurve, curTemp = 46.2490005493164
+2018-11-27 10:02:59.5459 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:02:59.5729 DEBUG In meltcurve, curTemp = 46.3030014038086
+2018-11-27 10:03:00.5931 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:00.6121 DEBUG In meltcurve, curTemp = 46.4230003356934
+2018-11-27 10:03:01.6314 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:01.7780 DEBUG In meltcurve, curTemp = 46.5540008544922
+2018-11-27 10:03:02.7982 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:02.8491 DEBUG In meltcurve, curTemp = 46.7120018005371
+2018-11-27 10:03:03.8674 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:03.8873 DEBUG In meltcurve, curTemp = 46.9249992370605
+2018-11-27 10:03:04.9056 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:04.9575 DEBUG In meltcurve, curTemp = 47.1139984130859
+2018-11-27 10:03:05.9787 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:06.1244 DEBUG In meltcurve, curTemp = 47.2680015563965
+2018-11-27 10:03:07.1416 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:07.2583 DEBUG In meltcurve, curTemp = 47.4469985961914
+2018-11-27 10:03:08.3743 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:08.4252 DEBUG In meltcurve, curTemp = 47.5999984741211
+2018-11-27 10:03:09.4415 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:09.4634 DEBUG In meltcurve, curTemp = 47.7529983520508
+2018-11-27 10:03:10.4817 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:10.5655 DEBUG In meltcurve, curTemp = 47.8639984130859
+2018-11-27 10:03:11.5857 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:11.6047 DEBUG In meltcurve, curTemp = 47.8959999084473
+2018-11-27 10:03:12.6260 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:12.6430 DEBUG In meltcurve, curTemp = 47.9869995117188
+2018-11-27 10:03:13.6612 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:13.8088 DEBUG In meltcurve, curTemp = 48.1020011901855
+2018-11-27 10:03:14.8291 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:14.8959 DEBUG In meltcurve, curTemp = 48.2350006103516
+2018-11-27 10:03:15.9142 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:15.9341 DEBUG In meltcurve, curTemp = 48.3849983215332
+2018-11-27 10:03:16.9604 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:17.0212 DEBUG In meltcurve, curTemp = 48.5989990234375
+2018-11-27 10:03:18.0993 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:18.2190 DEBUG In meltcurve, curTemp = 48.7589988708496
+2018-11-27 10:03:19.2383 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:19.3061 DEBUG In meltcurve, curTemp = 48.9589996337891
+2018-11-27 10:03:20.3254 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:20.4879 DEBUG In meltcurve, curTemp = 49.109001159668
+2018-11-27 10:03:21.5611 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:21.5750 DEBUG In meltcurve, curTemp = 49.2949981689453
+2018-11-27 10:03:22.6063 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:22.6611 DEBUG In meltcurve, curTemp = 49.4650001525879
+2018-11-27 10:03:23.6844 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:23.6993 DEBUG In meltcurve, curTemp = 49.5960006713867
+2018-11-27 10:03:24.7276 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:24.7545 DEBUG In meltcurve, curTemp = 49.7120018005371
+2018-11-27 10:03:25.7728 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:25.9054 DEBUG In meltcurve, curTemp = 49.8120002746582
+2018-11-27 10:03:26.9975 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:27.1681 DEBUG In meltcurve, curTemp = 50.0390014648438
+2018-11-27 10:03:28.1854 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:28.2063 DEBUG In meltcurve, curTemp = 50.0610008239746
+2018-11-27 10:03:29.2246 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:29.2774 DEBUG In meltcurve, curTemp = 50.1520004272461
+2018-11-27 10:03:30.3376 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:30.4433 DEBUG In meltcurve, curTemp = 50.3050003051758
+2018-11-27 10:03:31.4636 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:31.4825 DEBUG In meltcurve, curTemp = 50.3839988708496
+2018-11-27 10:03:32.5088 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:32.5686 DEBUG In meltcurve, curTemp = 50.5250015258789
+2018-11-27 10:03:33.6019 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:33.6228 DEBUG In meltcurve, curTemp = 50.7190017700195
+2018-11-27 10:03:34.6421 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:34.6620 DEBUG In meltcurve, curTemp = 50.9020004272461
+2018-11-27 10:03:35.6803 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:35.7003 DEBUG In meltcurve, curTemp = 51.117000579834
+2018-11-27 10:03:36.7265 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:36.7545 DEBUG In meltcurve, curTemp = 51.2849998474121
+2018-11-27 10:03:37.7747 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:37.8246 DEBUG In meltcurve, curTemp = 51.3800010681152
+2018-11-27 10:03:38.8429 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:38.9117 DEBUG In meltcurve, curTemp = 51.4809989929199
+2018-11-27 10:03:39.9319 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:39.9659 DEBUG In meltcurve, curTemp = 51.5740013122559
+2018-11-27 10:03:40.9831 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:41.0360 DEBUG In meltcurve, curTemp = 51.6209983825684
+2018-11-27 10:03:42.0553 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:42.2029 DEBUG In meltcurve, curTemp = 51.7849998474121
+2018-11-27 10:03:43.2221 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:43.2411 DEBUG In meltcurve, curTemp = 51.9119987487793
+2018-11-27 10:03:44.2604 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:44.3112 DEBUG In meltcurve, curTemp = 52.0849990844727
+2018-11-27 10:03:45.3295 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:45.3824 DEBUG In meltcurve, curTemp = 52.273998260498
+2018-11-27 10:03:46.4026 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:46.4206 DEBUG In meltcurve, curTemp = 52.515998840332
+2018-11-27 10:03:47.4618 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:47.5396 DEBUG In meltcurve, curTemp = 52.6809997558594
+2018-11-27 10:03:48.5679 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:48.7214 DEBUG In meltcurve, curTemp = 52.814998626709
+2018-11-27 10:03:49.7816 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:49.9831 DEBUG In meltcurve, curTemp = 52.9199981689453
+2018-11-27 10:03:51.0013 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:51.0223 DEBUG In meltcurve, curTemp = 53.1080017089844
+2018-11-27 10:03:52.0715 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:52.1403 DEBUG In meltcurve, curTemp = 53.2449989318848
+2018-11-27 10:03:53.1626 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:53.2274 DEBUG In meltcurve, curTemp = 53.3699989318848
+2018-11-27 10:03:54.2467 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:54.2658 DEBUG In meltcurve, curTemp = 53.484001159668
+2018-11-27 10:03:55.2849 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:55.3517 DEBUG In meltcurve, curTemp = 53.5110015869141
+2018-11-27 10:03:56.3720 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:56.3900 DEBUG In meltcurve, curTemp = 53.6240005493164
+2018-11-27 10:03:57.4082 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:57.4611 DEBUG In meltcurve, curTemp = 53.7299995422363
+2018-11-27 10:03:58.4793 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:58.5003 DEBUG In meltcurve, curTemp = 53.9000015258789
+2018-11-27 10:03:59.5275 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:03:59.5694 DEBUG In meltcurve, curTemp = 54.1450004577637
+2018-11-27 10:04:00.6126 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:00.6406 DEBUG In meltcurve, curTemp = 54.3460006713867
+2018-11-27 10:04:01.6598 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:01.6789 DEBUG In meltcurve, curTemp = 54.5330009460449
+2018-11-27 10:04:02.6991 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:02.7170 DEBUG In meltcurve, curTemp = 54.6959991455078
+2018-11-27 10:04:03.7373 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:03.7882 DEBUG In meltcurve, curTemp = 54.8089981079102
+2018-11-27 10:04:04.8064 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:04.8583 DEBUG In meltcurve, curTemp = 54.810001373291
+2018-11-27 10:04:05.8935 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:05.9135 DEBUG In meltcurve, curTemp = 54.8880004882813
+2018-11-27 10:04:06.9846 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:07.1113 DEBUG In meltcurve, curTemp = 55.0429992675781
+2018-11-27 10:04:08.1296 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:08.2453 DEBUG In meltcurve, curTemp = 55.1380004882813
+2018-11-27 10:04:09.2655 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:09.3483 DEBUG In meltcurve, curTemp = 55.2470016479492
+2018-11-27 10:04:10.3676 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:10.4504 DEBUG In meltcurve, curTemp = 55.3810005187988
+2018-11-27 10:04:11.4866 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:11.5534 DEBUG In meltcurve, curTemp = 55.5439987182617
+2018-11-27 10:04:12.5936 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:12.7193 DEBUG In meltcurve, curTemp = 55.6980018615723
+2018-11-27 10:04:13.7395 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:13.8383 DEBUG In meltcurve, curTemp = 55.8930015563965
+2018-11-27 10:04:14.8576 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:14.9084 DEBUG In meltcurve, curTemp = 56.1030006408691
+2018-11-27 10:04:15.9287 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:15.9477 DEBUG In meltcurve, curTemp = 56.367000579834
+2018-11-27 10:04:16.9669 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:17.0178 DEBUG In meltcurve, curTemp = 56.5439987182617
+2018-11-27 10:04:18.0361 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:18.0560 DEBUG In meltcurve, curTemp = 56.6749992370605
+2018-11-27 10:04:19.0972 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:19.1271 DEBUG In meltcurve, curTemp = 56.7779998779297
+2018-11-27 10:04:20.1464 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:20.2931 DEBUG In meltcurve, curTemp = 56.9550018310547
+2018-11-27 10:04:21.3123 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:21.3322 DEBUG In meltcurve, curTemp = 56.9379997253418
+2018-11-27 10:04:22.3495 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:22.4343 DEBUG In meltcurve, curTemp = 57.0130004882813
+2018-11-27 10:04:23.4526 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:23.5045 DEBUG In meltcurve, curTemp = 57.1049995422363
+2018-11-27 10:04:24.5237 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:24.6713 DEBUG In meltcurve, curTemp = 57.2290000915527
+2018-11-27 10:04:25.6936 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:25.7105 DEBUG In meltcurve, curTemp = 57.3800010681152
+2018-11-27 10:04:26.7288 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:26.7488 DEBUG In meltcurve, curTemp = 57.6129989624023
+2018-11-27 10:04:27.7680 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:27.8828 DEBUG In meltcurve, curTemp = 57.814998626709
+2018-11-27 10:04:28.9030 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:28.9209 DEBUG In meltcurve, curTemp = 58.0089988708496
+2018-11-27 10:04:29.9592 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:30.1197 DEBUG In meltcurve, curTemp = 58.1570014953613
+2018-11-27 10:04:31.1440 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:31.2058 DEBUG In meltcurve, curTemp = 58.3479995727539
+2018-11-27 10:04:32.2251 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:32.3568 DEBUG In meltcurve, curTemp = 58.5180015563965
+2018-11-27 10:04:33.3920 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:33.5396 DEBUG In meltcurve, curTemp = 58.6980018615723
+2018-11-27 10:04:34.5579 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:34.6417 DEBUG In meltcurve, curTemp = 58.8370018005371
+2018-11-27 10:04:35.6749 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:35.6968 DEBUG In meltcurve, curTemp = 58.8489990234375
+2018-11-27 10:04:36.7161 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:36.7829 DEBUG In meltcurve, curTemp = 58.9160003662109
+2018-11-27 10:04:37.8012 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:37.9329 DEBUG In meltcurve, curTemp = 59.0900001525879
+2018-11-27 10:04:38.9611 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:39.0189 DEBUG In meltcurve, curTemp = 59.1669998168945
+2018-11-27 10:04:40.0372 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:40.0582 DEBUG In meltcurve, curTemp = 59.2229995727539
+2018-11-27 10:04:41.0884 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:41.1443 DEBUG In meltcurve, curTemp = 59.3810005187988
+2018-11-27 10:04:42.1615 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:42.2942 DEBUG In meltcurve, curTemp = 59.5699996948242
+2018-11-27 10:04:43.3125 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:43.3335 DEBUG In meltcurve, curTemp = 59.7719993591309
+2018-11-27 10:04:44.3527 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:44.3717 DEBUG In meltcurve, curTemp = 60.0289993286133
+2018-11-27 10:04:45.3909 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:45.4099 DEBUG In meltcurve, curTemp = 60.1870002746582
+2018-11-27 10:04:46.4271 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:46.5289 DEBUG In meltcurve, curTemp = 60.3359985351563
+2018-11-27 10:04:47.5471 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:47.5990 DEBUG In meltcurve, curTemp = 60.3520011901855
+2018-11-27 10:04:48.6462 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:48.7021 DEBUG In meltcurve, curTemp = 60.4220008850098
+2018-11-27 10:04:49.7363 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:49.7563 DEBUG In meltcurve, curTemp = 60.5069999694824
+2018-11-27 10:04:50.7745 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:50.7945 DEBUG In meltcurve, curTemp = 60.5859985351563
+2018-11-27 10:04:51.8147 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:51.8337 DEBUG In meltcurve, curTemp = 60.757999420166
+2018-11-27 10:04:52.8540 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:52.9996 DEBUG In meltcurve, curTemp = 60.9599990844727
+2018-11-27 10:04:54.0188 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:54.0378 DEBUG In meltcurve, curTemp = 61.1800003051758
+2018-11-27 10:04:55.0581 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:55.2047 DEBUG In meltcurve, curTemp = 61.4080009460449
+2018-11-27 10:04:56.2249 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:56.3068 DEBUG In meltcurve, curTemp = 61.6199989318848
+2018-11-27 10:04:57.3410 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:57.3619 DEBUG In meltcurve, curTemp = 61.8089981079102
+2018-11-27 10:04:58.4111 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:58.5118 DEBUG In meltcurve, curTemp = 61.9570007324219
+2018-11-27 10:04:59.5301 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:04:59.6787 DEBUG In meltcurve, curTemp = 62.0960006713867
+2018-11-27 10:05:00.7060 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:00.7329 DEBUG In meltcurve, curTemp = 62.1290016174316
+2018-11-27 10:05:01.7512 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:01.7711 DEBUG In meltcurve, curTemp = 62.1800003051758
+2018-11-27 10:05:02.8053 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:02.8263 DEBUG In meltcurve, curTemp = 62.1590003967285
+2018-11-27 10:05:03.8456 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:03.8645 DEBUG In meltcurve, curTemp = 62.2700004577637
+2018-11-27 10:05:04.8838 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:04.9825 DEBUG In meltcurve, curTemp = 62.4259986877441
+2018-11-27 10:05:06.0038 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:06.0537 DEBUG In meltcurve, curTemp = 62.6230010986328
+2018-11-27 10:05:07.0769 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:07.1238 DEBUG In meltcurve, curTemp = 62.923999786377
+2018-11-27 10:05:08.1710 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:08.4024 DEBUG In meltcurve, curTemp = 63.0060005187988
+2018-11-27 10:05:09.4406 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:09.5045 DEBUG In meltcurve, curTemp = 63.2430000305176
+2018-11-27 10:05:10.5227 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:10.5427 DEBUG In meltcurve, curTemp = 63.4720001220703
+2018-11-27 10:05:11.5829 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:11.6457 DEBUG In meltcurve, curTemp = 63.6749992370605
+2018-11-27 10:05:12.6630 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:12.7966 DEBUG In meltcurve, curTemp = 63.8419990539551
+2018-11-27 10:05:13.8199 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:13.8827 DEBUG In meltcurve, curTemp = 63.9620018005371
+2018-11-27 10:05:14.9090 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:14.9369 DEBUG In meltcurve, curTemp = 63.9249992370605
+2018-11-27 10:05:15.9572 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:16.0240 DEBUG In meltcurve, curTemp = 63.9659996032715
+2018-11-27 10:05:17.0433 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:17.0941 DEBUG In meltcurve, curTemp = 64.0289993286133
+2018-11-27 10:05:18.1134 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:18.1483 DEBUG In meltcurve, curTemp = 64.1350021362305
+2018-11-27 10:05:19.1666 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:19.2194 DEBUG In meltcurve, curTemp = 64.3300018310547
+2018-11-27 10:05:20.2397 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:20.3694 DEBUG In meltcurve, curTemp = 64.4779968261719
+2018-11-27 10:05:21.4006 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:21.4236 DEBUG In meltcurve, curTemp = 64.7829971313477
+2018-11-27 10:05:22.4408 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:22.5266 DEBUG In meltcurve, curTemp = 64.9940032958984
+2018-11-27 10:05:23.5459 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:23.6925 DEBUG In meltcurve, curTemp = 65.1419982910156
+2018-11-27 10:05:24.7118 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:24.7317 DEBUG In meltcurve, curTemp = 65.3050003051758
+2018-11-27 10:05:25.7570 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:25.8976 DEBUG In meltcurve, curTemp = 65.4779968261719
+2018-11-27 10:05:26.9179 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:26.9677 DEBUG In meltcurve, curTemp = 65.5950012207031
+2018-11-27 10:05:27.9870 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:28.0070 DEBUG In meltcurve, curTemp = 65.5510025024414
+2018-11-27 10:05:29.0263 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:29.0771 DEBUG In meltcurve, curTemp = 65.6129989624023
+2018-11-27 10:05:30.1273 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:30.3078 DEBUG In meltcurve, curTemp = 65.7850036621094
+2018-11-27 10:05:31.3470 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:31.4258 DEBUG In meltcurve, curTemp = 65.8690032958984
+2018-11-27 10:05:32.4441 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:32.4650 DEBUG In meltcurve, curTemp = 65.9860000610352
+2018-11-27 10:05:33.4843 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:33.5980 DEBUG In meltcurve, curTemp = 66.161003112793
+2018-11-27 10:05:34.6442 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:34.6693 DEBUG In meltcurve, curTemp = 66.3759994506836
+2018-11-27 10:05:35.6874 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:35.7393 DEBUG In meltcurve, curTemp = 66.6920013427734
+2018-11-27 10:05:36.7595 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:36.7775 DEBUG In meltcurve, curTemp = 66.8919982910156
+2018-11-27 10:05:37.7968 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:37.8167 DEBUG In meltcurve, curTemp = 67.015998840332
+2018-11-27 10:05:38.8530 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:38.8709 DEBUG In meltcurve, curTemp = 67.0759963989258
+2018-11-27 10:05:39.9201 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:39.9730 DEBUG In meltcurve, curTemp = 67.109001159668
+2018-11-27 10:05:41.0571 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:41.1079 DEBUG In meltcurve, curTemp = 67.1500015258789
+2018-11-27 10:05:42.1272 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:42.2898 DEBUG In meltcurve, curTemp = 67.302001953125
+2018-11-27 10:05:43.3130 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:43.3928 DEBUG In meltcurve, curTemp = 67.3899993896484
+2018-11-27 10:05:44.4121 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:44.4951 DEBUG In meltcurve, curTemp = 67.5270004272461
+2018-11-27 10:05:45.5141 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:45.5660 DEBUG In meltcurve, curTemp = 67.7669982910156
+2018-11-27 10:05:46.5853 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:46.6362 DEBUG In meltcurve, curTemp = 68.0189971923828
+2018-11-27 10:05:47.6534 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:47.6904 DEBUG In meltcurve, curTemp = 68.2730026245117
+2018-11-27 10:05:48.7246 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:48.8572 DEBUG In meltcurve, curTemp = 68.4960021972656
+2018-11-27 10:05:49.8874 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:49.9433 DEBUG In meltcurve, curTemp = 68.6669998168945
+2018-11-27 10:05:50.9616 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:50.9816 DEBUG In meltcurve, curTemp = 68.6800003051758
+2018-11-27 10:05:52.0008 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:52.0527 DEBUG In meltcurve, curTemp = 68.7009963989258
+2018-11-27 10:05:53.0709 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:53.1228 DEBUG In meltcurve, curTemp = 68.7289962768555
+2018-11-27 10:05:54.1431 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:54.1939 DEBUG In meltcurve, curTemp = 68.7969970703125
+2018-11-27 10:05:55.2122 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:55.3119 DEBUG In meltcurve, curTemp = 68.9189987182617
+2018-11-27 10:05:56.3801 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:56.5107 DEBUG In meltcurve, curTemp = 69.0690002441406
+2018-11-27 10:05:57.5280 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:57.5809 DEBUG In meltcurve, curTemp = 69.322998046875
+2018-11-27 10:05:58.6031 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:58.6670 DEBUG In meltcurve, curTemp = 69.5719985961914
+2018-11-27 10:05:59.6882 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:05:59.7062 DEBUG In meltcurve, curTemp = 69.8010025024414
+2018-11-27 10:06:00.7245 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:00.7923 DEBUG In meltcurve, curTemp = 70.0080032348633
+2018-11-27 10:06:01.8116 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:01.8625 DEBUG In meltcurve, curTemp = 70.0930023193359
+2018-11-27 10:06:02.8807 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:02.9016 DEBUG In meltcurve, curTemp = 70.1529998779297
+2018-11-27 10:06:03.9199 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:03.9400 DEBUG In meltcurve, curTemp = 70.088996887207
+2018-11-27 10:06:04.9601 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:05.0738 DEBUG In meltcurve, curTemp = 70.181999206543
+2018-11-27 10:06:06.1021 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:06.1609 DEBUG In meltcurve, curTemp = 70.3339996337891
+2018-11-27 10:06:07.1792 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:07.2311 DEBUG In meltcurve, curTemp = 70.5390014648438
+2018-11-27 10:06:08.2513 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:08.3182 DEBUG In meltcurve, curTemp = 70.786003112793
+2018-11-27 10:06:09.5010 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:09.5967 DEBUG In meltcurve, curTemp = 70.9390029907227
+2018-11-27 10:06:10.6140 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:10.6669 DEBUG In meltcurve, curTemp = 71.1900024414063
+2018-11-27 10:06:11.6852 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:11.7370 DEBUG In meltcurve, curTemp = 71.4179992675781
+2018-11-27 10:06:12.7543 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:12.7752 DEBUG In meltcurve, curTemp = 71.5800018310547
+2018-11-27 10:06:13.7935 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:13.8464 DEBUG In meltcurve, curTemp = 71.6380004882813
+2018-11-27 10:06:14.8647 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:14.8846 DEBUG In meltcurve, curTemp = 71.5380020141602
+2018-11-27 10:06:15.9049 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:16.0026 DEBUG In meltcurve, curTemp = 71.5910034179688
+2018-11-27 10:06:17.0209 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:17.0738 DEBUG In meltcurve, curTemp = 71.7099990844727
+2018-11-27 10:06:18.0910 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:18.1439 DEBUG In meltcurve, curTemp = 71.9039993286133
+2018-11-27 10:06:19.1632 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:19.2140 DEBUG In meltcurve, curTemp = 72.1529998779297
+2018-11-27 10:06:20.2333 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:20.3490 DEBUG In meltcurve, curTemp = 72.4160003662109
+2018-11-27 10:06:21.3882 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:21.5149 DEBUG In meltcurve, curTemp = 72.5940017700195
+2018-11-27 10:06:22.5371 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:22.6020 DEBUG In meltcurve, curTemp = 72.8880004882813
+2018-11-27 10:06:23.6422 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:23.7040 DEBUG In meltcurve, curTemp = 73.0410003662109
+2018-11-27 10:06:24.7243 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:24.7752 DEBUG In meltcurve, curTemp = 73.1169967651367
+2018-11-27 10:06:25.7924 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:25.8135 DEBUG In meltcurve, curTemp = 72.9980010986328
+2018-11-27 10:06:26.9603 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:27.0272 DEBUG In meltcurve, curTemp = 73.2789993286133
+2018-11-27 10:06:28.0434 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:28.1621 DEBUG In meltcurve, curTemp = 73.2880020141602
+2018-11-27 10:06:29.1804 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:29.2512 DEBUG In meltcurve, curTemp = 73.3290023803711
+2018-11-27 10:06:30.2984 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:30.3672 DEBUG In meltcurve, curTemp = 73.4440002441406
+2018-11-27 10:06:31.3855 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:31.5331 DEBUG In meltcurve, curTemp = 73.5960006713867
+2018-11-27 10:06:32.5524 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:32.5713 DEBUG In meltcurve, curTemp = 73.8659973144531
+2018-11-27 10:06:33.5916 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:33.6584 DEBUG In meltcurve, curTemp = 74.1289978027344
+2018-11-27 10:06:34.6757 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:34.7445 DEBUG In meltcurve, curTemp = 74.3710021972656
+2018-11-27 10:06:35.7648 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:35.7837 DEBUG In meltcurve, curTemp = 74.5230026245117
+2018-11-27 10:06:36.9077 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:36.9336 DEBUG In meltcurve, curTemp = 74.5800018310547
+2018-11-27 10:06:37.9519 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:38.0038 DEBUG In meltcurve, curTemp = 74.5989990234375
+2018-11-27 10:06:39.0241 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:39.0430 DEBUG In meltcurve, curTemp = 74.6350021362305
+2018-11-27 10:06:40.0613 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:40.1610 DEBUG In meltcurve, curTemp = 74.7170028686523
+2018-11-27 10:06:41.1823 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:41.2002 DEBUG In meltcurve, curTemp = 74.9089965820313
+2018-11-27 10:06:42.2255 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:42.2863 DEBUG In meltcurve, curTemp = 75.1760025024414
+2018-11-27 10:06:43.3265 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 10:06:46.5719 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >ST00; iteration: 0; error code: 0
+2018-11-27 10:19:17.5504 DEBUG ----- Starting -----
+2018-11-27 10:19:21.1688 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 10:19:56.6723 DEBUG ----- Starting -----
+2018-11-27 10:20:03.1829 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 10:20:22.8481 DEBUG ----- Starting -----
+2018-11-27 10:20:28.9807 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 10:20:36.2414 DEBUG ----- Starting -----
+2018-11-27 10:20:53.2020 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 10:21:03.4372 DEBUG ----- Starting -----
+2018-11-27 10:21:36.7245 DEBUG ----- Starting -----
+2018-11-27 10:21:43.1703 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 10:21:56.4603 DEBUG ----- Starting -----
+2018-11-27 10:24:34.0290 DEBUG ----- Starting -----
+2018-11-27 10:27:36.8874 DEBUG ----- Starting -----
+2018-11-27 10:28:20.8082 DEBUG ----- Starting -----
+2018-11-27 10:29:00.9985 DEBUG ----- Starting -----
+2018-11-27 10:30:20.5886 DEBUG ----- Starting -----
+2018-11-27 10:35:12.5724 DEBUG ----- Starting -----
+2018-11-27 10:39:38.7670 DEBUG ----- Starting -----
+2018-11-27 10:41:12.3214 DEBUG ----- Starting -----
+2018-11-27 10:41:31.3156 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-27 10:41:49.1592 DEBUG ----- Starting -----
+2018-11-27 10:42:36.9158 DEBUG ----- Starting -----
+2018-11-27 10:50:17.7013 DEBUG ----- Starting -----
+2018-11-27 10:50:28.9273 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03N3R; iteration: 0; error code: 0
+2018-11-27 10:50:36.9638 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /04N3R; iteration: 0; error code: 0
+2018-11-27 10:50:44.3031 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /04P22709R; iteration: 0; error code: 31
+2018-11-27 10:50:51.8320 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03o0R; iteration: 0; error code: 31
+2018-11-27 10:51:06.7371 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /02k1R; iteration: 0; error code: 31
+2018-11-27 10:51:20.5850 DEBUG ----- Starting -----
+2018-11-27 10:51:37.5547 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03k1R; iteration: 0; error code: 31
+2018-11-27 10:52:35.5420 DEBUG ----- Starting -----
+2018-11-27 10:52:51.3886 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03k1R; iteration: 0; error code: 2
+2018-11-27 10:52:58.9165 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /04N3R; iteration: 0; error code: 2
+2018-11-27 10:53:04.3958 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /04P22709R; iteration: 0; error code: 31
+2018-11-27 10:53:07.5544 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03o0R; iteration: 0; error code: 31
+2018-11-27 10:53:59.8954 DEBUG ----- Starting -----
+2018-11-27 10:54:24.1486 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03N3R; iteration: 0; error code: 0
+2018-11-27 10:55:20.2109 DEBUG ----- Starting -----
+2018-11-27 10:55:43.3917 DEBUG ----- Starting -----
+2018-11-27 10:55:53.9945 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03N3R; iteration: 0; error code: 0
+2018-11-27 10:56:00.7422 DEBUG ----- Starting -----
+2018-11-27 10:56:24.7201 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: /03k1R; iteration: 0; error code: 31
+2018-11-27 11:09:12.1134 DEBUG ----- Starting -----
+2018-11-27 11:09:39.9373 DEBUG ----- Starting -----
+2018-11-27 11:10:50.9402 DEBUG ----- Starting -----
+2018-11-27 11:11:48.8728 DEBUG ----- Starting -----
+2018-11-27 11:13:02.9639 DEBUG ----- Starting -----
+2018-11-27 11:17:06.7801 DEBUG ----- Starting -----
+2018-11-27 11:18:03.4464 DEBUG ----- Starting -----
+2018-11-27 11:18:52.1870 DEBUG ----- Starting -----
+2018-11-27 11:19:16.1118 DEBUG ----- Starting -----
+2018-11-27 11:19:41.0774 DEBUG ----- Starting -----
+2018-11-27 11:20:08.2059 DEBUG ----- Starting -----
+2018-11-27 11:20:34.9500 DEBUG ----- Starting -----
+2018-11-27 11:20:59.4604 DEBUG ----- Starting -----
+2018-11-27 11:21:28.6103 DEBUG ----- Starting -----
+2018-11-27 11:22:18.7578 DEBUG ----- Starting -----
+2018-11-27 11:23:06.8252 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-27 11:24:08.3546 DEBUG ----- Starting -----
+2018-11-27 11:24:29.9918 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-27 11:25:01.5741 DEBUG ----- Starting -----
+2018-11-27 11:26:06.7478 DEBUG ----- Starting -----
+2018-11-27 11:27:00.4666 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-27 11:29:39.7018 DEBUG ----- Starting -----
+2018-11-27 11:29:51.7671 DEBUG ----- Starting -----
+2018-11-27 11:30:06.2015 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2018-11-27 11:30:06.4888 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-27 11:30:06.5247 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-27 11:30:30.8640 DEBUG ----- Starting -----
+2018-11-27 11:35:40.4287 DEBUG ----- Starting -----
+2018-11-27 11:42:20.0611 DEBUG ----- Starting -----
+2018-11-27 11:54:46.4081 DEBUG ----- Starting -----
+2018-11-27 11:57:21.6562 DEBUG ----- Starting -----
+2018-11-27 11:57:38.2827 DEBUG ----- Starting -----
+2018-11-27 11:57:45.8325 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 14:12:04.7247 DEBUG ----- Starting -----
+2018-11-27 14:12:08.8068 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 14:12:43.8242 DEBUG ----- Starting -----
+2018-11-27 14:12:47.8315 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 14:13:03.9712 DEBUG ----- Starting -----
+2018-11-27 14:13:10.9605 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 15:58:16.0012 DEBUG ----- Starting -----
+2018-11-27 15:59:23.8578 DEBUG ----- Starting -----
+2018-11-27 15:59:59.9274 DEBUG ----- Starting -----
+2018-11-27 16:00:16.4034 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_27_16_00_16\Temperature Log.csv
+2018-11-27 16:00:16.4034 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-11-27 16:00:16.4194 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-11-27 16:00:16.4194 DEBUG Setting the temperature to 45
+2018-11-27 16:00:16.5839 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:00:16.7914 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.748 to temp is 95
+2018-11-27 16:00:16.8133 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.748 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:00:16.8133 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:00:16.8712 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:00:17.0148 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:00:17.0786 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:00:17.1265 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:00:17.7179 DEBUG Setting the temperature to 45
+2018-11-27 16:00:17.8456 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:00:17.9094 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.745 to temp is 95
+2018-11-27 16:00:17.9094 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.745 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:00:17.9383 DEBUG SetChannelSettings; Channel: 3 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:00:18.0052 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:00:18.1647 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:00:18.2136 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:00:18.2295 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:00:23.4448 DEBUG At temperature.
+2018-11-27 16:00:23.4536 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-11-27 16:00:23.4855 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:00:23.5653 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:00:23.6291 DEBUG Setting the temperature to 85
+2018-11-27 16:00:23.7248 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:00:23.8535 DEBUG Setting the temperature to 85
+2018-11-27 16:00:23.9173 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:00:24.0619 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_11_27_16_00_16\Melt Curve logging.csv
+2018-11-27 16:00:24.1727 DEBUG In meltcurve, curTemp = 44.0379981994629
+2018-11-27 16:00:24.2365 DEBUG In meltcurve, curTemp = 43.9339981079102
+2018-11-27 16:00:25.2956 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:25.4024 DEBUG In meltcurve, curTemp = 43.9609985351563
+2018-11-27 16:00:26.4206 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:26.4416 DEBUG In meltcurve, curTemp = 43.9710006713867
+2018-11-27 16:00:27.4748 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:27.5277 DEBUG In meltcurve, curTemp = 43.9570007324219
+2018-11-27 16:00:28.6058 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:28.6307 DEBUG In meltcurve, curTemp = 43.9650001525879
+2018-11-27 16:00:29.6490 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:29.7807 DEBUG In meltcurve, curTemp = 44.023998260498
+2018-11-27 16:00:30.8000 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:30.9146 DEBUG In meltcurve, curTemp = 44.1730003356934
+2018-11-27 16:00:31.9758 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:32.0496 DEBUG In meltcurve, curTemp = 44.310001373291
+2018-11-27 16:00:33.0898 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:33.1516 DEBUG In meltcurve, curTemp = 44.4799995422363
+2018-11-27 16:00:34.1699 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:34.2218 DEBUG In meltcurve, curTemp = 44.685001373291
+2018-11-27 16:00:35.2411 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:35.3408 DEBUG In meltcurve, curTemp = 44.8969993591309
+2018-11-27 16:00:36.3571 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:36.4748 DEBUG In meltcurve, curTemp = 45.1040000915527
+2018-11-27 16:00:37.4940 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:37.6097 DEBUG In meltcurve, curTemp = 45.2680015563965
+2018-11-27 16:00:38.6310 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:38.6479 DEBUG In meltcurve, curTemp = 45.4179992675781
+2018-11-27 16:00:39.6672 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:39.7500 DEBUG In meltcurve, curTemp = 45.5200004577637
+2018-11-27 16:00:40.7832 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:40.8999 DEBUG In meltcurve, curTemp = 45.5979995727539
+2018-11-27 16:00:41.9172 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:41.9392 DEBUG In meltcurve, curTemp = 45.6749992370605
+2018-11-27 16:00:42.9804 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:43.1050 DEBUG In meltcurve, curTemp = 45.8209991455078
+2018-11-27 16:00:44.1881 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:44.2879 DEBUG In meltcurve, curTemp = 45.9230003356934
+2018-11-27 16:00:45.3051 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:45.3261 DEBUG In meltcurve, curTemp = 46.0499992370605
+2018-11-27 16:00:46.4042 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:46.5079 DEBUG In meltcurve, curTemp = 46.2039985656738
+2018-11-27 16:00:47.5332 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:47.5471 DEBUG In meltcurve, curTemp = 46.3839988708496
+2018-11-27 16:00:48.5844 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:48.6013 DEBUG In meltcurve, curTemp = 46.609001159668
+2018-11-27 16:00:49.6186 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:49.7353 DEBUG In meltcurve, curTemp = 46.7799987792969
+2018-11-27 16:00:50.7556 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:50.8862 DEBUG In meltcurve, curTemp = 46.9790000915527
+2018-11-27 16:00:51.9175 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:51.9404 DEBUG In meltcurve, curTemp = 47.1559982299805
+2018-11-27 16:00:52.9627 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:53.0265 DEBUG In meltcurve, curTemp = 47.3040008544922
+2018-11-27 16:00:54.0438 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:54.1455 DEBUG In meltcurve, curTemp = 47.423999786377
+2018-11-27 16:00:55.1807 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:55.2955 DEBUG In meltcurve, curTemp = 47.5250015258789
+2018-11-27 16:00:56.3137 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:56.4623 DEBUG In meltcurve, curTemp = 47.6959991455078
+2018-11-27 16:00:57.4846 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:57.5484 DEBUG In meltcurve, curTemp = 47.7840003967285
+2018-11-27 16:00:58.5687 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:58.5866 DEBUG In meltcurve, curTemp = 47.8120002746582
+2018-11-27 16:00:59.6039 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:00:59.7535 DEBUG In meltcurve, curTemp = 47.9749984741211
+2018-11-27 16:01:00.7967 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:00.8516 DEBUG In meltcurve, curTemp = 48.0859985351563
+2018-11-27 16:01:01.9048 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:02.0214 DEBUG In meltcurve, curTemp = 48.226001739502
+2018-11-27 16:01:03.0407 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:03.1245 DEBUG In meltcurve, curTemp = 48.3759994506836
+2018-11-27 16:01:04.1418 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:04.2106 DEBUG In meltcurve, curTemp = 48.5559997558594
+2018-11-27 16:01:05.2289 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:05.2817 DEBUG In meltcurve, curTemp = 48.7410011291504
+2018-11-27 16:01:06.2990 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:06.3678 DEBUG In meltcurve, curTemp = 48.9259986877441
+2018-11-27 16:01:07.3931 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:07.5337 DEBUG In meltcurve, curTemp = 49.0709991455078
+2018-11-27 16:01:08.5580 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:08.5720 DEBUG In meltcurve, curTemp = 49.2809982299805
+2018-11-27 16:01:09.5912 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:09.6431 DEBUG In meltcurve, curTemp = 49.4480018615723
+2018-11-27 16:01:10.6623 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:10.7182 DEBUG In meltcurve, curTemp = 49.5330009460449
+2018-11-27 16:01:11.7624 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:11.8472 DEBUG In meltcurve, curTemp = 49.7190017700195
+2018-11-27 16:01:12.8714 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:12.9343 DEBUG In meltcurve, curTemp = 49.8160018920898
+2018-11-27 16:01:13.9535 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:13.9725 DEBUG In meltcurve, curTemp = 49.8300018310547
+2018-11-27 16:01:14.9911 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:15.0912 DEBUG In meltcurve, curTemp = 49.9389991760254
+2018-11-27 16:01:16.1105 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:16.1295 DEBUG In meltcurve, curTemp = 50.0709991455078
+2018-11-27 16:01:17.1497 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:17.2316 DEBUG In meltcurve, curTemp = 50.2449989318848
+2018-11-27 16:01:18.2508 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:18.2857 DEBUG In meltcurve, curTemp = 50.4379997253418
+2018-11-27 16:01:19.3239 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:19.3568 DEBUG In meltcurve, curTemp = 50.6310005187988
+2018-11-27 16:01:20.3771 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:20.4589 DEBUG In meltcurve, curTemp = 50.818000793457
+2018-11-27 16:01:21.4782 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:21.6577 DEBUG In meltcurve, curTemp = 50.9529991149902
+2018-11-27 16:01:22.6760 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:22.7279 DEBUG In meltcurve, curTemp = 51.1380004882813
+2018-11-27 16:01:23.7481 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:23.7661 DEBUG In meltcurve, curTemp = 51.2690010070801
+2018-11-27 16:01:24.7844 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:24.8372 DEBUG In meltcurve, curTemp = 51.3160018920898
+2018-11-27 16:01:25.9083 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:25.9233 DEBUG In meltcurve, curTemp = 51.4029998779297
+2018-11-27 16:01:26.9525 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:27.0094 DEBUG In meltcurve, curTemp = 51.4879989624023
+2018-11-27 16:01:28.0277 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:28.0805 DEBUG In meltcurve, curTemp = 51.5970001220703
+2018-11-27 16:01:29.1008 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:29.2464 DEBUG In meltcurve, curTemp = 51.7249984741211
+2018-11-27 16:01:30.2657 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:30.2847 DEBUG In meltcurve, curTemp = 51.882999420166
+2018-11-27 16:01:31.3029 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:31.4834 DEBUG In meltcurve, curTemp = 52.0390014648438
+2018-11-27 16:01:32.5346 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:32.6653 DEBUG In meltcurve, curTemp = 52.1959991455078
+2018-11-27 16:01:33.6865 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:33.7523 DEBUG In meltcurve, curTemp = 52.3849983215332
+2018-11-27 16:01:34.7726 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:34.7906 DEBUG In meltcurve, curTemp = 52.5820007324219
+2018-11-27 16:01:35.8108 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:35.9405 DEBUG In meltcurve, curTemp = 52.7849998474121
+2018-11-27 16:01:36.9767 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:37.0266 DEBUG In meltcurve, curTemp = 52.9830017089844
+2018-11-27 16:01:38.0459 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:38.0818 DEBUG In meltcurve, curTemp = 53.1730003356934
+2018-11-27 16:01:39.0991 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:39.2506 DEBUG In meltcurve, curTemp = 53.3289985656738
+2018-11-27 16:01:40.2679 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:40.4146 DEBUG In meltcurve, curTemp = 53.4650001525879
+2018-11-27 16:01:41.4358 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:41.5964 DEBUG In meltcurve, curTemp = 53.601001739502
+2018-11-27 16:01:42.7543 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:42.8271 DEBUG In meltcurve, curTemp = 53.7430000305176
+2018-11-27 16:01:43.8424 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:43.8653 DEBUG In meltcurve, curTemp = 53.8639984130859
+2018-11-27 16:01:44.8836 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:44.9354 DEBUG In meltcurve, curTemp = 53.9650001525879
+2018-11-27 16:01:45.9547 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:45.9737 DEBUG In meltcurve, curTemp = 54.0460014343262
+2018-11-27 16:01:46.9929 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:47.1246 DEBUG In meltcurve, curTemp = 54.1360015869141
+2018-11-27 16:01:48.1419 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:48.2266 DEBUG In meltcurve, curTemp = 54.2369995117188
+2018-11-27 16:01:49.2449 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:49.3297 DEBUG In meltcurve, curTemp = 54.3489990234375
+2018-11-27 16:01:50.3859 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:50.4487 DEBUG In meltcurve, curTemp = 54.4799995422363
+2018-11-27 16:01:51.4670 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:51.4859 DEBUG In meltcurve, curTemp = 54.6360015869141
+2018-11-27 16:01:52.5062 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:52.6049 DEBUG In meltcurve, curTemp = 54.810001373291
+2018-11-27 16:01:53.6242 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:53.6432 DEBUG In meltcurve, curTemp = 55.0730018615723
+2018-11-27 16:01:54.6644 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:54.8100 DEBUG In meltcurve, curTemp = 55.2109985351563
+2018-11-27 16:01:55.8303 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:55.8483 DEBUG In meltcurve, curTemp = 55.4790000915527
+2018-11-27 16:01:56.8675 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:56.9184 DEBUG In meltcurve, curTemp = 55.6529998779297
+2018-11-27 16:01:57.9407 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:58.0045 DEBUG In meltcurve, curTemp = 55.7910003662109
+2018-11-27 16:01:59.0258 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:01:59.1875 DEBUG In meltcurve, curTemp = 55.9300003051758
+2018-11-27 16:01:59.9323 DEBUG opticReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-11-27 16:02:00.0321 DEBUG In meltcurve, curTemp = 0
+2018-11-27 16:02:00.0510 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:02:00.1508 DEBUG In meltcurve, curTemp = 0
+2018-11-27 16:03:46.9813 DEBUG ----- Starting -----
+2018-11-27 16:04:00.8244 DEBUG ----- Starting -----
+2018-11-27 16:04:17.4539 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_27_16_04_17\Temperature Log.csv
+2018-11-27 16:04:17.4629 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-11-27 16:04:17.4629 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-11-27 16:04:17.4629 DEBUG Setting the temperature to 45
+2018-11-27 16:04:17.5048 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:04:17.7132 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 32.742 to temp is 95
+2018-11-27 16:04:17.7132 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 32.742 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:04:17.7132 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:04:17.7761 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:04:17.9047 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:04:18.0643 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:04:18.0962 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:04:18.8467 DEBUG Setting the temperature to 45
+2018-11-27 16:04:18.8626 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:04:18.8786 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 32.589 to temp is 95
+2018-11-27 16:04:18.8786 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 32.589 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:04:18.8866 DEBUG SetChannelSettings; Channel: 3 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:04:18.9105 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:04:18.9265 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:04:18.9425 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:04:18.9584 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:04:23.3267 DEBUG At temperature.
+2018-11-27 16:04:23.3267 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-11-27 16:04:23.4005 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:04:23.7037 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:04:23.8633 DEBUG Setting the temperature to 85
+2018-11-27 16:04:24.0229 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:04:24.0398 DEBUG Setting the temperature to 85
+2018-11-27 16:04:24.0548 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:04:24.0717 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_11_27_16_04_17\Melt Curve logging.csv
+2018-11-27 16:04:24.1675 DEBUG In meltcurve, curTemp = 44.3639984130859
+2018-11-27 16:04:24.3430 DEBUG In meltcurve, curTemp = 44.3790016174316
+2018-11-27 16:04:25.3752 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:25.4931 DEBUG In meltcurve, curTemp = 44.2890014648438
+2018-11-27 16:04:26.5132 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:26.5800 DEBUG In meltcurve, curTemp = 44.117000579834
+2018-11-27 16:04:27.5993 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:27.6183 DEBUG In meltcurve, curTemp = 44.1209983825684
+2018-11-27 16:04:28.6385 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:28.6564 DEBUG In meltcurve, curTemp = 44.2080001831055
+2018-11-27 16:04:29.6827 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:29.8383 DEBUG In meltcurve, curTemp = 44.3419990539551
+2018-11-27 16:04:30.8725 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:30.9404 DEBUG In meltcurve, curTemp = 44.4949989318848
+2018-11-27 16:04:31.9596 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:31.9796 DEBUG In meltcurve, curTemp = 44.6990013122559
+2018-11-27 16:04:33.0168 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:33.0816 DEBUG In meltcurve, curTemp = 44.8860015869141
+2018-11-27 16:04:34.1019 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:34.2804 DEBUG In meltcurve, curTemp = 45.0480003356934
+2018-11-27 16:04:35.2997 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:35.5103 DEBUG In meltcurve, curTemp = 45.1870002746582
+2018-11-27 16:04:36.5294 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:36.5484 DEBUG In meltcurve, curTemp = 45.3619995117188
+2018-11-27 16:04:37.5686 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:37.6195 DEBUG In meltcurve, curTemp = 45.5009994506836
+2018-11-27 16:04:38.6378 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:38.6577 DEBUG In meltcurve, curTemp = 45.5660018920898
+2018-11-27 16:04:39.6770 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:39.7278 DEBUG In meltcurve, curTemp = 45.6689987182617
+2018-11-27 16:04:40.7481 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:40.7671 DEBUG In meltcurve, curTemp = 45.7480010986328
+2018-11-27 16:04:41.7853 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:41.8053 DEBUG In meltcurve, curTemp = 45.9080009460449
+2018-11-27 16:04:42.8236 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:42.8754 DEBUG In meltcurve, curTemp = 46.0900001525879
+2018-11-27 16:04:43.8927 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:43.9137 DEBUG In meltcurve, curTemp = 46.273998260498
+2018-11-27 16:04:44.9339 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:44.9998 DEBUG In meltcurve, curTemp = 46.4539985656738
+2018-11-27 16:04:46.0210 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:46.1507 DEBUG In meltcurve, curTemp = 46.5960006713867
+2018-11-27 16:04:47.1670 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:47.2846 DEBUG In meltcurve, curTemp = 46.7239990234375
+2018-11-27 16:04:48.3039 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:48.3548 DEBUG In meltcurve, curTemp = 46.8380012512207
+2018-11-27 16:04:49.3711 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:49.4409 DEBUG In meltcurve, curTemp = 46.9440002441406
+2018-11-27 16:04:50.4681 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:50.6397 DEBUG In meltcurve, curTemp = 47.1150016784668
+2018-11-27 16:04:51.6589 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:51.7577 DEBUG In meltcurve, curTemp = 47.2299995422363
+2018-11-27 16:04:52.7989 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:52.8448 DEBUG In meltcurve, curTemp = 47.3450012207031
+2018-11-27 16:04:53.9179 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:53.9469 DEBUG In meltcurve, curTemp = 47.4599990844727
+2018-11-27 16:04:54.9661 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:55.0818 DEBUG In meltcurve, curTemp = 47.5890007019043
+2018-11-27 16:04:56.0991 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:56.2477 DEBUG In meltcurve, curTemp = 47.742000579834
+2018-11-27 16:04:57.2650 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:57.3338 DEBUG In meltcurve, curTemp = 47.890998840332
+2018-11-27 16:04:58.3491 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:58.4518 DEBUG In meltcurve, curTemp = 48.0550003051758
+2018-11-27 16:04:59.4701 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:04:59.6188 DEBUG In meltcurve, curTemp = 48.2379989624023
+2018-11-27 16:05:00.6369 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:05:00.7207 DEBUG In meltcurve, curTemp = 48.4230003356934
+2018-11-27 16:05:01.7400 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:05:01.7589 DEBUG In meltcurve, curTemp = 48.6069984436035
+2018-11-27 16:05:02.7942 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:05:02.8141 DEBUG In meltcurve, curTemp = 48.7750015258789
+2018-11-27 16:05:03.8314 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:05:03.8843 DEBUG In meltcurve, curTemp = 48.8969993591309
+2018-11-27 16:05:04.9025 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:05:04.9227 DEBUG In meltcurve, curTemp = 48.9370002746582
+2018-11-27 16:05:05.9418 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:05:05.9607 DEBUG In meltcurve, curTemp = 49.0309982299805
+2018-11-27 16:05:06.9810 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:05:07.0797 DEBUG In meltcurve, curTemp = 49.1360015869141
+2018-11-27 16:20:46.8119 DEBUG ----- Starting -----
+2018-11-27 16:21:01.4323 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_27_16_21_01\Temperature Log.csv
+2018-11-27 16:21:01.4512 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-11-27 16:21:01.4512 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-11-27 16:21:01.4642 DEBUG Setting the temperature to 45
+2018-11-27 16:21:01.4941 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:21:01.6886 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 27.697 to temp is 95
+2018-11-27 16:21:01.6886 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 27.697 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:21:01.6886 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:21:01.7504 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:21:01.8781 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:21:02.0377 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:21:02.1813 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:21:02.6929 DEBUG Setting the temperature to 45
+2018-11-27 16:21:02.7568 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:21:02.8844 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 27.537 to temp is 95
+2018-11-27 16:21:02.8844 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 27.537 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:21:02.8844 DEBUG SetChannelSettings; Channel: 3 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:21:03.0440 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:21:03.2035 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:21:03.2514 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:21:03.2843 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:21:08.7469 DEBUG At temperature.
+2018-11-27 16:21:08.7469 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-11-27 16:21:08.7956 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:21:08.8754 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:21:09.0509 DEBUG Setting the temperature to 85
+2018-11-27 16:21:09.1147 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:21:09.2594 DEBUG Setting the temperature to 85
+2018-11-27 16:21:09.3222 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:21:09.3870 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_11_27_16_21_01\Melt Curve logging.csv
+2018-11-27 16:21:09.4498 DEBUG In meltcurve, curTemp = 44.3530006408691
+2018-11-27 16:21:09.4668 DEBUG In meltcurve, curTemp = 44.3320007324219
+2018-11-27 16:21:10.4990 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:10.5529 DEBUG In meltcurve, curTemp = 44.2130012512207
+2018-11-27 16:21:11.5732 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:11.6390 DEBUG In meltcurve, curTemp = 44.0229988098145
+2018-11-27 16:21:12.6583 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:12.7091 DEBUG In meltcurve, curTemp = 44.0149993896484
+2018-11-27 16:21:13.7543 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:13.8601 DEBUG In meltcurve, curTemp = 44.0979995727539
+2018-11-27 16:21:14.8793 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:14.9302 DEBUG In meltcurve, curTemp = 44.2200012207031
+2018-11-27 16:21:15.9495 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:16.0163 DEBUG In meltcurve, curTemp = 44.3660011291504
+2018-11-27 16:21:17.0346 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:17.0864 DEBUG In meltcurve, curTemp = 44.5410003662109
+2018-11-27 16:21:18.1057 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:18.1576 DEBUG In meltcurve, curTemp = 44.7249984741211
+2018-11-27 16:21:19.1798 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:19.2437 DEBUG In meltcurve, curTemp = 44.8889999389648
+2018-11-27 16:21:20.2629 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:20.3138 DEBUG In meltcurve, curTemp = 45.0200004577637
+2018-11-27 16:21:21.3321 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:21.4478 DEBUG In meltcurve, curTemp = 45.1360015869141
+2018-11-27 16:21:22.4660 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:22.4860 DEBUG In meltcurve, curTemp = 45.2470016479492
+2018-11-27 16:21:23.5043 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:23.5571 DEBUG In meltcurve, curTemp = 45.3289985656738
+2018-11-27 16:21:24.5744 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:24.5954 DEBUG In meltcurve, curTemp = 45.4720001220703
+2018-11-27 16:21:25.6136 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:25.7293 DEBUG In meltcurve, curTemp = 45.6380004882813
+2018-11-27 16:21:26.7725 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:26.8962 DEBUG In meltcurve, curTemp = 45.7789993286133
+2018-11-27 16:21:27.9344 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:27.9664 DEBUG In meltcurve, curTemp = 46.007999420166
+2018-11-27 16:21:28.9856 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:29.0843 DEBUG In meltcurve, curTemp = 46.2000007629395
+2018-11-27 16:21:30.1196 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:30.1714 DEBUG In meltcurve, curTemp = 46.3689994812012
+2018-11-27 16:21:31.1897 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:31.2735 DEBUG In meltcurve, curTemp = 46.5089988708496
+2018-11-27 16:21:32.2928 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:32.3117 DEBUG In meltcurve, curTemp = 46.6199989318848
+2018-11-27 16:21:33.3300 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:33.4467 DEBUG In meltcurve, curTemp = 46.7249984741211
+2018-11-27 16:21:34.4650 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:34.4839 DEBUG In meltcurve, curTemp = 46.7620010375977
+2018-11-27 16:21:35.5012 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:35.5551 DEBUG In meltcurve, curTemp = 46.8680000305176
+2018-11-27 16:21:36.5723 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:36.5933 DEBUG In meltcurve, curTemp = 47.0019989013672
+2018-11-27 16:21:37.6125 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:37.7432 DEBUG In meltcurve, curTemp = 47.1629981994629
+2018-11-27 16:21:38.7964 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:38.8941 DEBUG In meltcurve, curTemp = 47.3390007019043
+2018-11-27 16:21:39.9134 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:39.9643 DEBUG In meltcurve, curTemp = 47.5289993286133
+2018-11-27 16:21:40.9825 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:41.1142 DEBUG In meltcurve, curTemp = 47.673999786377
+2018-11-27 16:21:42.1344 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:42.1843 DEBUG In meltcurve, curTemp = 47.9119987487793
+2018-11-27 16:21:43.2026 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:43.3193 DEBUG In meltcurve, curTemp = 48.0579986572266
+2018-11-27 16:21:44.3396 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:44.3894 DEBUG In meltcurve, curTemp = 48.2630004882813
+2018-11-27 16:21:45.4077 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:45.5553 DEBUG In meltcurve, curTemp = 48.4179992675781
+2018-11-27 16:21:46.5756 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:46.5945 DEBUG In meltcurve, curTemp = 48.5400009155273
+2018-11-27 16:21:47.6138 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:47.6966 DEBUG In meltcurve, curTemp = 48.640998840332
+2018-11-27 16:21:48.7149 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:48.8305 DEBUG In meltcurve, curTemp = 48.7949981689453
+2018-11-27 16:21:49.8488 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:49.8688 DEBUG In meltcurve, curTemp = 48.8079986572266
+2018-11-27 16:21:50.8970 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:51.0516 DEBUG In meltcurve, curTemp = 48.9669990539551
+2018-11-27 16:21:52.0709 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:52.2334 DEBUG In meltcurve, curTemp = 49.1279983520508
+2018-11-27 16:21:53.2537 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:53.2717 DEBUG In meltcurve, curTemp = 49.1699981689453
+2018-11-27 16:21:54.2929 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:54.3428 DEBUG In meltcurve, curTemp = 49.2919998168945
+2018-11-27 16:21:55.3611 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:55.4289 DEBUG In meltcurve, curTemp = 49.4440002441406
+2018-11-27 16:21:56.4512 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:56.4671 DEBUG In meltcurve, curTemp = 49.6580009460449
+2018-11-27 16:21:57.4844 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:57.6340 DEBUG In meltcurve, curTemp = 49.8110008239746
+2018-11-27 16:21:58.6533 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:58.6722 DEBUG In meltcurve, curTemp = 50.0639991760254
+2018-11-27 16:21:59.7144 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:21:59.8381 DEBUG In meltcurve, curTemp = 50.2089996337891
+2018-11-27 16:22:00.8574 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:00.9082 DEBUG In meltcurve, curTemp = 50.4189987182617
+2018-11-27 16:22:01.9275 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:02.0273 DEBUG In meltcurve, curTemp = 50.5719985961914
+2018-11-27 16:22:03.0465 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:03.0974 DEBUG In meltcurve, curTemp = 50.6990013122559
+2018-11-27 16:22:04.1167 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:04.2314 DEBUG In meltcurve, curTemp = 50.8660011291504
+2018-11-27 16:22:05.2656 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:05.2865 DEBUG In meltcurve, curTemp = 50.9020004272461
+2018-11-27 16:22:06.3058 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:06.3567 DEBUG In meltcurve, curTemp = 50.9860000610352
+2018-11-27 16:22:07.3760 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:07.3949 DEBUG In meltcurve, curTemp = 51.0149993896484
+2018-11-27 16:22:08.4152 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:08.4331 DEBUG In meltcurve, curTemp = 51.1389999389648
+2018-11-27 16:22:09.5063 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:09.6160 DEBUG In meltcurve, curTemp = 51.2849998474121
+2018-11-27 16:22:10.6342 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:22:10.6542 DEBUG In meltcurve, curTemp = 51.451000213623
+2018-11-27 16:23:39.2941 DEBUG ----- Starting -----
+2018-11-27 16:23:55.1889 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_27_16_23_55\Temperature Log.csv
+2018-11-27 16:23:55.2029 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-11-27 16:23:55.2029 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-11-27 16:23:55.2148 DEBUG Setting the temperature to 45
+2018-11-27 16:23:55.2448 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:23:55.5330 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 32.457 to temp is 95
+2018-11-27 16:23:55.5330 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 32.457 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:23:55.5330 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:23:55.7085 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:23:55.7564 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:23:55.9000 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:23:55.9638 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:23:56.6350 DEBUG Setting the temperature to 45
+2018-11-27 16:23:56.6989 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-27 16:23:56.8425 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 32.423 to temp is 95
+2018-11-27 16:23:56.8425 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 32.423 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-27 16:23:56.8425 DEBUG SetChannelSettings; Channel: 3 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-27 16:23:56.8904 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:23:56.9063 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:23:56.9223 DEBUG TEC; setting the overshootDuration to 1
+2018-11-27 16:23:56.9382 DEBUG TEC; setting the overshootoffset to 1
+2018-11-27 16:24:01.8142 DEBUG At temperature.
+2018-11-27 16:24:01.8142 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-11-27 16:24:01.8910 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:24:02.2112 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-27 16:24:02.3548 DEBUG Setting the temperature to 85
+2018-11-27 16:24:02.3707 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:24:02.3877 DEBUG Setting the temperature to 85
+2018-11-27 16:24:02.4026 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-27 16:24:02.4355 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_11_27_16_23_55\Melt Curve logging.csv
+2018-11-27 16:24:02.4984 DEBUG In meltcurve, curTemp = 44.8880004882813
+2018-11-27 16:24:02.5143 DEBUG In meltcurve, curTemp = 44.8880004882813
+2018-11-27 16:24:03.5466 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:03.6333 DEBUG In meltcurve, curTemp = 44.7669982910156
+2018-11-27 16:24:04.6506 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:04.7035 DEBUG In meltcurve, curTemp = 44.6500015258789
+2018-11-27 16:24:05.7596 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:05.8215 DEBUG In meltcurve, curTemp = 44.6829986572266
+2018-11-27 16:24:06.8617 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:06.9245 DEBUG In meltcurve, curTemp = 44.7869987487793
+2018-11-27 16:24:07.9618 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:08.0266 DEBUG In meltcurve, curTemp = 44.9249992370605
+2018-11-27 16:24:09.0459 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:09.0658 DEBUG In meltcurve, curTemp = 45.0800018310547
+2018-11-27 16:24:10.0841 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:10.1359 DEBUG In meltcurve, curTemp = 45.242000579834
+2018-11-27 16:24:11.1542 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:11.1742 DEBUG In meltcurve, curTemp = 45.3959999084473
+2018-11-27 16:24:12.1934 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:12.2124 DEBUG In meltcurve, curTemp = 45.5009994506836
+2018-11-27 16:24:13.2327 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:13.3793 DEBUG In meltcurve, curTemp = 45.6430015563965
+2018-11-27 16:24:14.3986 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:14.4175 DEBUG In meltcurve, curTemp = 45.7200012207031
+2018-11-27 16:24:15.4358 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:15.4887 DEBUG In meltcurve, curTemp = 45.8419990539551
+2018-11-27 16:24:16.5059 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:16.5907 DEBUG In meltcurve, curTemp = 45.9749984741211
+2018-11-27 16:24:17.6080 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:17.6449 DEBUG In meltcurve, curTemp = 46.1269989013672
+2018-11-27 16:24:18.6681 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:18.8267 DEBUG In meltcurve, curTemp = 46.2949981689453
+2018-11-27 16:24:19.8649 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:19.9298 DEBUG In meltcurve, curTemp = 46.4630012512207
+2018-11-27 16:24:20.9480 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:20.9999 DEBUG In meltcurve, curTemp = 46.6349983215332
+2018-11-27 16:24:22.0212 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:22.1498 DEBUG In meltcurve, curTemp = 46.7879981994629
+2018-11-27 16:24:23.1701 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:23.1890 DEBUG In meltcurve, curTemp = 46.984001159668
+2018-11-27 16:24:24.2083 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:24.2273 DEBUG In meltcurve, curTemp = 47.1199989318848
+2018-11-27 16:24:25.2485 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:25.2974 DEBUG In meltcurve, curTemp = 47.2430000305176
+2018-11-27 16:24:26.3177 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:26.3366 DEBUG In meltcurve, curTemp = 47.2910003662109
+2018-11-27 16:24:27.3559 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:27.4068 DEBUG In meltcurve, curTemp = 47.3969993591309
+2018-11-27 16:24:28.4879 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:28.5098 DEBUG In meltcurve, curTemp = 47.5169982910156
+2018-11-27 16:24:29.5311 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:29.5959 DEBUG In meltcurve, curTemp = 47.6520004272461
+2018-11-27 16:24:30.6162 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:30.6661 DEBUG In meltcurve, curTemp = 47.8050003051758
+2018-11-27 16:24:31.7073 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:31.7850 DEBUG In meltcurve, curTemp = 47.9739990234375
+2018-11-27 16:24:32.8263 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:32.9509 DEBUG In meltcurve, curTemp = 48.1520004272461
+2018-11-27 16:24:33.9682 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:33.9892 DEBUG In meltcurve, curTemp = 48.3269996643066
+2018-11-27 16:24:35.0094 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:35.1879 DEBUG In meltcurve, curTemp = 48.4720001220703
+2018-11-27 16:24:36.2062 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:36.2262 DEBUG In meltcurve, curTemp = 48.6710014343262
+2018-11-27 16:24:37.2474 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:37.3282 DEBUG In meltcurve, curTemp = 48.8380012512207
+2018-11-27 16:24:38.3485 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:38.3674 DEBUG In meltcurve, curTemp = 48.9850006103516
+2018-11-27 16:24:39.3857 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:39.4057 DEBUG In meltcurve, curTemp = 49.0309982299805
+2018-11-27 16:24:40.4269 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:40.6035 DEBUG In meltcurve, curTemp = 49.2029991149902
+2018-11-27 16:24:41.6207 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:41.7225 DEBUG In meltcurve, curTemp = 49.298999786377
+2018-11-27 16:24:42.7408 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:42.7926 DEBUG In meltcurve, curTemp = 49.4000015258789
+2018-11-27 16:24:43.8119 DEBUG opticReadCmd, got an exception: 操作已超时。
+2018-11-27 16:24:43.8637 DEBUG In meltcurve, curTemp = 49.4830017089844
+2018-11-27 16:24:44.0782 DEBUG opticReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-11-27 16:24:44.1670 DEBUG In meltcurve, curTemp = 49.7099990844727
+2018-11-27 16:24:44.2158 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.2308 DEBUG In meltcurve, curTemp = 49.7099990844727
+2018-11-27 16:24:44.2457 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.2627 DEBUG In meltcurve, curTemp = 49.7099990844727
+2018-11-27 16:24:44.2756 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.2946 DEBUG In meltcurve, curTemp = 49.7620010375977
+2018-11-27 16:24:44.3395 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.3584 DEBUG In meltcurve, curTemp = 49.7620010375977
+2018-11-27 16:24:44.4133 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.4861 DEBUG In meltcurve, curTemp = 49.7729988098145
+2018-11-27 16:24:44.5011 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.5499 DEBUG In meltcurve, curTemp = 49.7729988098145
+2018-11-27 16:24:44.5649 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.7414 DEBUG In meltcurve, curTemp = 49.6959991455078
+2018-11-27 16:24:44.7613 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.9179 DEBUG In meltcurve, curTemp = 49.6310005187988
+2018-11-27 16:24:44.9439 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:44.9977 DEBUG In meltcurve, curTemp = 49.6370010375977
+2018-11-27 16:24:45.0107 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.0296 DEBUG In meltcurve, curTemp = 49.6370010375977
+2018-11-27 16:24:45.0785 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.1094 DEBUG In meltcurve, curTemp = 49.673999786377
+2018-11-27 16:24:45.1324 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.1573 DEBUG In meltcurve, curTemp = 49.673999786377
+2018-11-27 16:24:45.1732 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.1892 DEBUG In meltcurve, curTemp = 49.734001159668
+2018-11-27 16:24:45.2131 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.2690 DEBUG In meltcurve, curTemp = 49.8040008544922
+2018-11-27 16:24:45.2859 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.4126 DEBUG In meltcurve, curTemp = 49.8810005187988
+2018-11-27 16:24:45.5383 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.6041 DEBUG In meltcurve, curTemp = 49.9329986572266
+2018-11-27 16:24:45.6191 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.7477 DEBUG In meltcurve, curTemp = 49.9249992370605
+2018-11-27 16:24:45.7657 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.8275 DEBUG In meltcurve, curTemp = 49.8870010375977
+2018-11-27 16:24:45.8455 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.8604 DEBUG In meltcurve, curTemp = 49.8870010375977
+2018-11-27 16:24:45.8764 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.8913 DEBUG In meltcurve, curTemp = 49.8400001525879
+2018-11-27 16:24:45.9073 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.9242 DEBUG In meltcurve, curTemp = 49.8400001525879
+2018-11-27 16:24:45.9392 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.9562 DEBUG In meltcurve, curTemp = 49.8400001525879
+2018-11-27 16:24:45.9711 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:45.9881 DEBUG In meltcurve, curTemp = 49.7999992370605
+2018-11-27 16:24:46.0040 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.1636 DEBUG In meltcurve, curTemp = 49.7820014953613
+2018-11-27 16:24:46.1796 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.3232 DEBUG In meltcurve, curTemp = 49.8380012512207
+2018-11-27 16:24:46.3391 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.4030 DEBUG In meltcurve, curTemp = 49.9029998779297
+2018-11-27 16:24:46.4189 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.4668 DEBUG In meltcurve, curTemp = 49.9780006408691
+2018-11-27 16:24:46.4828 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.4987 DEBUG In meltcurve, curTemp = 49.9780006408691
+2018-11-27 16:24:46.5147 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.5306 DEBUG In meltcurve, curTemp = 49.9780006408691
+2018-11-27 16:24:46.5466 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.5625 DEBUG In meltcurve, curTemp = 49.9780006408691
+2018-11-27 16:24:46.5805 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.5944 DEBUG In meltcurve, curTemp = 50.0439987182617
+2018-11-27 16:24:46.6104 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.6264 DEBUG In meltcurve, curTemp = 50.0439987182617
+2018-11-27 16:24:46.6423 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.6583 DEBUG In meltcurve, curTemp = 50.0439987182617
+2018-11-27 16:24:46.6742 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.7381 DEBUG In meltcurve, curTemp = 50.0839996337891
+2018-11-27 16:24:46.7540 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.8019 DEBUG In meltcurve, curTemp = 50.0909996032715
+2018-11-27 16:24:46.8188 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.8667 DEBUG In meltcurve, curTemp = 50.0909996032715
+2018-11-27 16:24:46.8827 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:46.9465 DEBUG In meltcurve, curTemp = 50.0699996948242
+2018-11-27 16:24:46.9645 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.0901 DEBUG In meltcurve, curTemp = 49.9819984436035
+2018-11-27 16:24:47.1071 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.2498 DEBUG In meltcurve, curTemp = 49.9440002441406
+2018-11-27 16:24:47.2686 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.2816 DEBUG In meltcurve, curTemp = 49.931999206543
+2018-11-27 16:24:47.2996 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.3135 DEBUG In meltcurve, curTemp = 49.931999206543
+2018-11-27 16:24:47.3295 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.3454 DEBUG In meltcurve, curTemp = 49.931999206543
+2018-11-27 16:24:47.4003 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.4252 DEBUG In meltcurve, curTemp = 49.9500007629395
+2018-11-27 16:24:47.4422 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.4571 DEBUG In meltcurve, curTemp = 49.9500007629395
+2018-11-27 16:24:47.4751 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.4891 DEBUG In meltcurve, curTemp = 49.9959983825684
+2018-11-27 16:24:47.5040 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.5529 DEBUG In meltcurve, curTemp = 49.9959983825684
+2018-11-27 16:24:47.5698 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.6815 DEBUG In meltcurve, curTemp = 50.140998840332
+2018-11-27 16:24:47.6975 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:47.7932 DEBUG In meltcurve, curTemp = 50.2029991149902
+2018-11-27 16:24:47.8182 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.0007 DEBUG In meltcurve, curTemp = 50.2360000610352
+2018-11-27 16:24:48.0156 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.0805 DEBUG In meltcurve, curTemp = 50.2120018005371
+2018-11-27 16:24:48.0974 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.1124 DEBUG In meltcurve, curTemp = 50.2120018005371
+2018-11-27 16:24:48.1273 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.1443 DEBUG In meltcurve, curTemp = 50.2120018005371
+2018-11-27 16:24:48.1593 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.1762 DEBUG In meltcurve, curTemp = 50.1669998168945
+2018-11-27 16:24:48.1912 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.2081 DEBUG In meltcurve, curTemp = 50.1669998168945
+2018-11-27 16:24:48.2231 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.2400 DEBUG In meltcurve, curTemp = 50.1669998168945
+2018-11-27 16:24:48.2560 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.2720 DEBUG In meltcurve, curTemp = 50.1230010986328
+2018-11-27 16:24:48.2869 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.3039 DEBUG In meltcurve, curTemp = 50.1230010986328
+2018-11-27 16:24:48.3188 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.3358 DEBUG In meltcurve, curTemp = 50.1230010986328
+2018-11-27 16:24:48.3517 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.3996 DEBUG In meltcurve, curTemp = 50.0929985046387
+2018-11-27 16:24:48.4156 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.4634 DEBUG In meltcurve, curTemp = 50.0929985046387
+2018-11-27 16:24:48.4834 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.5432 DEBUG In meltcurve, curTemp = 50.0870018005371
+2018-11-27 16:24:48.5682 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.6879 DEBUG In meltcurve, curTemp = 50.1619987487793
+2018-11-27 16:24:48.7028 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.8475 DEBUG In meltcurve, curTemp = 50.2319984436035
+2018-11-27 16:24:48.8624 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.9272 DEBUG In meltcurve, curTemp = 50.2980003356934
+2018-11-27 16:24:48.9442 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.9591 DEBUG In meltcurve, curTemp = 50.2980003356934
+2018-11-27 16:24:48.9751 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:48.9910 DEBUG In meltcurve, curTemp = 50.351001739502
+2018-11-27 16:24:49.0060 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.0230 DEBUG In meltcurve, curTemp = 50.351001739502
+2018-11-27 16:24:49.0379 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.0549 DEBUG In meltcurve, curTemp = 50.351001739502
+2018-11-27 16:24:49.0708 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.0868 DEBUG In meltcurve, curTemp = 50.3769989013672
+2018-11-27 16:24:49.1027 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.1187 DEBUG In meltcurve, curTemp = 50.3769989013672
+2018-11-27 16:24:49.1456 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.1666 DEBUG In meltcurve, curTemp = 50.3769989013672
+2018-11-27 16:24:49.1825 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.3271 DEBUG In meltcurve, curTemp = 50.3460006713867
+2018-11-27 16:24:49.3561 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.4069 DEBUG In meltcurve, curTemp = 50.3009986877441
+2018-11-27 16:24:49.4229 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.5346 DEBUG In meltcurve, curTemp = 50.2620010375977
+2018-11-27 16:24:49.5525 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.5984 DEBUG In meltcurve, curTemp = 50.2379989624023
+2018-11-27 16:24:49.6174 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.6782 DEBUG In meltcurve, curTemp = 50.2379989624023
+2018-11-27 16:24:49.6962 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.7261 DEBUG In meltcurve, curTemp = 50.2379989624023
+2018-11-27 16:24:49.7440 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.7909 DEBUG In meltcurve, curTemp = 50.2690010070801
+2018-11-27 16:24:49.8089 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.8379 DEBUG In meltcurve, curTemp = 50.2690010070801
+2018-11-27 16:24:49.8557 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.8867 DEBUG In meltcurve, curTemp = 50.3209991455078
+2018-11-27 16:24:49.9036 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.9176 DEBUG In meltcurve, curTemp = 50.3209991455078
+2018-11-27 16:24:49.9355 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:49.9974 DEBUG In meltcurve, curTemp = 50.3870010375977
+2018-11-27 16:24:50.0163 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.0771 DEBUG In meltcurve, curTemp = 50.4500007629395
+2018-11-27 16:24:50.0931 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.2377 DEBUG In meltcurve, curTemp = 50.4970016479492
+2018-11-27 16:24:50.2557 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.4132 DEBUG In meltcurve, curTemp = 50.5050010681152
+2018-11-27 16:24:50.4870 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.5090 DEBUG In meltcurve, curTemp = 50.4749984741211
+2018-11-27 16:24:50.5269 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.5409 DEBUG In meltcurve, curTemp = 50.4749984741211
+2018-11-27 16:24:50.5569 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.5728 DEBUG In meltcurve, curTemp = 50.4370002746582
+2018-11-27 16:24:50.5898 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.6207 DEBUG In meltcurve, curTemp = 50.4370002746582
+2018-11-27 16:24:50.6596 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:50.8441 DEBUG In meltcurve, curTemp = 50.3819999694824
+2018-11-27 16:24:50.8900 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.0525 DEBUG In meltcurve, curTemp = 50.423999786377
+2018-11-27 16:24:51.0775 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.1323 DEBUG In meltcurve, curTemp = 50.4780006408691
+2018-11-27 16:24:51.1473 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.2919 DEBUG In meltcurve, curTemp = 50.6049995422363
+2018-11-27 16:24:51.3068 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.4515 DEBUG In meltcurve, curTemp = 50.6450004577637
+2018-11-27 16:24:51.4674 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.5791 DEBUG In meltcurve, curTemp = 50.6459999084473
+2018-11-27 16:24:51.5941 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.6110 DEBUG In meltcurve, curTemp = 50.6459999084473
+2018-11-27 16:24:51.6270 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.6429 DEBUG In meltcurve, curTemp = 50.6459999084473
+2018-11-27 16:24:51.6749 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.7227 DEBUG In meltcurve, curTemp = 50.6139984130859
+2018-11-27 16:24:51.7377 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.7876 DEBUG In meltcurve, curTemp = 50.576000213623
+2018-11-27 16:24:51.8025 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.8514 DEBUG In meltcurve, curTemp = 50.576000213623
+2018-11-27 16:24:51.8663 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:51.9152 DEBUG In meltcurve, curTemp = 50.5429992675781
+2018-11-27 16:24:51.9302 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.0429 DEBUG In meltcurve, curTemp = 50.5289993286133
+2018-11-27 16:24:52.0798 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.1386 DEBUG In meltcurve, curTemp = 50.5400009155273
+2018-11-27 16:24:52.1526 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.2025 DEBUG In meltcurve, curTemp = 50.576000213623
+2018-11-27 16:24:52.2184 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.2344 DEBUG In meltcurve, curTemp = 50.576000213623
+2018-11-27 16:24:52.2593 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.2822 DEBUG In meltcurve, curTemp = 50.6380004882813
+2018-11-27 16:24:52.2992 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.3152 DEBUG In meltcurve, curTemp = 50.6380004882813
+2018-11-27 16:24:52.3331 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.3621 DEBUG In meltcurve, curTemp = 50.6380004882813
+2018-11-27 16:24:52.3800 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.3949 DEBUG In meltcurve, curTemp = 50.6959991455078
+2018-11-27 16:24:52.4129 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.4418 DEBUG In meltcurve, curTemp = 50.6959991455078
+2018-11-27 16:24:52.4608 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.6014 DEBUG In meltcurve, curTemp = 50.7929992675781
+2018-11-27 16:24:52.6193 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.6822 DEBUG In meltcurve, curTemp = 50.8030014038086
+2018-11-27 16:24:52.7041 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.7620 DEBUG In meltcurve, curTemp = 50.8030014038086
+2018-11-27 16:24:52.8427 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:52.9854 DEBUG In meltcurve, curTemp = 50.7159996032715
+2018-11-27 16:24:53.0013 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.1290 DEBUG In meltcurve, curTemp = 50.681999206543
+2018-11-27 16:24:53.1459 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.1609 DEBUG In meltcurve, curTemp = 50.681999206543
+2018-11-27 16:24:53.1758 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.1928 DEBUG In meltcurve, curTemp = 50.6720008850098
+2018-11-27 16:24:53.2098 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.2247 DEBUG In meltcurve, curTemp = 50.6720008850098
+2018-11-27 16:24:53.2397 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.2566 DEBUG In meltcurve, curTemp = 50.6720008850098
+2018-11-27 16:24:53.2726 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.2885 DEBUG In meltcurve, curTemp = 50.6860008239746
+2018-11-27 16:24:53.3035 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.3205 DEBUG In meltcurve, curTemp = 50.6860008239746
+2018-11-27 16:24:53.3364 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.3524 DEBUG In meltcurve, curTemp = 50.6860008239746
+2018-11-27 16:24:53.3693 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.4322 DEBUG In meltcurve, curTemp = 50.7290000915527
+2018-11-27 16:24:53.4491 DEBUG opticReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.5838 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-11-27 16:24:53.5997 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.6127 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-11-27 16:24:53.6276 DEBUG In meltcurve, curTemp = 0
+2018-11-27 16:27:38.5333 DEBUG ----- Starting -----
+2018-11-27 17:17:13.8264 DEBUG ----- Starting -----
+2018-11-27 17:17:57.0351 DEBUG ----- Starting -----
+2018-11-27 17:18:04.4871 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-11-27 17:18:17.6735 DEBUG ----- Starting -----
+2018-11-27 17:18:24.1462 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0

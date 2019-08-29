@@ -1,0 +1,382 @@
+2018-05-22 08:44:16.5393 DEBUG ----- Starting -----
+2018-05-22 08:48:51.7352 DEBUG ----- Starting -----
+2018-05-22 08:49:25.9730 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_08_49_25\Temperature Log.csv
+2018-05-22 08:49:26.2631 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 08:49:26.2631 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:49:26.3132 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 08:49:36.3331 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 08:49:36.3630 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:49:36.4030 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 08:49:46.4230 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 08:49:46.4330 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:49:46.4731 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 08:50:16.4926 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 08:50:16.5124 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 08:50:16.6624 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:50:16.7125 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 08:51:58.7847 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_08_51_58\Temperature Log.csv
+2018-05-22 08:51:59.0247 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 08:51:59.0447 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:51:59.0848 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 08:52:09.1147 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 08:52:09.1347 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:52:09.2847 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 08:52:19.3047 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 08:52:19.3147 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:52:19.3448 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 08:52:49.3749 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 08:52:49.3947 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 08:52:49.4248 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 08:52:49.4647 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:03:34.5757 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_03_34\Temperature Log.csv
+2018-05-22 09:03:34.8258 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:03:34.8557 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:03:35.0357 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:03:45.0757 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:03:45.0957 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:03:45.1358 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:03:55.1557 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:03:55.1757 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:03:55.2158 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:04:25.2357 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 09:04:25.2557 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 09:04:25.4057 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:04:25.5457 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:06:17.1583 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_06_17\Temperature Log.csv
+2018-05-22 09:06:17.4223 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:06:17.4223 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:06:17.4822 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:06:27.5122 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:06:27.5122 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:06:27.6624 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:06:37.7122 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:06:37.7422 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:06:37.9022 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:07:07.9373 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 09:07:07.9373 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 09:07:07.9773 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:07:08.0073 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:08:50.6773 DEBUG ----- Starting -----
+2018-05-22 09:09:09.9867 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_09_09\Temperature Log.csv
+2018-05-22 09:09:10.2468 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:09:10.2667 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:09:10.3168 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:09:20.3269 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:09:20.3269 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:09:20.6869 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:09:30.6968 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:09:30.7068 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:09:30.7468 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:10:19.8394 DEBUG ----- Starting -----
+2018-05-22 09:10:42.8147 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_10_42\Temperature Log.csv
+2018-05-22 09:10:43.0548 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:10:43.0647 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:10:43.1048 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:10:53.1249 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:10:53.1448 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:10:53.1850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:11:03.2150 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:11:03.2150 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:11:03.2549 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:11:33.2765 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 09:11:33.3064 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 09:11:33.3264 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:11:33.3766 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:12:44.3059 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_12_44\Temperature Log.csv
+2018-05-22 09:12:44.5707 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:12:44.5906 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:12:44.6206 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:12:54.6408 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:12:54.6707 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:12:54.9307 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:13:04.9608 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:13:04.9907 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:13:05.0307 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:13:35.0707 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 09:13:35.1107 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 09:13:35.2207 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:13:35.3607 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:14:42.4607 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_14_42\Temperature Log.csv
+2018-05-22 09:14:42.7109 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:14:42.7307 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:14:42.9207 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:14:52.9507 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:14:52.9807 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:14:53.0208 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:15:03.0408 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:15:03.0707 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:15:03.2007 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:16:01.7946 DEBUG ----- Starting -----
+2018-05-22 09:16:12.0058 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_16_12\Temperature Log.csv
+2018-05-22 09:16:12.2159 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:16:12.2159 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:16:12.3396 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:16:22.3531 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:16:22.3711 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:16:22.4701 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:16:32.4848 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:16:32.5049 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:16:32.5536 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:17:02.5747 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 09:17:02.6078 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 09:17:02.6269 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:17:02.6743 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:18:21.0252 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_18_21\Temperature Log.csv
+2018-05-22 09:18:21.2796 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:18:21.3096 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:18:21.3498 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:18:31.3797 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:18:31.4196 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:18:31.5596 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:18:41.5796 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:18:41.5896 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:18:41.6296 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:19:11.6596 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 09:19:11.6896 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 09:19:11.7297 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:19:11.7697 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:22:06.6701 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_09_22_06\Temperature Log.csv
+2018-05-22 09:22:06.9170 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 09:22:06.9269 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:22:06.9969 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:22:17.0269 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 09:22:17.0469 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:22:17.0969 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:22:27.1269 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 09:22:27.1469 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:22:27.1969 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 09:22:57.2268 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 09:22:57.2668 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 09:22:57.2968 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 09:22:57.3268 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:26:07.9286 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_10_26_07\Temperature Log.csv
+2018-05-22 10:26:08.1688 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 10:26:08.1887 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:26:08.2386 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:26:18.2787 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 10:26:18.2987 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:26:18.3487 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:26:28.3760 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 10:26:28.3991 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:26:28.4526 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:26:58.4805 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 10:26:58.5096 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 10:26:58.5403 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:26:58.5729 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:31:18.3231 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_10_31_18\Temperature Log.csv
+2018-05-22 10:31:18.5631 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 10:31:18.5631 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:31:18.6132 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:31:28.6335 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 10:31:28.6465 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:31:28.6868 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:31:38.7233 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 10:31:38.7432 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:31:38.7933 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:32:08.8668 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 10:32:08.8868 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 10:32:08.9168 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:32:08.9469 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:47:53.6544 DEBUG ----- Starting -----
+2018-05-22 10:48:23.7140 DEBUG ----- Starting -----
+2018-05-22 10:48:58.7006 DEBUG ----- Starting -----
+2018-05-22 10:52:24.2539 DEBUG ----- Starting -----
+2018-05-22 10:53:18.7469 DEBUG ----- Starting -----
+2018-05-22 10:55:48.8538 DEBUG ----- Starting -----
+2018-05-22 10:56:01.7358 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-22 10:56:04.4357 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-22 10:56:09.7370 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-22 10:56:18.5672 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-22 10:56:32.3923 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_10_56_32\Temperature Log.csv
+2018-05-22 10:56:32.6210 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-22 10:56:32.6210 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-22 10:56:35.7609 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-22 10:56:35.7609 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:56:35.9209 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:56:45.9509 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-22 10:56:45.9509 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:56:46.0010 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:56:56.0211 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-05-22 10:56:56.0509 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:56:56.1011 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:57:26.1309 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-05-22 10:57:26.1709 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-22 10:57:26.2509 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-22 10:57:26.3209 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:58:26.3411 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 10
+2018-05-22 10:58:26.3609 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:26.3709 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:58:29.3909 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:29.4309 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:58:31.1109 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:31.1409 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:58:34.1411 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:34.1709 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:58:35.8409 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:35.8710 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:58:38.9011 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:38.9310 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:58:40.6209 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:40.6409 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:58:43.6611 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:43.6909 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:58:45.3609 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:45.3910 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:58:48.4011 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:48.4310 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:58:50.1410 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:50.1710 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:58:53.1911 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:53.2310 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:58:54.8909 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:54.9110 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:58:57.9509 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:57.9809 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:58:59.6409 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:58:59.6610 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:59:02.6610 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:59:02.7009 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:59:04.3909 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:59:04.4109 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:59:07.4211 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:59:07.4509 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:59:09.1211 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:59:09.1409 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 10:59:12.1509 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 10:59:12.1810 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 10:59:13.8509 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-22 10:59:13.8709 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:59:23.9010 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-22 10:59:23.9309 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-22 10:59:42.2310 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-22 10:59:42.2610 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-22 10:59:43.0611 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-22 10:59:43.0810 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-22 10:59:50.4310 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-22 10:59:50.4510 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 10:59:53.4810 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 10:59:53.5010 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-22 10:59:54.1710 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 10:59:54.1910 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-22 11:00:06.7810 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 11:00:06.8110 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 11:00:09.8510 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 11:00:09.8710 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-22 11:00:21.1010 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-22 11:00:21.1210 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-22 11:00:35.1310 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-22 11:00:35.1410 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-22 11:00:46.5710 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 27
+2018-05-22 11:00:46.5810 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-22 11:04:31.6039 DEBUG ----- Starting -----
+2018-05-22 11:04:44.9974 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-22 11:04:47.6876 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-22 11:04:53.0075 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-22 11:05:01.9075 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-22 11:05:15.6318 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_22_11_05_15\Temperature Log.csv
+2018-05-22 11:05:15.8759 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-22 11:05:15.9057 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-22 11:05:19.0357 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 10
+2018-05-22 11:05:19.0757 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:19.0957 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:22.0959 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:22.1257 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:23.7957 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:23.8257 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:26.8357 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:26.8757 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:28.5357 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:28.5757 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:31.5759 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:31.6157 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:33.2957 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:33.3257 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:36.3259 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:36.3557 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:38.0257 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:38.0457 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:41.0357 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:41.0557 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:42.7457 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:42.7757 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:45.7757 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:45.8157 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:47.4857 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:47.5057 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:50.5259 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:50.5557 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:52.2457 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:52.2757 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:05:55.2957 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:55.3257 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:05:57.0158 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:05:57.0457 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:06:00.0559 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:06:00.0757 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:06:01.7557 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:06:01.7757 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-22 11:06:04.7658 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-22 11:06:04.7857 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-22 11:06:06.4657 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-22 11:06:06.4657 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 11:06:16.5057 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-22 11:06:16.5257 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-22 11:06:34.8257 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-22 11:06:34.8557 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-22 11:06:35.6457 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-22 11:06:35.6658 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-22 11:06:43.0257 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-22 11:06:43.0657 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 11:06:46.0957 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-22 11:06:46.1257 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-22 11:06:46.8057 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-22 11:06:46.8158 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-22 11:06:59.4157 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-22 11:06:59.4557 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-22 11:07:02.4757 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-22 11:07:02.4957 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-22 11:07:13.7557 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-22 11:07:13.7857 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-22 11:07:27.7858 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-22 11:07:27.8158 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-22 11:07:39.2758 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 27
+2018-05-22 11:07:39.3058 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-22 11:32:45.5978 DEBUG ----- Starting -----
+2018-05-22 11:38:29.4572 DEBUG ----- Starting -----
+2018-05-22 11:44:23.5694 DEBUG ----- Starting -----
+2018-05-22 11:46:49.2091 DEBUG ----- Starting -----
+2018-05-22 11:48:04.2335 DEBUG ----- Starting -----
+2018-05-22 11:49:01.0090 DEBUG ----- Starting -----
+2018-05-22 11:49:29.4488 DEBUG ----- Starting -----
+2018-05-22 11:50:17.1391 DEBUG ----- Starting -----
+2018-05-22 11:51:01.5461 DEBUG ----- Starting -----
+2018-05-22 11:51:25.5160 DEBUG ----- Starting -----
+2018-05-22 11:51:54.7269 DEBUG ----- Starting -----
+2018-05-22 11:52:57.5571 DEBUG ----- Starting -----
+2018-05-22 11:53:18.3176 DEBUG ----- Starting -----
+2018-05-22 11:53:39.5660 DEBUG ----- Starting -----
+2018-05-22 11:54:47.9057 DEBUG ----- Starting -----
+2018-05-22 11:55:17.7931 DEBUG ----- Starting -----
+2018-05-22 11:55:54.0084 DEBUG ----- Starting -----
+2018-05-22 13:20:49.1070 DEBUG ----- Starting -----
+2018-05-22 13:21:54.9669 DEBUG ----- Starting -----
+2018-05-22 13:22:31.5046 DEBUG ----- Starting -----
+2018-05-22 13:22:59.2370 DEBUG ----- Starting -----
+2018-05-22 13:25:09.7527 DEBUG ----- Starting -----
+2018-05-22 13:29:54.2084 DEBUG ----- Starting -----
+2018-05-22 13:30:32.8280 DEBUG ----- Starting -----
+2018-05-22 13:31:07.7197 DEBUG ----- Starting -----
+2018-05-22 13:39:02.7173 DEBUG ----- Starting -----
+2018-05-22 13:48:14.7919 DEBUG ----- Starting -----
+2018-05-22 13:56:15.8791 DEBUG ----- Starting -----
+2018-05-22 13:57:01.0887 DEBUG ----- Starting -----
+2018-05-22 13:57:44.1484 DEBUG ----- Starting -----
+2018-05-22 16:00:38.5175 DEBUG ----- Starting -----
+2018-05-22 16:09:33.7417 DEBUG ----- Starting -----
+2018-05-22 16:12:06.5398 DEBUG ----- Starting -----
+2018-05-22 16:13:18.1196 DEBUG ----- Starting -----
+2018-05-22 16:17:10.9046 DEBUG ----- Starting -----
+2018-05-22 16:18:13.2058 DEBUG ----- Starting -----
+2018-05-22 16:29:40.9989 DEBUG ----- Starting -----
+2018-05-22 16:29:52.3536 DEBUG ----- Starting -----
+2018-05-22 16:31:41.0116 DEBUG ----- Starting -----

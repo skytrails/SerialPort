@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol>
+  <description text="This is a generic protocol." author="Paul Fleming" date="3/14/2017" />
+  <steps>
+    <!--<step desc="pcr">
+      <pcr>
+        <step overtemp="42" time="2000" />
+        <step pcr="48" time="120000" />-->
+
+    <step sliderrn="9614" desc="slide start position"/>
+    
+    <step heater="50" time="10000" desc="heat process" />
+    <step heater="85" time="10000"/>
+    <step heater="95" time="10000" />
+    <step heater="104" time="600000" heaterctrl="0" />
+    
+    <cycle repetitions="20">
+      <steps>
+        <step r1rn="4774" desc="r1 step"/>
+        <step r2rn="2503" desc="r2 step"/>
+      </steps>
+    </cycle>
+    <step time="10000" desc="mix process"/>
+    <step heaterprn="83612" desc="heat piston to pcr"/>
+    <step sliderrnn="5156" desc="slider half position"/>
+    <step chasis="2" desc="chasis position"/>
+    <step time="3000" desc="pcr process"/>
+
+    <step pcr="85" time="3000" />
+    <step pcr="50" time="120000" />
+    <step overtemp="109" time="3000" />
+    <step pcr="96" time="330000" />
+    <cycle repetitions="49">
+      <steps>
+        <step overtemp="46" time="4000" />
+        <step pcr="60.5" time="27000" />
+        <sample />
+        <step overtemp="108" time="3000" />
+        <step pcr="95.5" time="30000" />
+      </steps>
+    </cycle>
+    <step overtemp="45" time="4000" />
+    <step pcr="60" time="27000" />
+    <sample />
+    <step overtemp="108" time="3000" />
+    <step pcr="95.5" time="30000" />
+    <step overtemp="25" time="4000" />
+    <step pcr="35" time="30000" />
+    <step overtemp="89" time="4000" />
+    <step pcr="72" time="5000" />
+    <meltcurve start="72" end="95" ramprate="0.03" />
+    <step overtemp="25" time="4000" />
+    <step pcr="35" time="1000" />
+    
+    <step sliderrnn="4456" desc="slider end position"/>
+    <step heaterprn="30020" desc="heat piston to top"/>
+    <step time="6000" desc="wait to move chip"/>
+    
+        
+     <!-- </pcr>
+    </step>-->
+  </steps>
+</protocol>

@@ -1,0 +1,374 @@
+2018-08-02 09:27:05.9433 DEBUG ----- Starting -----
+2018-08-02 09:28:13.2130 DEBUG ----- Starting -----
+2018-08-02 09:29:44.2147 DEBUG ----- Starting -----
+2018-08-02 09:31:05.7924 DEBUG ----- Starting -----
+2018-08-02 09:31:38.3978 DEBUG ----- Starting -----
+2018-08-02 09:32:07.1217 DEBUG ----- Starting -----
+2018-08-02 09:32:27.9520 DEBUG ----- Starting -----
+2018-08-02 09:34:03.9156 DEBUG ----- Starting -----
+2018-08-02 09:34:25.9346 DEBUG ----- Starting -----
+2018-08-02 09:34:35.1058 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_09_34_35\Temperature Log.csv
+2018-08-02 09:34:35.3092 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 09:34:35.3192 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 09:41:16.5296 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 09:41:16.5696 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 09:41:17.5892 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 09:47:58.7251 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 09:47:58.7649 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 09:47:59.7845 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 09:52:49.4485 DEBUG ----- Starting -----
+2018-08-02 09:53:30.1457 DEBUG ----- Starting -----
+2018-08-02 09:53:44.8959 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_09_53_44\Temperature Log.csv
+2018-08-02 09:53:45.1457 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 09:53:45.1457 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 09:58:29.3382 DEBUG ----- Starting -----
+2018-08-02 09:58:39.4466 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_09_58_39\Temperature Log.csv
+2018-08-02 09:58:39.6531 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 09:58:39.6640 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:02:08.5973 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:02:08.6273 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:02:09.6569 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:05:38.7055 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:05:38.7254 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:05:39.7549 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:09:08.6939 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:09:08.6939 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:09:09.7134 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:12:38.6919 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:12:38.6919 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:12:39.7214 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:16:08.7002 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:16:08.7200 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:16:09.7595 DEBUG Cycle 5: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:19:38.7483 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:19:38.7681 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:19:39.7976 DEBUG Cycle 6: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:23:08.7662 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:23:08.7762 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:23:09.8158 DEBUG Cycle 7: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:26:38.7343 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:26:38.7843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:26:39.8138 DEBUG Cycle 8: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:30:08.8626 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:30:08.8824 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:30:09.9118 DEBUG Cycle 9: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:33:38.8705 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:33:38.8805 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:33:39.9099 DEBUG Cycle 10: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:37:08.8386 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:37:08.8486 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:37:09.8683 DEBUG Cycle 11: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:40:38.8475 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:40:38.8475 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:40:39.8770 DEBUG Cycle 12: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:44:08.8656 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:44:08.9155 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:44:09.9350 DEBUG Cycle 13: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:47:38.8737 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:47:38.8937 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:47:39.9331 DEBUG Cycle 14: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:51:08.8718 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:51:08.8718 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:51:09.9012 DEBUG Cycle 15: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:54:38.8807 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:54:38.9005 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:54:39.9300 DEBUG Cycle 16: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:58:08.8386 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 10:58:08.8386 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 10:58:09.8681 DEBUG Cycle 17: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 10:59:56.1215 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_10_59_56\Temperature Log.csv
+2018-08-02 10:59:56.5412 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 10:59:56.5812 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:01:38.8422 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:01:38.8492 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:01:38.8731 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:01:38.8801 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:01:39.8612 DEBUG Cycle 18: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:01:39.8959 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:05:08.8179 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:05:08.8357 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:05:08.8497 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:05:08.8826 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:05:09.8808 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:05:09.8948 DEBUG Cycle 19: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:08:38.7796 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:08:38.8026 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:08:38.8026 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:08:38.8255 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:08:39.8267 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:08:39.8447 DEBUG Cycle 20: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:12:08.7877 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:12:08.8077 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:12:08.8277 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:12:08.8277 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:12:09.8278 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:12:09.8518 DEBUG Cycle 21: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:15:38.7540 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:15:38.7540 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:15:38.7938 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:15:38.7938 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:15:39.7933 DEBUG Cycle 5: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:15:39.8233 DEBUG Cycle 22: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:19:08.7520 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:19:08.7819 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:19:08.8119 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:19:08.8119 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:19:09.8414 DEBUG Cycle 23: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:19:09.8514 DEBUG Cycle 6: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:22:38.7803 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:22:38.8001 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:22:38.8300 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:22:38.8400 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:22:39.8195 DEBUG Cycle 24: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:22:39.8695 DEBUG Cycle 7: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:26:03.1562 DEBUG Found the optics port closed, reopening.
+2018-08-02 11:26:08.7931 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:26:08.7931 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:26:08.8231 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:26:08.8231 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:26:09.8126 DEBUG Cycle 25: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:26:09.8426 DEBUG Cycle 8: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:29:33.1749 DEBUG Found the optics port closed, reopening.
+2018-08-02 11:29:38.8321 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:29:38.8619 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:29:38.8619 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:29:38.9019 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:29:39.9113 DEBUG Cycle 9: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:29:39.9113 DEBUG Cycle 26: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:33:08.8201 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:33:08.8400 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:33:08.8400 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:33:08.8600 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:33:09.8795 DEBUG Cycle 10: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:33:09.8795 DEBUG Cycle 27: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:36:38.7671 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:36:38.7751 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:36:38.7990 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:36:38.8110 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:36:39.7977 DEBUG Cycle 11: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:36:39.8416 DEBUG Cycle 28: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:40:08.7295 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:40:08.7395 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:40:08.7395 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:40:08.7595 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:40:09.7789 DEBUG Cycle 29: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:40:09.7989 DEBUG Cycle 12: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:43:38.7260 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:43:38.7260 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:43:38.7758 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:43:38.7958 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:43:39.7953 DEBUG Cycle 13: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:43:39.8153 DEBUG Cycle 30: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:47:08.7151 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:47:08.7151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:47:08.7451 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:47:08.7451 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:47:09.7545 DEBUG Cycle 31: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:47:09.7945 DEBUG Cycle 14: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:50:38.7169 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:50:38.7169 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:50:38.7669 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:50:38.7669 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:50:39.7385 DEBUG Cycle 15: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:50:39.7885 DEBUG Cycle 32: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:54:08.6978 DEBUG Cycle 32: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:54:08.7058 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:54:08.7058 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:54:08.7378 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:54:09.7444 DEBUG Cycle 33: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:54:09.7846 DEBUG Cycle 16: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:57:38.6897 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:57:38.7006 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:57:38.7260 DEBUG Cycle 33: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:57:38.7596 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:57:39.7164 DEBUG Cycle 17: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:57:39.7764 DEBUG Cycle 34: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 11:58:52.6043 DEBUG Cycle 34: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 11:58:52.6843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 11:58:52.7167 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 13:16:53.8248 DEBUG ----- Starting -----
+2018-08-02 13:17:07.8934 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_13_17_07\Temperature Log.csv
+2018-08-02 13:17:08.1533 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 13:17:08.1533 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 13:20:31.6195 DEBUG Found the optics port closed, reopening.
+2018-08-02 13:20:37.2965 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 13:20:37.2965 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 13:20:38.3160 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 13:24:01.7338 DEBUG Found the optics port closed, reopening.
+2018-08-02 13:24:07.3995 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 13:24:07.3995 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_13_24_07\Temperature Log.csv
+2018-08-02 13:24:07.4095 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 13:24:07.6693 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 13:24:07.6693 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 13:24:08.4389 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 13:27:08.4773 DEBUG ----- Starting -----
+2018-08-02 13:27:34.2882 DEBUG ----- Starting -----
+2018-08-02 13:27:47.1407 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_13_27_47\Temperature Log.csv
+2018-08-02 13:27:47.4406 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 13:27:47.4506 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 13:29:52.8274 DEBUG ----- Starting -----
+2018-08-02 13:30:03.4914 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_13_30_03\Temperature Log.csv
+2018-08-02 13:30:03.7712 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 13:30:03.7812 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 13:31:02.3468 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 13:31:02.3676 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-08-02 13:31:02.3862 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 13:31:02.4234 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 13:31:02.4438 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 13:31:55.3251 DEBUG ----- Starting -----
+2018-08-02 13:32:10.0904 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_13_32_10\Temperature Log.csv
+2018-08-02 13:32:10.3902 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 13:32:10.3902 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 13:33:02.3408 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-08-02 13:33:02.3807 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 13:33:02.4207 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 13:33:02.4207 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 13:33:02.4407 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 13:33:31.3528 DEBUG ----- Starting -----
+2018-08-02 13:34:15.7710 DEBUG ----- Starting -----
+2018-08-02 13:45:35.6717 DEBUG ----- Starting -----
+2018-08-02 14:47:40.5051 DEBUG ----- Starting -----
+2018-08-02 14:47:52.1456 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_14_47_52\Temperature Log.csv
+2018-08-02 14:47:52.4255 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 14:47:52.4354 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 14:48:24.3070 DEBUG ----- Starting -----
+2018-08-02 14:48:47.8032 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_14_48_47\Temperature Log.csv
+2018-08-02 14:48:48.0313 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 14:48:48.0313 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 14:52:17.0434 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 14:52:17.0434 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 14:52:18.0720 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 14:55:47.0576 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 14:55:47.0576 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 14:55:48.0885 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 14:57:06.2116 DEBUG ----- Starting -----
+2018-08-02 14:57:27.1065 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_14_57_27\Temperature Log.csv
+2018-08-02 14:57:27.3576 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 14:57:27.3576 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:04:08.5211 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:04:08.5509 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:04:09.5808 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:10:13.2213 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-08-02 15:10:13.2313 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:10:13.2713 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 15:10:13.2813 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:10:13.3112 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 15:10:39.9020 DEBUG ----- Starting -----
+2018-08-02 15:10:50.5747 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_15_10_50\Temperature Log.csv
+2018-08-02 15:10:50.8188 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 15:10:50.8368 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:13:30.6976 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:13:30.7189 DEBUG ReadCmd, got an exception: Access to the port is denied.
+2018-08-02 15:13:30.7395 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:13:30.7679 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 15:13:30.8206 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 15:13:55.1770 DEBUG ----- Starting -----
+2018-08-02 15:14:17.4964 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_15_14_17\Temperature Log.csv
+2018-08-02 15:14:17.7780 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 15:14:17.7780 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:17:46.7558 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:17:46.7934 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:17:47.8279 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:21:16.7934 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:21:16.8234 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:21:17.8728 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:24:46.8082 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:24:46.8382 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:24:47.8678 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:28:16.8664 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:28:16.9062 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:28:17.9557 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:31:47.0245 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:31:47.0443 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:31:48.0838 DEBUG Cycle 5: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:35:17.0498 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:35:17.0698 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:35:18.1170 DEBUG Cycle 6: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:38:47.0751 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:38:47.1051 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:38:48.1245 DEBUG Cycle 7: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:42:17.1478 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:42:17.1678 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:42:18.2072 DEBUG Cycle 8: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:45:47.1389 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:45:47.1588 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:45:48.1983 DEBUG Cycle 9: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:49:17.1872 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:49:17.1872 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:49:18.2167 DEBUG Cycle 10: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:52:47.1853 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:52:47.2053 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:52:48.2348 DEBUG Cycle 11: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:56:17.2534 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:56:17.2834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:56:18.3228 DEBUG Cycle 12: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 15:59:47.3292 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 15:59:47.3391 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 15:59:48.3586 DEBUG Cycle 13: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:03:17.3227 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:03:17.3425 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:03:18.3920 DEBUG Cycle 14: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:06:47.3615 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:06:47.3715 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:06:48.4010 DEBUG Cycle 15: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:10:17.3438 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:10:17.3738 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:10:18.4132 DEBUG Cycle 16: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:13:47.3819 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:13:47.4019 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:13:48.4313 DEBUG Cycle 17: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:17:17.3602 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:17:17.3900 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:17:18.4095 DEBUG Cycle 18: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:20:47.4381 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:20:47.4381 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:20:48.4775 DEBUG Cycle 19: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:24:17.5344 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:24:17.5542 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:24:18.5838 DEBUG Cycle 20: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:27:47.5129 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:27:47.5328 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:27:48.5723 DEBUG Cycle 21: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:31:17.4891 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:31:17.4991 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:31:18.5785 DEBUG Cycle 22: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:34:47.5968 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 16:34:47.6128 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 16:34:48.6594 DEBUG Cycle 23: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:35:31.5452 DEBUG ----- Starting -----
+2018-08-02 16:35:51.9862 DEBUG ----- Starting -----
+2018-08-02 16:36:10.1575 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_16_36_10\Temperature Log.csv
+2018-08-02 16:36:10.3732 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 16:36:10.4052 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 16:44:47.2964 DEBUG ----- Starting -----
+2018-08-02 16:47:24.3704 DEBUG ----- Starting -----
+2018-08-02 16:47:57.6307 DEBUG ----- Starting -----
+2018-08-02 16:48:44.7636 DEBUG ----- Starting -----
+2018-08-02 16:50:24.3801 DEBUG ----- Starting -----
+2018-08-02 16:52:12.7491 DEBUG ----- Starting -----
+2018-08-02 16:52:42.7882 DEBUG ----- Starting -----
+2018-08-02 16:52:57.8154 DEBUG ----- Starting -----
+2018-08-02 16:53:23.1815 DEBUG ----- Starting -----
+2018-08-02 16:54:18.4886 DEBUG ----- Starting -----
+2018-08-02 16:55:16.0109 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_16_55_16\Temperature Log.csv
+2018-08-02 16:55:16.2807 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 16:55:16.2807 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 17:00:22.7798 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 17:00:50.1267 DEBUG ----- Starting -----
+2018-08-02 17:01:40.4183 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_17_01_40\Temperature Log.csv
+2018-08-02 17:01:40.6982 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 17:01:40.6982 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 17:08:11.4300 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 17:08:11.4500 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 17:10:01.2453 DEBUG ----- Starting -----
+2018-08-02 17:10:43.8988 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_08_02_17_10_43\Temperature Log.csv
+2018-08-02 17:10:44.1786 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 39
+2018-08-02 17:10:44.1886 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-08-02 17:38:36.1086 DEBUG ReadCmd, got an exception: Access to the port is denied.
+2018-08-02 17:38:36.1086 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-08-02 17:38:36.1386 DEBUG ReadCmd, got an exception: The port is closed.
+2018-08-02 17:38:36.1386 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-08-02 17:38:36.1786 DEBUG ReadCmd, got an exception: The port is closed.

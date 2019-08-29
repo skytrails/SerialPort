@@ -1,0 +1,6 @@
+Protocol file: C:\HelixGen\Protocols\Protocol_pcr - jacky - Copy.xml
+PCR Cycle#, Well1Cartridge1, Well1Cartridge2, Well1Cartridge3, Well1Cartridge4,Well2Cartridge1, Well2Cartridge2, Well2Cartridge3, Well2Cartridge4,Well3Cartridge1, Well3Cartridge2, Well3Cartridge3, Well3Cartridge4,Well4Cartridge1, Well4Cartridge2, Well4Cartridge3, Well4Cartridge4,Well5Cartridge1, Well5Cartridge2, Well5Cartridge3, Well5Cartridge4,Well6Cartridge1, Well6Cartridge2, Well6Cartridge3, Well6Cartridge4,Sensor Temp 1, Sensor Temp 2, Sensor Temp 3, Sensor Temp 4, Sensor Temp 5, Sensor Temp 6
+1,0,0,1541527,0,0,0,0,0,5726976,0,0,0,0,0,5797892,0,0,0,0,0,5230525,0,0,0,0,0,5900825,0,0,0,0,0,40,0,0,0
+2,0,0,1570255,0,0,0,0,0,5693235,0,0,0,0,0,5781961,0,0,0,0,0,5217170,0,0,0,0,0,5873698,0,0,0,0,0,41.25,0,0,0
+3,0,0,1586600,0,0,0,0,0,5686121,0,0,0,0,0,6089449,0,0,0,0,0,5476737,0,0,0,0,0,6094007,0,0,0,0,0,41.75,0,0,0
+4,0,0,1589172,0,0,0,0,0,5123037,0,0,0,0,0,5581510,0,0,0,0,0,4976758,0,0,0,0,0,5657083,0,0,0,0,0,42,0,0,0

@@ -1,0 +1,372 @@
+2018-05-21 08:48:35.4174 DEBUG ----- Starting -----
+2018-05-21 08:49:20.7924 DEBUG ----- Starting -----
+2018-05-21 08:49:58.0451 DEBUG ----- Starting -----
+2018-05-21 08:50:17.1639 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_21_08_50_17\Temperature Log.csv
+2018-05-21 08:50:17.4442 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-21 08:50:17.4541 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 08:50:17.4941 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-21 08:50:17.5041 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 08:50:47.5395 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-21 08:50:47.5495 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 08:50:47.5796 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-21 08:50:47.5895 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 08:51:39.5285 DEBUG ----- Starting -----
+2018-05-21 08:59:09.8845 DEBUG ----- Starting -----
+2018-05-21 08:59:20.8983 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 08:59:20.9063 DEBUG Setting the temperature to 95
+2018-05-21 08:59:20.9513 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 08:59:21.0821 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 08:59:21.1034 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 08:59:33.8521 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 08:59:33.8631 DEBUG Setting the temperature to 95
+2018-05-21 08:59:33.8783 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 08:59:34.0067 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 08:59:34.0266 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 08:59:43.8321 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 08:59:43.8421 DEBUG Setting the temperature to 95
+2018-05-21 08:59:43.8668 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 08:59:43.9947 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 08:59:44.0237 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:00:41.5363 DEBUG ----- Starting -----
+2018-05-21 09:00:52.2828 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:00:52.2828 DEBUG Setting the temperature to 95
+2018-05-21 09:00:52.3420 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:00:52.4703 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:00:52.4703 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:00:52.5014 DEBUG Setting the temperature2 to 95
+2018-05-21 09:00:52.5014 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:01:06.8694 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:01:06.8784 DEBUG Setting the temperature to 95
+2018-05-21 09:01:06.9782 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:01:07.1378 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:01:07.1378 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:01:54.8202 DEBUG ----- Starting -----
+2018-05-21 09:02:05.0813 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:02:05.0913 DEBUG Setting the temperature to 95
+2018-05-21 09:02:05.1469 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:02:05.2770 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:02:05.3047 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:02:54.7455 DEBUG ----- Starting -----
+2018-05-21 09:03:04.9530 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:03:04.9530 DEBUG Setting the temperature to 95
+2018-05-21 09:03:05.0185 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:03:05.1467 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:03:05.1668 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:03:25.1802 DEBUG ----- Starting -----
+2018-05-21 09:03:38.9976 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:03:38.9976 DEBUG Setting the temperature to 95
+2018-05-21 09:03:39.1053 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:03:39.3464 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:03:39.3655 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:05:24.1432 DEBUG ----- Starting -----
+2018-05-21 09:05:40.8114 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:08:37.4740 DEBUG ----- Starting -----
+2018-05-21 09:08:49.1943 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:08:49.2013 DEBUG Setting the temperature to 95
+2018-05-21 09:08:49.2454 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:08:49.3738 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:08:49.3738 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:09:25.9800 DEBUG ----- Starting -----
+2018-05-21 09:09:36.3951 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:09:36.4033 DEBUG Setting the temperature to 95
+2018-05-21 09:09:36.5177 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:09:36.7593 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:09:36.7814 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:10:20.0457 DEBUG ----- Starting -----
+2018-05-21 09:10:29.8051 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:10:29.8131 DEBUG Setting the temperature to 95
+2018-05-21 09:10:29.8613 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:10:29.9912 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:10:30.0113 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:10:30.1347 DEBUG Setting the temperature2 to 95
+2018-05-21 09:10:30.1558 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:10:42.9996 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-21 09:10:42.9996 DEBUG Setting the temperature to 85
+2018-05-21 09:10:43.0607 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:10:43.1882 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 85
+2018-05-21 09:10:43.2052 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-05-21 09:10:43.2192 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-21 09:10:43.2524 DEBUG TEC; setting the overshootDuration to 1
+2018-05-21 09:10:43.3810 DEBUG TEC; setting the overshootoffset to 1
+2018-05-21 09:10:43.4284 DEBUG TEC; setting the overshootDuration to 1
+2018-05-21 09:10:43.6517 DEBUG TEC; setting the overshootoffset to 1
+2018-05-21 09:10:47.8551 DEBUG Setting the temperature2 to 85
+2018-05-21 09:10:47.8732 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:05.9113 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-21 09:11:05.9188 DEBUG Setting the temperature to 85
+2018-05-21 09:11:05.9915 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:06.5033 DEBUG Setting the temperature2 to 85
+2018-05-21 09:11:06.5213 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:09.6586 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-21 09:11:09.6586 DEBUG Setting the temperature to 85
+2018-05-21 09:11:09.7464 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:10.4814 DEBUG Setting the temperature2 to 85
+2018-05-21 09:11:10.4814 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:11.1007 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-21 09:11:11.1117 DEBUG Setting the temperature to 85
+2018-05-21 09:11:11.2162 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:11.4565 DEBUG Setting the temperature2 to 85
+2018-05-21 09:11:11.4756 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:27.8786 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-21 09:11:27.8896 DEBUG Setting the temperature to 85
+2018-05-21 09:11:27.9140 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:28.2983 DEBUG Setting the temperature2 to 85
+2018-05-21 09:11:28.3183 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:28.4131 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-21 09:11:28.4373 DEBUG Setting the temperature to 85
+2018-05-21 09:11:28.6340 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:11:29.1927 DEBUG Setting the temperature2 to 85
+2018-05-21 09:11:29.2001 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-21 09:16:01.0152 DEBUG ----- Starting -----
+2018-05-21 09:16:15.8608 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:16:15.8608 DEBUG Setting the temperature to 95
+2018-05-21 09:16:15.9220 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:16:16.0682 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:16:16.1013 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:16:16.2264 DEBUG Setting the temperature2 to 95
+2018-05-21 09:16:16.2464 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:16:29.8085 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 09:16:37.2961 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 09:17:39.1175 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 09:17:46.9129 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 09:17:54.0282 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 09:19:03.6123 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:19:03.6251 DEBUG Setting the temperature to 95
+2018-05-21 09:19:03.6442 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:19:03.8684 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:19:03.8924 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:19:03.9152 DEBUG Setting the temperature2 to 95
+2018-05-21 09:19:03.9286 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:19:13.8142 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:19:13.8252 DEBUG Setting the temperature to 95
+2018-05-21 09:19:13.8393 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:19:13.9676 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:19:13.9906 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:19:14.0147 DEBUG Setting the temperature2 to 95
+2018-05-21 09:19:14.0308 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:22:05.4132 DEBUG ----- Starting -----
+2018-05-21 09:22:15.3805 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:22:15.3877 DEBUG Setting the temperature to 95
+2018-05-21 09:22:15.4443 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:22:15.5746 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:22:15.5966 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:22:15.6370 DEBUG Setting the temperature2 to 95
+2018-05-21 09:22:15.6370 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:24:19.0184 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-21 09:24:19.0283 DEBUG Setting the temperature to 95
+2018-05-21 09:24:19.1897 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:24:19.3334 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-21 09:24:19.3404 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-21 09:24:19.4609 DEBUG Setting the temperature2 to 95
+2018-05-21 09:24:19.4679 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-21 09:25:54.4424 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_21_09_25_54\Temperature Log.csv
+2018-05-21 09:25:54.7125 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-21 09:25:54.7425 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 09:25:54.8025 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-21 09:25:54.8225 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 09:29:21.9548 DEBUG ----- Starting -----
+2018-05-21 09:30:56.7972 DEBUG ----- Starting -----
+2018-05-21 09:45:11.5231 DEBUG ----- Starting -----
+2018-05-21 09:47:42.9935 DEBUG ----- Starting -----
+2018-05-21 09:51:36.3520 DEBUG ----- Starting -----
+2018-05-21 10:10:43.3352 DEBUG ----- Starting -----
+2018-05-21 10:10:49.5412 DEBUG ----- Starting -----
+2018-05-21 10:11:12.0933 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-21 10:11:23.0636 DEBUG ----- Starting -----
+2018-05-21 10:15:17.9497 DEBUG ----- Starting -----
+2018-05-21 10:52:04.1953 DEBUG ----- Starting -----
+2018-05-21 11:02:05.2553 DEBUG ----- Starting -----
+2018-05-21 13:22:30.3044 DEBUG ----- Starting -----
+2018-05-21 13:22:56.0016 DEBUG ----- Starting -----
+2018-05-21 13:23:10.0379 DEBUG ----- Starting -----
+2018-05-21 13:23:35.2267 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-21 13:24:39.9017 DEBUG ----- Starting -----
+2018-05-21 13:25:12.1068 DEBUG ----- Starting -----
+2018-05-21 13:25:23.6225 DEBUG ----- Starting -----
+2018-05-21 13:25:41.8141 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-21 13:26:33.3332 DEBUG ----- Starting -----
+2018-05-21 13:29:08.3806 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-21 13:29:08.4106 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 13:29:08.4206 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 13:29:57.8300 DEBUG ----- Starting -----
+2018-05-21 13:40:16.5766 DEBUG ----- Starting -----
+2018-05-21 13:40:39.0435 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-21 13:41:06.8787 DEBUG ----- Starting -----
+2018-05-21 13:49:00.5197 DEBUG ----- Starting -----
+2018-05-21 14:09:42.0325 DEBUG ----- Starting -----
+2018-05-21 14:10:32.7888 DEBUG ----- Starting -----
+2018-05-21 14:12:13.4809 DEBUG ----- Starting -----
+2018-05-21 14:16:43.5499 DEBUG ----- Starting -----
+2018-05-21 14:17:36.4015 DEBUG ----- Starting -----
+2018-05-21 14:17:51.3725 DEBUG ----- Starting -----
+2018-05-21 14:18:26.7002 DEBUG ----- Starting -----
+2018-05-21 14:18:35.3301 DEBUG ----- Starting -----
+2018-05-21 14:18:45.4924 DEBUG ----- Starting -----
+2018-05-21 14:18:53.5976 DEBUG ----- Starting -----
+2018-05-21 14:19:02.5357 DEBUG ----- Starting -----
+2018-05-21 14:19:44.2979 DEBUG ----- Starting -----
+2018-05-21 14:19:53.5751 DEBUG ----- Starting -----
+2018-05-21 14:20:03.0013 DEBUG ----- Starting -----
+2018-05-21 14:20:11.4394 DEBUG ----- Starting -----
+2018-05-21 14:20:20.0054 DEBUG ----- Starting -----
+2018-05-21 14:20:29.4981 DEBUG ----- Starting -----
+2018-05-21 14:20:37.9272 DEBUG ----- Starting -----
+2018-05-21 14:20:45.9945 DEBUG ----- Starting -----
+2018-05-21 14:20:53.7687 DEBUG ----- Starting -----
+2018-05-21 14:21:23.9543 DEBUG ----- Starting -----
+2018-05-21 14:21:54.4190 DEBUG ----- Starting -----
+2018-05-21 14:22:02.4215 DEBUG ----- Starting -----
+2018-05-21 14:22:10.6935 DEBUG ----- Starting -----
+2018-05-21 14:22:19.1856 DEBUG ----- Starting -----
+2018-05-21 14:22:27.6964 DEBUG ----- Starting -----
+2018-05-21 14:22:36.1461 DEBUG ----- Starting -----
+2018-05-21 14:22:43.8745 DEBUG ----- Starting -----
+2018-05-21 14:22:51.3735 DEBUG ----- Starting -----
+2018-05-21 14:22:59.4180 DEBUG ----- Starting -----
+2018-05-21 14:23:07.3767 DEBUG ----- Starting -----
+2018-05-21 14:23:15.5250 DEBUG ----- Starting -----
+2018-05-21 14:23:24.2294 DEBUG ----- Starting -----
+2018-05-21 14:23:32.4110 DEBUG ----- Starting -----
+2018-05-21 14:23:40.0801 DEBUG ----- Starting -----
+2018-05-21 14:23:49.1089 DEBUG ----- Starting -----
+2018-05-21 14:24:20.0854 DEBUG ----- Starting -----
+2018-05-21 14:24:28.3634 DEBUG ----- Starting -----
+2018-05-21 14:24:49.6806 DEBUG ----- Starting -----
+2018-05-21 14:25:08.9280 DEBUG ----- Starting -----
+2018-05-21 14:25:20.6517 DEBUG ----- Starting -----
+2018-05-21 14:28:49.2646 DEBUG ----- Starting -----
+2018-05-21 14:34:59.7340 DEBUG ----- Starting -----
+2018-05-21 14:47:13.3722 DEBUG ----- Starting -----
+2018-05-21 14:51:04.3116 DEBUG ----- Starting -----
+2018-05-21 14:55:24.7619 DEBUG ----- Starting -----
+2018-05-21 14:55:46.7667 DEBUG ----- Starting -----
+2018-05-21 14:56:30.6840 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 14:56:42.5735 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 14:56:49.8140 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 14:56:56.9818 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 14:57:00.7729 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 14:57:09.0956 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 15:05:58.7412 DEBUG ----- Starting -----
+2018-05-21 15:06:47.3167 DEBUG ----- Starting -----
+2018-05-21 15:07:54.7633 DEBUG ----- Starting -----
+2018-05-21 15:09:46.2074 DEBUG ----- Starting -----
+2018-05-21 15:12:46.1071 DEBUG ----- Starting -----
+2018-05-21 15:13:01.7567 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-21 15:13:01.7788 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 15:13:01.7968 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 15:13:08.7742 DEBUG ----- Starting -----
+2018-05-21 15:13:52.6932 DEBUG ----- Starting -----
+2018-05-21 15:14:47.3250 DEBUG ----- Starting -----
+2018-05-21 15:15:41.9182 DEBUG ----- Starting -----
+2018-05-21 15:16:44.3065 DEBUG ----- Starting -----
+2018-05-21 15:20:21.0201 DEBUG ----- Starting -----
+2018-05-21 15:27:32.4083 DEBUG ----- Starting -----
+2018-05-21 15:32:06.3549 DEBUG ----- Starting -----
+2018-05-21 15:33:18.1481 DEBUG ----- Starting -----
+2018-05-21 15:34:03.9755 DEBUG ----- Starting -----
+2018-05-21 15:34:38.2276 DEBUG ----- Starting -----
+2018-05-21 15:35:13.1109 DEBUG ----- Starting -----
+2018-05-21 15:35:39.5250 DEBUG ----- Starting -----
+2018-05-21 15:36:01.5937 DEBUG ----- Starting -----
+2018-05-21 15:39:16.7871 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 15:39:26.8358 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 15:39:40.9825 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 15:40:37.8778 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 15:41:31.5363 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 16:09:07.2610 DEBUG ----- Starting -----
+2018-05-21 16:09:19.1489 DEBUG ----- Starting -----
+2018-05-21 16:10:43.0223 DEBUG ----- Starting -----
+2018-05-21 16:11:00.7170 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 16:12:36.1822 DEBUG ----- Starting -----
+2018-05-21 16:13:47.7598 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 16:19:59.5418 DEBUG ----- Starting -----
+2018-05-21 16:21:51.6943 DEBUG ----- Starting -----
+2018-05-21 16:22:11.1010 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 16:22:41.5525 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 16:23:27.3717 DEBUG ----- Starting -----
+2018-05-21 16:23:46.4723 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-21 16:27:05.5577 DEBUG ----- Starting -----
+2018-05-21 16:32:28.1505 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-21 16:32:28.1725 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 16:32:28.1906 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 16:32:35.7178 DEBUG ----- Starting -----
+2018-05-21 16:34:48.1668 DEBUG ----- Starting -----
+2018-05-21 16:41:29.6027 DEBUG ----- Starting -----
+2018-05-21 16:44:21.3984 DEBUG ----- Starting -----
+2018-05-21 16:44:31.7505 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_21_16_44_31\Temperature Log.csv
+2018-05-21 16:44:31.9806 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-21 16:44:32.0017 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:44:32.1535 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-21 16:44:32.1645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:44:42.1817 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-21 16:44:42.2067 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:44:42.2532 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-21 16:44:42.2692 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:45:12.2900 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-21 16:45:12.3100 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:45:12.3588 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-21 16:45:12.3677 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:46:12.3789 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 27
+2018-05-21 16:46:12.3919 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-21 16:46:46.4152 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_21_16_46_46\Temperature Log.csv
+2018-05-21 16:46:46.6490 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-21 16:46:46.6760 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:46:46.7204 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-21 16:46:46.7314 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:46:56.7463 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-21 16:46:56.7583 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:46:56.8044 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-21 16:46:56.8128 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:47:26.8303 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-21 16:47:26.8618 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:47:26.9742 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-21 16:47:26.9822 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:48:27.0033 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 27
+2018-05-21 16:48:27.0364 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-21 16:52:46.0615 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_21_16_52_46\Temperature Log.csv
+2018-05-21 16:52:46.2783 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-21 16:52:46.3058 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:52:46.4275 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-21 16:52:46.4427 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:52:56.4593 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-21 16:52:56.4794 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:52:56.5264 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-21 16:52:56.5264 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:53:26.5604 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-21 16:53:26.5875 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 16:53:26.6317 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-21 16:53:26.6417 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 16:54:26.6614 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 27
+2018-05-21 16:54:26.6915 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-21 17:09:10.8456 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_21_17_09_10\Temperature Log.csv
+2018-05-21 17:09:11.0912 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-21 17:09:11.1213 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 17:09:11.2206 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-21 17:09:11.2316 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 17:09:21.2574 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-21 17:09:21.2935 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 17:09:21.4579 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-21 17:09:21.4789 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 17:09:51.5155 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-21 17:09:51.5416 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-21 17:09:51.6047 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-21 17:09:51.6278 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-21 17:10:51.6479 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 27
+2018-05-21 17:10:51.6609 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-21 17:11:29.1557 DEBUG ReadCmd, got an exception: Access to the port is denied.
+2018-05-21 17:11:29.1808 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 17:11:29.1998 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 17:36:49.4982 DEBUG ----- Starting -----
+2018-05-21 17:37:18.0340 DEBUG ----- Starting -----
+2018-05-21 17:37:25.8778 DEBUG ----- Starting -----
+2018-05-21 17:38:51.5620 DEBUG ----- Starting -----
+2018-05-21 17:40:06.3668 DEBUG ----- Starting -----
+2018-05-21 17:43:15.1480 DEBUG ----- Starting -----
+2018-05-21 17:46:54.7996 DEBUG ----- Starting -----
+2018-05-21 17:47:51.0673 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-21 17:47:51.0864 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-21 17:47:51.1024 DEBUG ReadCmd, got an exception: The port is closed.

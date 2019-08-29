@@ -1,0 +1,398 @@
+2018-04-19 09:46:58.5749 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_09_46_58\Temperature Log.csv
+2018-04-19 09:47:03.1777 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 09:47:03.2077 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 09:47:35.9927 DEBUG ----- Starting -----
+2018-04-19 09:48:36.5449 ERROR Configuration::Load Caught an exception; Could not find file 'C:\HelixGen\Protocols\.xml'.
+2018-04-19 09:48:36.5600 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_09_48_36\Temperature Log.csv
+2018-04-19 09:48:45.5134 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 09:48:45.5534 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 09:49:32.7543 ERROR Configuration::Load Caught an exception; Could not find file 'C:\HelixGen\Protocols\.xml'.
+2018-04-19 09:49:32.7743 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_09_49_32\Temperature Log.csv
+2018-04-19 09:49:37.4643 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 09:49:37.4943 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 10:25:56.9875 DEBUG ----- Starting -----
+2018-04-19 10:25:57.8376 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 10:25:57.8376 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 10:26:14.2778 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 10:26:14.3076 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 10:26:14.9976 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 10:26:26.5892 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_26_26\Temperature Log.csv
+2018-04-19 10:27:31.8982 DEBUG ----- Starting -----
+2018-04-19 10:27:43.2951 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_27_43\Temperature Log.csv
+2018-04-19 10:27:45.4568 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-04-19 10:27:45.4568 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-04-19 10:27:55.8255 DEBUG Executing the action: HelixGen.Model.pumpAction
+2018-04-19 10:27:57.5103 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-04-19 10:28:09.6976 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-04-19 10:40:12.9574 DEBUG ----- Starting -----
+2018-04-19 10:40:14.5074 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 10:40:25.4146 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_40_25\Temperature Log.csv
+2018-04-19 10:40:48.6945 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 10:40:48.7099 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:40:53.1581 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 10:40:53.1681 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 10:41:21.3981 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 10:41:21.4081 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 10:41:26.4981 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 10:41:35.9381 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 10:41:35.9481 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:41:39.3781 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:41:39.4081 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:52:19.6614 DEBUG ----- Starting -----
+2018-04-19 10:52:20.5339 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 10:52:20.5539 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 10:52:58.6640 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 10:52:58.6839 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 10:53:11.4249 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_53_11\Temperature Log.csv
+2018-04-19 10:53:13.5949 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 10:53:13.6049 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:53:14.2149 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 10:53:14.2449 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 10:53:42.4948 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 10:53:42.5148 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 10:53:47.6348 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 10:53:57.0948 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 10:53:57.1048 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:54:00.5248 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:54:00.5548 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:54:19.1926 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_54_19\Temperature Log.csv
+2018-04-19 10:54:21.0335 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 10:54:21.0475 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:54:21.3081 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 10:54:21.3081 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 10:54:21.3381 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 10:54:21.3381 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 10:54:21.3681 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 10:54:21.4081 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 10:54:21.4181 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:54:24.8581 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:54:24.8981 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:54:34.8641 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_54_34\Temperature Log.csv
+2018-04-19 10:54:37.3225 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 10:54:37.3225 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:54:37.5862 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 10:54:37.6062 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 10:54:37.6362 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 10:54:37.6362 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 10:54:37.6662 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 10:54:37.6862 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 10:54:37.6962 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:54:41.0862 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:54:41.1162 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:54:59.0093 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_54_58\Temperature Log.csv
+2018-04-19 10:55:00.6085 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 10:55:00.6185 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:55:00.8785 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 10:55:00.8885 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 10:55:00.9185 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 10:55:00.9185 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 10:55:00.9385 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 10:55:00.9585 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 10:55:00.9685 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:55:04.3985 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:55:04.4385 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:57:13.2340 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_57_06\Temperature Log.csv
+2018-04-19 10:57:24.6172 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 10:57:24.6343 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:57:24.8835 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 10:57:24.9035 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 10:57:24.9335 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 10:57:24.9335 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 10:57:24.9835 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 10:57:25.0035 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 10:57:25.0135 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:57:28.4135 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:57:34.4031 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:58:09.3404 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_10_58_09\Temperature Log.csv
+2018-04-19 10:58:11.4921 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 10:58:11.5021 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:58:11.7621 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 10:58:11.7621 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 10:58:11.8121 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 10:58:11.8221 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 10:58:11.8521 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 10:58:11.8721 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 10:58:11.8721 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 10:58:15.2803 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 10:58:15.3102 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 11:00:04.6977 DEBUG ----- Starting -----
+2018-04-19 11:00:05.5529 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 11:00:05.5729 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 11:00:43.9828 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 11:00:44.0028 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 11:00:44.7728 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 11:01:10.5677 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_01_10\Temperature Log.csv
+2018-04-19 11:01:12.1531 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 11:01:12.1531 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 11:01:12.7631 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 11:01:12.7631 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 11:01:41.0231 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 11:01:41.0331 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 11:01:46.1131 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 11:01:55.5931 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 11:01:55.6031 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 11:01:59.0331 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 11:01:59.0830 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 11:20:20.7651 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_20_20\Temperature Log.csv
+2018-04-19 11:20:22.7401 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 11:20:22.7501 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 11:20:23.3401 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 11:20:23.3601 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 11:20:51.6200 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 11:20:51.6200 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 11:20:56.7101 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 11:21:06.1700 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 11:21:06.1900 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 11:21:09.5800 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 11:21:09.6100 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 11:44:57.1397 DEBUG ----- Starting -----
+2018-04-19 11:45:13.0694 DEBUG ----- Starting -----
+2018-04-19 11:46:11.5366 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_46_11\Temperature Log.csv
+2018-04-19 11:46:16.6593 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:46:16.6993 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:46:27.8360 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_46_27\Temperature Log.csv
+2018-04-19 11:46:31.9883 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:46:32.0377 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:46:42.4136 DEBUG ----- Starting -----
+2018-04-19 11:46:55.3900 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_46_55\Temperature Log.csv
+2018-04-19 11:46:59.5741 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:46:59.5941 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:47:24.8918 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_47_24\Temperature Log.csv
+2018-04-19 11:49:30.0379 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:49:30.0779 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:54:34.9684 DEBUG ----- Starting -----
+2018-04-19 11:54:51.6780 DEBUG ----- Starting -----
+2018-04-19 11:55:45.6163 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_55_31\Temperature Log.csv
+2018-04-19 11:55:59.2078 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:56:21.6228 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:58:05.6134 DEBUG ----- Starting -----
+2018-04-19 11:58:18.4277 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_58_18\Temperature Log.csv
+2018-04-19 11:58:23.3213 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:58:23.4013 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:58:41.5618 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_58_41\Temperature Log.csv
+2018-04-19 11:58:45.6487 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:58:45.6787 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:59:13.2348 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_59_13\Temperature Log.csv
+2018-04-19 11:59:20.0993 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:59:24.4600 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:59:31.9131 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_11_59_31\Temperature Log.csv
+2018-04-19 11:59:35.1193 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 11:59:39.4506 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-19 13:02:29.9176 DEBUG ----- Starting -----
+2018-04-19 13:02:42.1056 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_13_02_42\Temperature Log.csv
+2018-04-19 13:02:42.1256 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 13:02:42.1356 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:02:42.7256 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 13:02:42.7456 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 13:03:10.9855 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 13:03:11.0155 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 13:03:16.1357 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 13:03:25.5855 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 13:03:25.6255 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:03:29.1355 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:03:39.1775 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:04:10.1970 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_13_04_10\Temperature Log.csv
+2018-04-19 13:04:10.2170 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 13:04:10.2170 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:04:10.4871 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 13:04:10.4970 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 13:04:10.5270 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 13:04:10.5270 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 13:04:10.5470 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 13:04:10.5670 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 13:04:10.5770 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:04:14.0530 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:04:16.6560 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:04:32.3544 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_13_04_32\Temperature Log.csv
+2018-04-19 13:04:32.3744 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 13:04:32.3844 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:04:32.6544 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 13:04:32.6744 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 13:04:32.6944 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 13:04:32.7144 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 13:04:32.7144 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 13:04:32.7644 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 13:04:32.7744 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:04:36.2461 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:04:38.4158 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:04:56.1927 DEBUG ----- Starting -----
+2018-04-19 13:04:56.9645 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 13:04:56.9645 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 13:05:35.1344 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 13:05:35.1645 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 13:05:35.8546 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 13:05:49.0362 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_13_05_49\Temperature Log.csv
+2018-04-19 13:05:49.0562 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 13:05:49.0562 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:05:49.6762 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 13:05:49.7162 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 13:06:17.9266 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 13:06:17.9566 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 13:06:23.0966 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 13:06:32.5665 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 13:06:32.5965 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:06:36.1065 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:07:36.3492 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:07:42.6228 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_13_07_42\Temperature Log.csv
+2018-04-19 13:07:42.6439 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 13:07:42.6491 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:07:42.9291 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 13:07:42.9591 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 13:07:43.0691 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 13:07:43.0991 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 13:07:43.1391 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 13:07:43.1693 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 13:07:43.1881 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:07:46.6665 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:07:48.3219 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:08:46.9561 DEBUG ----- Starting -----
+2018-04-19 13:08:47.8492 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 13:08:47.8692 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 13:09:26.1893 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 13:09:26.2291 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 13:09:26.9193 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 13:09:55.4657 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_13_09_55\Temperature Log.csv
+2018-04-19 13:09:55.4857 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 13:09:55.4957 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:09:56.1037 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 13:09:56.1313 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 13:10:24.3967 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 13:10:24.4267 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 13:10:29.5167 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 13:10:38.9667 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 13:10:38.9867 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 13:10:42.4966 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 13:10:57.4386 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 14:47:53.2374 DEBUG ----- Starting -----
+2018-04-19 14:47:54.1301 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 14:47:54.1501 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 14:48:32.2801 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 14:48:32.3201 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 14:48:45.0954 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_14_48_45\Temperature Log.csv
+2018-04-19 14:48:45.1154 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 14:48:45.1254 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 14:49:09.6151 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 14:49:09.6251 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 14:49:37.8622 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 14:49:37.8922 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 14:49:43.0123 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 14:49:52.5722 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 14:49:52.6222 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 14:52:22.7252 DEBUG ----- Starting -----
+2018-04-19 14:52:23.6114 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 14:52:23.6414 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 14:53:01.8314 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 14:53:01.8514 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 14:54:24.2594 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_14_54_24\Temperature Log.csv
+2018-04-19 14:54:24.6094 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 14:54:24.6394 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 14:54:26.0833 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 14:54:26.1133 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 14:54:54.3234 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 14:54:54.3433 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 14:54:59.4035 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 14:55:08.9333 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 14:55:08.9533 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 14:55:15.8200 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 14:55:18.7677 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 14:57:42.7871 DEBUG ----- Starting -----
+2018-04-19 14:57:43.6524 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 14:57:43.6704 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 14:58:21.7603 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 14:58:21.7904 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 14:58:57.0927 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_14_58_57\Temperature Log.csv
+2018-04-19 14:58:57.1137 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 14:58:57.1233 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 15:00:20.3424 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 15:00:20.3624 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 15:00:48.6325 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 15:00:48.6724 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 15:00:53.8123 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 15:04:58.1685 DEBUG ----- Starting -----
+2018-04-19 15:04:58.9726 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 15:04:59.0097 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 15:05:37.3810 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 15:05:37.4210 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 15:09:24.4936 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_15_09_24\Temperature Log.csv
+2018-04-19 15:09:24.5128 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 15:09:24.5128 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 15:14:13.0274 DEBUG ----- Starting -----
+2018-04-19 15:27:17.6976 DEBUG ----- Starting -----
+2018-04-19 15:27:19.0677 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 15:41:12.4495 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_15_41_12\Temperature Log.csv
+2018-04-19 15:41:12.4695 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 15:41:12.4795 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 15:41:30.4950 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 15:41:30.4950 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 15:42:10.5871 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 15:42:10.5871 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 15:42:19.8418 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 15:42:33.9382 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 15:42:33.9481 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 15:42:41.6463 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 15:42:44.3373 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 15:44:07.3995 DEBUG ----- Starting -----
+2018-04-19 15:44:08.2697 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 15:44:08.2798 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 15:44:46.3998 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 15:44:46.4397 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 15:44:47.0999 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 15:45:00.6708 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_15_45_00\Temperature Log.csv
+2018-04-19 15:45:00.6808 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 15:45:00.6808 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 15:45:01.2910 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 15:45:01.2910 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 15:45:29.5808 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 15:45:29.6108 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 15:45:34.6708 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 15:45:44.1208 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 15:45:44.1608 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 15:45:47.6708 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 15:45:47.7107 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 16:02:47.3553 DEBUG ----- Starting -----
+2018-04-19 16:02:48.0922 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 16:02:48.1083 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 16:03:26.3073 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 16:03:26.3434 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 16:04:05.2227 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_16_04_05\Temperature Log.csv
+2018-04-19 16:04:05.2396 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 16:04:05.2547 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 16:04:05.8576 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 16:04:05.8936 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 16:04:34.1537 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 16:04:34.1868 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 16:04:39.2888 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 16:04:48.7858 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 16:04:48.8199 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 16:04:52.3160 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 16:04:52.3502 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 16:05:29.3721 DEBUG ----- Starting -----
+2018-04-19 16:05:30.3097 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 16:05:30.3397 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 16:06:08.6098 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-19 16:06:08.6396 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2018-04-19 16:12:11.1896 DEBUG ----- Starting -----
+2018-04-19 16:14:27.0141 DEBUG ----- Starting -----
+2018-04-19 16:14:59.0414 DEBUG ----- Starting -----
+2018-04-19 16:15:29.4859 DEBUG ----- Starting -----
+2018-04-19 16:15:41.5399 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_19_16_15_41\Temperature Log.csv
+2018-04-19 16:15:41.5399 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-04-19 16:15:41.5599 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 16:15:42.1601 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-04-19 16:15:42.1999 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-04-19 16:16:10.4699 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-04-19 16:16:10.5198 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-04-19 16:16:15.6300 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-04-19 16:16:25.1300 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2018-04-19 16:16:25.1698 DEBUG Executing the action: HelixGen.Model.sliderAction
+2018-04-19 16:16:28.6898 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 16:16:28.7498 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-04-19 16:22:44.3965 DEBUG ----- Starting -----
+2018-04-19 16:22:48.9283 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-19 16:22:48.9483 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-19 16:24:14.2362 DEBUG ----- Starting -----
+2018-04-19 16:24:30.6813 DEBUG ----- Starting -----
+2018-04-19 16:24:33.6685 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-19 16:25:42.4532 DEBUG ----- Starting -----
+2018-04-19 16:26:26.0340 DEBUG ----- Starting -----
+2018-04-19 16:39:41.9507 DEBUG ----- Starting -----

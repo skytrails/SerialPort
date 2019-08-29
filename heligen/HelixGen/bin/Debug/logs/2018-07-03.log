@@ -1,0 +1,2217 @@
+2018-07-03 09:12:28.3455 DEBUG ----- Starting -----
+2018-07-03 09:12:46.3720 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_12_46\Temperature Log.csv
+2018-07-03 09:12:46.6720 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:12:46.6720 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:12:46.6920 DEBUG Setting the temperature to 45
+2018-07-03 09:12:46.8520 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:12:46.9820 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30.063 to temp is 95
+2018-07-03 09:12:46.9820 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 30.063 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-03 09:12:47.0620 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-03 09:12:47.1220 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:12:47.1920 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:12:47.2520 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:12:47.2821 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:12:52.8220 DEBUG At temperature.
+2018-07-03 09:12:52.8320 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:12:53.0220 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:12:53.1020 DEBUG Setting the temperature to 85
+2018-07-03 09:12:53.1620 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:12:53.2320 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_12_46\Melt Curve logging.csv
+2018-07-03 09:12:53.3921 DEBUG In meltcurve, curTemp = 44.6940002441406
+2018-07-03 09:12:56.8122 DEBUG In meltcurve, curTemp = 44.5110015869141
+2018-07-03 09:13:00.3120 DEBUG In meltcurve, curTemp = 44.757999420166
+2018-07-03 09:13:03.7720 DEBUG In meltcurve, curTemp = 44.9609985351563
+2018-07-03 09:13:07.1520 DEBUG In meltcurve, curTemp = 45.1730003356934
+2018-07-03 09:13:10.6920 DEBUG In meltcurve, curTemp = 45.4220008850098
+2018-07-03 09:13:14.1320 DEBUG In meltcurve, curTemp = 45.5209999084473
+2018-07-03 09:13:17.5320 DEBUG In meltcurve, curTemp = 45.8409996032715
+2018-07-03 09:13:20.9720 DEBUG In meltcurve, curTemp = 45.9339981079102
+2018-07-03 09:13:24.4520 DEBUG In meltcurve, curTemp = 46.2859992980957
+2018-07-03 09:13:27.9820 DEBUG In meltcurve, curTemp = 46.3230018615723
+2018-07-03 09:13:31.6721 DEBUG In meltcurve, curTemp = 46.6500015258789
+2018-07-03 09:13:35.1721 DEBUG In meltcurve, curTemp = 46.882999420166
+2018-07-03 09:13:38.5620 DEBUG In meltcurve, curTemp = 47.0250015258789
+2018-07-03 09:13:42.0520 DEBUG In meltcurve, curTemp = 47.3320007324219
+2018-07-03 09:13:45.5021 DEBUG In meltcurve, curTemp = 47.4049987792969
+2018-07-03 09:13:48.9221 DEBUG In meltcurve, curTemp = 47.7369995117188
+2018-07-03 09:13:52.3121 DEBUG In meltcurve, curTemp = 47.818000793457
+2018-07-03 09:13:55.7120 DEBUG In meltcurve, curTemp = 48.1389999389648
+2018-07-03 09:13:59.2920 DEBUG In meltcurve, curTemp = 48.1969985961914
+2018-07-03 09:14:02.6920 DEBUG In meltcurve, curTemp = 48.601001739502
+2018-07-03 09:14:06.1121 DEBUG In meltcurve, curTemp = 48.6049995422363
+2018-07-03 09:14:09.5821 DEBUG In meltcurve, curTemp = 49.0099983215332
+2018-07-03 09:14:12.9422 DEBUG In meltcurve, curTemp = 49.0110015869141
+2018-07-03 09:14:16.2920 DEBUG In meltcurve, curTemp = 49.4179992675781
+2018-07-03 09:14:19.7820 DEBUG In meltcurve, curTemp = 49.4220008850098
+2018-07-03 09:14:23.1322 DEBUG In meltcurve, curTemp = 49.8250007629395
+2018-07-03 09:14:26.5721 DEBUG In meltcurve, curTemp = 49.826000213623
+2018-07-03 09:14:29.9521 DEBUG In meltcurve, curTemp = 50.2280006408691
+2018-07-03 09:14:33.3121 DEBUG In meltcurve, curTemp = 50.242000579834
+2018-07-03 09:14:36.7821 DEBUG In meltcurve, curTemp = 50.6549987792969
+2018-07-03 09:14:40.1822 DEBUG In meltcurve, curTemp = 50.6389999389648
+2018-07-03 09:14:43.6221 DEBUG In meltcurve, curTemp = 51.0540008544922
+2018-07-03 09:14:47.0721 DEBUG In meltcurve, curTemp = 51.0519981384277
+2018-07-03 09:14:50.6021 DEBUG In meltcurve, curTemp = 51.4749984741211
+2018-07-03 09:14:53.9721 DEBUG In meltcurve, curTemp = 51.4529991149902
+2018-07-03 09:14:57.4621 DEBUG In meltcurve, curTemp = 51.8950004577637
+2018-07-03 09:15:00.9221 DEBUG In meltcurve, curTemp = 51.8819999694824
+2018-07-03 09:15:04.3921 DEBUG In meltcurve, curTemp = 52.3030014038086
+2018-07-03 09:15:07.8957 DEBUG In meltcurve, curTemp = 52.3050003051758
+2018-07-03 09:15:11.3458 DEBUG In meltcurve, curTemp = 52.6769981384277
+2018-07-03 09:15:14.7659 DEBUG In meltcurve, curTemp = 52.7270011901855
+2018-07-03 09:15:18.3257 DEBUG In meltcurve, curTemp = 53.0229988098145
+2018-07-03 09:15:21.8957 DEBUG In meltcurve, curTemp = 53.2789993286133
+2018-07-03 09:15:25.3458 DEBUG In meltcurve, curTemp = 53.3709983825684
+2018-07-03 09:15:28.7958 DEBUG In meltcurve, curTemp = 53.7070007324219
+2018-07-03 09:15:32.2157 DEBUG In meltcurve, curTemp = 53.814998626709
+2018-07-03 09:17:30.1940 DEBUG ----- Starting -----
+2018-07-03 09:17:44.4676 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_17_44\Temperature Log.csv
+2018-07-03 09:17:44.6952 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:17:44.7052 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:17:44.7142 DEBUG Setting the temperature to 45
+2018-07-03 09:17:44.9078 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:17:44.9719 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:17:44.9719 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:17:44.9849 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:17:45.1005 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:17:45.1636 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:17:45.1950 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:17:45.2272 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:17:56.9859 DEBUG At temperature.
+2018-07-03 09:17:57.0030 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:17:57.0521 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:17:57.1003 DEBUG Setting the temperature to 85
+2018-07-03 09:17:57.1163 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:17:57.1504 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_17_44\Melt Curve logging.csv
+2018-07-03 09:17:57.4361 DEBUG In meltcurve, curTemp = 45.3019981384277
+2018-07-03 09:18:01.4789 DEBUG In meltcurve, curTemp = 46.0499992370605
+2018-07-03 09:18:05.2986 DEBUG In meltcurve, curTemp = 46.2280006408691
+2018-07-03 09:18:09.1657 DEBUG In meltcurve, curTemp = 46.4259986877441
+2018-07-03 09:18:13.0173 DEBUG In meltcurve, curTemp = 46.6310005187988
+2018-07-03 09:18:17.0118 DEBUG In meltcurve, curTemp = 46.8339996337891
+2018-07-03 09:18:20.9111 DEBUG In meltcurve, curTemp = 46.9749984741211
+2018-07-03 09:18:24.8892 DEBUG In meltcurve, curTemp = 47.0870018005371
+2018-07-03 09:18:28.6930 DEBUG In meltcurve, curTemp = 47.1860008239746
+2018-07-03 09:18:32.6555 DEBUG In meltcurve, curTemp = 47.2890014648438
+2018-07-03 09:18:36.4593 DEBUG In meltcurve, curTemp = 47.390998840332
+2018-07-03 09:18:40.4692 DEBUG In meltcurve, curTemp = 47.5060005187988
+2018-07-03 09:20:41.3637 DEBUG ----- Starting -----
+2018-07-03 09:20:55.9338 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_20_55\Temperature Log.csv
+2018-07-03 09:20:56.2038 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:20:56.2038 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:20:56.2238 DEBUG Setting the temperature to 45
+2018-07-03 09:20:56.3938 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:20:56.4238 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:20:56.4338 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:20:56.4338 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:20:56.4739 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:20:56.5039 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:20:56.5439 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:20:56.5740 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:21:08.4638 DEBUG At temperature.
+2018-07-03 09:21:08.4738 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:21:08.5238 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:21:08.5738 DEBUG Setting the temperature to 85
+2018-07-03 09:21:08.5738 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:21:08.6238 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_20_55\Melt Curve logging.csv
+2018-07-03 09:21:08.8738 DEBUG In meltcurve, curTemp = 45.375
+2018-07-03 09:21:24.7640 DEBUG In meltcurve, curTemp = 46.310001373291
+2018-07-03 09:21:40.6138 DEBUG In meltcurve, curTemp = 46.8409996032715
+2018-07-03 09:21:56.6238 DEBUG In meltcurve, curTemp = 47.3269996643066
+2018-07-03 09:22:12.5138 DEBUG In meltcurve, curTemp = 47.9119987487793
+2018-07-03 09:32:33.2438 DEBUG ----- Starting -----
+2018-07-03 09:33:04.3320 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_33_04\Temperature Log.csv
+2018-07-03 09:33:04.5820 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:33:04.5920 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:33:04.5920 DEBUG Setting the temperature to 45
+2018-07-03 09:33:04.9221 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:33:05.0620 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:33:05.0620 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:33:05.0820 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:33:05.1120 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:33:05.1422 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:33:05.1722 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:33:05.2022 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:33:19.1821 DEBUG At temperature.
+2018-07-03 09:33:19.2021 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:33:19.2821 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:33:19.4321 DEBUG Setting the temperature to 85
+2018-07-03 09:33:19.4921 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:33:19.5221 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_33_04\Melt Curve logging.csv
+2018-07-03 09:33:19.7021 DEBUG In meltcurve, curTemp = 45.5019989013672
+2018-07-03 09:33:40.8222 DEBUG In meltcurve, curTemp = 47.181999206543
+2018-07-03 09:34:01.8921 DEBUG In meltcurve, curTemp = 48.3380012512207
+2018-07-03 09:34:22.8822 DEBUG In meltcurve, curTemp = 49.3240013122559
+2018-07-03 09:34:43.9921 DEBUG In meltcurve, curTemp = 50.0660018920898
+2018-07-03 09:35:26.5440 DEBUG ----- Starting -----
+2018-07-03 09:35:53.6176 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_35_53\Temperature Log.csv
+2018-07-03 09:35:53.8576 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:35:53.8576 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:35:53.8776 DEBUG Setting the temperature to 45
+2018-07-03 09:35:53.9776 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:35:54.0076 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:35:54.0176 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:35:54.0276 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:35:54.1876 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:35:54.2177 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:35:54.2477 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:35:54.4076 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:36:07.0077 DEBUG At temperature.
+2018-07-03 09:36:07.0176 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:36:07.0976 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:36:07.1776 DEBUG Setting the temperature to 85
+2018-07-03 09:36:07.2277 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:36:07.2576 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_35_53\Melt Curve logging.csv
+2018-07-03 09:36:07.6077 DEBUG In meltcurve, curTemp = 45.375
+2018-07-03 09:36:28.7177 DEBUG In meltcurve, curTemp = 47.1119995117188
+2018-07-03 09:36:49.6678 DEBUG In meltcurve, curTemp = 48.2509994506836
+2018-07-03 09:37:10.6079 DEBUG In meltcurve, curTemp = 48.9990005493164
+2018-07-03 09:37:31.6477 DEBUG In meltcurve, curTemp = 49.7709999084473
+2018-07-03 09:38:07.0381 DEBUG ----- Starting -----
+2018-07-03 09:38:33.9250 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_38_33\Temperature Log.csv
+2018-07-03 09:38:34.1850 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:38:34.1850 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:38:34.2050 DEBUG Setting the temperature to 45
+2018-07-03 09:38:34.4450 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:38:34.5051 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:38:34.5150 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:38:34.5150 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:38:34.5550 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:38:34.5852 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:38:34.6152 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:38:34.6551 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:38:48.6150 DEBUG At temperature.
+2018-07-03 09:38:48.6350 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:38:48.7250 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:38:48.7750 DEBUG Setting the temperature to 85
+2018-07-03 09:38:48.7950 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:38:48.8250 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_38_33\Melt Curve logging.csv
+2018-07-03 09:38:49.0650 DEBUG In meltcurve, curTemp = 45.4640007019043
+2018-07-03 09:39:10.2750 DEBUG In meltcurve, curTemp = 46.9570007324219
+2018-07-03 09:39:31.2650 DEBUG In meltcurve, curTemp = 48.0620002746582
+2018-07-03 09:39:52.3650 DEBUG In meltcurve, curTemp = 48.7890014648438
+2018-07-03 09:40:13.3806 DEBUG In meltcurve, curTemp = 49.5719985961914
+2018-07-03 09:40:34.4558 DEBUG In meltcurve, curTemp = 50.451000213623
+2018-07-03 09:40:55.6420 DEBUG In meltcurve, curTemp = 51.4039993286133
+2018-07-03 09:41:23.1138 DEBUG ----- Starting -----
+2018-07-03 09:41:49.6172 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_41_49\Temperature Log.csv
+2018-07-03 09:41:49.8871 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:41:49.8871 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:41:49.9071 DEBUG Setting the temperature to 45
+2018-07-03 09:41:49.9971 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:41:50.0272 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:41:50.0272 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:41:50.0472 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:41:50.0772 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:41:50.2371 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:41:50.3971 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:41:50.4771 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:41:57.1785 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_41_57\Temperature Log.csv
+2018-07-03 09:41:57.4285 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:41:57.4385 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:41:57.4485 DEBUG Setting the temperature to 45
+2018-07-03 09:41:57.5285 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:42:02.6664 DEBUG At temperature.
+2018-07-03 09:42:02.7064 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:42:02.8264 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:42:02.9264 DEBUG Setting the temperature to 85
+2018-07-03 09:42:02.9864 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:42:03.0564 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_41_57\Melt Curve logging.csv
+2018-07-03 09:42:03.0664 DEBUG At temperature.
+2018-07-03 09:42:03.0864 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:42:03.2464 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:42:03.3064 DEBUG In meltcurve, curTemp = 45.3889999389648
+2018-07-03 09:42:03.3364 DEBUG Setting the temperature to 85
+2018-07-03 09:42:03.4064 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:42:03.5364 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_41_57\Melt Curve logging.csv
+2018-07-03 09:42:03.6964 DEBUG Protocol::Execute caught an exception: The process cannot access the file 'C:\HelixGen\Logs\Measurement\2018_07_03_09_41_57\Melt Curve logging.csv' because it is being used by another process.
+2018-07-03 09:42:23.4265 DEBUG Protocol: Execute stopping the script.
+2018-07-03 09:42:38.5080 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_42_38\Temperature Log.csv
+2018-07-03 09:42:38.7493 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:42:38.7493 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:42:38.7693 DEBUG Setting the temperature to 45
+2018-07-03 09:42:38.9293 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:42:38.9893 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:42:38.9993 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:42:38.9993 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:42:39.0693 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:42:39.1093 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:42:39.1393 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:42:39.1694 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:42:43.9895 DEBUG At temperature.
+2018-07-03 09:42:44.0193 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:42:44.1693 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:42:44.2193 DEBUG Setting the temperature to 85
+2018-07-03 09:42:44.3793 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:42:44.4493 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_42_38\Melt Curve logging.csv
+2018-07-03 09:42:44.6494 DEBUG In meltcurve, curTemp = 45.3230018615723
+2018-07-03 09:43:04.5493 DEBUG In meltcurve, curTemp = 46.3559989929199
+2018-07-03 09:43:24.5174 DEBUG In meltcurve, curTemp = 47.0579986572266
+2018-07-03 09:43:44.6072 DEBUG In meltcurve, curTemp = 47.8339996337891
+2018-07-03 09:44:04.6272 DEBUG In meltcurve, curTemp = 48.6829986572266
+2018-07-03 09:44:39.7706 DEBUG ----- Starting -----
+2018-07-03 09:45:04.1891 DEBUG ----- Starting -----
+2018-07-03 09:45:28.4690 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_45_28\Temperature Log.csv
+2018-07-03 09:45:28.7389 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:45:28.7489 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:45:28.7489 DEBUG Setting the temperature to 45
+2018-07-03 09:45:28.9689 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:45:28.9990 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:45:28.9990 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:45:29.0189 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:45:29.0491 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:45:29.0791 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:45:29.1190 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:45:29.1490 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:45:41.0489 DEBUG At temperature.
+2018-07-03 09:45:41.0589 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:45:41.1489 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:45:41.1989 DEBUG Setting the temperature to 85
+2018-07-03 09:45:41.1989 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:45:41.2489 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_45_28\Melt Curve logging.csv
+2018-07-03 09:45:41.4689 DEBUG In meltcurve, curTemp = 45.4529991149902
+2018-07-03 09:46:01.5689 DEBUG In meltcurve, curTemp = 47.3499984741211
+2018-07-03 09:46:21.4689 DEBUG In meltcurve, curTemp = 48.1780014038086
+2018-07-03 09:46:41.5189 DEBUG In meltcurve, curTemp = 48.8170013427734
+2018-07-03 09:47:01.4590 DEBUG In meltcurve, curTemp = 49.5900001525879
+2018-07-03 09:47:21.3790 DEBUG In meltcurve, curTemp = 50.4420013427734
+2018-07-03 09:48:05.6127 DEBUG ----- Starting -----
+2018-07-03 09:48:30.2851 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_48_30\Temperature Log.csv
+2018-07-03 09:48:30.4937 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:48:30.5047 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:48:30.5167 DEBUG Setting the temperature to 45
+2018-07-03 09:48:30.6671 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:48:30.7313 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:48:30.7313 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:48:30.7484 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:48:30.7794 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:48:30.8110 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:48:30.8424 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:48:30.8745 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:48:42.5692 DEBUG At temperature.
+2018-07-03 09:48:42.5991 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:48:42.6523 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:48:42.7004 DEBUG Setting the temperature to 85
+2018-07-03 09:48:42.7164 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:48:42.7505 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_48_30\Melt Curve logging.csv
+2018-07-03 09:48:42.9885 DEBUG In meltcurve, curTemp = 45.3390007019043
+2018-07-03 09:49:03.0590 DEBUG In meltcurve, curTemp = 47.2290000915527
+2018-07-03 09:49:23.0182 DEBUG In meltcurve, curTemp = 48.0830001831055
+2018-07-03 09:49:43.0418 DEBUG In meltcurve, curTemp = 48.7229995727539
+2018-07-03 09:50:02.9371 DEBUG In meltcurve, curTemp = 49.4809989929199
+2018-07-03 09:50:22.9071 DEBUG In meltcurve, curTemp = 50.3370018005371
+2018-07-03 09:50:43.0271 DEBUG In meltcurve, curTemp = 51.2560005187988
+2018-07-03 09:51:16.5653 DEBUG ----- Starting -----
+2018-07-03 09:52:04.3132 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_52_04\Temperature Log.csv
+2018-07-03 09:52:04.5732 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:52:04.5832 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:52:04.6032 DEBUG Setting the temperature to 45
+2018-07-03 09:52:04.6732 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:52:04.7432 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:52:04.7532 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:52:04.7632 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:52:04.8832 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:52:04.9532 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:52:05.0132 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:52:05.0432 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:52:18.7434 DEBUG At temperature.
+2018-07-03 09:52:18.7632 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:52:18.9332 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:52:19.0632 DEBUG Setting the temperature to 85
+2018-07-03 09:52:19.1832 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:52:19.2232 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_52_04\Melt Curve logging.csv
+2018-07-03 09:52:19.4932 DEBUG In meltcurve, curTemp = 45.4729995727539
+2018-07-03 09:52:39.5178 DEBUG In meltcurve, curTemp = 46.9900016784668
+2018-07-03 09:56:32.1160 DEBUG ----- Starting -----
+2018-07-03 09:57:02.4583 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_57_02\Temperature Log.csv
+2018-07-03 09:57:02.6799 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:57:02.6899 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:57:02.7020 DEBUG Setting the temperature to 45
+2018-07-03 09:57:02.8945 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:57:02.9276 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:57:02.9356 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:57:02.9356 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:57:02.9749 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:57:03.0069 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:57:03.0385 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:57:03.0708 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:57:15.9402 DEBUG At temperature.
+2018-07-03 09:57:15.9533 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:57:15.9984 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:57:16.0465 DEBUG Setting the temperature to 85
+2018-07-03 09:57:16.0626 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:57:16.0977 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_57_02\Melt Curve logging.csv
+2018-07-03 09:57:16.3824 DEBUG In meltcurve, curTemp = 45.3250007629395
+2018-07-03 09:57:36.8204 DEBUG In meltcurve, curTemp = 47.068000793457
+2018-07-03 09:58:32.6608 DEBUG ----- Starting -----
+2018-07-03 09:58:57.9295 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_09_58_57\Temperature Log.csv
+2018-07-03 09:58:58.1371 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 09:58:58.1371 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 09:58:58.1581 DEBUG Setting the temperature to 45
+2018-07-03 09:58:58.2855 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 09:58:58.4450 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 09:58:58.4530 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 09:58:58.4530 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 09:58:58.5096 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:58:58.5413 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:58:58.5734 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 09:58:58.6055 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 09:59:10.4902 DEBUG At temperature.
+2018-07-03 09:59:10.5212 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 09:59:10.6857 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 09:59:10.7659 DEBUG Setting the temperature to 85
+2018-07-03 09:59:10.7820 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 09:59:10.8170 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_09_58_57\Melt Curve logging.csv
+2018-07-03 09:59:11.0052 DEBUG In meltcurve, curTemp = 45.3580017089844
+2018-07-03 09:59:30.5656 DEBUG In meltcurve, curTemp = 47.3219985961914
+2018-07-03 09:59:50.1094 DEBUG In meltcurve, curTemp = 48.3050003051758
+2018-07-03 10:00:09.5885 DEBUG In meltcurve, curTemp = 48.9410018920898
+2018-07-03 10:00:29.1876 DEBUG In meltcurve, curTemp = 49.6520004272461
+2018-07-03 10:00:48.7076 DEBUG In meltcurve, curTemp = 50.4580001831055
+2018-07-03 10:01:08.1704 DEBUG In meltcurve, curTemp = 51.3269996643066
+2018-07-03 10:01:27.7606 DEBUG In meltcurve, curTemp = 52.2389984130859
+2018-07-03 10:01:47.1904 DEBUG In meltcurve, curTemp = 53.1710014343262
+2018-07-03 10:02:06.7204 DEBUG In meltcurve, curTemp = 54.1360015869141
+2018-07-03 10:02:26.3604 DEBUG In meltcurve, curTemp = 55.1300010681152
+2018-07-03 10:02:45.8706 DEBUG In meltcurve, curTemp = 56.1269989013672
+2018-07-03 10:03:05.4904 DEBUG In meltcurve, curTemp = 57.1440010070801
+2018-07-03 10:03:25.0106 DEBUG In meltcurve, curTemp = 58.1629981994629
+2018-07-03 10:03:48.6507 DEBUG ----- Starting -----
+2018-07-03 10:04:12.1387 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_04_12\Temperature Log.csv
+2018-07-03 10:04:12.3687 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:04:12.3787 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:04:12.3887 DEBUG Setting the temperature to 45
+2018-07-03 10:04:12.5687 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:04:12.6287 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:04:12.6387 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:04:12.6387 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:04:12.7887 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:04:12.8387 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:04:12.8687 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:04:12.8987 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:04:25.5889 DEBUG At temperature.
+2018-07-03 10:04:25.6087 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:04:25.6987 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:04:25.7687 DEBUG Setting the temperature to 85
+2018-07-03 10:04:25.7787 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:04:25.8187 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_04_12\Melt Curve logging.csv
+2018-07-03 10:04:26.0487 DEBUG In meltcurve, curTemp = 45.431999206543
+2018-07-03 10:04:45.7387 DEBUG In meltcurve, curTemp = 46.8030014038086
+2018-07-03 10:05:05.3187 DEBUG In meltcurve, curTemp = 47.6969985961914
+2018-07-03 10:05:24.8788 DEBUG In meltcurve, curTemp = 48.3230018615723
+2018-07-03 10:05:44.4488 DEBUG In meltcurve, curTemp = 49.0579986572266
+2018-07-03 10:06:04.0088 DEBUG In meltcurve, curTemp = 49.8880004882813
+2018-07-03 10:06:23.6787 DEBUG In meltcurve, curTemp = 50.7770004272461
+2018-07-03 10:06:43.2589 DEBUG In meltcurve, curTemp = 51.7080001831055
+2018-07-03 10:07:02.7888 DEBUG In meltcurve, curTemp = 52.6669998168945
+2018-07-03 10:07:22.3488 DEBUG In meltcurve, curTemp = 53.640998840332
+2018-07-03 10:07:41.8789 DEBUG In meltcurve, curTemp = 54.6300010681152
+2018-07-03 10:08:01.4788 DEBUG In meltcurve, curTemp = 55.6389999389648
+2018-07-03 10:08:21.0589 DEBUG In meltcurve, curTemp = 56.6590003967285
+2018-07-03 10:08:40.6489 DEBUG In meltcurve, curTemp = 57.6879997253418
+2018-07-03 10:09:00.1788 DEBUG In meltcurve, curTemp = 58.7190017700195
+2018-07-03 10:09:19.7090 DEBUG In meltcurve, curTemp = 59.7599983215332
+2018-07-03 10:09:39.3289 DEBUG In meltcurve, curTemp = 60.8129997253418
+2018-07-03 10:09:58.9489 DEBUG In meltcurve, curTemp = 61.875
+2018-07-03 10:10:18.6088 DEBUG In meltcurve, curTemp = 62.939998626709
+2018-07-03 10:10:38.1690 DEBUG In meltcurve, curTemp = 63.9990005493164
+2018-07-03 10:10:57.7789 DEBUG In meltcurve, curTemp = 65.0690002441406
+2018-07-03 10:11:17.2289 DEBUG In meltcurve, curTemp = 66.1259994506836
+2018-07-03 10:11:36.7691 DEBUG In meltcurve, curTemp = 67.2030029296875
+2018-07-03 10:11:56.3302 DEBUG In meltcurve, curTemp = 68.2770004272461
+2018-07-03 10:12:15.9802 DEBUG In meltcurve, curTemp = 69.3560028076172
+2018-07-03 10:12:35.4602 DEBUG In meltcurve, curTemp = 70.4359970092773
+2018-07-03 10:12:55.0602 DEBUG In meltcurve, curTemp = 71.5220031738281
+2018-07-03 10:13:14.6602 DEBUG In meltcurve, curTemp = 72.6100006103516
+2018-07-03 10:13:34.1904 DEBUG In meltcurve, curTemp = 73.6989974975586
+2018-07-03 10:13:53.8302 DEBUG In meltcurve, curTemp = 74.7959976196289
+2018-07-03 10:14:13.3402 DEBUG In meltcurve, curTemp = 75.8820037841797
+2018-07-03 10:14:33.1802 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 60
+2018-07-03 10:14:33.1902 DEBUG Executing the action: HelixGen.Model.overTempAction
+2018-07-03 10:14:33.2002 DEBUG gotoTempAndStay: temperature = 25 time = 0 ms
+2018-07-03 10:14:33.3202 DEBUG Setting the temperature to 25
+2018-07-03 10:14:33.3802 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2018-07-03 10:14:33.4302 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 25
+2018-07-03 10:14:33.4402 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:14:33.4502 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:14:33.4802 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:14:33.5102 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:14:33.5402 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:14:33.5702 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:14:49.4903 DEBUG gotoTempAndStay: at temperature = 25, sleeping ...
+2018-07-03 10:14:49.5002 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-03 10:14:55.5302 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 61
+2018-07-03 10:14:55.5602 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-07-03 10:14:55.5802 DEBUG gotoTempAndStay: temperature = 40 time = 0 ms
+2018-07-03 10:14:55.6002 DEBUG Setting the temperature to 40
+2018-07-03 10:14:55.6602 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2018-07-03 10:14:59.7404 DEBUG At temperature.
+2018-07-03 10:14:59.7802 DEBUG gotoTempAndStay: at temperature = 40, sleeping ...
+2018-07-03 10:14:59.8003 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-03 10:15:00.8302 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 63
+2018-07-03 10:15:00.8603 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-07-03 10:17:58.7987 DEBUG ----- Starting -----
+2018-07-03 10:18:17.3704 DEBUG ----- Starting -----
+2018-07-03 10:18:41.6430 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_18_41\Temperature Log.csv
+2018-07-03 10:18:41.9530 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:18:41.9530 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:18:41.9730 DEBUG Setting the temperature to 45
+2018-07-03 10:18:42.0930 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:18:42.1530 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 41.956 to temp is 95
+2018-07-03 10:18:42.1530 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 41.956 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-03 10:18:42.1730 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-03 10:18:42.2030 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:18:42.2330 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:18:42.2630 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:18:42.3032 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:18:46.1932 DEBUG At temperature.
+2018-07-03 10:18:46.2330 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:18:46.2730 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:18:46.3230 DEBUG Setting the temperature to 85
+2018-07-03 10:18:46.3430 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:18:46.3730 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_18_41\Melt Curve logging.csv
+2018-07-03 10:18:46.5830 DEBUG In meltcurve, curTemp = 45.1240005493164
+2018-07-03 10:19:06.2230 DEBUG In meltcurve, curTemp = 46.1529998779297
+2018-07-03 10:19:29.9644 DEBUG ----- Starting -----
+2018-07-03 10:19:53.0751 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_19_53\Temperature Log.csv
+2018-07-03 10:19:53.3251 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:19:53.3251 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:19:53.3451 DEBUG Setting the temperature to 45
+2018-07-03 10:19:53.4951 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:19:53.5551 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:19:53.5651 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:19:53.5751 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:19:53.6052 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:19:53.6352 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:19:53.6652 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:19:53.7151 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:20:05.6553 DEBUG At temperature.
+2018-07-03 10:20:05.6851 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:20:05.8351 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:20:05.9151 DEBUG Setting the temperature to 85
+2018-07-03 10:20:05.9751 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:20:06.0051 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_19_53\Melt Curve logging.csv
+2018-07-03 10:20:06.2151 DEBUG In meltcurve, curTemp = 45.273998260498
+2018-07-03 10:20:13.8051 DEBUG In meltcurve, curTemp = 46.0309982299805
+2018-07-03 10:20:21.3151 DEBUG In meltcurve, curTemp = 46.4140014648438
+2018-07-03 10:20:28.8452 DEBUG In meltcurve, curTemp = 46.8129997253418
+2018-07-03 10:20:36.2853 DEBUG In meltcurve, curTemp = 47.1399993896484
+2018-07-03 10:20:44.0052 DEBUG In meltcurve, curTemp = 47.3740005493164
+2018-07-03 10:20:51.6251 DEBUG In meltcurve, curTemp = 47.601001739502
+2018-07-03 10:20:59.2651 DEBUG In meltcurve, curTemp = 47.8440017700195
+2018-07-03 10:21:06.7951 DEBUG In meltcurve, curTemp = 48.1110000610352
+2018-07-03 10:21:14.3251 DEBUG In meltcurve, curTemp = 48.4020004272461
+2018-07-03 10:21:21.8751 DEBUG In meltcurve, curTemp = 48.6660003662109
+2018-07-03 10:21:29.5151 DEBUG In meltcurve, curTemp = 48.9889984130859
+2018-07-03 10:21:36.9952 DEBUG In meltcurve, curTemp = 49.3190002441406
+2018-07-03 10:21:44.6052 DEBUG In meltcurve, curTemp = 49.6710014343262
+2018-07-03 10:21:50.8485 DEBUG ----- Starting -----
+2018-07-03 10:22:21.1111 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_22_21\Temperature Log.csv
+2018-07-03 10:22:21.3386 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:22:21.3486 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:22:21.3586 DEBUG Setting the temperature to 45
+2018-07-03 10:22:21.5786 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:22:21.6486 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:22:21.6586 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:22:21.6586 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:22:21.6986 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:22:21.8186 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:22:21.8686 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:22:21.8986 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:22:33.7386 DEBUG At temperature.
+2018-07-03 10:22:33.7586 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:22:33.8586 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:22:33.9386 DEBUG Setting the temperature to 85
+2018-07-03 10:22:34.0986 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:22:34.1586 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_22_21\Melt Curve logging.csv
+2018-07-03 10:22:34.3488 DEBUG In meltcurve, curTemp = 45.5120010375977
+2018-07-03 10:22:41.9386 DEBUG In meltcurve, curTemp = 46.4910011291504
+2018-07-03 10:22:49.4786 DEBUG In meltcurve, curTemp = 46.8759994506836
+2018-07-03 10:22:57.0286 DEBUG In meltcurve, curTemp = 47.273998260498
+2018-07-03 10:23:04.5724 DEBUG In meltcurve, curTemp = 47.6860008239746
+2018-07-03 10:23:12.0923 DEBUG In meltcurve, curTemp = 47.9980010986328
+2018-07-03 10:23:19.6424 DEBUG In meltcurve, curTemp = 48.2319984436035
+2018-07-03 10:23:27.1523 DEBUG In meltcurve, curTemp = 48.4609985351563
+2018-07-03 10:23:34.6123 DEBUG In meltcurve, curTemp = 48.7060012817383
+2018-07-03 10:23:42.1523 DEBUG In meltcurve, curTemp = 48.9720001220703
+2018-07-03 10:23:49.6623 DEBUG In meltcurve, curTemp = 49.2529983520508
+2018-07-03 10:23:57.2423 DEBUG In meltcurve, curTemp = 49.5550003051758
+2018-07-03 10:24:04.7523 DEBUG In meltcurve, curTemp = 49.8639984130859
+2018-07-03 10:24:12.3723 DEBUG In meltcurve, curTemp = 50.189998626709
+2018-07-03 10:24:19.8825 DEBUG In meltcurve, curTemp = 50.5209999084473
+2018-07-03 10:24:27.4723 DEBUG In meltcurve, curTemp = 50.8650016784668
+2018-07-03 10:24:34.8725 DEBUG In meltcurve, curTemp = 51.2080001831055
+2018-07-03 10:24:42.3225 DEBUG In meltcurve, curTemp = 51.5559997558594
+2018-07-03 10:24:49.8623 DEBUG In meltcurve, curTemp = 51.9169998168945
+2018-07-03 10:24:57.3124 DEBUG In meltcurve, curTemp = 52.2729988098145
+2018-07-03 10:25:04.9023 DEBUG In meltcurve, curTemp = 52.6430015563965
+2018-07-03 10:25:12.3625 DEBUG In meltcurve, curTemp = 53.0060005187988
+2018-07-03 10:25:19.9823 DEBUG In meltcurve, curTemp = 53.3819999694824
+2018-07-03 10:25:27.4825 DEBUG In meltcurve, curTemp = 53.7540016174316
+2018-07-03 10:25:34.9124 DEBUG In meltcurve, curTemp = 54.1349983215332
+2018-07-03 10:25:42.5523 DEBUG In meltcurve, curTemp = 54.5200004577637
+2018-07-03 10:25:50.0624 DEBUG In meltcurve, curTemp = 54.9029998779297
+2018-07-03 10:25:57.5823 DEBUG In meltcurve, curTemp = 55.2879981994629
+2018-07-03 10:26:05.2025 DEBUG In meltcurve, curTemp = 55.6769981384277
+2018-07-03 10:26:12.8623 DEBUG In meltcurve, curTemp = 56.0750007629395
+2018-07-03 10:26:20.4224 DEBUG In meltcurve, curTemp = 56.4640007019043
+2018-07-03 10:26:27.9023 DEBUG In meltcurve, curTemp = 56.8569984436035
+2018-07-03 10:26:35.4223 DEBUG In meltcurve, curTemp = 57.2480010986328
+2018-07-03 10:26:42.9223 DEBUG In meltcurve, curTemp = 57.6399993896484
+2018-07-03 10:26:50.4324 DEBUG In meltcurve, curTemp = 58.0320014953613
+2018-07-03 10:26:57.9536 DEBUG In meltcurve, curTemp = 58.4290008544922
+2018-07-03 10:27:05.5936 DEBUG In meltcurve, curTemp = 58.8359985351563
+2018-07-03 10:27:13.1336 DEBUG In meltcurve, curTemp = 59.2350006103516
+2018-07-03 10:27:20.7436 DEBUG In meltcurve, curTemp = 59.6430015563965
+2018-07-03 10:27:28.3036 DEBUG In meltcurve, curTemp = 60.0410003662109
+2018-07-03 10:27:35.9436 DEBUG In meltcurve, curTemp = 60.4539985656738
+2018-07-03 10:27:43.4836 DEBUG In meltcurve, curTemp = 60.8549995422363
+2018-07-03 10:28:37.1437 DEBUG ----- Starting -----
+2018-07-03 10:28:58.5000 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_28_58\Temperature Log.csv
+2018-07-03 10:28:58.7600 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:28:58.7700 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:28:58.7800 DEBUG Setting the temperature to 45
+2018-07-03 10:28:58.9700 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:28:59.0000 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:28:59.0000 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:28:59.0200 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:28:59.0500 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:28:59.0800 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:28:59.1101 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:28:59.1400 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:29:13.0902 DEBUG At temperature.
+2018-07-03 10:29:13.1100 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:29:13.2200 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:29:13.4400 DEBUG Setting the temperature to 85
+2018-07-03 10:29:13.5100 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:29:13.5600 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_28_58\Melt Curve logging.csv
+2018-07-03 10:29:13.7502 DEBUG In meltcurve, curTemp = 45.4970016479492
+2018-07-03 10:29:17.3601 DEBUG In meltcurve, curTemp = 46.1559982299805
+2018-07-03 10:29:18.9301 DEBUG In meltcurve, curTemp = 46.2350006103516
+2018-07-03 10:29:20.5401 DEBUG In meltcurve, curTemp = 46.3120002746582
+2018-07-03 10:29:22.1202 DEBUG In meltcurve, curTemp = 46.390998840332
+2018-07-03 10:29:23.6900 DEBUG In meltcurve, curTemp = 46.4710006713867
+2018-07-03 10:29:25.2501 DEBUG In meltcurve, curTemp = 46.5480003356934
+2018-07-03 10:29:26.9800 DEBUG In meltcurve, curTemp = 46.640998840332
+2018-07-03 10:29:28.5300 DEBUG In meltcurve, curTemp = 46.7179985046387
+2018-07-03 10:29:30.0900 DEBUG In meltcurve, curTemp = 46.8019981384277
+2018-07-03 10:29:31.6000 DEBUG In meltcurve, curTemp = 46.8800010681152
+2018-07-03 10:29:33.1500 DEBUG In meltcurve, curTemp = 46.9620018005371
+2018-07-03 10:29:34.6700 DEBUG In meltcurve, curTemp = 47.0400009155273
+2018-07-03 10:29:36.1700 DEBUG In meltcurve, curTemp = 47.1230010986328
+2018-07-03 10:29:37.8100 DEBUG In meltcurve, curTemp = 47.2130012512207
+2018-07-03 10:29:39.3600 DEBUG In meltcurve, curTemp = 47.2939987182617
+2018-07-03 10:29:40.9100 DEBUG In meltcurve, curTemp = 47.3800010681152
+2018-07-03 10:29:42.5400 DEBUG In meltcurve, curTemp = 47.4669990539551
+2018-07-03 10:29:44.0500 DEBUG In meltcurve, curTemp = 47.5499992370605
+2018-07-03 10:29:45.6000 DEBUG In meltcurve, curTemp = 47.6310005187988
+2018-07-03 10:29:47.1100 DEBUG In meltcurve, curTemp = 47.7169990539551
+2018-07-03 10:29:48.6600 DEBUG In meltcurve, curTemp = 47.7849998474121
+2018-07-03 10:29:50.1700 DEBUG In meltcurve, curTemp = 47.8479995727539
+2018-07-03 10:29:51.7200 DEBUG In meltcurve, curTemp = 47.9099998474121
+2018-07-03 10:29:53.2200 DEBUG In meltcurve, curTemp = 47.9640007019043
+2018-07-03 10:29:54.7700 DEBUG In meltcurve, curTemp = 48.0130004882813
+2018-07-03 10:29:56.2700 DEBUG In meltcurve, curTemp = 48.0629997253418
+2018-07-03 10:29:57.8200 DEBUG In meltcurve, curTemp = 48.1119995117188
+2018-07-03 10:29:59.3201 DEBUG In meltcurve, curTemp = 48.1609992980957
+2018-07-03 10:30:00.8700 DEBUG In meltcurve, curTemp = 48.2070007324219
+2018-07-03 10:30:02.3802 DEBUG In meltcurve, curTemp = 48.2540016174316
+2018-07-03 10:30:03.9301 DEBUG In meltcurve, curTemp = 48.3030014038086
+2018-07-03 10:30:05.4302 DEBUG In meltcurve, curTemp = 48.3499984741211
+2018-07-03 10:30:06.9901 DEBUG In meltcurve, curTemp = 48.3959999084473
+2018-07-03 10:30:08.6201 DEBUG In meltcurve, curTemp = 48.451000213623
+2018-07-03 10:30:10.1601 DEBUG In meltcurve, curTemp = 48.4990005493164
+2018-07-03 10:30:11.7101 DEBUG In meltcurve, curTemp = 48.5480003356934
+2018-07-03 10:30:13.2601 DEBUG In meltcurve, curTemp = 48.601001739502
+2018-07-03 10:30:14.9001 DEBUG In meltcurve, curTemp = 48.6549987792969
+2018-07-03 10:30:16.4102 DEBUG In meltcurve, curTemp = 48.7070007324219
+2018-07-03 10:30:17.9601 DEBUG In meltcurve, curTemp = 48.7620010375977
+2018-07-03 10:30:19.4602 DEBUG In meltcurve, curTemp = 48.8139991760254
+2018-07-03 10:30:21.0201 DEBUG In meltcurve, curTemp = 48.8680000305176
+2018-07-03 10:30:22.5401 DEBUG In meltcurve, curTemp = 48.9259986877441
+2018-07-03 10:30:24.1901 DEBUG In meltcurve, curTemp = 48.984001159668
+2018-07-03 10:30:25.7101 DEBUG In meltcurve, curTemp = 49.0400009155273
+2018-07-03 10:30:27.3501 DEBUG In meltcurve, curTemp = 49.1030006408691
+2018-07-03 10:30:28.9801 DEBUG In meltcurve, curTemp = 49.1640014648438
+2018-07-03 10:30:30.5001 DEBUG In meltcurve, curTemp = 49.2200012207031
+2018-07-03 10:30:32.0701 DEBUG In meltcurve, curTemp = 49.2820014953613
+2018-07-03 10:30:33.5801 DEBUG In meltcurve, curTemp = 49.3400001525879
+2018-07-03 10:30:35.1301 DEBUG In meltcurve, curTemp = 49.398998260498
+2018-07-03 10:30:36.6502 DEBUG In meltcurve, curTemp = 49.4620018005371
+2018-07-03 10:30:38.2001 DEBUG In meltcurve, curTemp = 49.523998260498
+2018-07-03 10:30:39.7003 DEBUG In meltcurve, curTemp = 49.5830001831055
+2018-07-03 10:30:41.2401 DEBUG In meltcurve, curTemp = 49.6440010070801
+2018-07-03 10:30:42.8201 DEBUG In meltcurve, curTemp = 49.7099990844727
+2018-07-03 10:30:44.3401 DEBUG In meltcurve, curTemp = 49.7709999084473
+2018-07-03 10:30:45.9401 DEBUG In meltcurve, curTemp = 49.8359985351563
+2018-07-03 10:30:47.4501 DEBUG In meltcurve, curTemp = 49.9000015258789
+2018-07-03 10:30:49.0201 DEBUG In meltcurve, curTemp = 49.9679985046387
+2018-07-03 10:30:50.6301 DEBUG In meltcurve, curTemp = 50.0369987487793
+2018-07-03 10:30:52.1501 DEBUG In meltcurve, curTemp = 50.0999984741211
+2018-07-03 10:30:53.7301 DEBUG In meltcurve, curTemp = 50.1689987182617
+2018-07-03 10:30:55.3501 DEBUG In meltcurve, curTemp = 50.2400016784668
+2018-07-03 10:30:56.8801 DEBUG In meltcurve, curTemp = 50.3110008239746
+2018-07-03 10:30:58.4201 DEBUG In meltcurve, curTemp = 50.3759994506836
+2018-07-03 10:30:59.9801 DEBUG In meltcurve, curTemp = 50.4469985961914
+2018-07-03 10:31:01.5201 DEBUG In meltcurve, curTemp = 50.5130004882813
+2018-07-03 10:31:03.0202 DEBUG In meltcurve, curTemp = 50.5800018310547
+2018-07-03 10:31:04.5701 DEBUG In meltcurve, curTemp = 50.6469993591309
+2018-07-03 10:31:06.0603 DEBUG In meltcurve, curTemp = 50.7159996032715
+2018-07-03 10:31:07.6501 DEBUG In meltcurve, curTemp = 50.7869987487793
+2018-07-03 10:31:09.1701 DEBUG In meltcurve, curTemp = 50.8559989929199
+2018-07-03 10:31:10.7366 DEBUG In meltcurve, curTemp = 50.9269981384277
+2018-07-03 10:31:12.3066 DEBUG In meltcurve, curTemp = 51.0009994506836
+2018-07-03 10:31:13.8066 DEBUG In meltcurve, curTemp = 51.0699996948242
+2018-07-03 10:31:15.4466 DEBUG In meltcurve, curTemp = 51.1440010070801
+2018-07-03 10:31:16.9667 DEBUG In meltcurve, curTemp = 51.2130012512207
+2018-07-03 10:31:18.5067 DEBUG In meltcurve, curTemp = 51.2869987487793
+2018-07-03 10:31:20.0967 DEBUG In meltcurve, curTemp = 51.3639984130859
+2018-07-03 10:31:21.6967 DEBUG In meltcurve, curTemp = 51.435001373291
+2018-07-03 10:31:23.2367 DEBUG In meltcurve, curTemp = 51.5069999694824
+2018-07-03 10:31:24.7667 DEBUG In meltcurve, curTemp = 51.576000213623
+2018-07-03 10:31:26.2667 DEBUG In meltcurve, curTemp = 51.6479988098145
+2018-07-03 10:31:27.8967 DEBUG In meltcurve, curTemp = 51.7229995727539
+2018-07-03 10:31:29.4167 DEBUG In meltcurve, curTemp = 51.798999786377
+2018-07-03 10:31:30.9667 DEBUG In meltcurve, curTemp = 51.8730010986328
+2018-07-03 10:31:32.5467 DEBUG In meltcurve, curTemp = 51.9500007629395
+2018-07-03 10:31:34.1667 DEBUG In meltcurve, curTemp = 52.0279998779297
+2018-07-03 10:31:35.7167 DEBUG In meltcurve, curTemp = 52.1069984436035
+2018-07-03 10:31:37.2767 DEBUG In meltcurve, curTemp = 52.181999206543
+2018-07-03 10:31:38.8267 DEBUG In meltcurve, curTemp = 52.2599983215332
+2018-07-03 10:31:40.3767 DEBUG In meltcurve, curTemp = 52.3279991149902
+2018-07-03 10:31:41.8967 DEBUG In meltcurve, curTemp = 52.4010009765625
+2018-07-03 10:31:43.3867 DEBUG In meltcurve, curTemp = 52.4729995727539
+2018-07-03 10:31:44.9067 DEBUG In meltcurve, curTemp = 52.5449981689453
+2018-07-03 10:31:46.4667 DEBUG In meltcurve, curTemp = 52.625
+2018-07-03 10:31:48.0867 DEBUG In meltcurve, curTemp = 52.7019996643066
+2018-07-03 10:31:49.5869 DEBUG In meltcurve, curTemp = 52.7750015258789
+2018-07-03 10:31:51.1468 DEBUG In meltcurve, curTemp = 52.8540000915527
+2018-07-03 10:31:52.6568 DEBUG In meltcurve, curTemp = 52.9280014038086
+2018-07-03 10:31:54.1668 DEBUG In meltcurve, curTemp = 53.0009994506836
+2018-07-03 10:31:55.6768 DEBUG In meltcurve, curTemp = 53.076000213623
+2018-07-03 10:31:57.1868 DEBUG In meltcurve, curTemp = 53.1500015258789
+2018-07-03 10:31:58.6968 DEBUG In meltcurve, curTemp = 53.2239990234375
+2018-07-03 10:32:00.2269 DEBUG In meltcurve, curTemp = 53.298999786377
+2018-07-03 10:32:01.8067 DEBUG In meltcurve, curTemp = 53.3769989013672
+2018-07-03 10:32:03.3067 DEBUG In meltcurve, curTemp = 53.451000213623
+2018-07-03 10:32:04.9567 DEBUG In meltcurve, curTemp = 53.5340003967285
+2018-07-03 10:32:06.4769 DEBUG In meltcurve, curTemp = 53.6100006103516
+2018-07-03 10:32:08.0767 DEBUG In meltcurve, curTemp = 53.6889991760254
+2018-07-03 10:32:09.6267 DEBUG In meltcurve, curTemp = 53.7639999389648
+2018-07-03 10:32:11.1767 DEBUG In meltcurve, curTemp = 53.8450012207031
+2018-07-03 10:32:12.7367 DEBUG In meltcurve, curTemp = 53.9210014343262
+2018-07-03 10:32:14.2367 DEBUG In meltcurve, curTemp = 53.9980010986328
+2018-07-03 10:32:15.7867 DEBUG In meltcurve, curTemp = 54.0800018310547
+2018-07-03 10:32:17.2967 DEBUG In meltcurve, curTemp = 54.1559982299805
+2018-07-03 10:32:18.8267 DEBUG In meltcurve, curTemp = 54.2330017089844
+2018-07-03 10:32:20.3467 DEBUG In meltcurve, curTemp = 54.3089981079102
+2018-07-03 10:32:21.8767 DEBUG In meltcurve, curTemp = 54.3919982910156
+2018-07-03 10:32:23.3767 DEBUG In meltcurve, curTemp = 54.4669990539551
+2018-07-03 10:32:24.9467 DEBUG In meltcurve, curTemp = 54.5410003662109
+2018-07-03 10:32:26.4667 DEBUG In meltcurve, curTemp = 54.6189994812012
+2018-07-03 10:32:28.0267 DEBUG In meltcurve, curTemp = 54.7000007629395
+2018-07-03 10:32:29.5367 DEBUG In meltcurve, curTemp = 54.7770004272461
+2018-07-03 10:32:31.0667 DEBUG In meltcurve, curTemp = 54.8549995422363
+2018-07-03 10:32:32.5869 DEBUG In meltcurve, curTemp = 54.9199981689453
+2018-07-03 10:32:34.1367 DEBUG In meltcurve, curTemp = 54.9879989624023
+2018-07-03 10:32:35.7867 DEBUG In meltcurve, curTemp = 55.0709991455078
+2018-07-03 10:32:37.3967 DEBUG In meltcurve, curTemp = 55.1500015258789
+2018-07-03 10:32:38.9767 DEBUG In meltcurve, curTemp = 55.2319984436035
+2018-07-03 10:32:40.5467 DEBUG In meltcurve, curTemp = 55.310001373291
+2018-07-03 10:32:42.1867 DEBUG In meltcurve, curTemp = 55.3959999084473
+2018-07-03 10:32:43.7067 DEBUG In meltcurve, curTemp = 55.4749984741211
+2018-07-03 10:32:45.2267 DEBUG In meltcurve, curTemp = 55.5530014038086
+2018-07-03 10:32:46.7467 DEBUG In meltcurve, curTemp = 55.6319999694824
+2018-07-03 10:32:48.2967 DEBUG In meltcurve, curTemp = 55.7150001525879
+2018-07-03 10:32:49.7967 DEBUG In meltcurve, curTemp = 55.7929992675781
+2018-07-03 10:32:51.3467 DEBUG In meltcurve, curTemp = 55.8730010986328
+2018-07-03 10:32:52.8467 DEBUG In meltcurve, curTemp = 55.951000213623
+2018-07-03 10:32:54.4967 DEBUG In meltcurve, curTemp = 56.0330009460449
+2018-07-03 10:32:56.1267 DEBUG In meltcurve, curTemp = 56.1049995422363
+2018-07-03 10:32:57.6267 DEBUG In meltcurve, curTemp = 56.1759986877441
+2018-07-03 10:32:59.1567 DEBUG In meltcurve, curTemp = 56.2490005493164
+2018-07-03 10:33:00.6668 DEBUG In meltcurve, curTemp = 56.3240013122559
+2018-07-03 10:33:02.2467 DEBUG In meltcurve, curTemp = 56.4080009460449
+2018-07-03 10:33:03.7467 DEBUG In meltcurve, curTemp = 56.4860000610352
+2018-07-03 10:33:05.3267 DEBUG In meltcurve, curTemp = 56.5709991455078
+2018-07-03 10:33:06.8468 DEBUG In meltcurve, curTemp = 56.6500015258789
+2018-07-03 10:33:08.4267 DEBUG In meltcurve, curTemp = 56.7350006103516
+2018-07-03 10:33:10.0067 DEBUG In meltcurve, curTemp = 56.8199996948242
+2018-07-03 10:33:11.5168 DEBUG In meltcurve, curTemp = 56.9000015258789
+2018-07-03 10:33:13.0767 DEBUG In meltcurve, curTemp = 56.9720001220703
+2018-07-03 10:33:14.5968 DEBUG In meltcurve, curTemp = 57.0509986877441
+2018-07-03 10:33:16.1968 DEBUG In meltcurve, curTemp = 57.1430015563965
+2018-07-03 10:33:17.8067 DEBUG In meltcurve, curTemp = 57.2309989929199
+2018-07-03 10:33:19.3267 DEBUG In meltcurve, curTemp = 57.3009986877441
+2018-07-03 10:33:21.0067 DEBUG In meltcurve, curTemp = 57.3549995422363
+2018-07-03 10:33:22.5667 DEBUG In meltcurve, curTemp = 57.4189987182617
+2018-07-03 10:33:24.1167 DEBUG In meltcurve, curTemp = 57.4850006103516
+2018-07-03 10:33:25.6267 DEBUG In meltcurve, curTemp = 57.5639991760254
+2018-07-03 10:33:27.1767 DEBUG In meltcurve, curTemp = 57.6419982910156
+2018-07-03 10:33:28.6767 DEBUG In meltcurve, curTemp = 57.7229995727539
+2018-07-03 10:33:30.2567 DEBUG In meltcurve, curTemp = 57.8089981079102
+2018-07-03 10:33:31.7567 DEBUG In meltcurve, curTemp = 57.8919982910156
+2018-07-03 10:33:33.2967 DEBUG In meltcurve, curTemp = 57.9770011901855
+2018-07-03 10:33:34.7967 DEBUG In meltcurve, curTemp = 58.0610008239746
+2018-07-03 10:33:36.3267 DEBUG In meltcurve, curTemp = 58.1430015563965
+2018-07-03 10:33:37.8467 DEBUG In meltcurve, curTemp = 58.2309989929199
+2018-07-03 10:33:39.3867 DEBUG In meltcurve, curTemp = 58.3129997253418
+2018-07-03 10:33:40.8867 DEBUG In meltcurve, curTemp = 58.3979988098145
+2018-07-03 10:33:42.4167 DEBUG In meltcurve, curTemp = 58.4799995422363
+2018-07-03 10:33:43.9567 DEBUG In meltcurve, curTemp = 58.5699996948242
+2018-07-03 10:33:45.4867 DEBUG In meltcurve, curTemp = 58.6590003967285
+2018-07-03 10:33:47.1167 DEBUG In meltcurve, curTemp = 58.7400016784668
+2018-07-03 10:33:48.6167 DEBUG In meltcurve, curTemp = 58.814998626709
+2018-07-03 10:33:50.2008 DEBUG In meltcurve, curTemp = 58.898998260498
+2018-07-03 10:33:51.7308 DEBUG In meltcurve, curTemp = 58.9790000915527
+2018-07-03 10:33:53.3308 DEBUG In meltcurve, curTemp = 59.0639991760254
+2018-07-03 10:33:54.8308 DEBUG In meltcurve, curTemp = 59.1440010070801
+2018-07-03 10:33:56.4308 DEBUG In meltcurve, curTemp = 59.234001159668
+2018-07-03 10:33:57.9308 DEBUG In meltcurve, curTemp = 59.3139991760254
+2018-07-03 10:33:59.5008 DEBUG In meltcurve, curTemp = 59.4010009765625
+2018-07-03 10:34:01.0210 DEBUG In meltcurve, curTemp = 59.4830017089844
+2018-07-03 10:34:02.5809 DEBUG In meltcurve, curTemp = 59.5690002441406
+2018-07-03 10:34:04.1708 DEBUG In meltcurve, curTemp = 59.6570014953613
+2018-07-03 10:34:05.6809 DEBUG In meltcurve, curTemp = 59.7400016784668
+2018-07-03 10:34:07.3508 DEBUG In meltcurve, curTemp = 59.8250007629395
+2018-07-03 10:34:08.9308 DEBUG In meltcurve, curTemp = 59.9109992980957
+2018-07-03 10:34:10.4508 DEBUG In meltcurve, curTemp = 59.992000579834
+2018-07-03 10:34:12.0308 DEBUG In meltcurve, curTemp = 60.0789985656738
+2018-07-03 10:34:13.5808 DEBUG In meltcurve, curTemp = 60.1650009155273
+2018-07-03 10:34:15.1308 DEBUG In meltcurve, curTemp = 60.2459983825684
+2018-07-03 10:34:16.6508 DEBUG In meltcurve, curTemp = 60.326000213623
+2018-07-03 10:34:18.2908 DEBUG In meltcurve, curTemp = 60.4179992675781
+2018-07-03 10:34:19.8108 DEBUG In meltcurve, curTemp = 60.5
+2018-07-03 10:34:21.3608 DEBUG In meltcurve, curTemp = 60.5810012817383
+2018-07-03 10:34:22.9108 DEBUG In meltcurve, curTemp = 60.6669998168945
+2018-07-03 10:34:24.4308 DEBUG In meltcurve, curTemp = 60.7480010986328
+2018-07-03 10:34:25.9808 DEBUG In meltcurve, curTemp = 60.8300018310547
+2018-07-03 10:34:27.5010 DEBUG In meltcurve, curTemp = 60.9140014648438
+2018-07-03 10:34:29.1108 DEBUG In meltcurve, curTemp = 61.0009994506836
+2018-07-03 10:34:30.6308 DEBUG In meltcurve, curTemp = 61.0810012817383
+2018-07-03 10:34:32.2308 DEBUG In meltcurve, curTemp = 61.1679992675781
+2018-07-03 10:34:33.8908 DEBUG In meltcurve, curTemp = 61.2550010681152
+2018-07-03 10:34:35.4110 DEBUG In meltcurve, curTemp = 61.3440017700195
+2018-07-03 10:34:36.9709 DEBUG In meltcurve, curTemp = 61.4230003356934
+2018-07-03 10:34:38.4810 DEBUG In meltcurve, curTemp = 61.5050010681152
+2018-07-03 10:34:40.0408 DEBUG In meltcurve, curTemp = 61.5900001525879
+2018-07-03 10:34:41.5610 DEBUG In meltcurve, curTemp = 61.673999786377
+2018-07-03 10:34:43.1408 DEBUG In meltcurve, curTemp = 61.7589988708496
+2018-07-03 10:34:44.6610 DEBUG In meltcurve, curTemp = 61.8390007019043
+2018-07-03 10:34:46.2108 DEBUG In meltcurve, curTemp = 61.9259986877441
+2018-07-03 10:34:47.7310 DEBUG In meltcurve, curTemp = 62.0089988708496
+2018-07-03 10:34:49.2808 DEBUG In meltcurve, curTemp = 62.0900001525879
+2018-07-03 10:34:50.9108 DEBUG In meltcurve, curTemp = 62.1790008544922
+2018-07-03 10:35:44.3661 DEBUG ----- Starting -----
+2018-07-03 10:36:07.4654 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_36_07\Temperature Log.csv
+2018-07-03 10:36:07.7853 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:36:07.7953 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:36:07.7953 DEBUG Setting the temperature to 45
+2018-07-03 10:36:07.9953 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:36:08.0253 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:36:08.0353 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:36:08.0453 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:36:08.0753 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:36:08.1053 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:36:08.1354 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:36:08.1655 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:36:20.9824 DEBUG At temperature.
+2018-07-03 10:36:21.0043 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:36:21.0535 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:36:21.1016 DEBUG Setting the temperature to 85
+2018-07-03 10:36:21.1176 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:36:21.3001 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_36_07\Melt Curve logging.csv
+2018-07-03 10:36:21.5337 DEBUG In meltcurve, curTemp = 45.3629989624023
+2018-07-03 10:36:29.0607 DEBUG In meltcurve, curTemp = 46.1440010070801
+2018-07-03 10:36:36.6473 DEBUG In meltcurve, curTemp = 46.5309982299805
+2018-07-03 10:36:44.0973 DEBUG In meltcurve, curTemp = 46.9220008850098
+2018-07-03 10:36:51.5773 DEBUG In meltcurve, curTemp = 47.3269996643066
+2018-07-03 10:36:59.1273 DEBUG In meltcurve, curTemp = 47.6529998779297
+2018-07-03 10:37:06.6573 DEBUG In meltcurve, curTemp = 47.8499984741211
+2018-07-03 10:37:14.1075 DEBUG In meltcurve, curTemp = 48.0779991149902
+2018-07-03 10:37:21.6274 DEBUG In meltcurve, curTemp = 48.3269996643066
+2018-07-03 10:37:29.2873 DEBUG In meltcurve, curTemp = 48.5989990234375
+2018-07-03 10:37:40.5573 DEBUG ----- Starting -----
+2018-07-03 10:38:09.7663 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_38_09\Temperature Log.csv
+2018-07-03 10:38:10.0863 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:38:10.0963 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:38:10.1163 DEBUG Setting the temperature to 45
+2018-07-03 10:38:10.2563 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:38:10.2863 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:38:10.3063 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:38:10.3163 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:38:10.3563 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:38:10.3864 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:38:10.4165 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:38:10.4665 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:38:23.4164 DEBUG At temperature.
+2018-07-03 10:38:23.4263 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:38:23.4863 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:38:23.5363 DEBUG Setting the temperature to 85
+2018-07-03 10:38:23.5563 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:38:23.5863 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_38_09\Melt Curve logging.csv
+2018-07-03 10:38:23.8463 DEBUG In meltcurve, curTemp = 45.3230018615723
+2018-07-03 10:38:31.3365 DEBUG In meltcurve, curTemp = 46.1940002441406
+2018-07-03 10:38:38.8663 DEBUG In meltcurve, curTemp = 46.5839996337891
+2018-07-03 10:38:46.3263 DEBUG In meltcurve, curTemp = 46.9850006103516
+2018-07-03 10:38:53.8563 DEBUG In meltcurve, curTemp = 47.3919982910156
+2018-07-03 10:39:01.3164 DEBUG In meltcurve, curTemp = 47.765998840332
+2018-07-03 10:39:08.8863 DEBUG In meltcurve, curTemp = 48.0349998474121
+2018-07-03 10:39:16.4163 DEBUG In meltcurve, curTemp = 48.2719993591309
+2018-07-03 10:39:23.9763 DEBUG In meltcurve, curTemp = 48.5130004882813
+2018-07-03 10:39:31.4865 DEBUG In meltcurve, curTemp = 48.7750015258789
+2018-07-03 10:39:39.0563 DEBUG In meltcurve, curTemp = 49.0550003051758
+2018-07-03 10:39:46.6465 DEBUG In meltcurve, curTemp = 49.3460006713867
+2018-07-03 10:39:54.2364 DEBUG In meltcurve, curTemp = 49.6529998779297
+2018-07-03 10:40:01.8264 DEBUG In meltcurve, curTemp = 49.9720001220703
+2018-07-03 10:40:09.2764 DEBUG In meltcurve, curTemp = 50.2919998168945
+2018-07-03 10:40:16.8864 DEBUG In meltcurve, curTemp = 50.6300010681152
+2018-07-03 10:40:24.4563 DEBUG In meltcurve, curTemp = 50.9710006713867
+2018-07-03 10:40:32.0964 DEBUG In meltcurve, curTemp = 51.3199996948242
+2018-07-03 10:40:39.7465 DEBUG In meltcurve, curTemp = 51.6809997558594
+2018-07-03 10:40:47.2265 DEBUG In meltcurve, curTemp = 52.0390014648438
+2018-07-03 10:41:48.7372 DEBUG ----- Starting -----
+2018-07-03 10:42:15.0920 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_42_15\Temperature Log.csv
+2018-07-03 10:42:15.3520 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:42:15.3720 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:42:15.3920 DEBUG Setting the temperature to 45
+2018-07-03 10:42:15.7320 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:42:15.7620 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:42:15.7620 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:42:15.7920 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:42:15.8220 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:42:15.8620 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:42:15.8921 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:42:15.9420 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:42:28.7453 DEBUG At temperature.
+2018-07-03 10:42:28.7614 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:42:28.8526 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:42:28.9328 DEBUG Setting the temperature to 85
+2018-07-03 10:42:29.0922 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:42:29.1584 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_42_15\Melt Curve logging.csv
+2018-07-03 10:42:31.4248 DEBUG In meltcurve, curTemp = 45.5880012512207
+2018-07-03 10:42:32.9276 DEBUG In meltcurve, curTemp = 45.7200012207031
+2018-07-03 10:42:34.4612 DEBUG In meltcurve, curTemp = 45.814998626709
+2018-07-03 10:42:35.9483 DEBUG In meltcurve, curTemp = 45.9000015258789
+2018-07-03 10:42:37.4818 DEBUG In meltcurve, curTemp = 45.9799995422363
+2018-07-03 10:42:38.9686 DEBUG In meltcurve, curTemp = 46.0509986877441
+2018-07-03 10:42:40.5032 DEBUG In meltcurve, curTemp = 46.1279983520508
+2018-07-03 10:42:42.0045 DEBUG In meltcurve, curTemp = 46.2060012817383
+2018-07-03 10:42:43.5047 DEBUG In meltcurve, curTemp = 46.2849998474121
+2018-07-03 10:42:44.9849 DEBUG In meltcurve, curTemp = 46.3639984130859
+2018-07-03 10:42:46.4947 DEBUG In meltcurve, curTemp = 46.4449996948242
+2018-07-03 10:42:47.9948 DEBUG In meltcurve, curTemp = 46.5250015258789
+2018-07-03 10:42:49.5248 DEBUG In meltcurve, curTemp = 46.6069984436035
+2018-07-03 10:42:51.0149 DEBUG In meltcurve, curTemp = 46.6870002746582
+2018-07-03 10:42:52.5647 DEBUG In meltcurve, curTemp = 46.773998260498
+2018-07-03 10:42:54.0448 DEBUG In meltcurve, curTemp = 46.8479995727539
+2018-07-03 10:42:55.5848 DEBUG In meltcurve, curTemp = 46.9370002746582
+2018-07-03 10:42:57.0649 DEBUG In meltcurve, curTemp = 47.0180015563965
+2018-07-03 10:42:58.6047 DEBUG In meltcurve, curTemp = 47.0999984741211
+2018-07-03 10:43:00.1047 DEBUG In meltcurve, curTemp = 47.1730003356934
+2018-07-03 10:43:01.6047 DEBUG In meltcurve, curTemp = 47.2350006103516
+2018-07-03 10:43:03.1748 DEBUG In meltcurve, curTemp = 47.2980003356934
+2018-07-03 10:43:04.6547 DEBUG In meltcurve, curTemp = 47.3489990234375
+2018-07-03 10:43:06.1247 DEBUG In meltcurve, curTemp = 47.4020004272461
+2018-07-03 10:43:07.6147 DEBUG In meltcurve, curTemp = 47.4500007629395
+2018-07-03 10:43:09.1147 DEBUG In meltcurve, curTemp = 47.4970016479492
+2018-07-03 10:43:10.6347 DEBUG In meltcurve, curTemp = 47.5429992675781
+2018-07-03 10:43:12.2048 DEBUG In meltcurve, curTemp = 47.5919990539551
+2018-07-03 10:43:13.6748 DEBUG In meltcurve, curTemp = 47.6339988708496
+2018-07-03 10:43:15.2248 DEBUG In meltcurve, curTemp = 47.6769981384277
+2018-07-03 10:43:16.6948 DEBUG In meltcurve, curTemp = 47.7179985046387
+2018-07-03 10:43:18.2748 DEBUG In meltcurve, curTemp = 47.7589988708496
+2018-07-03 10:43:19.7648 DEBUG In meltcurve, curTemp = 47.8040008544922
+2018-07-03 10:43:21.3847 DEBUG In meltcurve, curTemp = 47.8569984436035
+2018-07-03 10:43:22.8647 DEBUG In meltcurve, curTemp = 47.9020004272461
+2018-07-03 10:43:24.4147 DEBUG In meltcurve, curTemp = 47.9539985656738
+2018-07-03 10:43:25.9247 DEBUG In meltcurve, curTemp = 48.0029983520508
+2018-07-03 10:43:27.4447 DEBUG In meltcurve, curTemp = 48.0540008544922
+2018-07-03 10:43:28.9347 DEBUG In meltcurve, curTemp = 48.1049995422363
+2018-07-03 10:43:30.4547 DEBUG In meltcurve, curTemp = 48.1570014953613
+2018-07-03 10:43:31.9647 DEBUG In meltcurve, curTemp = 48.2099990844727
+2018-07-03 10:43:33.4847 DEBUG In meltcurve, curTemp = 48.2639999389648
+2018-07-03 10:43:34.9747 DEBUG In meltcurve, curTemp = 48.3190002441406
+2018-07-03 10:43:36.5047 DEBUG In meltcurve, curTemp = 48.3779983520508
+2018-07-03 10:43:37.9947 DEBUG In meltcurve, curTemp = 48.431999206543
+2018-07-03 10:43:39.6047 DEBUG In meltcurve, curTemp = 48.4949989318848
+2018-07-03 10:43:41.1247 DEBUG In meltcurve, curTemp = 48.5509986877441
+2018-07-03 10:43:42.6147 DEBUG In meltcurve, curTemp = 48.6059989929199
+2018-07-03 10:43:44.1247 DEBUG In meltcurve, curTemp = 48.6679992675781
+2018-07-03 10:43:45.6148 DEBUG In meltcurve, curTemp = 48.7239990234375
+2018-07-03 10:43:47.1348 DEBUG In meltcurve, curTemp = 48.7869987487793
+2018-07-03 10:43:48.6549 DEBUG In meltcurve, curTemp = 48.8470001220703
+2018-07-03 10:43:50.1648 DEBUG In meltcurve, curTemp = 48.9090003967285
+2018-07-03 10:43:51.6848 DEBUG In meltcurve, curTemp = 48.9700012207031
+2018-07-03 10:43:53.2048 DEBUG In meltcurve, curTemp = 49.0309982299805
+2018-07-03 10:43:54.7348 DEBUG In meltcurve, curTemp = 49.0960006713867
+2018-07-03 10:43:56.2548 DEBUG In meltcurve, curTemp = 49.1609992980957
+2018-07-03 10:43:57.7649 DEBUG In meltcurve, curTemp = 49.2229995727539
+2018-07-03 10:43:59.4248 DEBUG In meltcurve, curTemp = 49.2910003662109
+2018-07-03 10:44:00.9249 DEBUG In meltcurve, curTemp = 49.3540000915527
+2018-07-03 10:44:02.4748 DEBUG In meltcurve, curTemp = 49.4210014343262
+2018-07-03 10:44:03.9448 DEBUG In meltcurve, curTemp = 49.4830017089844
+2018-07-03 10:44:05.4748 DEBUG In meltcurve, curTemp = 49.548999786377
+2018-07-03 10:44:06.9649 DEBUG In meltcurve, curTemp = 49.6139984130859
+2018-07-03 10:44:08.5448 DEBUG In meltcurve, curTemp = 49.6829986572266
+2018-07-03 10:44:10.0348 DEBUG In meltcurve, curTemp = 49.7449989318848
+2018-07-03 10:44:11.5348 DEBUG In meltcurve, curTemp = 49.8110008239746
+2018-07-03 10:44:13.0048 DEBUG In meltcurve, curTemp = 49.8779983520508
+2018-07-03 10:44:14.5048 DEBUG In meltcurve, curTemp = 49.9449996948242
+2018-07-03 10:44:15.9948 DEBUG In meltcurve, curTemp = 50.0120010375977
+2018-07-03 10:44:17.5948 DEBUG In meltcurve, curTemp = 50.0820007324219
+2018-07-03 10:44:19.0949 DEBUG In meltcurve, curTemp = 50.1510009765625
+2018-07-03 10:44:20.7048 DEBUG In meltcurve, curTemp = 50.2229995727539
+2018-07-03 10:44:22.3248 DEBUG In meltcurve, curTemp = 50.2939987182617
+2018-07-03 10:44:23.8048 DEBUG In meltcurve, curTemp = 50.3619995117188
+2018-07-03 10:44:25.3448 DEBUG In meltcurve, curTemp = 50.4329986572266
+2018-07-03 10:44:26.8448 DEBUG In meltcurve, curTemp = 50.5
+2018-07-03 10:44:28.3748 DEBUG In meltcurve, curTemp = 50.5740013122559
+2018-07-03 10:44:29.9748 DEBUG In meltcurve, curTemp = 50.6479988098145
+2018-07-03 10:44:31.4948 DEBUG In meltcurve, curTemp = 50.7179985046387
+2018-07-03 10:44:33.0148 DEBUG In meltcurve, curTemp = 50.7879981994629
+2018-07-03 10:44:34.5248 DEBUG In meltcurve, curTemp = 50.8580017089844
+2018-07-03 10:44:35.9948 DEBUG In meltcurve, curTemp = 50.9290008544922
+2018-07-03 10:44:37.4848 DEBUG In meltcurve, curTemp = 50.9980010986328
+2018-07-03 10:44:38.9748 DEBUG In meltcurve, curTemp = 51.0699996948242
+2018-07-03 10:44:40.4948 DEBUG In meltcurve, curTemp = 51.1419982910156
+2018-07-03 10:44:42.0048 DEBUG In meltcurve, curTemp = 51.2130012512207
+2018-07-03 10:44:43.5148 DEBUG In meltcurve, curTemp = 51.2830009460449
+2018-07-03 10:44:44.9848 DEBUG In meltcurve, curTemp = 51.3559989929199
+2018-07-03 10:44:46.4948 DEBUG In meltcurve, curTemp = 51.4280014038086
+2018-07-03 10:44:47.9848 DEBUG In meltcurve, curTemp = 51.4990005493164
+2018-07-03 10:44:49.5048 DEBUG In meltcurve, curTemp = 51.5699996948242
+2018-07-03 10:44:50.9748 DEBUG In meltcurve, curTemp = 51.6380004882813
+2018-07-03 10:44:52.4948 DEBUG In meltcurve, curTemp = 51.7150001525879
+2018-07-03 10:44:53.9648 DEBUG In meltcurve, curTemp = 51.7830009460449
+2018-07-03 10:44:55.4748 DEBUG In meltcurve, curTemp = 51.8569984436035
+2018-07-03 10:44:56.9448 DEBUG In meltcurve, curTemp = 51.9300003051758
+2018-07-03 10:44:58.4648 DEBUG In meltcurve, curTemp = 52.0029983520508
+2018-07-03 10:44:59.9548 DEBUG In meltcurve, curTemp = 52.076000213623
+2018-07-03 10:45:01.4748 DEBUG In meltcurve, curTemp = 52.1479988098145
+2018-07-03 10:45:02.9448 DEBUG In meltcurve, curTemp = 52.2239990234375
+2018-07-03 10:45:04.5048 DEBUG In meltcurve, curTemp = 52.3019981384277
+2018-07-03 10:45:05.9948 DEBUG In meltcurve, curTemp = 52.3709983825684
+2018-07-03 10:45:07.5148 DEBUG In meltcurve, curTemp = 52.4490013122559
+2018-07-03 10:45:08.9848 DEBUG In meltcurve, curTemp = 52.5169982910156
+2018-07-03 10:45:10.5348 DEBUG In meltcurve, curTemp = 52.5960006713867
+2018-07-03 10:45:12.0048 DEBUG In meltcurve, curTemp = 52.6699981689453
+2018-07-03 10:45:13.5248 DEBUG In meltcurve, curTemp = 52.7439994812012
+2018-07-03 10:45:14.9948 DEBUG In meltcurve, curTemp = 52.8139991760254
+2018-07-03 10:45:16.5748 DEBUG In meltcurve, curTemp = 52.8940010070801
+2018-07-03 10:45:18.0448 DEBUG In meltcurve, curTemp = 52.9679985046387
+2018-07-03 10:45:19.5648 DEBUG In meltcurve, curTemp = 53.0439987182617
+2018-07-03 10:45:21.0448 DEBUG In meltcurve, curTemp = 53.1199989318848
+2018-07-03 10:45:22.5648 DEBUG In meltcurve, curTemp = 53.193000793457
+2018-07-03 10:45:24.0548 DEBUG In meltcurve, curTemp = 53.2700004577637
+2018-07-03 10:45:25.5648 DEBUG In meltcurve, curTemp = 53.3450012207031
+2018-07-03 10:45:27.0348 DEBUG In meltcurve, curTemp = 53.4199981689453
+2018-07-03 10:45:28.5848 DEBUG In meltcurve, curTemp = 53.4959983825684
+2018-07-03 10:45:30.0748 DEBUG In meltcurve, curTemp = 53.5690002441406
+2018-07-03 10:45:31.6148 DEBUG In meltcurve, curTemp = 53.6450004577637
+2018-07-03 10:45:33.0848 DEBUG In meltcurve, curTemp = 53.7210006713867
+2018-07-03 10:45:34.6348 DEBUG In meltcurve, curTemp = 53.8019981384277
+2018-07-03 10:45:36.1048 DEBUG In meltcurve, curTemp = 53.8709983825684
+2018-07-03 10:45:37.5749 DEBUG In meltcurve, curTemp = 53.9459991455078
+2018-07-03 10:45:39.0848 DEBUG In meltcurve, curTemp = 54.0229988098145
+2018-07-03 10:45:40.5750 DEBUG In meltcurve, curTemp = 54.0979995727539
+2018-07-03 10:45:42.1048 DEBUG In meltcurve, curTemp = 54.173999786377
+2018-07-03 10:45:43.5950 DEBUG In meltcurve, curTemp = 54.2519989013672
+2018-07-03 10:45:45.1248 DEBUG In meltcurve, curTemp = 54.326000213623
+2018-07-03 10:45:46.6150 DEBUG In meltcurve, curTemp = 54.4029998779297
+2018-07-03 10:45:48.1348 DEBUG In meltcurve, curTemp = 54.4790000915527
+2018-07-03 10:45:49.6350 DEBUG In meltcurve, curTemp = 54.5540008544922
+2018-07-03 10:45:51.1350 DEBUG In meltcurve, curTemp = 54.6300010681152
+2018-07-03 10:45:52.6250 DEBUG In meltcurve, curTemp = 54.7080001831055
+2018-07-03 10:45:54.1248 DEBUG In meltcurve, curTemp = 54.7849998474121
+2018-07-03 10:45:55.6150 DEBUG In meltcurve, curTemp = 54.8610000610352
+2018-07-03 10:45:57.1148 DEBUG In meltcurve, curTemp = 54.9389991760254
+2018-07-03 10:45:58.6048 DEBUG In meltcurve, curTemp = 55.0149993896484
+2018-07-03 10:46:00.0848 DEBUG In meltcurve, curTemp = 55.0900001525879
+2018-07-03 10:46:01.5748 DEBUG In meltcurve, curTemp = 55.1679992675781
+2018-07-03 10:46:03.1048 DEBUG In meltcurve, curTemp = 55.2449989318848
+2018-07-03 10:46:04.5748 DEBUG In meltcurve, curTemp = 55.3230018615723
+2018-07-03 10:46:06.1248 DEBUG In meltcurve, curTemp = 55.4000015258789
+2018-07-03 10:46:07.6148 DEBUG In meltcurve, curTemp = 55.476001739502
+2018-07-03 10:46:09.1648 DEBUG In meltcurve, curTemp = 55.5589981079102
+2018-07-03 10:46:10.6450 DEBUG In meltcurve, curTemp = 55.6319999694824
+2018-07-03 10:46:12.1848 DEBUG In meltcurve, curTemp = 55.7140007019043
+2018-07-03 10:46:13.6650 DEBUG In meltcurve, curTemp = 55.7900009155273
+2018-07-03 10:46:15.1748 DEBUG In meltcurve, curTemp = 55.8699989318848
+2018-07-03 10:46:16.6550 DEBUG In meltcurve, curTemp = 55.9420013427734
+2018-07-03 10:46:18.2248 DEBUG In meltcurve, curTemp = 56.0250015258789
+2018-07-03 10:46:19.7050 DEBUG In meltcurve, curTemp = 56.1020011901855
+2018-07-03 10:46:21.2548 DEBUG In meltcurve, curTemp = 56.1809997558594
+2018-07-03 10:46:22.7448 DEBUG In meltcurve, curTemp = 56.2569999694824
+2018-07-03 10:46:24.2648 DEBUG In meltcurve, curTemp = 56.3359985351563
+2018-07-03 10:46:25.7449 DEBUG In meltcurve, curTemp = 56.4119987487793
+2018-07-03 10:46:27.2548 DEBUG In meltcurve, curTemp = 56.4910011291504
+2018-07-03 10:46:28.7348 DEBUG In meltcurve, curTemp = 56.5690002441406
+2018-07-03 10:46:30.3049 DEBUG In meltcurve, curTemp = 56.6529998779297
+2018-07-03 10:46:31.8349 DEBUG In meltcurve, curTemp = 56.7309989929199
+2018-07-03 10:46:33.3548 DEBUG In meltcurve, curTemp = 56.810001373291
+2018-07-03 10:46:34.8450 DEBUG In meltcurve, curTemp = 56.8880004882813
+2018-07-03 10:46:36.3948 DEBUG In meltcurve, curTemp = 56.9729995727539
+2018-07-03 10:46:37.8748 DEBUG In meltcurve, curTemp = 57.0449981689453
+2018-07-03 10:46:39.3949 DEBUG In meltcurve, curTemp = 57.1310005187988
+2018-07-03 10:46:40.8850 DEBUG In meltcurve, curTemp = 57.2039985656738
+2018-07-03 10:46:42.4149 DEBUG In meltcurve, curTemp = 57.2869987487793
+2018-07-03 10:46:43.9050 DEBUG In meltcurve, curTemp = 57.367000579834
+2018-07-03 10:46:45.4348 DEBUG In meltcurve, curTemp = 57.4449996948242
+2018-07-03 10:46:46.9250 DEBUG In meltcurve, curTemp = 57.523998260498
+2018-07-03 10:46:48.4749 DEBUG In meltcurve, curTemp = 57.6030006408691
+2018-07-03 10:46:49.9648 DEBUG In meltcurve, curTemp = 57.6809997558594
+2018-07-03 10:46:51.6048 DEBUG In meltcurve, curTemp = 57.7729988098145
+2018-07-03 10:46:53.2048 DEBUG In meltcurve, curTemp = 57.8569984436035
+2018-07-03 10:46:54.7349 DEBUG In meltcurve, curTemp = 57.9370002746582
+2018-07-03 10:46:56.2248 DEBUG In meltcurve, curTemp = 58.015998840332
+2018-07-03 10:46:57.7749 DEBUG In meltcurve, curTemp = 58.0950012207031
+2018-07-03 10:46:59.3349 DEBUG In meltcurve, curTemp = 58.1780014038086
+2018-07-03 10:47:00.8748 DEBUG In meltcurve, curTemp = 58.257999420166
+2018-07-03 10:47:02.3548 DEBUG In meltcurve, curTemp = 58.3390007019043
+2018-07-03 10:47:03.9548 DEBUG In meltcurve, curTemp = 58.4230003356934
+2018-07-03 10:47:05.5748 DEBUG In meltcurve, curTemp = 58.5069999694824
+2018-07-03 10:47:07.0549 DEBUG In meltcurve, curTemp = 58.5900001525879
+2018-07-03 10:47:08.5748 DEBUG In meltcurve, curTemp = 58.6679992675781
+2018-07-03 10:47:10.0648 DEBUG In meltcurve, curTemp = 58.7470016479492
+2018-07-03 10:47:11.6148 DEBUG In meltcurve, curTemp = 58.826000213623
+2018-07-03 10:47:13.0954 DEBUG In meltcurve, curTemp = 58.9070014953613
+2018-07-03 10:47:14.5954 DEBUG In meltcurve, curTemp = 58.9869995117188
+2018-07-03 10:47:16.0854 DEBUG In meltcurve, curTemp = 59.0670013427734
+2018-07-03 10:47:17.6354 DEBUG In meltcurve, curTemp = 59.1520004272461
+2018-07-03 10:47:19.1254 DEBUG In meltcurve, curTemp = 59.2249984741211
+2018-07-03 10:47:20.6054 DEBUG In meltcurve, curTemp = 59.3059997558594
+2018-07-03 10:47:22.1556 DEBUG In meltcurve, curTemp = 59.390998840332
+2018-07-03 10:47:23.6654 DEBUG In meltcurve, curTemp = 59.4690017700195
+2018-07-03 10:47:25.1754 DEBUG In meltcurve, curTemp = 59.548999786377
+2018-07-03 10:47:26.6654 DEBUG In meltcurve, curTemp = 59.6290016174316
+2018-07-03 10:47:28.1954 DEBUG In meltcurve, curTemp = 59.7099990844727
+2018-07-03 10:47:29.7654 DEBUG In meltcurve, curTemp = 59.7939987182617
+2018-07-03 10:47:31.2556 DEBUG In meltcurve, curTemp = 59.8769989013672
+2018-07-03 10:47:32.9154 DEBUG In meltcurve, curTemp = 59.9599990844727
+2018-07-03 10:47:34.4156 DEBUG In meltcurve, curTemp = 60.0390014648438
+2018-07-03 10:47:35.9654 DEBUG In meltcurve, curTemp = 60.1240005493164
+2018-07-03 10:47:37.4954 DEBUG In meltcurve, curTemp = 60.2050018310547
+2018-07-03 10:47:38.9854 DEBUG In meltcurve, curTemp = 60.2859992980957
+2018-07-03 10:47:40.5154 DEBUG In meltcurve, curTemp = 60.367000579834
+2018-07-03 10:47:42.0054 DEBUG In meltcurve, curTemp = 60.4469985961914
+2018-07-03 10:47:43.5554 DEBUG In meltcurve, curTemp = 60.5330009460449
+2018-07-03 10:47:45.0554 DEBUG In meltcurve, curTemp = 60.6119995117188
+2018-07-03 10:47:46.5754 DEBUG In meltcurve, curTemp = 60.6940002441406
+2018-07-03 10:47:48.0754 DEBUG In meltcurve, curTemp = 60.7750015258789
+2018-07-03 10:47:49.5956 DEBUG In meltcurve, curTemp = 60.8549995422363
+2018-07-03 10:47:51.1154 DEBUG In meltcurve, curTemp = 60.9370002746582
+2018-07-03 10:47:52.6354 DEBUG In meltcurve, curTemp = 61.015998840332
+2018-07-03 10:47:54.1354 DEBUG In meltcurve, curTemp = 61.0950012207031
+2018-07-03 10:47:55.6255 DEBUG In meltcurve, curTemp = 61.1769981384277
+2018-07-03 10:47:57.1854 DEBUG In meltcurve, curTemp = 61.2639999389648
+2018-07-03 10:47:58.6756 DEBUG In meltcurve, curTemp = 61.3400001525879
+2018-07-03 10:48:00.2054 DEBUG In meltcurve, curTemp = 61.4269981384277
+2018-07-03 10:48:01.7455 DEBUG In meltcurve, curTemp = 61.5069999694824
+2018-07-03 10:48:03.2155 DEBUG In meltcurve, curTemp = 61.5900001525879
+2018-07-03 10:48:04.7755 DEBUG In meltcurve, curTemp = 61.673999786377
+2018-07-03 10:48:06.2655 DEBUG In meltcurve, curTemp = 61.7490005493164
+2018-07-03 10:48:07.8455 DEBUG In meltcurve, curTemp = 61.8359985351563
+2018-07-03 10:48:09.3354 DEBUG In meltcurve, curTemp = 61.9179992675781
+2018-07-03 10:48:10.8954 DEBUG In meltcurve, curTemp = 62.0050010681152
+2018-07-03 10:48:12.3854 DEBUG In meltcurve, curTemp = 62.0830001831055
+2018-07-03 10:48:13.9155 DEBUG In meltcurve, curTemp = 62.1660003662109
+2018-07-03 10:48:15.4056 DEBUG In meltcurve, curTemp = 62.25
+2018-07-03 10:48:16.9854 DEBUG In meltcurve, curTemp = 62.3269996643066
+2018-07-03 10:48:18.4756 DEBUG In meltcurve, curTemp = 62.4099998474121
+2018-07-03 10:48:20.0355 DEBUG In meltcurve, curTemp = 62.4970016479492
+2018-07-03 10:48:21.5255 DEBUG In meltcurve, curTemp = 62.5769996643066
+2018-07-03 10:48:23.0755 DEBUG In meltcurve, curTemp = 62.6590003967285
+2018-07-03 10:48:24.7054 DEBUG In meltcurve, curTemp = 62.7519989013672
+2018-07-03 10:48:26.1955 DEBUG In meltcurve, curTemp = 62.8279991149902
+2018-07-03 10:48:27.7455 DEBUG In meltcurve, curTemp = 62.9169998168945
+2018-07-03 10:48:29.2155 DEBUG In meltcurve, curTemp = 62.9990005493164
+2018-07-03 10:48:30.7454 DEBUG In meltcurve, curTemp = 63.0800018310547
+2018-07-03 10:48:32.2654 DEBUG In meltcurve, curTemp = 63.1640014648438
+2018-07-03 10:48:33.7854 DEBUG In meltcurve, curTemp = 63.2430000305176
+2018-07-03 10:48:35.2555 DEBUG In meltcurve, curTemp = 63.3269996643066
+2018-07-03 10:48:36.8155 DEBUG In meltcurve, curTemp = 63.4140014648438
+2018-07-03 10:48:38.3554 DEBUG In meltcurve, curTemp = 63.4939994812012
+2018-07-03 10:48:39.9954 DEBUG In meltcurve, curTemp = 63.5830001831055
+2018-07-03 10:48:41.5654 DEBUG In meltcurve, curTemp = 63.6730003356934
+2018-07-03 10:48:43.0454 DEBUG In meltcurve, curTemp = 63.7529983520508
+2018-07-03 10:48:44.6154 DEBUG In meltcurve, curTemp = 63.8349990844727
+2018-07-03 10:48:46.1455 DEBUG In meltcurve, curTemp = 63.9249992370605
+2018-07-03 10:48:47.6355 DEBUG In meltcurve, curTemp = 64.004997253418
+2018-07-03 10:48:49.2154 DEBUG In meltcurve, curTemp = 64.0869979858398
+2018-07-03 10:48:50.7054 DEBUG In meltcurve, curTemp = 64.1689987182617
+2018-07-03 10:48:52.2554 DEBUG In meltcurve, curTemp = 64.254997253418
+2018-07-03 10:48:53.7354 DEBUG In meltcurve, curTemp = 64.3399963378906
+2018-07-03 10:48:55.2254 DEBUG In meltcurve, curTemp = 64.4160003662109
+2018-07-03 10:48:56.7154 DEBUG In meltcurve, curTemp = 64.4970016479492
+2018-07-03 10:48:58.2354 DEBUG In meltcurve, curTemp = 64.5770034790039
+2018-07-03 10:48:59.7054 DEBUG In meltcurve, curTemp = 64.6589965820313
+2018-07-03 10:49:01.3154 DEBUG In meltcurve, curTemp = 64.7460021972656
+2018-07-03 10:49:02.7854 DEBUG In meltcurve, curTemp = 64.8280029296875
+2018-07-03 10:49:04.2754 DEBUG In meltcurve, curTemp = 64.9079971313477
+2018-07-03 10:49:05.7455 DEBUG In meltcurve, curTemp = 64.9909973144531
+2018-07-03 10:49:07.3254 DEBUG In meltcurve, curTemp = 65.0719985961914
+2018-07-03 10:49:08.8054 DEBUG In meltcurve, curTemp = 65.1559982299805
+2018-07-03 10:49:10.3254 DEBUG In meltcurve, curTemp = 65.2389984130859
+2018-07-03 10:49:11.8154 DEBUG In meltcurve, curTemp = 65.3209991455078
+2018-07-03 10:49:13.3155 DEBUG In meltcurve, curTemp = 65.4029998779297
+2018-07-03 10:49:14.8354 DEBUG In meltcurve, curTemp = 65.4860000610352
+2018-07-03 10:49:16.3055 DEBUG In meltcurve, curTemp = 65.5670013427734
+2018-07-03 10:49:17.8654 DEBUG In meltcurve, curTemp = 65.6529998779297
+2018-07-03 10:49:19.3554 DEBUG In meltcurve, curTemp = 65.734001159668
+2018-07-03 10:49:20.8555 DEBUG In meltcurve, curTemp = 65.8170013427734
+2018-07-03 10:49:22.3255 DEBUG In meltcurve, curTemp = 65.8929977416992
+2018-07-03 10:49:23.8255 DEBUG In meltcurve, curTemp = 65.9749984741211
+2018-07-03 10:49:25.3055 DEBUG In meltcurve, curTemp = 66.0589981079102
+2018-07-03 10:49:26.8155 DEBUG In meltcurve, curTemp = 66.1419982910156
+2018-07-03 10:49:28.2855 DEBUG In meltcurve, curTemp = 66.2210006713867
+2018-07-03 10:49:29.8255 DEBUG In meltcurve, curTemp = 66.3040008544922
+2018-07-03 10:49:31.2955 DEBUG In meltcurve, curTemp = 66.3860015869141
+2018-07-03 10:49:32.7755 DEBUG In meltcurve, curTemp = 66.4700012207031
+2018-07-03 10:49:34.2955 DEBUG In meltcurve, curTemp = 66.5490036010742
+2018-07-03 10:49:35.7855 DEBUG In meltcurve, curTemp = 66.6320037841797
+2018-07-03 10:49:37.3055 DEBUG In meltcurve, curTemp = 66.713996887207
+2018-07-03 10:49:38.7855 DEBUG In meltcurve, curTemp = 66.7969970703125
+2018-07-03 10:49:40.3055 DEBUG In meltcurve, curTemp = 66.879997253418
+2018-07-03 10:49:41.7755 DEBUG In meltcurve, curTemp = 66.9619979858398
+2018-07-03 10:49:43.2955 DEBUG In meltcurve, curTemp = 67.0429992675781
+2018-07-03 10:49:44.7755 DEBUG In meltcurve, curTemp = 67.1210021972656
+2018-07-03 10:49:46.2955 DEBUG In meltcurve, curTemp = 67.2099990844727
+2018-07-03 10:49:47.7855 DEBUG In meltcurve, curTemp = 67.2880020141602
+2018-07-03 10:49:49.3855 DEBUG In meltcurve, curTemp = 67.3759994506836
+2018-07-03 10:49:50.8656 DEBUG In meltcurve, curTemp = 67.4560012817383
+2018-07-03 10:49:52.4155 DEBUG In meltcurve, curTemp = 67.5439987182617
+2018-07-03 10:49:53.9055 DEBUG In meltcurve, curTemp = 67.629997253418
+2018-07-03 10:49:55.5555 DEBUG In meltcurve, curTemp = 67.7170028686523
+2018-07-03 10:49:57.1655 DEBUG In meltcurve, curTemp = 67.8030014038086
+2018-07-03 10:49:58.6655 DEBUG In meltcurve, curTemp = 67.8850021362305
+2018-07-03 10:50:00.1855 DEBUG In meltcurve, curTemp = 67.9690017700195
+2018-07-03 10:50:01.7555 DEBUG In meltcurve, curTemp = 68.056999206543
+2018-07-03 10:50:03.2355 DEBUG In meltcurve, curTemp = 68.140998840332
+2018-07-03 10:50:04.7855 DEBUG In meltcurve, curTemp = 68.2249984741211
+2018-07-03 10:50:06.2755 DEBUG In meltcurve, curTemp = 68.3050003051758
+2018-07-03 10:50:07.8255 DEBUG In meltcurve, curTemp = 68.3919982910156
+2018-07-03 10:50:09.3057 DEBUG In meltcurve, curTemp = 68.4759979248047
+2018-07-03 10:50:10.8755 DEBUG In meltcurve, curTemp = 68.5589981079102
+2018-07-03 10:50:12.3655 DEBUG In meltcurve, curTemp = 68.640998840332
+2018-07-03 10:50:13.9455 DEBUG In meltcurve, curTemp = 68.7310028076172
+2018-07-03 10:50:15.4257 DEBUG In meltcurve, curTemp = 68.8160018920898
+2018-07-03 10:50:16.9955 DEBUG In meltcurve, curTemp = 68.8970031738281
+2018-07-03 10:50:18.4855 DEBUG In meltcurve, curTemp = 68.9810028076172
+2018-07-03 10:50:20.0355 DEBUG In meltcurve, curTemp = 69.0670013427734
+2018-07-03 10:50:21.5155 DEBUG In meltcurve, curTemp = 69.1460037231445
+2018-07-03 10:50:23.0555 DEBUG In meltcurve, curTemp = 69.234001159668
+2018-07-03 10:50:24.5355 DEBUG In meltcurve, curTemp = 69.3170013427734
+2018-07-03 10:50:26.0755 DEBUG In meltcurve, curTemp = 69.4020004272461
+2018-07-03 10:50:27.5555 DEBUG In meltcurve, curTemp = 69.4850006103516
+2018-07-03 10:50:29.0955 DEBUG In meltcurve, curTemp = 69.568000793457
+2018-07-03 10:50:30.6055 DEBUG In meltcurve, curTemp = 69.6520004272461
+2018-07-03 10:50:32.1455 DEBUG In meltcurve, curTemp = 69.7409973144531
+2018-07-03 10:50:33.6655 DEBUG In meltcurve, curTemp = 69.8239974975586
+2018-07-03 10:50:35.1655 DEBUG In meltcurve, curTemp = 69.9059982299805
+2018-07-03 10:50:36.6855 DEBUG In meltcurve, curTemp = 69.9929962158203
+2018-07-03 10:50:38.1655 DEBUG In meltcurve, curTemp = 70.0739974975586
+2018-07-03 10:50:39.6855 DEBUG In meltcurve, curTemp = 70.1579971313477
+2018-07-03 10:50:41.1855 DEBUG In meltcurve, curTemp = 70.2399978637695
+2018-07-03 10:50:42.6755 DEBUG In meltcurve, curTemp = 70.3239974975586
+2018-07-03 10:50:44.1755 DEBUG In meltcurve, curTemp = 70.4069976806641
+2018-07-03 10:50:45.6655 DEBUG In meltcurve, curTemp = 70.4909973144531
+2018-07-03 10:50:47.1855 DEBUG In meltcurve, curTemp = 70.572998046875
+2018-07-03 10:50:48.6655 DEBUG In meltcurve, curTemp = 70.6559982299805
+2018-07-03 10:50:50.2055 DEBUG In meltcurve, curTemp = 70.7399978637695
+2018-07-03 10:50:51.6856 DEBUG In meltcurve, curTemp = 70.8199996948242
+2018-07-03 10:50:53.2555 DEBUG In meltcurve, curTemp = 70.9100036621094
+2018-07-03 10:50:54.7357 DEBUG In meltcurve, curTemp = 70.984001159668
+2018-07-03 10:50:56.3655 DEBUG In meltcurve, curTemp = 71.0839996337891
+2018-07-03 10:50:57.9055 DEBUG In meltcurve, curTemp = 71.1640014648438
+2018-07-03 10:50:59.4255 DEBUG In meltcurve, curTemp = 71.2480010986328
+2018-07-03 10:51:00.9555 DEBUG In meltcurve, curTemp = 71.3290023803711
+2018-07-03 10:51:02.4457 DEBUG In meltcurve, curTemp = 71.4150009155273
+2018-07-03 10:51:04.0755 DEBUG In meltcurve, curTemp = 71.5070037841797
+2018-07-03 10:51:05.5855 DEBUG In meltcurve, curTemp = 71.5910034179688
+2018-07-03 10:51:07.1555 DEBUG In meltcurve, curTemp = 71.6740036010742
+2018-07-03 10:51:08.6755 DEBUG In meltcurve, curTemp = 71.7630004882813
+2018-07-03 10:51:10.1955 DEBUG In meltcurve, curTemp = 71.8450012207031
+2018-07-03 10:51:11.7055 DEBUG In meltcurve, curTemp = 71.9280014038086
+2018-07-03 10:51:13.3755 DEBUG In meltcurve, curTemp = 72.0220031738281
+2018-07-03 10:51:14.8455 DEBUG In meltcurve, curTemp = 72.0989990234375
+2018-07-03 10:51:16.4355 DEBUG In meltcurve, curTemp = 72.1890029907227
+2018-07-03 10:51:17.9255 DEBUG In meltcurve, curTemp = 72.2689971923828
+2018-07-03 10:51:19.4455 DEBUG In meltcurve, curTemp = 72.3539962768555
+2018-07-03 10:51:20.9255 DEBUG In meltcurve, curTemp = 72.4400024414063
+2018-07-03 10:51:22.4655 DEBUG In meltcurve, curTemp = 72.5210037231445
+2018-07-03 10:51:23.9455 DEBUG In meltcurve, curTemp = 72.6019973754883
+2018-07-03 10:51:25.4655 DEBUG In meltcurve, curTemp = 72.6859970092773
+2018-07-03 10:51:26.9555 DEBUG In meltcurve, curTemp = 72.7720031738281
+2018-07-03 10:51:28.4355 DEBUG In meltcurve, curTemp = 72.859001159668
+2018-07-03 10:51:29.9555 DEBUG In meltcurve, curTemp = 72.9410018920898
+2018-07-03 10:51:31.4455 DEBUG In meltcurve, curTemp = 73.0260009765625
+2018-07-03 10:51:32.9955 DEBUG In meltcurve, curTemp = 73.1139984130859
+2018-07-03 10:51:34.5532 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-07-03 10:51:34.5732 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 10:51:34.6132 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 10:51:34.6332 DEBUG In meltcurve, curTemp = 0
+2018-07-03 10:51:59.3037 DEBUG ----- Starting -----
+2018-07-03 10:52:24.8866 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_52_24\Temperature Log.csv
+2018-07-03 10:52:25.1266 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:52:25.1366 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:52:25.1366 DEBUG Setting the temperature to 45
+2018-07-03 10:52:25.3666 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:52:25.4066 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:52:25.4066 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:52:25.4266 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:52:25.4466 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:52:25.4866 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:52:25.5167 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:52:25.5468 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:52:38.3578 DEBUG At temperature.
+2018-07-03 10:52:38.3578 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:52:38.5593 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:52:38.6074 DEBUG Setting the temperature to 85
+2018-07-03 10:52:38.6235 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:52:38.6576 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_52_24\Melt Curve logging.csv
+2018-07-03 10:52:40.9242 DEBUG In meltcurve, curTemp = 45.3160018920898
+2018-07-03 10:52:42.5386 DEBUG In meltcurve, curTemp = 45.0480003356934
+2018-07-03 10:52:44.1689 DEBUG In meltcurve, curTemp = 44.7970008850098
+2018-07-03 10:52:45.7507 DEBUG In meltcurve, curTemp = 44.5610008239746
+2018-07-03 10:52:47.3326 DEBUG In meltcurve, curTemp = 44.3400001525879
+2018-07-03 10:52:49.0262 DEBUG In meltcurve, curTemp = 44.1209983825684
+2018-07-03 10:52:50.6082 DEBUG In meltcurve, curTemp = 43.9290008544922
+2018-07-03 10:52:52.1428 DEBUG In meltcurve, curTemp = 43.757999420166
+2018-07-03 10:52:53.6445 DEBUG In meltcurve, curTemp = 43.5940017700195
+2018-07-03 10:52:55.1468 DEBUG In meltcurve, curTemp = 43.4370002746582
+2018-07-03 10:52:56.6813 DEBUG In meltcurve, curTemp = 43.2890014648438
+2018-07-03 10:52:58.3111 DEBUG In meltcurve, curTemp = 43.1259994506836
+2018-07-03 10:52:59.8449 DEBUG In meltcurve, curTemp = 42.9879989624023
+2018-07-03 10:53:01.3471 DEBUG In meltcurve, curTemp = 42.8530006408691
+2018-07-03 10:57:02.2601 DEBUG ----- Starting -----
+2018-07-03 10:57:27.8351 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_57_27\Temperature Log.csv
+2018-07-03 10:57:28.0851 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:57:28.0951 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:57:28.1151 DEBUG Setting the temperature to 45
+2018-07-03 10:57:28.1851 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:57:28.2351 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 35.218 to temp is 95
+2018-07-03 10:57:28.2551 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 35.218 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-03 10:57:28.2651 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-03 10:57:28.3051 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:57:28.3351 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:57:28.3651 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:57:28.3951 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:57:33.3452 DEBUG At temperature.
+2018-07-03 10:57:33.3751 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 10:57:33.4751 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 10:57:33.5551 DEBUG Setting the temperature to 85
+2018-07-03 10:57:33.7051 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 10:57:33.7651 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_57_27\Melt Curve logging.csv
+2018-07-03 10:57:34.8351 DEBUG In meltcurve, curTemp = 45.0499992370605
+2018-07-03 10:57:36.3551 DEBUG In meltcurve, curTemp = 44.9609985351563
+2018-07-03 10:57:37.8852 DEBUG In meltcurve, curTemp = 44.9570007324219
+2018-07-03 10:57:39.3751 DEBUG In meltcurve, curTemp = 44.9990005493164
+2018-07-03 10:57:40.8951 DEBUG In meltcurve, curTemp = 45.0789985656738
+2018-07-03 10:57:42.5251 DEBUG In meltcurve, curTemp = 45.2649993896484
+2018-07-03 10:57:44.0451 DEBUG In meltcurve, curTemp = 45.3940010070801
+2018-07-03 10:57:45.5751 DEBUG In meltcurve, curTemp = 45.5050010681152
+2018-07-03 10:57:47.1751 DEBUG In meltcurve, curTemp = 45.5740013122559
+2018-07-03 10:57:48.7051 DEBUG In meltcurve, curTemp = 45.6230010986328
+2018-07-03 10:57:50.3251 DEBUG In meltcurve, curTemp = 45.6599998474121
+2018-07-03 10:57:51.8551 DEBUG In meltcurve, curTemp = 45.7610015869141
+2018-07-03 10:57:53.3851 DEBUG In meltcurve, curTemp = 45.8870010375977
+2018-07-03 10:57:54.9251 DEBUG In meltcurve, curTemp = 46.0200004577637
+2018-07-03 10:57:56.4252 DEBUG In meltcurve, curTemp = 46.1440010070801
+2018-07-03 10:57:58.1051 DEBUG In meltcurve, curTemp = 46.226001739502
+2018-07-03 10:57:59.6253 DEBUG In meltcurve, curTemp = 46.273998260498
+2018-07-03 10:58:01.2651 DEBUG In meltcurve, curTemp = 46.3089981079102
+2018-07-03 10:58:02.9451 DEBUG In meltcurve, curTemp = 46.4830017089844
+2018-07-03 10:58:04.4453 DEBUG In meltcurve, curTemp = 46.6150016784668
+2018-07-03 10:58:06.0251 DEBUG In meltcurve, curTemp = 46.7280006408691
+2018-07-03 10:58:07.5153 DEBUG In meltcurve, curTemp = 46.8129997253418
+2018-07-03 10:58:09.0651 DEBUG In meltcurve, curTemp = 46.8460006713867
+2018-07-03 10:58:10.5552 DEBUG In meltcurve, curTemp = 46.8930015563965
+2018-07-03 10:58:12.1151 DEBUG In meltcurve, curTemp = 46.9550018310547
+2018-07-03 10:58:13.6053 DEBUG In meltcurve, curTemp = 47.0449981689453
+2018-07-03 10:58:15.2651 DEBUG In meltcurve, curTemp = 47.242000579834
+2018-07-03 10:58:16.7651 DEBUG In meltcurve, curTemp = 47.3680000305176
+2018-07-03 10:58:18.3051 DEBUG In meltcurve, curTemp = 47.4679985046387
+2018-07-03 10:58:19.7852 DEBUG In meltcurve, curTemp = 47.5419998168945
+2018-07-03 10:58:21.3852 DEBUG In meltcurve, curTemp = 47.5589981079102
+2018-07-03 10:58:22.8753 DEBUG In meltcurve, curTemp = 47.6080017089844
+2018-07-03 10:58:24.4551 DEBUG In meltcurve, curTemp = 47.6790008544922
+2018-07-03 10:58:26.0051 DEBUG In meltcurve, curTemp = 47.8160018920898
+2018-07-03 10:58:27.5351 DEBUG In meltcurve, curTemp = 47.9529991149902
+2018-07-03 10:58:29.0605 DEBUG In meltcurve, curTemp = 48.0900001525879
+2018-07-03 10:58:30.5707 DEBUG In meltcurve, curTemp = 48.2060012817383
+2018-07-03 10:58:32.1285 DEBUG In meltcurve, curTemp = 48.2669982910156
+2018-07-03 10:58:33.6146 DEBUG In meltcurve, curTemp = 48.310001373291
+2018-07-03 10:58:35.1490 DEBUG In meltcurve, curTemp = 48.3489990234375
+2018-07-03 10:58:36.6352 DEBUG In meltcurve, curTemp = 48.4080009460449
+2018-07-03 10:58:38.1447 DEBUG In meltcurve, curTemp = 48.4980010986328
+2018-07-03 10:58:39.7147 DEBUG In meltcurve, curTemp = 48.6609992980957
+2018-07-03 10:59:18.2270 DEBUG ----- Starting -----
+2018-07-03 10:59:38.6011 DEBUG ----- Starting -----
+2018-07-03 10:59:52.7183 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_10_59_52\Temperature Log.csv
+2018-07-03 10:59:52.9683 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 10:59:52.9683 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 10:59:52.9983 DEBUG Setting the temperature to 45
+2018-07-03 10:59:53.2183 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 10:59:53.3483 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 10:59:53.3583 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 10:59:53.3784 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 10:59:53.4084 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:59:53.4483 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 10:59:53.4783 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 10:59:53.5084 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:00:05.3184 DEBUG At temperature.
+2018-07-03 11:00:05.3184 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 11:00:05.4783 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 11:00:05.5583 DEBUG Setting the temperature to 85
+2018-07-03 11:00:05.5583 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 11:00:05.6083 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_10_59_52\Melt Curve logging.csv
+2018-07-03 11:00:05.7783 DEBUG In meltcurve, curTemp = 45.2369995117188
+2018-07-03 11:00:09.6483 DEBUG In meltcurve, curTemp = 46.2280006408691
+2018-07-03 11:00:13.5284 DEBUG In meltcurve, curTemp = 46.3499984741211
+2018-07-03 11:00:17.3983 DEBUG In meltcurve, curTemp = 46.5530014038086
+2018-07-03 11:00:21.3183 DEBUG In meltcurve, curTemp = 46.7540016174316
+2018-07-03 11:00:25.1983 DEBUG In meltcurve, curTemp = 46.9580001831055
+2018-07-03 11:00:28.9883 DEBUG In meltcurve, curTemp = 47.1069984436035
+2018-07-03 11:00:32.8684 DEBUG In meltcurve, curTemp = 47.2200012207031
+2018-07-03 11:00:36.6984 DEBUG In meltcurve, curTemp = 47.3120002746582
+2018-07-03 11:00:40.5883 DEBUG In meltcurve, curTemp = 47.4039993286133
+2018-07-03 11:00:44.4483 DEBUG In meltcurve, curTemp = 47.4959983825684
+2018-07-03 11:00:48.3484 DEBUG In meltcurve, curTemp = 47.5989990234375
+2018-07-03 11:00:52.3585 DEBUG In meltcurve, curTemp = 47.7120018005371
+2018-07-03 11:00:56.5283 DEBUG In meltcurve, curTemp = 47.8390007019043
+2018-07-03 11:01:00.7183 DEBUG In meltcurve, curTemp = 47.9780006408691
+2018-07-03 11:01:04.7984 DEBUG In meltcurve, curTemp = 48.1160011291504
+2018-07-03 11:01:08.8684 DEBUG In meltcurve, curTemp = 48.2639999389648
+2018-07-03 11:01:13.0084 DEBUG In meltcurve, curTemp = 48.423999786377
+2018-07-03 11:01:17.1584 DEBUG In meltcurve, curTemp = 48.5830001831055
+2018-07-03 11:01:21.2385 DEBUG In meltcurve, curTemp = 48.7480010986328
+2018-07-03 11:01:25.3585 DEBUG In meltcurve, curTemp = 48.9179992675781
+2018-07-03 11:01:29.5284 DEBUG In meltcurve, curTemp = 49.0960006713867
+2018-07-03 11:01:33.6884 DEBUG In meltcurve, curTemp = 49.2770004272461
+2018-07-03 11:01:37.7584 DEBUG In meltcurve, curTemp = 49.4420013427734
+2018-07-03 11:01:41.9984 DEBUG In meltcurve, curTemp = 49.625
+2018-07-03 11:01:46.0884 DEBUG In meltcurve, curTemp = 49.8120002746582
+2018-07-03 11:01:50.4185 DEBUG In meltcurve, curTemp = 50.0120010375977
+2018-07-03 11:01:54.2684 DEBUG In meltcurve, curTemp = 50.1949996948242
+2018-07-03 11:01:58.1384 DEBUG In meltcurve, curTemp = 50.3740005493164
+2018-07-03 11:02:02.1784 DEBUG In meltcurve, curTemp = 50.568000793457
+2018-07-03 11:02:06.0284 DEBUG In meltcurve, curTemp = 50.7509994506836
+2018-07-03 11:02:09.8485 DEBUG In meltcurve, curTemp = 50.935001373291
+2018-07-03 11:02:13.7484 DEBUG In meltcurve, curTemp = 51.1230010986328
+2018-07-03 11:02:17.7784 DEBUG In meltcurve, curTemp = 51.318000793457
+2018-07-03 11:02:21.7384 DEBUG In meltcurve, curTemp = 51.5139999389648
+2018-07-03 11:02:25.7685 DEBUG In meltcurve, curTemp = 51.7099990844727
+2018-07-03 11:02:29.6784 DEBUG In meltcurve, curTemp = 51.9049987792969
+2018-07-03 11:02:33.5185 DEBUG In meltcurve, curTemp = 52.0960006713867
+2018-07-03 11:02:37.5584 DEBUG In meltcurve, curTemp = 52.2949981689453
+2018-07-03 11:02:41.3786 DEBUG In meltcurve, curTemp = 52.484001159668
+2018-07-03 11:02:45.2584 DEBUG In meltcurve, curTemp = 52.681999206543
+2018-07-03 11:18:12.5053 DEBUG ----- Starting -----
+2018-07-03 11:18:33.9736 DEBUG ----- Starting -----
+2018-07-03 11:18:52.1501 DEBUG ----- Starting -----
+2018-07-03 11:19:31.5630 DEBUG ----- Starting -----
+2018-07-03 11:19:58.6036 DEBUG ----- Starting -----
+2018-07-03 11:21:34.4364 DEBUG ----- Starting -----
+2018-07-03 11:21:57.7174 DEBUG ----- Starting -----
+2018-07-03 11:22:12.4292 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_11_22_12\Temperature Log.csv
+2018-07-03 11:22:12.6592 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 11:22:12.6692 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 11:22:12.6692 DEBUG Setting the temperature to 45
+2018-07-03 11:22:12.7292 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 11:22:12.7892 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 29.93 to temp is 95
+2018-07-03 11:22:12.7992 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 29.93 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-03 11:22:12.8092 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-03 11:22:12.8392 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:22:12.8692 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:22:12.8992 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:22:12.9292 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:22:19.7715 DEBUG At temperature.
+2018-07-03 11:22:19.8086 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 11:22:19.9059 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 11:22:20.1134 DEBUG Setting the temperature to 85
+2018-07-03 11:22:20.1766 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 11:22:20.2468 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_11_22_12\Melt Curve logging.csv
+2018-07-03 11:22:20.4012 DEBUG In meltcurve, curTemp = 44.992000579834
+2018-07-03 11:22:24.5712 DEBUG In meltcurve, curTemp = 44.4869995117188
+2018-07-03 11:22:28.7108 DEBUG In meltcurve, curTemp = 44.7120018005371
+2018-07-03 11:22:32.8646 DEBUG In meltcurve, curTemp = 44.9690017700195
+2018-07-03 11:22:37.0199 DEBUG In meltcurve, curTemp = 45.2369995117188
+2018-07-03 11:22:41.0788 DEBUG In meltcurve, curTemp = 45.4830017089844
+2018-07-03 11:22:45.2018 DEBUG In meltcurve, curTemp = 45.7210006713867
+2018-07-03 11:22:49.3402 DEBUG In meltcurve, curTemp = 45.9550018310547
+2018-07-03 11:22:53.5596 DEBUG In meltcurve, curTemp = 46.1459999084473
+2018-07-03 11:22:57.7614 DEBUG In meltcurve, curTemp = 46.3349990844727
+2018-07-03 11:23:02.0606 DEBUG In meltcurve, curTemp = 46.5559997558594
+2018-07-03 11:23:06.2628 DEBUG In meltcurve, curTemp = 46.8489990234375
+2018-07-03 11:23:10.3856 DEBUG In meltcurve, curTemp = 47.1150016784668
+2018-07-03 11:23:14.5879 DEBUG In meltcurve, curTemp = 47.4410018920898
+2018-07-03 11:23:18.3755 DEBUG In meltcurve, curTemp = 47.5540008544922
+2018-07-03 11:23:22.4980 DEBUG In meltcurve, curTemp = 47.8170013427734
+2018-07-03 11:23:26.7327 DEBUG In meltcurve, curTemp = 48.189998626709
+2018-07-03 11:23:30.9194 DEBUG In meltcurve, curTemp = 48.4580001831055
+2018-07-03 11:23:35.0906 DEBUG In meltcurve, curTemp = 48.7459983825684
+2018-07-03 11:23:39.3409 DEBUG In meltcurve, curTemp = 48.9679985046387
+2018-07-03 11:23:43.5756 DEBUG In meltcurve, curTemp = 49.1549987792969
+2018-07-03 11:23:47.8110 DEBUG In meltcurve, curTemp = 49.3370018005371
+2018-07-03 11:23:51.9658 DEBUG In meltcurve, curTemp = 49.5419998168945
+2018-07-03 11:23:56.1688 DEBUG In meltcurve, curTemp = 49.7879981994629
+2018-07-03 11:23:59.9399 DEBUG In meltcurve, curTemp = 50.1110000610352
+2018-07-03 11:24:04.0462 DEBUG In meltcurve, curTemp = 50.3429985046387
+2018-07-03 11:24:08.1964 DEBUG In meltcurve, curTemp = 50.5309982299805
+2018-07-03 11:24:12.3064 DEBUG In meltcurve, curTemp = 50.7649993896484
+2018-07-03 11:24:16.4464 DEBUG In meltcurve, curTemp = 51.0019989013672
+2018-07-03 11:24:20.4566 DEBUG In meltcurve, curTemp = 51.2639999389648
+2018-07-03 11:24:24.6064 DEBUG In meltcurve, curTemp = 51.4809989929199
+2018-07-03 11:24:28.5264 DEBUG In meltcurve, curTemp = 51.773998260498
+2018-07-03 11:24:32.5164 DEBUG In meltcurve, curTemp = 52.0579986572266
+2018-07-03 11:24:36.3964 DEBUG In meltcurve, curTemp = 52.3979988098145
+2018-07-03 11:24:40.4164 DEBUG In meltcurve, curTemp = 52.6679992675781
+2018-07-03 11:24:44.2464 DEBUG In meltcurve, curTemp = 52.867000579834
+2018-07-03 11:24:48.4064 DEBUG In meltcurve, curTemp = 53.1209983825684
+2018-07-03 11:24:52.5065 DEBUG In meltcurve, curTemp = 53.4109992980957
+2018-07-03 11:24:56.5964 DEBUG In meltcurve, curTemp = 53.6209983825684
+2018-07-03 11:25:00.6265 DEBUG In meltcurve, curTemp = 53.8709983825684
+2018-07-03 11:25:04.7965 DEBUG In meltcurve, curTemp = 54.1240005493164
+2018-07-03 11:25:08.8264 DEBUG In meltcurve, curTemp = 54.3709983825684
+2018-07-03 11:25:12.6565 DEBUG In meltcurve, curTemp = 54.4189987182617
+2018-07-03 11:25:16.5864 DEBUG In meltcurve, curTemp = 54.5660018920898
+2018-07-03 11:25:20.5366 DEBUG In meltcurve, curTemp = 54.8019981384277
+2018-07-03 11:25:24.3566 DEBUG In meltcurve, curTemp = 55.1759986877441
+2018-07-03 11:25:28.4965 DEBUG In meltcurve, curTemp = 55.4199981689453
+2018-07-03 11:25:32.5365 DEBUG In meltcurve, curTemp = 55.726001739502
+2018-07-03 11:25:36.6765 DEBUG In meltcurve, curTemp = 55.9169998168945
+2018-07-03 11:25:40.7865 DEBUG In meltcurve, curTemp = 56.1650009155273
+2018-07-03 11:26:00.7673 DEBUG ----- Starting -----
+2018-07-03 11:26:18.7875 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_11_26_18\Temperature Log.csv
+2018-07-03 11:26:19.0376 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 11:26:19.0475 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 11:26:19.0676 DEBUG Setting the temperature to 45
+2018-07-03 11:26:19.4175 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 11:26:19.4476 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 11:26:19.4575 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 11:26:19.4775 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 11:26:19.5076 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:26:19.5476 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:26:19.5875 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:26:19.6376 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:26:31.3876 DEBUG At temperature.
+2018-07-03 11:26:31.3876 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 11:26:31.4775 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 11:26:31.6575 DEBUG Setting the temperature to 85
+2018-07-03 11:26:31.7175 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 11:26:31.7975 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_11_26_18\Melt Curve logging.csv
+2018-07-03 11:26:32.0076 DEBUG In meltcurve, curTemp = 45.4949989318848
+2018-07-03 11:26:36.2275 DEBUG In meltcurve, curTemp = 45.814998626709
+2018-07-03 11:26:40.4575 DEBUG In meltcurve, curTemp = 46.0379981994629
+2018-07-03 11:26:44.6476 DEBUG In meltcurve, curTemp = 46.2470016479492
+2018-07-03 11:26:48.4975 DEBUG In meltcurve, curTemp = 46.4269981384277
+2018-07-03 11:26:52.5575 DEBUG In meltcurve, curTemp = 46.5550003051758
+2018-07-03 11:26:56.3892 DEBUG In meltcurve, curTemp = 46.6419982910156
+2018-07-03 11:27:00.1793 DEBUG In meltcurve, curTemp = 46.7220001220703
+2018-07-03 11:27:04.2892 DEBUG In meltcurve, curTemp = 46.8110008239746
+2018-07-03 11:27:08.4591 DEBUG In meltcurve, curTemp = 46.9119987487793
+2018-07-03 11:27:12.5691 DEBUG In meltcurve, curTemp = 47.0200004577637
+2018-07-03 11:27:22.0439 DEBUG ----- Starting -----
+2018-07-03 11:27:41.4699 DEBUG ----- Starting -----
+2018-07-03 11:27:57.5172 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_11_27_57\Temperature Log.csv
+2018-07-03 11:27:57.7698 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 11:27:57.7798 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 11:27:57.7998 DEBUG Setting the temperature to 45
+2018-07-03 11:27:57.9698 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 11:27:58.0098 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 11:27:58.0198 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 11:27:58.0298 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 11:27:58.1498 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:27:58.2198 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:27:58.2598 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:27:58.3098 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:28:09.1998 DEBUG At temperature.
+2018-07-03 11:28:09.2398 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 11:28:09.2898 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 11:28:09.3398 DEBUG Setting the temperature to 85
+2018-07-03 11:28:09.3398 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 11:28:09.3898 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_11_27_57\Melt Curve logging.csv
+2018-07-03 11:28:09.6098 DEBUG In meltcurve, curTemp = 45.3230018615723
+2018-07-03 11:28:13.7598 DEBUG In meltcurve, curTemp = 46.2929992675781
+2018-07-03 11:28:17.9698 DEBUG In meltcurve, curTemp = 46.4749984741211
+2018-07-03 11:28:21.8598 DEBUG In meltcurve, curTemp = 46.6749992370605
+2018-07-03 11:28:25.6999 DEBUG In meltcurve, curTemp = 46.867000579834
+2018-07-03 11:28:29.7098 DEBUG In meltcurve, curTemp = 47.015998840332
+2018-07-03 11:28:33.5300 DEBUG In meltcurve, curTemp = 47.1180000305176
+2018-07-03 11:28:37.7198 DEBUG In meltcurve, curTemp = 47.2200012207031
+2018-07-03 11:28:41.8699 DEBUG In meltcurve, curTemp = 47.3230018615723
+2018-07-03 11:28:46.0798 DEBUG In meltcurve, curTemp = 47.4309997558594
+2018-07-03 11:28:50.2498 DEBUG In meltcurve, curTemp = 47.5460014343262
+2018-07-03 11:28:54.4200 DEBUG In meltcurve, curTemp = 47.6749992370605
+2018-07-03 11:28:58.2198 DEBUG In meltcurve, curTemp = 47.7970008850098
+2018-07-03 11:29:17.2459 DEBUG ----- Starting -----
+2018-07-03 11:29:33.2050 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_11_29_33\Temperature Log.csv
+2018-07-03 11:29:33.4750 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 11:29:33.4850 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 11:29:33.5050 DEBUG Setting the temperature to 45
+2018-07-03 11:29:33.6650 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 11:29:33.8750 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 11:29:33.8950 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 11:29:33.9050 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 11:29:33.9450 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:29:33.9750 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:29:34.0050 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:29:34.0350 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:29:45.9950 DEBUG At temperature.
+2018-07-03 11:29:46.0050 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 11:29:46.0850 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 11:29:46.1650 DEBUG Setting the temperature to 85
+2018-07-03 11:29:46.2950 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 11:29:46.3550 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_11_29_33\Melt Curve logging.csv
+2018-07-03 11:29:46.6450 DEBUG In meltcurve, curTemp = 45.4669990539551
+2018-07-03 11:29:50.5550 DEBUG In meltcurve, curTemp = 45.8839988708496
+2018-07-03 11:29:54.3650 DEBUG In meltcurve, curTemp = 46.0589981079102
+2018-07-03 11:29:58.1950 DEBUG In meltcurve, curTemp = 46.2620010375977
+2018-07-03 11:30:02.2851 DEBUG In meltcurve, curTemp = 46.4790000915527
+2018-07-03 11:30:06.3850 DEBUG In meltcurve, curTemp = 46.6910018920898
+2018-07-03 11:30:10.5052 DEBUG In meltcurve, curTemp = 46.8569984436035
+2018-07-03 11:30:14.7250 DEBUG In meltcurve, curTemp = 46.9910011291504
+2018-07-03 11:30:19.0551 DEBUG In meltcurve, curTemp = 47.1110000610352
+2018-07-03 11:30:22.8850 DEBUG In meltcurve, curTemp = 47.2179985046387
+2018-07-03 11:30:26.8851 DEBUG In meltcurve, curTemp = 47.3330001831055
+2018-07-03 11:30:30.7952 DEBUG In meltcurve, curTemp = 47.451000213623
+2018-07-03 11:30:34.6150 DEBUG In meltcurve, curTemp = 47.5769996643066
+2018-07-03 11:30:38.4250 DEBUG In meltcurve, curTemp = 47.7050018310547
+2018-07-03 11:30:42.5252 DEBUG In meltcurve, curTemp = 47.8499984741211
+2018-07-03 11:30:46.6150 DEBUG In meltcurve, curTemp = 47.9959983825684
+2018-07-03 11:30:50.8050 DEBUG In meltcurve, curTemp = 48.1559982299805
+2018-07-03 11:30:55.0350 DEBUG In meltcurve, curTemp = 48.326000213623
+2018-07-03 11:30:59.2050 DEBUG In meltcurve, curTemp = 48.4930000305176
+2018-07-03 11:31:03.2250 DEBUG In meltcurve, curTemp = 48.6590003967285
+2018-07-03 11:31:07.1351 DEBUG In meltcurve, curTemp = 48.826000213623
+2018-07-03 11:31:10.9351 DEBUG In meltcurve, curTemp = 48.9939994812012
+2018-07-03 11:31:14.7452 DEBUG In meltcurve, curTemp = 49.1609992980957
+2018-07-03 11:31:18.5950 DEBUG In meltcurve, curTemp = 49.3339996337891
+2018-07-03 11:31:26.6950 DEBUG ----- Starting -----
+2018-07-03 11:31:40.5712 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_11_31_40\Temperature Log.csv
+2018-07-03 11:31:40.8412 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 11:31:40.8412 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 11:31:40.8612 DEBUG Setting the temperature to 45
+2018-07-03 11:31:41.0312 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 11:31:41.1912 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-03 11:31:41.2112 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 11:31:41.2312 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 11:31:41.2512 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:31:41.2913 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:31:41.3312 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 11:31:41.3712 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 11:31:53.1712 DEBUG At temperature.
+2018-07-03 11:31:53.1912 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 11:31:53.2912 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 11:31:53.3312 DEBUG Setting the temperature to 85
+2018-07-03 11:31:53.4912 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 11:31:53.5612 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_11_31_40\Melt Curve logging.csv
+2018-07-03 11:31:53.7513 DEBUG In meltcurve, curTemp = 45.3810005187988
+2018-07-03 11:31:57.6212 DEBUG In meltcurve, curTemp = 45.7220001220703
+2018-07-03 11:32:01.4812 DEBUG In meltcurve, curTemp = 45.8979988098145
+2018-07-03 11:32:05.7012 DEBUG In meltcurve, curTemp = 46.1240005493164
+2018-07-03 11:32:09.9112 DEBUG In meltcurve, curTemp = 46.3419990539551
+2018-07-03 11:32:14.1412 DEBUG In meltcurve, curTemp = 46.5690002441406
+2018-07-03 11:32:18.3312 DEBUG In meltcurve, curTemp = 46.7379989624023
+2018-07-03 11:32:22.1812 DEBUG In meltcurve, curTemp = 46.8610000610352
+2018-07-03 11:32:26.2412 DEBUG In meltcurve, curTemp = 46.9790000915527
+2018-07-03 11:32:30.0412 DEBUG In meltcurve, curTemp = 47.0890007019043
+2018-07-03 11:32:33.8414 DEBUG In meltcurve, curTemp = 47.201000213623
+2018-07-03 11:32:37.8212 DEBUG In meltcurve, curTemp = 47.3209991455078
+2018-07-03 11:32:41.6312 DEBUG In meltcurve, curTemp = 47.4440002441406
+2018-07-03 11:32:45.7314 DEBUG In meltcurve, curTemp = 47.5810012817383
+2018-07-03 11:32:49.9212 DEBUG In meltcurve, curTemp = 47.7290000915527
+2018-07-03 11:32:54.1612 DEBUG In meltcurve, curTemp = 47.8860015869141
+2018-07-03 11:32:58.1812 DEBUG In meltcurve, curTemp = 48.0369987487793
+2018-07-03 11:33:02.0812 DEBUG In meltcurve, curTemp = 48.189998626709
+2018-07-03 11:33:05.9612 DEBUG In meltcurve, curTemp = 48.3460006713867
+2018-07-03 11:33:10.0112 DEBUG In meltcurve, curTemp = 48.5099983215332
+2018-07-03 11:33:13.8114 DEBUG In meltcurve, curTemp = 48.6679992675781
+2018-07-03 11:33:17.6812 DEBUG In meltcurve, curTemp = 48.8339996337891
+2018-07-03 11:33:21.5013 DEBUG In meltcurve, curTemp = 48.9980010986328
+2018-07-03 11:33:25.6812 DEBUG In meltcurve, curTemp = 49.1769981384277
+2018-07-03 11:33:29.7612 DEBUG In meltcurve, curTemp = 49.3600006103516
+2018-07-03 11:33:33.8712 DEBUG In meltcurve, curTemp = 49.5419998168945
+2018-07-03 11:33:38.0412 DEBUG In meltcurve, curTemp = 49.734001159668
+2018-07-03 11:33:41.9712 DEBUG In meltcurve, curTemp = 49.9119987487793
+2018-07-03 11:33:45.8812 DEBUG In meltcurve, curTemp = 50.0919990539551
+2018-07-03 11:33:50.0413 DEBUG In meltcurve, curTemp = 50.2910003662109
+2018-07-03 11:33:53.9212 DEBUG In meltcurve, curTemp = 50.4729995727539
+2018-07-03 11:33:57.8712 DEBUG In meltcurve, curTemp = 50.6590003967285
+2018-07-03 11:34:01.7012 DEBUG In meltcurve, curTemp = 50.8409996032715
+2018-07-03 11:34:05.9112 DEBUG In meltcurve, curTemp = 51.0250015258789
+2018-07-03 11:34:10.0012 DEBUG In meltcurve, curTemp = 51.1710014343262
+2018-07-03 11:34:14.1214 DEBUG In meltcurve, curTemp = 51.3030014038086
+2018-07-03 11:34:18.2612 DEBUG In meltcurve, curTemp = 51.5209999084473
+2018-07-03 11:34:22.1613 DEBUG In meltcurve, curTemp = 51.7299995422363
+2018-07-03 11:34:26.2012 DEBUG In meltcurve, curTemp = 51.9459991455078
+2018-07-03 11:34:30.0712 DEBUG In meltcurve, curTemp = 52.1539993286133
+2018-07-03 11:34:34.2112 DEBUG In meltcurve, curTemp = 52.3709983825684
+2018-07-03 11:34:37.9914 DEBUG In meltcurve, curTemp = 52.5699996948242
+2018-07-03 11:34:41.8612 DEBUG In meltcurve, curTemp = 52.7680015563965
+2018-07-03 11:34:45.8413 DEBUG In meltcurve, curTemp = 52.9780006408691
+2018-07-03 11:34:50.0112 DEBUG In meltcurve, curTemp = 53.1699981689453
+2018-07-03 11:34:54.1313 DEBUG In meltcurve, curTemp = 53.3699989318848
+2018-07-03 11:34:58.3412 DEBUG In meltcurve, curTemp = 53.5859985351563
+2018-07-03 11:35:02.2813 DEBUG In meltcurve, curTemp = 53.7869987487793
+2018-07-03 11:35:06.5313 DEBUG In meltcurve, curTemp = 54.0130004882813
+2018-07-03 11:35:10.6914 DEBUG In meltcurve, curTemp = 54.2400016784668
+2018-07-03 11:35:14.7813 DEBUG In meltcurve, curTemp = 54.4410018920898
+2018-07-03 11:35:18.7113 DEBUG In meltcurve, curTemp = 54.6529998779297
+2018-07-03 11:35:22.6413 DEBUG In meltcurve, curTemp = 54.859001159668
+2018-07-03 11:35:26.7314 DEBUG In meltcurve, curTemp = 55.0719985961914
+2018-07-03 11:35:30.8613 DEBUG In meltcurve, curTemp = 55.2879981994629
+2018-07-03 11:35:35.0713 DEBUG In meltcurve, curTemp = 55.4990005493164
+2018-07-03 11:35:39.0114 DEBUG In meltcurve, curTemp = 55.7029991149902
+2018-07-03 11:35:43.1613 DEBUG In meltcurve, curTemp = 55.9269981384277
+2018-07-03 11:35:47.3113 DEBUG In meltcurve, curTemp = 56.1419982910156
+2018-07-03 11:35:51.3415 DEBUG In meltcurve, curTemp = 56.3629989624023
+2018-07-03 11:35:55.1615 DEBUG In meltcurve, curTemp = 56.5629997253418
+2018-07-03 11:35:59.0613 DEBUG In meltcurve, curTemp = 56.7690010070801
+2018-07-03 11:36:02.9113 DEBUG In meltcurve, curTemp = 56.9700012207031
+2018-07-03 11:36:07.0313 DEBUG In meltcurve, curTemp = 57.1889991760254
+2018-07-03 11:36:11.1713 DEBUG In meltcurve, curTemp = 57.4109992980957
+2018-07-03 11:36:15.2513 DEBUG In meltcurve, curTemp = 57.6230010986328
+2018-07-03 11:36:19.3613 DEBUG In meltcurve, curTemp = 57.8400001525879
+2018-07-03 11:36:23.2713 DEBUG In meltcurve, curTemp = 58.0519981384277
+2018-07-03 11:36:27.0914 DEBUG In meltcurve, curTemp = 58.2540016174316
+2018-07-03 11:36:31.0415 DEBUG In meltcurve, curTemp = 58.4630012512207
+2018-07-03 11:36:34.9413 DEBUG In meltcurve, curTemp = 58.6689987182617
+2018-07-03 11:36:38.8213 DEBUG In meltcurve, curTemp = 58.8779983520508
+2018-07-03 11:36:42.6913 DEBUG In meltcurve, curTemp = 59.0830001831055
+2018-07-03 11:36:46.6813 DEBUG In meltcurve, curTemp = 59.2980003356934
+2018-07-03 11:36:50.7613 DEBUG In meltcurve, curTemp = 59.515998840332
+2018-07-03 11:36:54.8914 DEBUG In meltcurve, curTemp = 59.7379989624023
+2018-07-03 11:36:58.9915 DEBUG In meltcurve, curTemp = 59.9580001831055
+2018-07-03 11:37:03.1714 DEBUG In meltcurve, curTemp = 60.1839981079102
+2018-07-03 11:37:07.4113 DEBUG In meltcurve, curTemp = 60.4119987487793
+2018-07-03 11:37:11.1913 DEBUG In meltcurve, curTemp = 60.617000579834
+2018-07-03 11:37:15.2413 DEBUG In meltcurve, curTemp = 60.8370018005371
+2018-07-03 11:37:19.0415 DEBUG In meltcurve, curTemp = 61.0439987182617
+2018-07-03 11:37:22.9713 DEBUG In meltcurve, curTemp = 61.2550010681152
+2018-07-03 11:37:26.8713 DEBUG In meltcurve, curTemp = 61.4669990539551
+2018-07-03 11:37:31.0313 DEBUG In meltcurve, curTemp = 61.689998626709
+2018-07-03 11:37:35.2413 DEBUG In meltcurve, curTemp = 61.9220008850098
+2018-07-03 11:37:39.4513 DEBUG In meltcurve, curTemp = 62.1529998779297
+2018-07-03 11:37:43.5415 DEBUG In meltcurve, curTemp = 62.3709983825684
+2018-07-03 11:37:47.7713 DEBUG In meltcurve, curTemp = 62.6069984436035
+2018-07-03 11:37:51.5813 DEBUG In meltcurve, curTemp = 62.8139991760254
+2018-07-03 11:37:55.7813 DEBUG In meltcurve, curTemp = 63.0439987182617
+2018-07-03 11:37:59.6013 DEBUG In meltcurve, curTemp = 63.2519989013672
+2018-07-03 11:38:03.5013 DEBUG In meltcurve, curTemp = 63.4630012512207
+2018-07-03 11:38:07.3014 DEBUG In meltcurve, curTemp = 63.6710014343262
+2018-07-03 11:38:11.3413 DEBUG In meltcurve, curTemp = 63.8889999389648
+2018-07-03 11:38:15.5015 DEBUG In meltcurve, curTemp = 64.1190032958984
+2018-07-03 11:38:19.6513 DEBUG In meltcurve, curTemp = 64.3460006713867
+2018-07-03 11:38:23.7115 DEBUG In meltcurve, curTemp = 64.5690002441406
+2018-07-03 11:38:27.9015 DEBUG In meltcurve, curTemp = 64.7939987182617
+2018-07-03 11:38:31.9113 DEBUG In meltcurve, curTemp = 65.0179977416992
+2018-07-03 11:38:35.8113 DEBUG In meltcurve, curTemp = 65.2279968261719
+2018-07-03 11:38:39.7713 DEBUG In meltcurve, curTemp = 65.4440002441406
+2018-07-03 11:38:43.5815 DEBUG In meltcurve, curTemp = 65.6510009765625
+2018-07-03 11:38:47.4013 DEBUG In meltcurve, curTemp = 65.8619995117188
+2018-07-03 11:38:51.5213 DEBUG In meltcurve, curTemp = 66.0859985351563
+2018-07-03 11:38:55.7513 DEBUG In meltcurve, curTemp = 66.3219985961914
+2018-07-03 11:38:59.8314 DEBUG In meltcurve, curTemp = 66.5380020141602
+2018-07-03 11:39:03.9215 DEBUG In meltcurve, curTemp = 66.7639999389648
+2018-07-03 11:39:08.0914 DEBUG In meltcurve, curTemp = 66.9960021972656
+2018-07-03 11:39:11.8915 DEBUG In meltcurve, curTemp = 67.2030029296875
+2018-07-03 11:39:15.8514 DEBUG In meltcurve, curTemp = 67.4219970703125
+2018-07-03 11:39:19.7714 DEBUG In meltcurve, curTemp = 67.6389999389648
+2018-07-03 11:39:23.6414 DEBUG In meltcurve, curTemp = 67.8470001220703
+2018-07-03 11:39:27.4414 DEBUG In meltcurve, curTemp = 68.056999206543
+2018-07-03 11:39:28.9514 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-07-03 11:39:29.0014 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 11:39:29.0114 DEBUG Protocol::Execute caught an exception: The port is closed.
+2018-07-03 11:39:29.0314 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 13:06:28.6917 DEBUG ----- Starting -----
+2018-07-03 13:09:33.3961 DEBUG ----- Starting -----
+2018-07-03 13:10:42.3808 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_13_10_42\Temperature Log.csv
+2018-07-03 13:10:42.6509 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 13:10:42.6708 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 13:10:42.6908 DEBUG Setting the temperature to 45
+2018-07-03 13:10:42.7908 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 13:10:42.8508 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 25.852 to temp is 95
+2018-07-03 13:10:42.8608 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 25.852 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-03 13:10:42.8808 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-03 13:10:43.0108 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 13:10:43.0608 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 13:10:43.0908 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 13:10:43.1508 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 13:10:50.8310 DEBUG At temperature.
+2018-07-03 13:10:50.8708 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 13:10:51.0208 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 13:10:51.1308 DEBUG Setting the temperature to 85
+2018-07-03 13:10:51.1608 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 13:10:51.1908 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_13_10_42\Melt Curve logging.csv
+2018-07-03 13:10:51.3708 DEBUG In meltcurve, curTemp = 44.8390007019043
+2018-07-03 13:10:55.3309 DEBUG In meltcurve, curTemp = 44.6459999084473
+2018-07-03 13:10:59.5010 DEBUG In meltcurve, curTemp = 44.8400001525879
+2018-07-03 13:11:03.6909 DEBUG In meltcurve, curTemp = 45.0379981994629
+2018-07-03 13:11:07.7710 DEBUG In meltcurve, curTemp = 45.2560005187988
+2018-07-03 13:11:11.8908 DEBUG In meltcurve, curTemp = 45.4669990539551
+2018-07-03 13:11:16.0308 DEBUG In meltcurve, curTemp = 45.6759986877441
+2018-07-03 13:11:20.0410 DEBUG In meltcurve, curTemp = 45.939998626709
+2018-07-03 13:11:24.2608 DEBUG In meltcurve, curTemp = 46.1049995422363
+2018-07-03 13:11:28.3208 DEBUG In meltcurve, curTemp = 46.3359985351563
+2018-07-03 13:11:32.5009 DEBUG In meltcurve, curTemp = 46.5950012207031
+2018-07-03 13:11:36.3108 DEBUG In meltcurve, curTemp = 46.8419990539551
+2018-07-03 13:11:40.2408 DEBUG In meltcurve, curTemp = 47.1469993591309
+2018-07-03 13:11:44.1708 DEBUG In meltcurve, curTemp = 47.4690017700195
+2018-07-03 13:11:47.9608 DEBUG In meltcurve, curTemp = 47.7980003356934
+2018-07-03 13:11:51.9309 DEBUG In meltcurve, curTemp = 48.0379981994629
+2018-07-03 13:11:55.7708 DEBUG In meltcurve, curTemp = 48.1870002746582
+2018-07-03 13:12:00.0222 DEBUG In meltcurve, curTemp = 48.5279998779297
+2018-07-03 13:12:04.2923 DEBUG In meltcurve, curTemp = 48.7350006103516
+2018-07-03 13:12:08.3923 DEBUG In meltcurve, curTemp = 48.9560012817383
+2018-07-03 13:12:12.6021 DEBUG In meltcurve, curTemp = 49.1160011291504
+2018-07-03 13:12:16.7321 DEBUG In meltcurve, curTemp = 49.2820014953613
+2018-07-03 13:12:20.9221 DEBUG In meltcurve, curTemp = 49.4970016479492
+2018-07-03 13:12:24.9821 DEBUG In meltcurve, curTemp = 49.742000579834
+2018-07-03 13:12:29.2621 DEBUG In meltcurve, curTemp = 50.0550003051758
+2018-07-03 13:12:33.1822 DEBUG In meltcurve, curTemp = 50.2319984436035
+2018-07-03 13:12:37.2121 DEBUG In meltcurve, curTemp = 50.4669990539551
+2018-07-03 13:12:41.0321 DEBUG In meltcurve, curTemp = 50.8009986877441
+2018-07-03 13:12:44.9921 DEBUG In meltcurve, curTemp = 51.0779991149902
+2018-07-03 13:12:48.7923 DEBUG In meltcurve, curTemp = 51.4580001831055
+2018-07-03 13:12:52.5923 DEBUG In meltcurve, curTemp = 51.6599998474121
+2018-07-03 13:12:56.7021 DEBUG In meltcurve, curTemp = 51.9290008544922
+2018-07-03 13:13:00.8721 DEBUG In meltcurve, curTemp = 52.2039985656738
+2018-07-03 13:13:05.0122 DEBUG In meltcurve, curTemp = 52.4490013122559
+2018-07-03 13:13:09.1321 DEBUG In meltcurve, curTemp = 52.685001373291
+2018-07-03 13:13:13.2921 DEBUG In meltcurve, curTemp = 52.8680000305176
+2018-07-03 13:13:17.3521 DEBUG In meltcurve, curTemp = 53.1469993591309
+2018-07-03 13:13:21.3321 DEBUG In meltcurve, curTemp = 53.4220008850098
+2018-07-03 13:13:25.3721 DEBUG In meltcurve, curTemp = 53.6790008544922
+2018-07-03 13:13:29.2721 DEBUG In meltcurve, curTemp = 53.8860015869141
+2018-07-03 13:13:33.1221 DEBUG In meltcurve, curTemp = 54.007999420166
+2018-07-03 13:13:36.9523 DEBUG In meltcurve, curTemp = 54.0530014038086
+2018-07-03 13:13:40.8521 DEBUG In meltcurve, curTemp = 54.2809982299805
+2018-07-03 13:13:44.7821 DEBUG In meltcurve, curTemp = 54.6180000305176
+2018-07-03 13:13:48.6823 DEBUG In meltcurve, curTemp = 54.9910011291504
+2018-07-03 13:13:52.5021 DEBUG In meltcurve, curTemp = 55.3170013427734
+2018-07-03 13:13:56.6421 DEBUG In meltcurve, curTemp = 55.548999786377
+2018-07-03 13:14:00.7021 DEBUG In meltcurve, curTemp = 55.8059997558594
+2018-07-03 13:14:04.8122 DEBUG In meltcurve, curTemp = 56.0610008239746
+2018-07-03 13:14:08.9921 DEBUG In meltcurve, curTemp = 56.2799987792969
+2018-07-03 13:14:13.2622 DEBUG In meltcurve, curTemp = 56.3849983215332
+2018-07-03 13:14:17.4823 DEBUG In meltcurve, curTemp = 56.5439987182617
+2018-07-03 13:14:21.5922 DEBUG In meltcurve, curTemp = 56.7799987792969
+2018-07-03 13:14:25.7721 DEBUG In meltcurve, curTemp = 56.9679985046387
+2018-07-03 13:14:29.5623 DEBUG In meltcurve, curTemp = 57.4010009765625
+2018-07-03 13:14:33.7222 DEBUG In meltcurve, curTemp = 57.6440010070801
+2018-07-03 13:14:37.5223 DEBUG In meltcurve, curTemp = 58.0390014648438
+2018-07-03 13:14:41.4322 DEBUG In meltcurve, curTemp = 58.2210006713867
+2018-07-03 13:14:45.2423 DEBUG In meltcurve, curTemp = 58.1940002441406
+2018-07-03 13:14:49.1122 DEBUG In meltcurve, curTemp = 58.3429985046387
+2018-07-03 13:14:52.9622 DEBUG In meltcurve, curTemp = 58.7140007019043
+2018-07-03 13:14:57.1022 DEBUG In meltcurve, curTemp = 58.8839988708496
+2018-07-03 13:15:01.2521 DEBUG In meltcurve, curTemp = 59.1319999694824
+2018-07-03 13:15:05.4722 DEBUG In meltcurve, curTemp = 59.3289985656738
+2018-07-03 13:15:09.5322 DEBUG In meltcurve, curTemp = 59.576000213623
+2018-07-03 13:15:13.6723 DEBUG In meltcurve, curTemp = 59.8230018615723
+2018-07-03 13:15:17.7423 DEBUG In meltcurve, curTemp = 60.064998626709
+2018-07-03 13:15:21.8822 DEBUG In meltcurve, curTemp = 60.3160018920898
+2018-07-03 13:15:25.6723 DEBUG In meltcurve, curTemp = 60.7840003967285
+2018-07-03 13:15:29.8922 DEBUG In meltcurve, curTemp = 60.951000213623
+2018-07-03 13:15:33.9522 DEBUG In meltcurve, curTemp = 61.2060012817383
+2018-07-03 13:15:37.8823 DEBUG In meltcurve, curTemp = 61.6259994506836
+2018-07-03 13:15:41.8722 DEBUG In meltcurve, curTemp = 61.9169998168945
+2018-07-03 13:15:45.7222 DEBUG In meltcurve, curTemp = 62.0200004577637
+2018-07-03 13:15:49.5622 DEBUG In meltcurve, curTemp = 62.0439987182617
+2018-07-03 13:15:53.4422 DEBUG In meltcurve, curTemp = 62.189998626709
+2018-07-03 13:15:57.6022 DEBUG In meltcurve, curTemp = 62.4300003051758
+2018-07-03 13:16:01.7022 DEBUG In meltcurve, curTemp = 62.681999206543
+2018-07-03 13:16:05.8622 DEBUG In meltcurve, curTemp = 62.9290008544922
+2018-07-03 13:16:09.9523 DEBUG In meltcurve, curTemp = 63.1809997558594
+2018-07-03 13:16:14.0624 DEBUG In meltcurve, curTemp = 63.4379997253418
+2018-07-03 13:16:18.2123 DEBUG In meltcurve, curTemp = 63.6629981994629
+2018-07-03 13:16:22.3724 DEBUG In meltcurve, curTemp = 63.9189987182617
+2018-07-03 13:16:26.2024 DEBUG In meltcurve, curTemp = 64.3050003051758
+2018-07-03 13:16:30.0922 DEBUG In meltcurve, curTemp = 64.7559967041016
+2018-07-03 13:16:33.8724 DEBUG In meltcurve, curTemp = 64.9280014038086
+2018-07-03 13:16:37.9622 DEBUG In meltcurve, curTemp = 65.1449966430664
+2018-07-03 13:16:41.9922 DEBUG In meltcurve, curTemp = 65.3639984130859
+2018-07-03 13:16:45.8423 DEBUG In meltcurve, curTemp = 65.3160018920898
+2018-07-03 13:16:49.6522 DEBUG In meltcurve, curTemp = 65.7080001831055
+2018-07-03 13:16:53.5322 DEBUG In meltcurve, curTemp = 66.1699981689453
+2018-07-03 13:16:57.5922 DEBUG In meltcurve, curTemp = 66.4850006103516
+2018-07-03 13:17:01.6622 DEBUG In meltcurve, curTemp = 66.745002746582
+2018-07-03 13:17:05.7522 DEBUG In meltcurve, curTemp = 66.995002746582
+2018-07-03 13:17:09.8923 DEBUG In meltcurve, curTemp = 67.2389984130859
+2018-07-03 13:17:14.0322 DEBUG In meltcurve, curTemp = 67.4990005493164
+2018-07-03 13:17:18.1122 DEBUG In meltcurve, curTemp = 67.6969985961914
+2018-07-03 13:17:22.1522 DEBUG In meltcurve, curTemp = 67.9150009155273
+2018-07-03 13:17:26.2922 DEBUG In meltcurve, curTemp = 68.1220016479492
+2018-07-03 13:17:30.4722 DEBUG In meltcurve, curTemp = 68.4280014038086
+2018-07-03 13:17:34.5522 DEBUG In meltcurve, curTemp = 68.6500015258789
+2018-07-03 13:17:38.3822 DEBUG In meltcurve, curTemp = 68.5070037841797
+2018-07-03 13:17:42.4322 DEBUG In meltcurve, curTemp = 68.6920013427734
+2018-07-03 13:17:46.2323 DEBUG In meltcurve, curTemp = 69.1740036010742
+2018-07-03 13:17:50.0324 DEBUG In meltcurve, curTemp = 69.6650009155273
+2018-07-03 13:17:53.8723 DEBUG In meltcurve, curTemp = 69.7539978027344
+2018-07-03 13:17:57.8522 DEBUG In meltcurve, curTemp = 69.7050018310547
+2018-07-03 13:18:01.9522 DEBUG In meltcurve, curTemp = 69.9079971313477
+2018-07-03 13:18:06.0622 DEBUG In meltcurve, curTemp = 70.1340026855469
+2018-07-03 13:18:10.2022 DEBUG In meltcurve, curTemp = 70.4089965820313
+2018-07-03 13:18:14.3422 DEBUG In meltcurve, curTemp = 70.6220016479492
+2018-07-03 13:18:18.4022 DEBUG In meltcurve, curTemp = 70.8470001220703
+2018-07-03 13:18:22.5222 DEBUG In meltcurve, curTemp = 71.0910034179688
+2018-07-03 13:18:26.6822 DEBUG In meltcurve, curTemp = 71.3539962768555
+2018-07-03 13:18:30.7222 DEBUG In meltcurve, curTemp = 71.6320037841797
+2018-07-03 13:18:34.8622 DEBUG In meltcurve, curTemp = 71.927001953125
+2018-07-03 13:18:38.9822 DEBUG In meltcurve, curTemp = 72.2269973754883
+2018-07-03 13:18:42.9122 DEBUG In meltcurve, curTemp = 72.6510009765625
+2018-07-03 13:18:46.8122 DEBUG In meltcurve, curTemp = 73.0800018310547
+2018-07-03 13:18:50.6923 DEBUG In meltcurve, curTemp = 73.068000793457
+2018-07-03 13:18:54.4824 DEBUG In meltcurve, curTemp = 73.0009994506836
+2018-07-03 13:18:58.3622 DEBUG In meltcurve, curTemp = 73.4029998779297
+2018-07-03 13:19:02.3623 DEBUG In meltcurve, curTemp = 73.8470001220703
+2018-07-03 13:19:06.4523 DEBUG In meltcurve, curTemp = 74.1650009155273
+2018-07-03 13:19:10.5923 DEBUG In meltcurve, curTemp = 74.4690017700195
+2018-07-03 13:19:14.7023 DEBUG In meltcurve, curTemp = 74.765998840332
+2018-07-03 13:19:18.8323 DEBUG In meltcurve, curTemp = 75.0469970703125
+2018-07-03 13:19:23.2523 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 60
+2018-07-03 13:19:23.2623 DEBUG Executing the action: HelixGen.Model.overTempAction
+2018-07-03 13:19:23.2623 DEBUG gotoTempAndStay: temperature = 25 time = 0 ms
+2018-07-03 13:19:23.3123 DEBUG Setting the temperature to 25
+2018-07-03 13:19:23.3623 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2018-07-03 13:19:23.3924 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 25
+2018-07-03 13:19:23.4023 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 13:19:23.4023 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 13:19:23.4424 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 13:19:23.5023 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 13:19:23.5623 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 13:19:23.6923 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 13:19:36.2023 DEBUG ReadCmd, got an exception: Access to the port is denied.
+2018-07-03 13:19:36.2323 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 13:19:36.2823 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 13:53:35.1042 DEBUG ----- Starting -----
+2018-07-03 13:56:09.5883 DEBUG ----- Starting -----
+2018-07-03 13:57:24.0481 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_13_57_24\Temperature Log.csv
+2018-07-03 13:57:24.3081 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 13:57:24.3081 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 13:57:24.3381 DEBUG Setting the temperature to 45
+2018-07-03 13:57:24.4081 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 13:57:24.5681 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 27.228 to temp is 95
+2018-07-03 13:57:24.5781 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 27.228 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-03 13:57:24.5781 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-03 13:57:24.6281 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 13:57:24.6581 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 13:57:24.6981 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 13:57:24.7282 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 13:57:31.5283 DEBUG At temperature.
+2018-07-03 13:57:31.5681 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 13:57:31.6581 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 13:57:31.7381 DEBUG Setting the temperature to 85
+2018-07-03 13:57:31.8081 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 13:57:31.8581 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_13_57_24\Melt Curve logging.csv
+2018-07-03 13:57:32.0581 DEBUG In meltcurve, curTemp = 44.4650001525879
+2018-07-03 13:57:36.3081 DEBUG In meltcurve, curTemp = 44.601001739502
+2018-07-03 13:57:40.1183 DEBUG In meltcurve, curTemp = 44.8819999694824
+2018-07-03 13:57:44.0181 DEBUG In meltcurve, curTemp = 45.2210006713867
+2018-07-03 13:57:48.0683 DEBUG In meltcurve, curTemp = 45.4389991760254
+2018-07-03 13:57:52.0383 DEBUG In meltcurve, curTemp = 45.7669982910156
+2018-07-03 13:57:55.8581 DEBUG In meltcurve, curTemp = 46.0960006713867
+2018-07-03 13:57:59.6781 DEBUG In meltcurve, curTemp = 46.3269996643066
+2018-07-03 13:58:03.7481 DEBUG In meltcurve, curTemp = 46.5550003051758
+2018-07-03 13:58:07.8581 DEBUG In meltcurve, curTemp = 46.8219985961914
+2018-07-03 13:58:11.9982 DEBUG In meltcurve, curTemp = 47.0730018615723
+2018-07-03 13:58:16.1381 DEBUG In meltcurve, curTemp = 47.2949981689453
+2018-07-03 13:58:20.2681 DEBUG In meltcurve, curTemp = 47.5149993896484
+2018-07-03 13:58:24.4581 DEBUG In meltcurve, curTemp = 47.673999786377
+2018-07-03 13:58:28.2983 DEBUG In meltcurve, curTemp = 48.0330009460449
+2018-07-03 13:58:32.5182 DEBUG In meltcurve, curTemp = 48.148998260498
+2018-07-03 13:58:36.4581 DEBUG In meltcurve, curTemp = 48.4710006713867
+2018-07-03 13:58:40.2682 DEBUG In meltcurve, curTemp = 48.7939987182617
+2018-07-03 13:58:44.2581 DEBUG In meltcurve, curTemp = 49.0369987487793
+2018-07-03 13:58:48.4183 DEBUG In meltcurve, curTemp = 49.2840003967285
+2018-07-03 13:58:52.3181 DEBUG In meltcurve, curTemp = 49.5069999694824
+2018-07-03 13:58:56.1383 DEBUG In meltcurve, curTemp = 49.6710014343262
+2018-07-03 13:59:00.0781 DEBUG In meltcurve, curTemp = 49.8129997253418
+2018-07-03 13:59:03.9781 DEBUG In meltcurve, curTemp = 49.9690017700195
+2018-07-03 13:59:07.8182 DEBUG In meltcurve, curTemp = 50.1969985961914
+2018-07-03 13:59:11.8083 DEBUG In meltcurve, curTemp = 50.4550018310547
+2018-07-03 13:59:16.0281 DEBUG In meltcurve, curTemp = 50.6650009155273
+2018-07-03 13:59:20.1881 DEBUG In meltcurve, curTemp = 50.935001373291
+2018-07-03 13:59:24.3282 DEBUG In meltcurve, curTemp = 51.1990013122559
+2018-07-03 13:59:28.4482 DEBUG In meltcurve, curTemp = 51.4679985046387
+2018-07-03 13:59:32.6381 DEBUG In meltcurve, curTemp = 51.8139991760254
+2018-07-03 13:59:36.6081 DEBUG In meltcurve, curTemp = 52.007999420166
+2018-07-03 13:59:40.5581 DEBUG In meltcurve, curTemp = 52.1479988098145
+2018-07-03 13:59:44.6181 DEBUG In meltcurve, curTemp = 52.4080009460449
+2018-07-03 13:59:48.8381 DEBUG In meltcurve, curTemp = 52.7369995117188
+2018-07-03 13:59:53.0681 DEBUG In meltcurve, curTemp = 53.0880012512207
+2018-07-03 13:59:57.0481 DEBUG In meltcurve, curTemp = 53.2840003967285
+2018-07-03 14:00:00.9681 DEBUG In meltcurve, curTemp = 53.3979988098145
+2018-07-03 14:00:04.8181 DEBUG In meltcurve, curTemp = 53.5789985656738
+2018-07-03 14:00:08.6581 DEBUG In meltcurve, curTemp = 53.9150009155273
+2018-07-03 14:00:12.4581 DEBUG In meltcurve, curTemp = 54.3240013122559
+2018-07-03 14:00:16.4683 DEBUG In meltcurve, curTemp = 54.5880012512207
+2018-07-03 14:00:20.2882 DEBUG In meltcurve, curTemp = 54.7569999694824
+2018-07-03 14:00:24.2782 DEBUG In meltcurve, curTemp = 54.9490013122559
+2018-07-03 14:00:28.2783 DEBUG In meltcurve, curTemp = 55.1300010681152
+2018-07-03 14:00:32.4183 DEBUG In meltcurve, curTemp = 55.3839988708496
+2018-07-03 14:00:36.6082 DEBUG In meltcurve, curTemp = 55.7270011901855
+2018-07-03 14:00:40.8182 DEBUG In meltcurve, curTemp = 56.0499992370605
+2018-07-03 14:00:44.9282 DEBUG In meltcurve, curTemp = 56.3019981384277
+2018-07-03 14:00:49.0682 DEBUG In meltcurve, curTemp = 56.5629997253418
+2018-07-03 14:00:53.1782 DEBUG In meltcurve, curTemp = 56.806999206543
+2018-07-03 14:00:57.1182 DEBUG In meltcurve, curTemp = 57.015998840332
+2018-07-03 14:01:00.9582 DEBUG In meltcurve, curTemp = 57.1119995117188
+2018-07-03 14:01:05.0282 DEBUG In meltcurve, curTemp = 57.2789993286133
+2018-07-03 14:01:09.0582 DEBUG In meltcurve, curTemp = 57.4609985351563
+2018-07-03 14:01:12.9282 DEBUG In meltcurve, curTemp = 57.6419982910156
+2018-07-03 14:01:16.7582 DEBUG In meltcurve, curTemp = 58.0410003662109
+2018-07-03 14:01:20.5682 DEBUG In meltcurve, curTemp = 58.4550018310547
+2018-07-03 14:01:24.4282 DEBUG In meltcurve, curTemp = 58.6650009155273
+2018-07-03 14:01:28.3482 DEBUG In meltcurve, curTemp = 58.7529983520508
+2018-07-03 14:01:32.1384 DEBUG In meltcurve, curTemp = 58.7900009155273
+2018-07-03 14:01:35.9583 DEBUG In meltcurve, curTemp = 59.1290016174316
+2018-07-03 14:01:39.8482 DEBUG In meltcurve, curTemp = 59.5289993286133
+2018-07-03 14:01:43.9282 DEBUG In meltcurve, curTemp = 59.7840003967285
+2018-07-03 14:01:48.0382 DEBUG In meltcurve, curTemp = 60.0359992980957
+2018-07-03 14:01:52.2082 DEBUG In meltcurve, curTemp = 60.2869987487793
+2018-07-03 14:01:56.3282 DEBUG In meltcurve, curTemp = 60.4570007324219
+2018-07-03 14:02:00.4482 DEBUG In meltcurve, curTemp = 60.7109985351563
+2018-07-03 14:02:04.5284 DEBUG In meltcurve, curTemp = 60.9620018005371
+2018-07-03 14:02:08.7282 DEBUG In meltcurve, curTemp = 61.1389999389648
+2018-07-03 14:02:12.7682 DEBUG In meltcurve, curTemp = 61.4879989624023
+2018-07-03 14:02:16.8682 DEBUG In meltcurve, curTemp = 61.7490005493164
+2018-07-03 14:02:20.7182 DEBUG In meltcurve, curTemp = 62.0919990539551
+2018-07-03 14:02:24.4984 DEBUG In meltcurve, curTemp = 62.0839996337891
+2018-07-03 14:02:28.7482 DEBUG In meltcurve, curTemp = 62.5029983520508
+2018-07-03 14:02:32.7183 DEBUG In meltcurve, curTemp = 62.5369987487793
+2018-07-03 14:02:36.5082 DEBUG In meltcurve, curTemp = 62.6349983215332
+2018-07-03 14:02:40.5484 DEBUG In meltcurve, curTemp = 62.9389991760254
+2018-07-03 14:02:44.5282 DEBUG In meltcurve, curTemp = 63.2869987487793
+2018-07-03 14:02:48.5182 DEBUG In meltcurve, curTemp = 63.6469993591309
+2018-07-03 14:02:52.3882 DEBUG In meltcurve, curTemp = 64.0080032348633
+2018-07-03 14:02:56.1884 DEBUG In meltcurve, curTemp = 64.0699996948242
+2018-07-03 14:03:00.0782 DEBUG In meltcurve, curTemp = 64.0350036621094
+2018-07-03 14:03:03.8584 DEBUG In meltcurve, curTemp = 64.4160003662109
+2018-07-03 14:03:08.0682 DEBUG In meltcurve, curTemp = 64.6110000610352
+2018-07-03 14:03:12.1982 DEBUG In meltcurve, curTemp = 64.8109970092773
+2018-07-03 14:03:16.3283 DEBUG In meltcurve, curTemp = 65.0780029296875
+2018-07-03 14:03:20.3884 DEBUG In meltcurve, curTemp = 65.4420013427734
+2018-07-03 14:03:24.5382 DEBUG In meltcurve, curTemp = 65.6370010375977
+2018-07-03 14:03:28.7582 DEBUG In meltcurve, curTemp = 65.8359985351563
+2018-07-03 14:03:32.8982 DEBUG In meltcurve, curTemp = 66.1190032958984
+2018-07-03 14:03:37.1182 DEBUG In meltcurve, curTemp = 66.2639999389648
+2018-07-03 14:03:41.2584 DEBUG In meltcurve, curTemp = 66.5299987792969
+2018-07-03 14:03:45.4582 DEBUG In meltcurve, curTemp = 66.7529983520508
+2018-07-03 14:03:49.5182 DEBUG In meltcurve, curTemp = 67.0820007324219
+2018-07-03 14:03:53.6683 DEBUG In meltcurve, curTemp = 67.2910003662109
+2018-07-03 14:03:57.5382 DEBUG In meltcurve, curTemp = 67.7689971923828
+2018-07-03 14:04:01.6982 DEBUG In meltcurve, curTemp = 68.0599975585938
+2018-07-03 14:04:05.7183 DEBUG In meltcurve, curTemp = 68.4029998779297
+2018-07-03 14:04:09.6983 DEBUG In meltcurve, curTemp = 68.677001953125
+2018-07-03 14:04:13.5983 DEBUG In meltcurve, curTemp = 68.7369995117188
+2018-07-03 14:04:17.4682 DEBUG In meltcurve, curTemp = 68.7089996337891
+2018-07-03 14:04:21.2884 DEBUG In meltcurve, curTemp = 68.9860000610352
+2018-07-03 14:04:25.1983 DEBUG In meltcurve, curTemp = 69.4820022583008
+2018-07-03 14:04:29.0483 DEBUG In meltcurve, curTemp = 69.8109970092773
+2018-07-03 14:04:32.8683 DEBUG In meltcurve, curTemp = 69.6859970092773
+2018-07-03 14:04:36.6884 DEBUG In meltcurve, curTemp = 69.8040008544922
+2018-07-03 14:04:40.6583 DEBUG In meltcurve, curTemp = 70.2249984741211
+2018-07-03 14:04:44.6283 DEBUG In meltcurve, curTemp = 70.6399993896484
+2018-07-03 14:04:48.7085 DEBUG In meltcurve, curTemp = 70.9449996948242
+2018-07-03 14:04:52.8183 DEBUG In meltcurve, curTemp = 71.2369995117188
+2018-07-03 14:04:56.9683 DEBUG In meltcurve, curTemp = 71.515998840332
+2018-07-03 14:05:01.1383 DEBUG In meltcurve, curTemp = 71.745002746582
+2018-07-03 14:05:05.2484 DEBUG In meltcurve, curTemp = 72.0309982299805
+2018-07-03 14:05:09.3384 DEBUG In meltcurve, curTemp = 72.2949981689453
+2018-07-03 14:05:13.4983 DEBUG In meltcurve, curTemp = 72.5309982299805
+2018-07-03 14:05:17.6183 DEBUG In meltcurve, curTemp = 72.7559967041016
+2018-07-03 14:05:21.7085 DEBUG In meltcurve, curTemp = 72.9459991455078
+2018-07-03 14:05:25.8185 DEBUG In meltcurve, curTemp = 73.1190032958984
+2018-07-03 14:05:29.6983 DEBUG In meltcurve, curTemp = 73.0479965209961
+2018-07-03 14:05:33.6285 DEBUG In meltcurve, curTemp = 73.2239990234375
+2018-07-03 14:05:37.7683 DEBUG In meltcurve, curTemp = 73.4560012817383
+2018-07-03 14:05:41.8383 DEBUG In meltcurve, curTemp = 73.8280029296875
+2018-07-03 14:05:45.6983 DEBUG In meltcurve, curTemp = 74.379997253418
+2018-07-03 14:05:49.9083 DEBUG In meltcurve, curTemp = 74.6029968261719
+2018-07-03 14:05:53.7185 DEBUG In meltcurve, curTemp = 74.9300003051758
+2018-07-03 14:05:57.8085 DEBUG In meltcurve, curTemp = 75.1220016479492
+2018-07-03 14:06:01.9983 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 60
+2018-07-03 14:06:01.9983 DEBUG Executing the action: HelixGen.Model.overTempAction
+2018-07-03 14:06:02.0183 DEBUG gotoTempAndStay: temperature = 25 time = 0 ms
+2018-07-03 14:06:02.0683 DEBUG Setting the temperature to 25
+2018-07-03 14:06:02.1485 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2018-07-03 14:06:02.1885 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 25
+2018-07-03 14:06:02.1885 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 14:06:02.1885 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 14:06:02.2283 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 14:06:02.2683 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 14:06:02.2983 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 14:06:02.3283 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 14:06:10.8883 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-07-03 14:06:10.9183 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 14:06:10.9383 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 14:11:52.0243 DEBUG ----- Starting -----
+2018-07-03 14:12:55.4483 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_03_14_12_55\Temperature Log.csv
+2018-07-03 14:12:55.6538 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-03 14:12:55.6689 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-03 14:12:55.6689 DEBUG Setting the temperature to 45
+2018-07-03 14:12:55.7581 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-03 14:12:55.9015 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 38.082 to temp is 95
+2018-07-03 14:12:55.9135 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 38.082 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-03 14:12:55.9225 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-03 14:12:55.9656 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 14:12:55.9976 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 14:12:56.0294 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 14:12:56.0614 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 14:13:00.8800 DEBUG At temperature.
+2018-07-03 14:13:00.9169 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-03 14:13:01.0152 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-03 14:13:01.0633 DEBUG Setting the temperature to 85
+2018-07-03 14:13:01.0794 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-03 14:13:01.1145 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_03_14_12_55\Melt Curve logging.csv
+2018-07-03 14:13:01.2869 DEBUG In meltcurve, curTemp = 45.2939987182617
+2018-07-03 14:13:05.5058 DEBUG In meltcurve, curTemp = 44.8129997253418
+2018-07-03 14:13:09.6284 DEBUG In meltcurve, curTemp = 45.0340003967285
+2018-07-03 14:13:13.7838 DEBUG In meltcurve, curTemp = 45.2859992980957
+2018-07-03 14:13:17.9066 DEBUG In meltcurve, curTemp = 45.5709991455078
+2018-07-03 14:13:22.0777 DEBUG In meltcurve, curTemp = 45.8269996643066
+2018-07-03 14:13:26.2637 DEBUG In meltcurve, curTemp = 46.1049995422363
+2018-07-03 14:13:30.4504 DEBUG In meltcurve, curTemp = 46.3689994812012
+2018-07-03 14:13:34.6774 DEBUG In meltcurve, curTemp = 46.609001159668
+2018-07-03 14:13:38.5774 DEBUG In meltcurve, curTemp = 46.8559989929199
+2018-07-03 14:13:42.4274 DEBUG In meltcurve, curTemp = 47.0730018615723
+2018-07-03 14:13:46.2976 DEBUG In meltcurve, curTemp = 47.2309989929199
+2018-07-03 14:13:50.1775 DEBUG In meltcurve, curTemp = 47.4259986877441
+2018-07-03 14:13:53.9876 DEBUG In meltcurve, curTemp = 47.6619987487793
+2018-07-03 14:13:57.9674 DEBUG In meltcurve, curTemp = 47.9129981994629
+2018-07-03 14:14:02.0574 DEBUG In meltcurve, curTemp = 48.1430015563965
+2018-07-03 14:14:06.1776 DEBUG In meltcurve, curTemp = 48.3769989013672
+2018-07-03 14:14:10.2876 DEBUG In meltcurve, curTemp = 48.6110000610352
+2018-07-03 14:14:14.4875 DEBUG In meltcurve, curTemp = 48.8520011901855
+2018-07-03 14:14:18.6575 DEBUG In meltcurve, curTemp = 49.1240005493164
+2018-07-03 14:14:22.8775 DEBUG In meltcurve, curTemp = 49.4169998168945
+2018-07-03 14:14:27.0175 DEBUG In meltcurve, curTemp = 49.6730003356934
+2018-07-03 14:14:30.9675 DEBUG In meltcurve, curTemp = 49.8839988708496
+2018-07-03 14:14:35.0675 DEBUG In meltcurve, curTemp = 50.1399993896484
+2018-07-03 14:14:39.3075 DEBUG In meltcurve, curTemp = 50.443000793457
+2018-07-03 14:14:43.4276 DEBUG In meltcurve, curTemp = 50.6980018615723
+2018-07-03 14:14:47.2674 DEBUG In meltcurve, curTemp = 50.8120002746582
+2018-07-03 14:14:51.3674 DEBUG In meltcurve, curTemp = 51.064998626709
+2018-07-03 14:14:55.1874 DEBUG In meltcurve, curTemp = 51.2519989013672
+2018-07-03 14:14:59.0774 DEBUG In meltcurve, curTemp = 51.5270004272461
+2018-07-03 14:15:02.8975 DEBUG In meltcurve, curTemp = 51.8689994812012
+2018-07-03 14:15:06.8075 DEBUG In meltcurve, curTemp = 52.1310005187988
+2018-07-03 14:15:10.6476 DEBUG In meltcurve, curTemp = 52.3400001525879
+2018-07-03 14:15:14.6175 DEBUG In meltcurve, curTemp = 52.5429992675781
+2018-07-03 14:15:18.4575 DEBUG In meltcurve, curTemp = 52.6450004577637
+2018-07-03 14:15:22.5775 DEBUG In meltcurve, curTemp = 52.890998840332
+2018-07-03 14:15:26.6275 DEBUG In meltcurve, curTemp = 53.1069984436035
+2018-07-03 14:15:30.7776 DEBUG In meltcurve, curTemp = 53.3889999389648
+2018-07-03 14:15:34.9375 DEBUG In meltcurve, curTemp = 53.693000793457
+2018-07-03 14:15:39.0277 DEBUG In meltcurve, curTemp = 53.8880004882813
+2018-07-03 14:15:43.1675 DEBUG In meltcurve, curTemp = 54.201000213623
+2018-07-03 14:15:47.4576 DEBUG In meltcurve, curTemp = 54.5579986572266
+2018-07-03 14:15:51.5475 DEBUG In meltcurve, curTemp = 54.8050003051758
+2018-07-03 14:15:55.7575 DEBUG In meltcurve, curTemp = 55.0779991149902
+2018-07-03 14:15:59.6875 DEBUG In meltcurve, curTemp = 55.257999420166
+2018-07-03 14:16:03.8575 DEBUG In meltcurve, curTemp = 55.5009994506836
+2018-07-03 14:16:08.0477 DEBUG In meltcurve, curTemp = 55.7949981689453
+2018-07-03 14:16:12.2775 DEBUG In meltcurve, curTemp = 56.060001373291
+2018-07-03 14:16:16.2876 DEBUG In meltcurve, curTemp = 56.3110008239746
+2018-07-03 14:16:20.5575 DEBUG In meltcurve, curTemp = 56.5449981689453
+2018-07-03 14:16:24.4075 DEBUG In meltcurve, curTemp = 56.7890014648438
+2018-07-03 14:16:28.4976 DEBUG In meltcurve, curTemp = 57.0419998168945
+2018-07-03 14:16:32.3477 DEBUG In meltcurve, curTemp = 57.1110000610352
+2018-07-03 14:16:36.2975 DEBUG In meltcurve, curTemp = 57.2890014648438
+2018-07-03 14:16:40.0977 DEBUG In meltcurve, curTemp = 57.4720001220703
+2018-07-03 14:16:44.0275 DEBUG In meltcurve, curTemp = 57.806999206543
+2018-07-03 14:16:48.0275 DEBUG In meltcurve, curTemp = 58.1160011291504
+2018-07-03 14:16:51.8975 DEBUG In meltcurve, curTemp = 58.4570007324219
+2018-07-03 14:16:56.0775 DEBUG In meltcurve, curTemp = 58.6949996948242
+2018-07-03 14:17:00.1676 DEBUG In meltcurve, curTemp = 58.943000793457
+2018-07-03 14:17:04.3575 DEBUG In meltcurve, curTemp = 59.1660003662109
+2018-07-03 14:17:08.4475 DEBUG In meltcurve, curTemp = 59.4140014648438
+2018-07-03 14:17:12.5877 DEBUG In meltcurve, curTemp = 59.6559982299805
+2018-07-03 14:17:16.7477 DEBUG In meltcurve, curTemp = 59.8559989929199
+2018-07-03 14:17:20.8677 DEBUG In meltcurve, curTemp = 60.1020011901855
+2018-07-03 14:17:25.1375 DEBUG In meltcurve, curTemp = 60.2840003967285
+2018-07-03 14:17:29.3375 DEBUG In meltcurve, curTemp = 60.4700012207031
+2018-07-03 14:17:33.2077 DEBUG In meltcurve, curTemp = 60.8530006408691
+2018-07-03 14:17:37.2975 DEBUG In meltcurve, curTemp = 61.1059989929199
+2018-07-03 14:17:41.3975 DEBUG In meltcurve, curTemp = 61.3580017089844
+2018-07-03 14:17:45.2477 DEBUG In meltcurve, curTemp = 61.6669998168945
+2018-07-03 14:17:49.1175 DEBUG In meltcurve, curTemp = 61.7760009765625
+2018-07-03 14:17:53.0675 DEBUG In meltcurve, curTemp = 61.8429985046387
+2018-07-03 14:17:57.2177 DEBUG In meltcurve, curTemp = 62.1590003967285
+2018-07-03 14:18:01.3275 DEBUG In meltcurve, curTemp = 62.3860015869141
+2018-07-03 14:18:05.3877 DEBUG In meltcurve, curTemp = 62.6189994812012
+2018-07-03 14:18:09.2377 DEBUG In meltcurve, curTemp = 62.7680015563965
+2018-07-03 14:18:13.3975 DEBUG In meltcurve, curTemp = 63.007999420166
+2018-07-03 14:18:17.4175 DEBUG In meltcurve, curTemp = 63.2779998779297
+2018-07-03 14:18:21.3677 DEBUG In meltcurve, curTemp = 63.6759986877441
+2018-07-03 14:18:25.3475 DEBUG In meltcurve, curTemp = 64.0130004882813
+2018-07-03 14:18:29.1677 DEBUG In meltcurve, curTemp = 64.3199996948242
+2018-07-03 14:18:33.1775 DEBUG In meltcurve, curTemp = 64.4789962768555
+2018-07-03 14:18:37.2675 DEBUG In meltcurve, curTemp = 64.6959991455078
+2018-07-03 14:18:41.3877 DEBUG In meltcurve, curTemp = 64.9160003662109
+2018-07-03 14:18:45.5176 DEBUG In meltcurve, curTemp = 65.1330032348633
+2018-07-03 14:18:49.6377 DEBUG In meltcurve, curTemp = 65.4619979858398
+2018-07-03 14:18:53.8077 DEBUG In meltcurve, curTemp = 65.6880035400391
+2018-07-03 14:18:57.9676 DEBUG In meltcurve, curTemp = 66.0009994506836
+2018-07-03 14:19:02.1176 DEBUG In meltcurve, curTemp = 66.2210006713867
+2018-07-03 14:19:06.2576 DEBUG In meltcurve, curTemp = 66.5270004272461
+2018-07-03 14:19:10.2876 DEBUG In meltcurve, curTemp = 66.6640014648438
+2018-07-03 14:19:14.2176 DEBUG In meltcurve, curTemp = 66.6890029907227
+2018-07-03 14:19:18.3676 DEBUG In meltcurve, curTemp = 67.0090026855469
+2018-07-03 14:19:22.5776 DEBUG In meltcurve, curTemp = 67.3290023803711
+2018-07-03 14:19:26.7076 DEBUG In meltcurve, curTemp = 67.5510025024414
+2018-07-03 14:19:30.7577 DEBUG In meltcurve, curTemp = 67.6760025024414
+2018-07-03 14:19:34.7376 DEBUG In meltcurve, curTemp = 67.8529968261719
+2018-07-03 14:19:38.5678 DEBUG In meltcurve, curTemp = 68.2440032958984
+2018-07-03 14:19:42.4976 DEBUG In meltcurve, curTemp = 68.6309967041016
+2018-07-03 14:19:46.3378 DEBUG In meltcurve, curTemp = 68.9960021972656
+2018-07-03 14:19:50.2476 DEBUG In meltcurve, curTemp = 69.0459976196289
+2018-07-03 14:19:54.1076 DEBUG In meltcurve, curTemp = 69.052001953125
+2018-07-03 14:19:57.9376 DEBUG In meltcurve, curTemp = 69.3150024414063
+2018-07-03 14:20:01.9976 DEBUG In meltcurve, curTemp = 69.6880035400391
+2018-07-03 14:20:06.1476 DEBUG In meltcurve, curTemp = 69.8809967041016
+2018-07-03 14:20:10.4176 DEBUG In meltcurve, curTemp = 70.0090026855469
+2018-07-03 14:20:14.5776 DEBUG In meltcurve, curTemp = 70.2799987792969
+2018-07-03 14:20:18.6678 DEBUG In meltcurve, curTemp = 70.5490036010742
+2018-07-03 14:20:22.8176 DEBUG In meltcurve, curTemp = 70.818000793457
+2018-07-03 14:20:26.9376 DEBUG In meltcurve, curTemp = 71.0279998779297
+2018-07-03 14:20:31.0377 DEBUG In meltcurve, curTemp = 71.3949966430664
+2018-07-03 14:20:35.2078 DEBUG In meltcurve, curTemp = 71.5830001831055
+2018-07-03 14:20:39.3576 DEBUG In meltcurve, curTemp = 71.7829971313477
+2018-07-03 14:20:43.4976 DEBUG In meltcurve, curTemp = 72.0650024414063
+2018-07-03 14:20:47.3276 DEBUG In meltcurve, curTemp = 72.6350021362305
+2018-07-03 14:20:51.5076 DEBUG In meltcurve, curTemp = 72.8509979248047
+2018-07-03 14:20:55.6276 DEBUG In meltcurve, curTemp = 73.1350021362305
+2018-07-03 14:20:59.4278 DEBUG In meltcurve, curTemp = 73.3109970092773
+2018-07-03 14:21:03.4576 DEBUG In meltcurve, curTemp = 73.3830032348633
+2018-07-03 14:21:07.2476 DEBUG In meltcurve, curTemp = 73.3659973144531
+2018-07-03 14:21:11.2276 DEBUG In meltcurve, curTemp = 73.6780014038086
+2018-07-03 14:21:15.0476 DEBUG In meltcurve, curTemp = 74.2890014648438
+2018-07-03 14:21:18.8578 DEBUG In meltcurve, curTemp = 74.5279998779297
+2018-07-03 14:21:22.8376 DEBUG In meltcurve, curTemp = 74.6029968261719
+2018-07-03 14:21:26.6476 DEBUG In meltcurve, curTemp = 74.5289993286133
+2018-07-03 14:21:30.7976 DEBUG In meltcurve, curTemp = 74.7929992675781
+2018-07-03 14:21:34.9376 DEBUG In meltcurve, curTemp = 75.0270004272461
+2018-07-03 14:21:39.2576 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 60
+2018-07-03 14:21:39.2676 DEBUG Executing the action: HelixGen.Model.overTempAction
+2018-07-03 14:21:39.2776 DEBUG gotoTempAndStay: temperature = 25 time = 0 ms
+2018-07-03 14:21:39.3176 DEBUG Setting the temperature to 25
+2018-07-03 14:21:39.3776 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2018-07-03 14:21:39.5376 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 25
+2018-07-03 14:21:39.5576 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-03 14:21:39.5676 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-03 14:21:39.6376 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 14:21:39.7176 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 14:21:39.7776 DEBUG TEC; setting the overshootDuration to 1
+2018-07-03 14:21:39.8476 DEBUG TEC; setting the overshootoffset to 1
+2018-07-03 14:21:46.7476 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-07-03 14:21:46.7776 DEBUG ReadCmd, got an exception: The port is closed.
+2018-07-03 14:21:46.7976 DEBUG ReadCmd, got an exception: The port is closed.

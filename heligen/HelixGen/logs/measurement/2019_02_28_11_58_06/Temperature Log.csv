@@ -1,0 +1,5 @@
+Protocol file: C:\HelixGen\Protocols\ChasisTest.xml
+Run date.time: 2019/2/28 11:58:06
+Time, Elapsed Seconds, SPREP Thermal Setpoint, SPREP Thermal C, PCR TEC1 Setpoint, PCR TEC1 C, PCR TEC1 PWR, PRC TE1C Amps,PCR TEC2 Setpoint, PCR TEC2 C, PCR TEC2 PWR, PRC TEC2 AmpsTEC3 Temp, TEC4 Temp, TEC5 temp, TEC6 temp
+"2019-02-28 11:58:07.612",0,25,25.325,25,-6.537,0,0,25,-6.537,0,0,-2.688,25.434,25.46,-2.688
+"2019-02-28 11:58:08.188",0.5754287,25,25.326,25,-6.537,0,0,25,-6.537,0,0,-2.688,25.434,25.459,-2.688

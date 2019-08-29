@@ -1,0 +1,513 @@
+2017-07-24 18:30:02.8787 DEBUG ----- Starting -----
+2017-07-24 18:30:03.8487 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:03.9487 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:04.7987 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:04.8389 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:05.6789 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:06.0789 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:07.8587 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:08.0688 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:10.1689 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:10.7487 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:12.4887 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:12.6987 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:30:32.0720 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_07_24_18_30_32\Temperature Log.csv
+2017-07-24 18:30:32.0922 DEBUG Found the optics port closed, reopening.
+2017-07-24 18:30:32.4122 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-07-24 18:30:32.4320 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-07-24 18:30:32.4620 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:30:32.4720 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:30:33.1720 DEBUG gotoTempAndStay: temperature = 98 time = 0 ms
+2017-07-24 18:30:33.1720 DEBUG Setting the temperature to 98
+2017-07-24 18:30:33.1720 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:30:33.4524 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 98
+2017-07-24 18:30:33.5222 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 98.
+2017-07-24 18:30:33.6624 DEBUG Setting the temperature2 to 98
+2017-07-24 18:30:33.6822 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:30:33.7723 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 98
+2017-07-24 18:30:33.7723 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 98.
+2017-07-24 18:30:48.1031 DEBUG At temperature.
+2017-07-24 18:30:48.1329 DEBUG gotoTempAndStay: at temperature = 98, sleeping ...
+2017-07-24 18:30:48.1429 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:31:18.1586 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:31:18.1686 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:31:18.8690 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-07-24 18:31:18.8888 DEBUG Setting the temperature to 60
+2017-07-24 18:31:18.8888 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:31:18.9390 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:31:18.9390 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:31:18.9588 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:31:19.0489 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:31:19.1388 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:31:19.2289 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:31:19.3188 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:31:22.9189 DEBUG Setting the temperature2 to 60
+2017-07-24 18:31:22.9189 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:31:22.9589 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:31:22.9589 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:31:22.9689 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:31:23.0089 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:31:23.0389 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:31:23.1289 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:31:23.2189 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:31:32.7604 DEBUG At temperature.
+2017-07-24 18:31:32.7802 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-07-24 18:31:32.7802 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:31:32.8902 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-07-24 18:31:39.1653 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_07_24_18_31_39\Temperature Log.csv
+2017-07-24 18:31:39.4852 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-07-24 18:31:39.4852 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-07-24 18:31:39.4852 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:31:40.4252 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-07-24 18:31:40.4352 DEBUG Setting the temperature to 50
+2017-07-24 18:31:40.4352 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-07-24 18:31:40.7054 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 50
+2017-07-24 18:31:40.7252 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 60 to 50.
+2017-07-24 18:31:40.9452 DEBUG Setting the temperature2 to 50
+2017-07-24 18:31:41.0152 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-07-24 18:31:41.1253 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 50
+2017-07-24 18:31:41.1253 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 60 to 50.
+2017-07-24 18:31:55.5090 DEBUG At temperature.
+2017-07-24 18:31:55.5190 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-07-24 18:31:55.5190 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:32:25.5410 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-07-24 18:32:25.5508 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:32:26.2417 DEBUG gotoTempAndStay: temperature = 94 time = 0 ms
+2017-07-24 18:32:26.2417 DEBUG Setting the temperature to 94
+2017-07-24 18:32:26.2516 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-07-24 18:32:26.7018 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 94
+2017-07-24 18:32:26.7018 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 50 making settings for the temperature range: From: 45-55 To: 90-110
+2017-07-24 18:32:26.7018 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2017-07-24 18:32:26.9721 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:32:27.0622 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:32:27.1521 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:32:27.2419 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:32:29.5249 DEBUG Setting the temperature2 to 94
+2017-07-24 18:32:29.5249 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-07-24 18:32:29.6144 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 94
+2017-07-24 18:32:29.6144 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 50 making settings for the temperature range: From: 45-55 To: 90-110
+2017-07-24 18:32:29.6246 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2017-07-24 18:32:29.8549 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:32:30.1152 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:32:30.4150 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:32:30.7065 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:32:38.9047 DEBUG At temperature.
+2017-07-24 18:32:38.9047 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-07-24 18:32:38.9047 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:33:08.9348 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-07-24 18:33:08.9647 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:33:08.9746 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:33:09.1348 DEBUG gotoTempAndStay: temperature = 94 time = 0 ms
+2017-07-24 18:33:09.1447 DEBUG Setting the temperature to 94
+2017-07-24 18:33:09.1546 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-07-24 18:33:09.2446 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 94 to temp is 94
+2017-07-24 18:33:09.2446 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 94 making settings for the temperature range: From: 90-110 To: 90-110
+2017-07-24 18:33:09.2446 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2017-07-24 18:33:09.3347 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:33:09.4246 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:33:09.5146 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:33:09.6047 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:33:12.8147 DEBUG Setting the temperature2 to 94
+2017-07-24 18:33:12.8147 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-07-24 18:33:13.1148 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 94 to temp is 94
+2017-07-24 18:33:13.1247 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 94 making settings for the temperature range: From: 90-110 To: 90-110
+2017-07-24 18:33:13.1446 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2017-07-24 18:33:13.2447 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:33:13.3346 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:33:13.3946 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:33:13.4846 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:33:16.5446 DEBUG At temperature.
+2017-07-24 18:33:16.5446 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-07-24 18:33:16.5846 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:33:31.5947 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:33:31.5947 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:33:31.9347 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-07-24 18:33:31.9347 DEBUG Setting the temperature to 60
+2017-07-24 18:33:31.9347 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:33:32.0346 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 94 to temp is 60
+2017-07-24 18:33:32.0346 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 94 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:33:32.0446 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:33:32.2746 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:33:32.5146 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:33:32.8146 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:33:33.1148 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:33:35.3046 DEBUG Setting the temperature2 to 60
+2017-07-24 18:33:35.3146 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:33:35.3946 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 94 to temp is 60
+2017-07-24 18:33:35.3946 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 94 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:33:35.3946 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:33:35.4846 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:33:35.5746 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:33:35.6646 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:33:35.7546 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:01.2556 DEBUG At temperature.
+2017-07-24 18:34:01.2855 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-07-24 18:34:01.3055 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:34:21.3168 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:34:21.3366 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:34:21.8567 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-07-24 18:34:21.8567 DEBUG Setting the temperature to 72
+2017-07-24 18:34:21.8567 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:34:22.1368 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:34:22.1368 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:34:22.1468 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:34:22.4070 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:22.8568 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:23.1568 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:23.2470 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:25.5271 DEBUG Setting the temperature2 to 72
+2017-07-24 18:34:25.5271 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:34:25.6171 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:34:25.6171 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:34:25.6171 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:34:25.7072 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:25.7971 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:25.9171 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:26.0072 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:30.5580 DEBUG At temperature.
+2017-07-24 18:34:30.5979 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-07-24 18:34:30.5979 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:34:45.6119 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2017-07-24 18:34:50.7124 DEBUG Readings taken got the values; 0,0,0,0,0,0,0,0,1553833,0,0,0,0,0,6833232,0,0,0,0,0,6745956,0,0,0,0,0,6191594,0,0,0,0,0,7257263,0,0,0
+2017-07-24 18:34:51.0223 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:34:51.0323 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:34:51.4723 DEBUG gotoTempAndStay: temperature = 94 time = 0 ms
+2017-07-24 18:34:51.4723 DEBUG Setting the temperature to 94
+2017-07-24 18:34:51.4823 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-07-24 18:34:51.5423 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 94
+2017-07-24 18:34:51.5423 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:34:51.5423 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:34:51.6323 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:51.7223 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:51.8123 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:51.9023 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:55.4726 DEBUG Setting the temperature2 to 94
+2017-07-24 18:34:55.4726 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-07-24 18:34:55.5026 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 94
+2017-07-24 18:34:55.5026 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:34:55.5026 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:34:55.5425 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:55.6326 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:34:55.7226 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:34:55.8126 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:35:01.9147 DEBUG At temperature.
+2017-07-24 18:35:01.9445 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-07-24 18:35:01.9545 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:35:16.9789 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:35:16.9887 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:35:17.7287 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-07-24 18:35:17.7287 DEBUG Setting the temperature to 60
+2017-07-24 18:35:17.7387 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:35:17.8288 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 94 to temp is 60
+2017-07-24 18:35:17.8288 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 94 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:35:17.8288 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:35:17.9188 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:35:18.0088 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:35:18.0988 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:35:18.1888 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:35:20.9788 DEBUG Setting the temperature2 to 60
+2017-07-24 18:35:20.9788 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:35:21.2187 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 94 to temp is 60
+2017-07-24 18:35:21.2187 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 94 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:35:21.2187 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:35:21.4887 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:35:21.7893 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:35:21.8792 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:35:21.9093 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:35:46.2224 DEBUG At temperature.
+2017-07-24 18:35:46.2523 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-07-24 18:35:46.2523 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:36:06.2740 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:36:06.2939 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:36:07.2041 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-07-24 18:36:07.2340 DEBUG Setting the temperature to 72
+2017-07-24 18:36:07.2340 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:36:07.4240 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:36:07.4240 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:36:07.4240 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:36:07.7540 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:36:07.8740 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:36:07.9640 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:36:08.0542 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:36:10.7244 DEBUG Setting the temperature2 to 72
+2017-07-24 18:36:10.7244 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:36:10.9944 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:36:10.9944 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:36:11.0044 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:36:11.2645 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:36:11.5046 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:36:11.7748 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:36:11.8947 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:36:19.1764 DEBUG At temperature.
+2017-07-24 18:36:19.2562 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-07-24 18:36:19.2662 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:36:34.2792 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2017-07-24 18:36:39.3707 DEBUG Readings taken got the values; 0,0,0,0,0,0,0,0,1537470,0,0,0,0,0,6164483,0,0,0,0,0,6294542,0,0,0,0,0,5799046,0,0,0,0,0,6764268,0,0,0
+2017-07-24 18:36:39.7006 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-07-24 18:36:39.7006 DEBUG gotoTempAndStay: temperature = 40 time = 60 ms
+2017-07-24 18:36:39.7205 DEBUG Setting the temperature to 40
+2017-07-24 18:36:39.7205 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2017-07-24 18:36:39.9705 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 40
+2017-07-24 18:36:39.9705 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 72 to 40.
+2017-07-24 18:36:40.5711 DEBUG Setting the temperature2 to 40
+2017-07-24 18:36:40.5711 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2017-07-24 18:36:40.9911 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 40
+2017-07-24 18:36:41.0009 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 72 to 40.
+2017-07-24 18:37:06.5230 DEBUG At temperature.
+2017-07-24 18:37:06.5330 DEBUG gotoTempAndStay: at temperature = 40, sleeping ...
+2017-07-24 18:37:06.7831 DEBUG Meltcurve: setting the ramprate to 0.06
+2017-07-24 18:37:06.9330 DEBUG Setting the temperature to 90
+2017-07-24 18:37:06.9330 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2017-07-24 18:37:07.2930 DEBUG Setting the temperature2 to 90
+2017-07-24 18:37:07.2930 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2017-07-24 18:37:07.5630 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2017_07_24_18_31_39\Melt Curve logging.csv
+2017-07-24 18:37:12.9170 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_07_24_18_37_12\Temperature Log.csv
+2017-07-24 18:37:13.1849 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-07-24 18:37:13.1849 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-07-24 18:37:13.2049 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:37:13.2049 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:37:13.9649 DEBUG gotoTempAndStay: temperature = 98 time = 0 ms
+2017-07-24 18:37:13.9749 DEBUG Setting the temperature to 98
+2017-07-24 18:37:13.9749 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:37:14.2448 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 98
+2017-07-24 18:37:14.2448 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 90 making settings for the temperature range: From: 90-110 To: 90-110
+2017-07-24 18:37:14.2448 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2017-07-24 18:37:14.3348 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:37:14.3948 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:37:14.4248 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:37:14.4548 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:37:16.8249 DEBUG Setting the temperature2 to 98
+2017-07-24 18:37:16.8249 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:37:16.9148 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 98
+2017-07-24 18:37:16.9148 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 90 making settings for the temperature range: From: 90-110 To: 90-110
+2017-07-24 18:37:16.9248 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2017-07-24 18:37:17.0049 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:37:17.0948 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:37:17.1848 DEBUG TEC; setting the overshootDuration to 0
+2017-07-24 18:37:17.4548 DEBUG TEC; setting the overshootoffset to 0
+2017-07-24 18:37:29.5179 DEBUG At temperature.
+2017-07-24 18:37:29.5577 DEBUG gotoTempAndStay: at temperature = 98, sleeping ...
+2017-07-24 18:37:29.5677 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:37:59.5854 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:37:59.5952 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:37:59.8454 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-07-24 18:37:59.8852 DEBUG Setting the temperature to 60
+2017-07-24 18:37:59.8852 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:37:59.9753 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:37:59.9753 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:37:59.9852 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:38:00.0653 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:38:00.1554 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:38:00.4252 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:38:00.5153 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:38:02.8856 DEBUG Setting the temperature2 to 60
+2017-07-24 18:38:02.8856 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:38:03.1256 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:38:03.1256 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:38:03.1256 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:38:03.4256 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:38:03.7256 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:38:03.9958 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:38:04.0358 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:38:31.4522 DEBUG At temperature.
+2017-07-24 18:38:31.4821 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-07-24 18:38:31.4821 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:38:51.5072 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2017-07-24 18:38:56.5178 DEBUG Readings taken got the values; 0,0,0,0,0,0,0,0,1521939,0,0,0,0,0,6108095,0,0,0,0,0,6406105,0,0,0,0,0,5920101,0,0,0,0,0,6338535,0,0,0
+2017-07-24 18:38:56.7778 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:38:56.7878 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:38:57.0978 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-07-24 18:38:57.1078 DEBUG Setting the temperature to 72
+2017-07-24 18:38:57.1078 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:38:57.3477 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:38:57.3578 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:38:57.3578 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:38:57.5878 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:38:58.0680 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:38:58.3680 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:38:58.4280 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:39:00.8582 DEBUG Setting the temperature2 to 72
+2017-07-24 18:39:00.8582 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:39:00.9483 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:39:00.9483 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:39:00.9483 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:39:01.0383 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:39:01.1282 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:39:01.2182 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:39:01.4582 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:39:10.4894 DEBUG At temperature.
+2017-07-24 18:39:10.5293 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-07-24 18:39:10.5293 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:39:25.5620 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:39:25.5620 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:39:25.8221 DEBUG gotoTempAndStay: temperature = 98 time = 0 ms
+2017-07-24 18:39:25.8319 DEBUG Setting the temperature to 98
+2017-07-24 18:39:25.8419 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:39:25.9520 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 98
+2017-07-24 18:39:25.9520 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:39:25.9520 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:39:26.0420 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:39:26.2819 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:39:26.5519 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:39:26.7919 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:39:29.7919 DEBUG Setting the temperature2 to 98
+2017-07-24 18:39:29.7919 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:39:29.8820 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 98
+2017-07-24 18:39:29.8820 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:39:29.8820 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:39:29.9719 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:39:30.0619 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:39:30.1519 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:39:30.2419 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:39:36.2428 DEBUG At temperature.
+2017-07-24 18:39:36.3027 DEBUG gotoTempAndStay: at temperature = 98, sleeping ...
+2017-07-24 18:39:36.3027 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:40:06.3164 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:40:06.3164 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:40:06.5264 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-07-24 18:40:06.5362 DEBUG Setting the temperature to 60
+2017-07-24 18:40:06.5362 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:40:06.6262 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:40:06.6262 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:40:06.6262 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:40:06.7164 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:40:06.8062 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:40:07.0464 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:40:07.3162 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:40:10.4064 DEBUG Setting the temperature2 to 60
+2017-07-24 18:40:10.4064 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:40:10.4966 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:40:10.4966 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:40:10.4966 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:40:10.5866 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:40:10.6764 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:40:10.7666 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:40:10.8566 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:40:37.1610 DEBUG At temperature.
+2017-07-24 18:40:37.2008 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-07-24 18:40:37.2008 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:40:57.2226 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2017-07-24 18:41:02.2435 DEBUG Readings taken got the values; 0,0,0,0,0,0,0,0,1516888,0,0,0,0,0,5925427,0,0,0,0,0,6102460,0,0,0,0,0,5668019,0,0,0,0,0,6457796,0,0,0
+2017-07-24 18:41:02.5240 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:41:02.5438 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:41:03.1740 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-07-24 18:41:03.1740 DEBUG Setting the temperature to 72
+2017-07-24 18:41:03.1740 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:41:03.4242 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:41:03.4242 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:41:03.4242 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:41:03.5142 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:03.6041 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:03.6940 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:03.7841 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:06.9840 DEBUG Setting the temperature2 to 72
+2017-07-24 18:41:06.9840 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:41:07.2842 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:41:07.2941 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:41:07.3140 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:41:07.3542 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:07.4740 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:07.5641 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:07.6540 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:16.0550 DEBUG At temperature.
+2017-07-24 18:41:16.0650 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-07-24 18:41:16.0750 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:41:31.1250 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:41:31.3650 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:41:32.3850 DEBUG gotoTempAndStay: temperature = 98 time = 0 ms
+2017-07-24 18:41:32.6250 DEBUG Setting the temperature to 98
+2017-07-24 18:41:33.0750 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:41:33.2650 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 98
+2017-07-24 18:41:33.3850 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:41:33.4150 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:41:33.7450 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:34.4350 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:34.9050 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:35.3250 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:38.3250 DEBUG Setting the temperature2 to 98
+2017-07-24 18:41:38.8350 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:41:39.3650 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 98
+2017-07-24 18:41:39.6250 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:41:39.8450 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:41:40.0250 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:40.2850 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:40.6750 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:41:40.9750 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:41:47.7450 DEBUG At temperature.
+2017-07-24 18:41:48.0850 DEBUG gotoTempAndStay: at temperature = 98, sleeping ...
+2017-07-24 18:41:48.3050 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:42:18.4049 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:42:18.4049 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:42:18.7149 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-07-24 18:42:18.7649 DEBUG Setting the temperature to 60
+2017-07-24 18:42:18.7649 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:42:18.8749 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:42:18.8749 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:42:18.8749 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:42:18.9649 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:42:19.2349 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:42:19.5349 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:42:19.8049 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:42:22.7749 DEBUG Setting the temperature2 to 60
+2017-07-24 18:42:22.7749 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-07-24 18:42:22.8649 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 98 to temp is 60
+2017-07-24 18:42:22.8649 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 98 making settings for the temperature range: From: 90-110 To: 55-65
+2017-07-24 18:42:22.8749 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2017-07-24 18:42:22.9549 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:42:23.2249 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:42:23.4949 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:42:23.7649 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:42:49.8448 DEBUG At temperature.
+2017-07-24 18:42:49.9048 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-07-24 18:42:49.9048 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:43:09.9448 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2017-07-24 18:43:15.1648 DEBUG Readings taken got the values; 0,0,0,0,0,0,0,0,1516229,0,0,0,0,0,5949705,0,0,0,0,0,6135748,0,0,0,0,0,5690480,0,0,0,0,0,6449769,0,0,0
+2017-07-24 18:43:15.7348 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:43:15.8748 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:43:16.8448 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-07-24 18:43:17.3148 DEBUG Setting the temperature to 72
+2017-07-24 18:43:17.5348 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:43:17.9048 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:43:18.2348 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:43:18.6248 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:43:18.9248 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:19.3648 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:43:19.7248 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:20.0248 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:43:22.7848 DEBUG Setting the temperature2 to 72
+2017-07-24 18:43:22.8048 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-07-24 18:43:22.9348 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 72
+2017-07-24 18:43:22.9348 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 60 making settings for the temperature range: From: 55-65 To: 66-75
+2017-07-24 18:43:23.0448 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2017-07-24 18:43:23.1748 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:23.2948 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:43:23.5348 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:23.7748 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:43:30.6848 DEBUG At temperature.
+2017-07-24 18:43:30.9448 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-07-24 18:43:30.9548 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:43:46.0047 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2017-07-24 18:43:46.2247 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-07-24 18:43:47.6748 DEBUG gotoTempAndStay: temperature = 98 time = 0 ms
+2017-07-24 18:43:48.0347 DEBUG Setting the temperature to 98
+2017-07-24 18:43:48.4047 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:43:48.7947 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 98
+2017-07-24 18:43:49.0847 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:43:49.2247 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:43:49.7247 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:50.0647 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:43:50.3647 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:50.6948 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:43:53.8447 DEBUG Setting the temperature2 to 98
+2017-07-24 18:43:53.9847 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 98
+2017-07-24 18:43:54.1047 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 72 to temp is 98
+2017-07-24 18:43:54.2747 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 72 making settings for the temperature range: From: 66-75 To: 90-100
+2017-07-24 18:43:54.5947 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 300
+2017-07-24 18:43:55.1247 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:55.4847 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:43:55.5847 DEBUG TEC; setting the overshootDuration to 1
+2017-07-24 18:43:55.7147 DEBUG TEC; setting the overshootoffset to 1
+2017-07-24 18:44:01.8147 DEBUG At temperature.
+2017-07-24 18:44:02.0047 DEBUG gotoTempAndStay: at temperature = 98, sleeping ...
+2017-07-24 18:44:02.0747 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-07-24 18:44:32.5846 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep

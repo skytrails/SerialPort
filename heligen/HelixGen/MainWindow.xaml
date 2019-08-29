@@ -1,0 +1,68 @@
+﻿<Window x:Class="HelixGen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelixGen"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        WindowStyle="None"
+        WindowState="Maximized"
+        ResizeMode="CanResizeWithGrip"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+
+        <!-- The Top Band -->
+
+            <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="White" Offset="0.0" />
+                    <GradientStop Color="LightGray" Offset="1.0" />
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Image Grid.Column="0" Source="images/HelixGen Logo.png" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Stretch="Fill" Margin="5"/>
+            
+            <Button Grid.Column="3" Margin="0" Content="X" Click="Close_Button_Click" ToolTip="Close the Window"
+                        />
+        </Grid>
+        
+        <!-- The rest of the window.  -->
+        
+        <Grid Grid.Row="1">
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="LightGreen" Offset="0.0" />
+                    <GradientStop Color="DarkBlue" Offset="1.0" />
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+
+            <Frame Grid.Row="0" Name="NavFrame" NavigationUIVisibility="Visible" />
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="1" Name="tbVersion" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10"/>
+
+            </Grid>
+        </Grid>
+   
+    </Grid>
+</Window>

@@ -1,0 +1,146 @@
+2018-07-02 13:12:03.0593 DEBUG ----- Starting -----
+2018-07-02 13:12:44.5513 DEBUG ----- Starting -----
+2018-07-02 13:16:59.9067 DEBUG ----- Starting -----
+2018-07-02 13:18:54.8729 DEBUG ----- Starting -----
+2018-07-02 13:22:08.3609 DEBUG ----- Starting -----
+2018-07-02 13:22:30.2779 DEBUG ----- Starting -----
+2018-07-02 13:22:36.2379 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 3
+2018-07-02 13:22:36.3379 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 2
+2018-07-02 13:22:36.4179 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1
+2018-07-02 13:22:36.4379 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1; source command: /01o0R; iteration: 0; error code: 15
+2018-07-02 13:22:43.9634 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_02_13_22_43\Temperature Log.csv
+2018-07-02 13:22:44.2234 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-02 13:22:44.2234 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-02 13:22:44.2434 DEBUG Setting the temperature to 45
+2018-07-02 13:22:44.3534 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-02 13:22:44.4134 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.302 to temp is 95
+2018-07-02 13:22:44.4234 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.302 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-02 13:22:44.4234 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-02 13:22:44.4634 DEBUG TEC; setting the overshootDuration to 1
+2018-07-02 13:22:44.4934 DEBUG TEC; setting the overshootoffset to 1
+2018-07-02 13:22:44.5334 DEBUG TEC; setting the overshootDuration to 1
+2018-07-02 13:22:44.5334 DEBUG TEC; setting the overshootoffset to 1
+2018-07-02 13:22:51.3206 DEBUG At temperature.
+2018-07-02 13:22:51.3206 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-02 13:22:51.4379 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-02 13:22:51.5331 DEBUG Setting the temperature to 85
+2018-07-02 13:22:51.5973 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-02 13:22:51.6324 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_02_13_22_43\Melt Curve logging.csv
+2018-07-02 13:22:51.8209 DEBUG In meltcurve, curTemp = 44.4389991760254
+2018-07-02 13:22:51.8369 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01A300R; iteration: 3
+2018-07-02 13:22:51.9172 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01A300R; iteration: 2
+2018-07-02 13:22:52.0284 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01A300R; iteration: 1
+2018-07-02 13:22:52.0445 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01A300R; iteration: 1; source command: /01A300R; iteration: 0; error code: 15
+2018-07-02 13:22:52.0696 DEBUG Protocol::Execute caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /01A300R; iteration: 1; source command: /01A300R; iteration: 0; error code: 15
+2018-07-02 13:23:26.1885 DEBUG ----- Starting -----
+2018-07-02 13:23:33.5115 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-07-02 13:23:58.6816 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-07-02 13:23:59.1115 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-07-02 13:24:12.7517 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-07-02 13:27:57.6179 DEBUG ----- Starting -----
+2018-07-02 13:28:01.7690 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-07-02 13:28:05.2389 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-07-02 13:28:05.2689 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-07-02 13:28:05.8889 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-07-02 13:28:11.6489 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-07-02 13:28:12.0389 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-07-02 13:28:12.0589 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-07-02 13:28:15.0489 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-07-02 13:28:19.1689 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 3
+2018-07-02 13:28:19.2489 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 2
+2018-07-02 13:28:19.3289 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1
+2018-07-02 13:28:19.3489 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1; source command: /01o0R; iteration: 0; error code: 15
+2018-07-02 13:29:10.6380 DEBUG ----- Starting -----
+2018-07-02 13:29:16.4025 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 3
+2018-07-02 13:29:16.4925 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 2
+2018-07-02 13:29:16.5725 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1
+2018-07-02 13:29:16.5925 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1; source command: /01o0R; iteration: 0; error code: 15
+2018-07-02 13:29:46.8725 DEBUG ----- Starting -----
+2018-07-02 13:29:55.0366 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 3
+2018-07-02 13:29:55.1158 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 2
+2018-07-02 13:29:55.1950 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1
+2018-07-02 13:29:55.2141 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01o0R; iteration: 1; source command: /01o0R; iteration: 0; error code: 15
+2018-07-02 15:07:41.5352 DEBUG ----- Starting -----
+2018-07-02 15:08:17.1588 DEBUG ----- Starting -----
+2018-07-02 15:09:06.7517 DEBUG ----- Starting -----
+2018-07-02 15:09:26.3543 DEBUG ----- Starting -----
+2018-07-02 15:10:54.4982 DEBUG ----- Starting -----
+2018-07-02 15:12:42.7341 DEBUG ----- Starting -----
+2018-07-02 15:18:02.5445 DEBUG ----- Starting -----
+2018-07-02 15:18:24.4755 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-07-02 15:19:07.3835 DEBUG ----- Starting -----
+2018-07-02 15:19:21.3876 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-07-02 15:29:47.3515 DEBUG ----- Starting -----
+2018-07-02 15:29:54.0325 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-07-02 15:30:28.4226 DEBUG ----- Starting -----
+2018-07-02 15:30:34.6994 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-07-02 15:30:56.9649 DEBUG ----- Starting -----
+2018-07-02 15:35:02.4685 DEBUG ----- Starting -----
+2018-07-02 15:39:32.1709 DEBUG ----- Starting -----
+2018-07-02 15:42:15.3138 DEBUG ----- Starting -----
+2018-07-02 15:42:43.3162 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_02_15_42_43\Temperature Log.csv
+2018-07-02 15:42:43.5762 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-02 15:42:43.5962 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-02 15:42:43.6062 DEBUG Setting the temperature to 45
+2018-07-02 15:42:43.7162 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-02 15:42:43.7762 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.747 to temp is 95
+2018-07-02 15:42:43.7862 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.747 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-02 15:42:43.7962 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-02 15:42:43.8262 DEBUG TEC; setting the overshootDuration to 1
+2018-07-02 15:42:43.8562 DEBUG TEC; setting the overshootoffset to 1
+2018-07-02 15:42:43.8862 DEBUG TEC; setting the overshootDuration to 1
+2018-07-02 15:42:43.9263 DEBUG TEC; setting the overshootoffset to 1
+2018-07-02 15:42:50.8262 DEBUG At temperature.
+2018-07-02 15:42:50.8262 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-02 15:42:50.9862 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-02 15:42:51.0662 DEBUG Setting the temperature to 85
+2018-07-02 15:42:51.0762 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-02 15:42:51.1162 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_02_15_42_43\Melt Curve logging.csv
+2018-07-02 15:42:51.3162 DEBUG In meltcurve, curTemp = 44.3790016174316
+2018-07-02 15:42:54.7562 DEBUG In meltcurve, curTemp = 44.1549987792969
+2018-07-02 15:42:58.1462 DEBUG In meltcurve, curTemp = 44.3479995727539
+2018-07-02 15:43:01.5662 DEBUG In meltcurve, curTemp = 44.4720001220703
+2018-07-02 15:43:04.9862 DEBUG In meltcurve, curTemp = 44.814998626709
+2018-07-02 15:43:08.4662 DEBUG In meltcurve, curTemp = 44.8959999084473
+2018-07-02 15:43:11.8262 DEBUG In meltcurve, curTemp = 45.2470016479492
+2018-07-02 15:43:15.2562 DEBUG In meltcurve, curTemp = 45.2879981994629
+2018-07-02 15:43:18.6462 DEBUG In meltcurve, curTemp = 45.6689987182617
+2018-07-02 15:43:22.0762 DEBUG In meltcurve, curTemp = 45.7109985351563
+2018-07-02 15:43:25.4862 DEBUG In meltcurve, curTemp = 46.0610008239746
+2018-07-02 15:43:28.8862 DEBUG In meltcurve, curTemp = 46.1619987487793
+2018-07-02 15:43:32.2762 DEBUG In meltcurve, curTemp = 46.4220008850098
+2018-07-02 15:43:35.6462 DEBUG In meltcurve, curTemp = 46.632999420166
+2018-07-02 15:43:39.1762 DEBUG In meltcurve, curTemp = 46.8199996948242
+2018-07-02 15:43:42.5864 DEBUG In meltcurve, curTemp = 47.0719985961914
+2018-07-02 15:43:46.0064 DEBUG In meltcurve, curTemp = 47.1710014343262
+2018-07-02 15:43:49.5162 DEBUG In meltcurve, curTemp = 47.5130004882813
+2018-07-02 15:43:52.9562 DEBUG In meltcurve, curTemp = 47.5660018920898
+2018-07-02 15:43:56.4362 DEBUG In meltcurve, curTemp = 47.9469985961914
+2018-07-02 15:43:59.9162 DEBUG In meltcurve, curTemp = 47.9910011291504
+2018-07-02 15:44:03.2764 DEBUG In meltcurve, curTemp = 48.3759994506836
+2018-07-02 15:44:06.6762 DEBUG In meltcurve, curTemp = 48.382999420166
+2018-07-02 15:44:10.0862 DEBUG In meltcurve, curTemp = 48.7690010070801
+2018-07-02 15:44:13.4864 DEBUG In meltcurve, curTemp = 48.8370018005371
+2018-07-02 15:44:16.9662 DEBUG In meltcurve, curTemp = 49.1100006103516
+2018-07-02 15:44:20.5062 DEBUG In meltcurve, curTemp = 49.2509994506836
+2018-07-02 15:44:23.8864 DEBUG In meltcurve, curTemp = 49.5330009460449
+2018-07-02 15:44:27.3262 DEBUG In meltcurve, curTemp = 49.7430000305176
+2018-07-02 15:44:30.8562 DEBUG In meltcurve, curTemp = 49.9029998779297
+2018-07-02 15:44:34.2462 DEBUG In meltcurve, curTemp = 50.1969985961914
+2018-07-02 15:44:37.5964 DEBUG In meltcurve, curTemp = 50.2369995117188
+2018-07-02 15:44:41.0662 DEBUG In meltcurve, curTemp = 50.6479988098145
+2018-07-02 15:44:44.4062 DEBUG In meltcurve, curTemp = 50.640998840332
+2018-07-02 15:44:47.7962 DEBUG In meltcurve, curTemp = 50.9599990844727
+2018-07-02 15:44:51.2262 DEBUG In meltcurve, curTemp = 51.1310005187988
+2018-07-02 15:44:54.6364 DEBUG In meltcurve, curTemp = 51.318000793457
+2018-07-02 15:44:57.9862 DEBUG In meltcurve, curTemp = 51.6559982299805
+2018-07-02 15:45:01.4062 DEBUG In meltcurve, curTemp = 51.6380004882813
+2018-07-02 15:45:04.7462 DEBUG In meltcurve, curTemp = 52.0509986877441
+2018-07-02 15:45:08.1863 DEBUG In meltcurve, curTemp = 52.1119995117188
+2018-07-02 15:45:11.5462 DEBUG In meltcurve, curTemp = 52.3540000915527
+2018-07-02 15:45:14.9562 DEBUG In meltcurve, curTemp = 52.632999420166
+2018-07-02 15:45:18.3962 DEBUG In meltcurve, curTemp = 52.6609992980957
+2018-07-02 15:45:21.7862 DEBUG In meltcurve, curTemp = 53.0909996032715
+2018-07-02 15:45:25.2163 DEBUG In meltcurve, curTemp = 53.0769996643066
+2018-07-02 15:45:28.6862 DEBUG In meltcurve, curTemp = 53.4809989929199
+2018-07-02 15:45:32.0863 DEBUG In meltcurve, curTemp = 53.5480003356934

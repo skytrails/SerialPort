@@ -1,0 +1,21 @@
+2018-03-27 09:32:39.8103 DEBUG ----- Starting -----
+2018-03-27 09:33:12.0012 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-03-27 09:35:01.9414 DEBUG ----- Starting -----
+2018-03-27 09:35:39.4707 DEBUG ----- Starting -----
+2018-03-27 09:36:02.0510 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-03-27 09:36:10.1469 DEBUG ----- Starting -----
+2018-03-27 09:37:09.6138 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-03-27 09:37:18.2133 DEBUG ----- Starting -----
+2018-03-27 09:37:23.8810 DEBUG ----- Starting -----
+2018-03-27 09:42:47.4619 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-03-27 09:43:16.9116 DEBUG ----- Starting -----
+2018-03-27 09:43:40.8443 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-03-27 09:43:46.8527 DEBUG ----- Starting -----
+2018-03-27 09:43:54.1429 DEBUG ----- Starting -----
+2018-03-27 09:43:58.7289 DEBUG ----- Starting -----
+2018-03-27 09:47:19.6823 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0; iteration: 0; error code: 0
+2018-03-27 09:47:28.2922 DEBUG ----- Starting -----
+2018-03-27 09:48:39.0345 DEBUG ----- Starting -----
+2018-03-27 09:50:04.0234 DEBUG ----- Starting -----
+2018-03-27 09:50:13.1951 DEBUG TEC; setting the overshootoffset to 0
+2018-03-27 09:50:15.0922 DEBUG TEC; setting the overshootoffset to 0

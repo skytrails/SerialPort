@@ -1,0 +1,130 @@
+2018-12-11 08:53:24.8481 DEBUG ----- Starting -----
+2018-12-11 08:53:56.3254 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_11_08_53_56\Temperature Log.csv
+2018-12-11 08:53:56.3524 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-12-11 08:53:56.3524 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 08:53:56.7802 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-12-11 08:53:56.7802 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 08:53:57.2111 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 08:54:07.2173 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-12-11 08:54:07.2243 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 08:54:07.2921 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 08:54:17.2964 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-12-11 08:54:17.3004 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 08:54:17.5008 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 08:54:27.5420 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-12-11 08:54:27.5420 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 08:54:27.7743 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 08:54:37.8025 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-12-11 08:54:37.8025 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 08:54:37.9362 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 08:54:47.9444 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-12-11 08:54:47.9444 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 08:54:48.0172 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 08:56:28.0470 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-12-11 08:56:28.0520 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 08:56:29.1222 ERROR fileOperation caught an exception; 未能找到文件“C:\HelixGen\Logs\Measurement\2018_12_11_08_53_56\Melt Curve logging.csv”。
+2018-12-11 08:56:29.1511 ERROR fileOperation caught an exception; 未能找到文件“C:\HelixGen\Logs\Measurement\2018_12_11_08_53_56\Melt Curve logging.csv”。
+2018-12-11 08:59:44.8385 DEBUG ----- Starting -----
+2018-12-11 08:59:55.9498 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_11_08_59_55\Temperature Log.csv
+2018-12-11 08:59:55.9578 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-12-11 08:59:55.9578 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 08:59:57.1556 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-12-11 08:59:57.1556 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 08:59:57.2024 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:00:07.2068 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-12-11 09:00:07.2068 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:00:07.5877 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:00:17.5929 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-12-11 09:00:17.5929 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:00:17.7645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:00:27.8296 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-12-11 09:00:27.8335 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:00:27.8774 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:00:37.8847 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-12-11 09:00:37.8847 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:00:38.1350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:00:48.1393 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-12-11 09:00:48.1393 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:00:48.1851 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:02:28.1907 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-12-11 09:02:28.1937 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 09:02:28.5906 ERROR fileOperation caught an exception; 未能找到文件“C:\HelixGen\Logs\Measurement\2018_12_11_08_59_55\Melt Curve logging.csv”。
+2018-12-11 09:02:28.6136 ERROR fileOperation caught an exception; 文件“C:\HelixGen\Logs\Measurement\2018_12_11_08_59_55\Temperature Log.csv”正由另一进程使用，因此该进程无法访问此文件。
+2018-12-11 09:02:28.6455 ERROR fileOperation caught an exception; 未能找到文件“C:\HelixGen\Logs\Measurement\2018_12_11_08_59_55\Melt Curve logging.csv”。
+2018-12-11 09:02:28.6814 ERROR fileOperation caught an exception; 文件“C:\HelixGen\Logs\Measurement\2018_12_11_08_59_55\Temperature Log.csv”正由另一进程使用，因此该进程无法访问此文件。
+2018-12-11 09:11:04.2058 DEBUG ----- Starting -----
+2018-12-11 09:11:15.8058 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_11_09_11_15\Temperature Log.csv
+2018-12-11 09:11:15.8287 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-12-11 09:11:15.8347 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 09:11:16.7234 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-12-11 09:11:16.7234 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:11:16.7712 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:11:26.7755 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-12-11 09:11:26.7755 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:11:26.9281 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:11:36.9672 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-12-11 09:11:36.9672 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:11:37.2305 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:11:47.2348 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-12-11 09:11:47.2387 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:11:47.3245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:11:57.3886 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-12-11 09:11:57.3886 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:11:57.6579 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:12:07.6671 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-12-11 09:12:07.6671 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:12:07.7679 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:16:40.6731 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-12-11 09:16:40.7070 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-12-11 09:16:40.7240 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-12-11 09:19:39.5777 DEBUG ----- Starting -----
+2018-12-11 09:19:53.1534 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_11_09_19_53\Temperature Log.csv
+2018-12-11 09:19:53.1614 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-12-11 09:19:53.1614 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 09:19:53.7309 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-12-11 09:19:53.7309 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:19:53.8266 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:20:43.8329 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-12-11 09:20:43.8329 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:20:43.9386 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:25:19.1548 DEBUG ----- Starting -----
+2018-12-11 09:25:29.7265 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_11_09_25_29\Temperature Log.csv
+2018-12-11 09:25:29.7265 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-12-11 09:25:29.7385 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 09:25:30.6271 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-12-11 09:25:30.6301 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:25:30.6740 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:28:00.6791 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-12-11 09:28:00.6791 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:28:00.7858 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:38:43.4376 DEBUG ----- Starting -----
+2018-12-11 09:39:07.9253 DEBUG ----- Starting -----
+2018-12-11 09:39:23.2493 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_11_09_39_23\Temperature Log.csv
+2018-12-11 09:39:23.2703 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-12-11 09:39:23.2703 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 09:39:24.1300 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-12-11 09:39:24.1300 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:39:24.2567 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:41:04.2642 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-12-11 09:41:04.2642 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:41:04.4507 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:48:55.8348 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-12-11 09:48:55.8876 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-12-11 09:48:55.9076 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-12-11 09:57:24.2656 DEBUG ----- Starting -----
+2018-12-11 09:57:36.7108 DEBUG ----- Starting -----
+2018-12-11 09:57:48.9971 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_11_09_57_48\Temperature Log.csv
+2018-12-11 09:57:49.0041 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-12-11 09:57:49.0041 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-12-11 09:57:49.5835 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-12-11 09:57:49.5835 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:57:49.6354 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 09:59:59.6407 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-12-11 09:59:59.6447 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-12-11 09:59:59.8212 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-12-11 10:04:57.1492 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-12-11 10:04:57.1831 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-12-11 10:04:57.2011 DEBUG ReadCmd, got an exception: 端口被关闭。

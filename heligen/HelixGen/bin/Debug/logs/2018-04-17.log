@@ -1,0 +1,5 @@
+2018-04-17 16:50:42.8519 DEBUG ----- Starting -----
+2018-04-17 16:50:44.3048 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-17 16:52:45.4675 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_17_16_52_45\Temperature Log.csv
+2018-04-17 17:04:16.5384 DEBUG ----- Starting -----
+2018-04-17 17:04:34.8792 DEBUG TEC; setting the overshootoffset to 0

@@ -1,0 +1,31 @@
+2018-04-18 13:21:29.7777 DEBUG ----- Starting -----
+2018-04-18 13:25:25.6098 DEBUG ----- Starting -----
+2018-04-18 14:22:12.6395 DEBUG ----- Starting -----
+2018-04-18 14:22:30.9937 DEBUG ----- Starting -----
+2018-04-18 14:24:47.2014 DEBUG ----- Starting -----
+2018-04-18 14:25:07.1243 ERROR Configuration::Load Caught an exception; Could not find file 'C:\HelixGen\Protocols\.xml'.
+2018-04-18 14:25:07.1443 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_18_14_25_07\Temperature Log.csv
+2018-04-18 14:34:19.6201 DEBUG ----- Starting -----
+2018-04-18 14:36:55.1630 ERROR Configuration::Load Caught an exception; Could not find file 'C:\HelixGen\Protocols\.xml'.
+2018-04-18 14:36:55.1769 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_18_14_36_55\Temperature Log.csv
+2018-04-18 14:38:08.5414 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 14:38:08.5714 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 14:38:53.4005 ERROR Configuration::Load Caught an exception; Could not find file 'C:\HelixGen\Protocols\.xml'.
+2018-04-18 14:38:53.4005 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_18_14_38_53\Temperature Log.csv
+2018-04-18 14:39:03.1091 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 14:39:03.1492 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 14:41:29.2527 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_18_14_41_29\Temperature Log.csv
+2018-04-18 14:41:35.2027 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 14:41:35.2327 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 14:42:10.6983 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_18_14_42_10\Temperature Log.csv
+2018-04-18 14:42:19.0347 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 14:42:19.0647 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 17:30:25.1548 DEBUG ----- Starting -----
+2018-04-18 17:30:54.3628 DEBUG ----- Starting -----
+2018-04-18 17:31:11.3764 DEBUG ----- Starting -----
+2018-04-18 17:31:23.9574 DEBUG ----- Starting -----
+2018-04-18 17:36:02.1323 DEBUG ----- Starting -----
+2018-04-18 17:36:56.1776 ERROR Configuration::Load Caught an exception; Could not find file 'C:\HelixGen\Protocols\.xml'.
+2018-04-18 17:36:56.1876 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_18_17_36_56\Temperature Log.csv
+2018-04-18 17:37:07.4502 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0
+2018-04-18 17:37:07.4803 ERROR RunScript caught an exception; Error: (AMB): The operation has timed out.; source command: >LC00=0.75; iteration: 0; error code: 0

@@ -1,0 +1,1266 @@
+2018-11-29 13:11:45.4308 DEBUG ----- Starting -----
+2018-11-29 13:12:32.3588 DEBUG ----- Starting -----
+2018-11-29 13:12:42.9655 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:12:43.1460 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:12:43.2317 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:14:24.9530 DEBUG ----- Starting -----
+2018-11-29 13:17:10.6346 DEBUG ----- Starting -----
+2018-11-29 13:17:17.9850 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:17:18.1416 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:17:18.1705 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:17:39.2678 DEBUG ----- Starting -----
+2018-11-29 13:23:36.5139 DEBUG ----- Starting -----
+2018-11-29 13:32:48.7791 DEBUG ----- Starting -----
+2018-11-29 13:36:35.5587 DEBUG ----- Starting -----
+2018-11-29 13:38:33.0156 DEBUG ----- Starting -----
+2018-11-29 13:40:29.0383 DEBUG ----- Starting -----
+2018-11-29 13:44:51.9633 DEBUG ----- Starting -----
+2018-11-29 13:51:42.9873 DEBUG ----- Starting -----
+2018-11-29 13:51:51.2851 DEBUG deviceSlider::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:51:51.5923 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:51:51.6242 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 13:52:13.8343 DEBUG ----- Starting -----
+2018-11-29 13:52:53.1641 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_29_13_52_53\Temperature Log.csv
+2018-11-29 13:52:53.1721 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2018-11-29 13:52:53.1721 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-11-29 13:52:56.3257 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-11-29 13:52:56.3257 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:18.1134 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-11-29 13:53:18.1134 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:26.7075 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 24
+2018-11-29 13:53:26.7154 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:26.7154 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:27.0256 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:27.0256 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:27.5322 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:27.5322 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:27.9521 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:27.9521 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:28.4608 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:28.4657 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:28.7669 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:28.7669 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:29.2756 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:29.3504 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:29.7892 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:29.7922 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:30.2979 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:30.2979 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:30.6040 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:30.6040 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:31.1158 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:31.1236 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:31.5306 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:31.5306 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:32.0382 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:32.0432 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:32.3454 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:32.3454 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:32.8520 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:32.8570 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:33.2729 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:33.2769 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:33.7835 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:33.7835 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:34.1056 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:34.1964 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:34.7409 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:34.7440 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:35.1578 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:35.1578 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:35.6655 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:35.6655 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:35.9727 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:35.9727 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:36.4813 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:36.4813 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:36.8992 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:36.9012 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:37.4058 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:37.4058 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:37.7160 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:37.7160 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:38.2226 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:38.2226 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:38.6405 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:38.6405 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:39.1492 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:39.1671 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:39.4713 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:39.4713 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:39.9779 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:39.9809 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:40.3978 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:40.4018 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:40.9085 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:40.9085 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:41.2127 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:41.2127 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:41.7223 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:41.7223 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:42.1402 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:42.1402 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:42.6468 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:42.6468 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:42.9540 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:42.9540 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:43.4607 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:43.4856 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:43.8965 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:43.8965 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:44.4051 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:44.4051 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:44.7113 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:44.7153 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:45.2200 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:45.2200 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:45.6388 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:45.6388 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:46.1485 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:46.1534 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:46.4526 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:46.4666 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:47.0491 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:47.0491 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:47.4599 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:47.4629 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:47.9706 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:47.9796 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:48.2907 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:48.2907 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:48.8024 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:48.8063 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:49.1215 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:49.1215 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:49.6301 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:49.6351 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:49.9363 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:49.9363 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:50.4431 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:50.4480 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:50.8628 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:50.8628 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:51.3805 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:51.4473 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:51.7415 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:51.7415 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:52.2472 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:52.2472 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:52.6680 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:52.6680 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:53.1747 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:53.1747 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:53.4828 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:53.4828 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:53.9915 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:54.0014 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:54.4094 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:54.4094 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:54.9190 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:54.9190 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:55.2242 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:55.2242 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:55.7318 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:55.7318 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:56.1507 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:56.1507 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:56.6583 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:56.6583 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:56.9655 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:56.9655 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:57.4712 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:57.4712 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:57.8920 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:57.8920 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:58.4037 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:58.4037 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:53:58.7238 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:58.7438 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:53:59.2484 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:59.2484 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:53:59.6653 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:53:59.6683 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:00.1739 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:00.1739 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:00.4801 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:00.4801 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:01.0057 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:01.1344 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:01.5503 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:01.5503 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:02.0599 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:02.0599 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:02.3651 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:02.3691 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:02.8739 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:02.8739 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:03.2926 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:03.2926 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:03.8012 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:03.8012 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:04.1064 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:04.1064 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:04.6141 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:04.6141 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:05.0341 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:05.0341 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:05.5446 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:05.5446 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:05.8488 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:05.8488 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:06.3544 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:06.3544 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:06.7753 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:06.7753 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:07.2829 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:07.2829 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:07.5901 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:07.5901 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:08.0968 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:08.0968 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:08.5166 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:08.5166 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:09.0342 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:09.0342 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:09.3315 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:09.3315 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:09.8391 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:09.8391 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:10.2580 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:10.2620 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:10.7696 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:10.7696 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:11.0728 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:11.0728 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:11.5794 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:11.5794 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:11.9993 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:11.9993 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:12.5070 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:12.5119 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:12.8141 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:12.8141 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:13.3337 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:13.3677 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:13.7885 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:13.7915 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:14.2962 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:14.2962 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:14.6034 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:14.6034 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:15.1110 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:15.1110 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:15.5309 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:15.5309 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:16.0385 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:16.0425 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:16.3447 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:16.3447 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:16.8534 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:16.8534 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:17.2712 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:17.2752 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:17.7799 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:17.7799 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:18.0861 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:18.0891 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:18.5927 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:18.5927 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:19.0126 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:19.0126 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:19.5222 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:19.5252 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:19.8274 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:19.8274 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:20.3351 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:20.3390 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:20.7549 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:20.7549 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:21.2636 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:21.2636 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 13:54:21.5687 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:21.5717 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:54:22.0754 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:22.0754 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 13:54:22.4953 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 13:54:22.4953 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 13:58:15.9872 DEBUG ----- Starting -----
+2018-11-29 13:58:39.6240 DEBUG ----- Starting -----
+2018-11-29 14:00:58.4038 DEBUG ----- Starting -----
+2018-11-29 14:03:13.8102 DEBUG ----- Starting -----
+2018-11-29 14:06:36.8164 DEBUG ----- Starting -----
+2018-11-29 14:08:24.0434 DEBUG ----- Starting -----
+2018-11-29 14:09:09.2764 DEBUG ----- Starting -----
+2018-11-29 14:10:58.9688 DEBUG ----- Starting -----
+2018-11-29 14:11:42.8750 DEBUG ----- Starting -----
+2018-11-29 14:13:32.9445 DEBUG ----- Starting -----
+2018-11-29 14:14:14.2866 DEBUG ----- Starting -----
+2018-11-29 14:16:12.7742 DEBUG ----- Starting -----
+2018-11-29 14:16:52.8555 DEBUG ----- Starting -----
+2018-11-29 14:18:20.9842 DEBUG ----- Starting -----
+2018-11-29 14:18:59.2329 DEBUG ----- Starting -----
+2018-11-29 14:21:07.3043 DEBUG ----- Starting -----
+2018-11-29 14:21:44.4182 DEBUG ----- Starting -----
+2018-11-29 14:23:48.2698 DEBUG ----- Starting -----
+2018-11-29 14:24:26.6561 DEBUG ----- Starting -----
+2018-11-29 14:29:43.7950 DEBUG ----- Starting -----
+2018-11-29 14:30:22.0776 DEBUG ----- Starting -----
+2018-11-29 14:40:29.8089 DEBUG ----- Starting -----
+2018-11-29 14:41:30.7443 DEBUG ----- Starting -----
+2018-11-29 14:43:15.8015 DEBUG ----- Starting -----
+2018-11-29 14:44:28.3812 DEBUG ----- Starting -----
+2018-11-29 14:45:13.6961 DEBUG ----- Starting -----
+2018-11-29 14:47:06.0742 DEBUG ----- Starting -----
+2018-11-29 14:47:46.0304 DEBUG ----- Starting -----
+2018-11-29 14:50:25.3796 DEBUG ----- Starting -----
+2018-11-29 14:55:26.0445 DEBUG ----- Starting -----
+2018-11-29 14:57:06.7230 DEBUG ----- Starting -----
+2018-11-29 14:58:44.5990 DEBUG ----- Starting -----
+2018-11-29 14:58:59.1909 DEBUG ----- Starting -----
+2018-11-29 14:59:45.9176 DEBUG ----- Starting -----
+2018-11-29 15:01:33.0673 DEBUG ----- Starting -----
+2018-11-29 15:02:17.7688 DEBUG ----- Starting -----
+2018-11-29 15:07:17.3206 DEBUG ----- Starting -----
+2018-11-29 15:08:23.2455 DEBUG ----- Starting -----
+2018-11-29 15:09:50.6066 DEBUG ----- Starting -----
+2018-11-29 15:20:15.5588 DEBUG ----- Starting -----
+2018-11-29 15:21:06.7330 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_29_15_21_06\Temperature Log.csv
+2018-11-29 15:21:06.7330 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2018-11-29 15:21:06.7450 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-11-29 15:21:09.9683 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-11-29 15:21:09.9683 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:31.7601 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-11-29 15:21:31.7601 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:40.3391 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 24
+2018-11-29 15:21:40.3391 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:40.3391 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:40.8647 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:40.8647 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:41.3723 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:41.3723 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:41.9039 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:41.9039 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:42.4235 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:42.4235 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:42.9581 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:42.9890 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:43.5216 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:43.5296 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:44.0601 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:44.0601 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:44.5778 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:44.5778 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:45.0984 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:45.0984 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:45.6050 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:45.6050 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:46.1366 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:46.1366 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:46.6432 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:46.6432 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:47.1758 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:47.1758 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:47.6845 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:47.6845 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:48.2140 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:48.2140 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:48.7207 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:48.7207 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:49.2523 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:49.2523 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:49.7619 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:49.7619 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:50.2905 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:50.3453 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:50.8999 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:50.8999 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:51.4255 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:51.4255 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:51.9331 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:51.9331 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:52.4637 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:52.4637 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:52.9813 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:52.9813 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:53.5019 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:53.5019 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:54.0096 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:54.0096 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:54.5411 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:54.5411 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:55.0617 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:55.0887 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:55.6113 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:55.6113 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:56.1179 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:56.1209 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:56.6497 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:56.6535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:57.1601 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:57.1601 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:57.6877 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:57.7027 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:58.2383 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:58.2383 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:21:58.7738 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:58.7778 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:21:59.2824 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:59.3084 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:21:59.8280 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:21:59.8280 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:00.3416 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:00.3416 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:00.8672 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:00.8702 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:01.3768 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:01.3768 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:01.9054 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:01.9054 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:02.4161 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:02.4161 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:02.9437 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:02.9486 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:03.4533 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:03.4533 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:03.9829 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:03.9829 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:04.4916 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:04.4955 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:05.0211 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:05.0211 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:05.5297 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:05.5297 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:06.0593 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:06.0593 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:06.5670 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:06.5719 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:07.0975 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:07.1215 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:07.6271 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:07.6271 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:08.1517 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:08.1517 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:08.6594 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:08.6594 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:09.1909 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:09.1909 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:09.7006 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:09.7006 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:10.2292 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:10.2292 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:10.7358 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:10.7358 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:11.2674 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:11.2674 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:11.7761 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:11.7761 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:12.3056 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:12.3076 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:12.8123 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:12.8123 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:13.3439 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:13.3439 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:13.8555 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:13.8555 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:14.3831 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:14.3870 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:14.8907 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:14.8907 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:15.4213 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:15.4213 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:15.9309 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:15.9349 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:16.4605 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:16.4645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:16.9681 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:16.9681 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:17.4987 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:17.4987 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:18.0074 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:18.0114 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:18.5370 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:18.5409 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:19.0446 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:19.0446 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:19.5752 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:19.5752 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:20.0858 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:20.0888 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:20.6134 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:20.6134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:21.1230 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:21.1230 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:21.6526 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:21.6526 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:22.1682 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:22.1682 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:22.6909 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:22.6909 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:23.1975 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:23.1975 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:23.7291 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:23.7291 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:24.2497 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:24.2766 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:24.8311 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:24.8311 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:25.3398 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:25.3398 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:25.8703 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:25.8703 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:26.3820 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:26.3860 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:26.9086 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:26.9086 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:27.4162 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:27.4162 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:27.9468 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:27.9468 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:28.4574 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:28.4674 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:28.9850 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:28.9850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:29.4937 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:29.4937 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:30.0233 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:30.0272 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:30.5329 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:30.5438 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:31.0625 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:31.0625 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:31.5711 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:31.6130 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:32.1645 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:32.1675 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:32.6722 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:32.6722 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:33.2028 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:33.2028 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:33.7104 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:33.7204 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:34.2569 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:34.2599 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:34.7666 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:34.7666 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:35.2952 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:35.2952 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:35.8028 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:35.8068 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:36.3344 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:36.3374 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:36.8420 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:36.8420 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:37.3726 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:37.3726 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:37.8803 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:37.8912 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:38.4268 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:38.4268 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:38.9364 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:38.9504 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:39.5288 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:39.5288 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:40.0365 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:40.0405 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:40.5680 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:40.5720 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:41.0817 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:41.0916 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:41.6222 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:41.6222 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:42.1299 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:42.1299 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:42.6604 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:42.6604 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:43.1691 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:43.1691 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:43.6987 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:43.6987 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:44.2083 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:44.2083 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:44.7379 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:44.7379 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:45.2505 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:45.2595 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:22:45.7921 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:45.7921 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:46.3007 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:46.3705 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:22:46.8942 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:22:46.8942 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:22:47.4058 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 33
+2018-11-29 15:22:47.4058 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-11-29 15:22:56.0028 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 34
+2018-11-29 15:22:56.0028 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-11-29 15:23:09.7421 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 36
+2018-11-29 15:23:09.7470 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-11-29 15:23:42.4765 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 37
+2018-11-29 15:23:42.4805 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-11-29 15:23:43.2634 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 38
+2018-11-29 15:23:43.2634 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-11-29 15:23:53.9189 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 39
+2018-11-29 15:23:53.9189 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:23:56.9299 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 72
+2018-11-29 15:23:56.9338 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-11-29 15:23:57.5931 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 73
+2018-11-29 15:23:57.5931 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-11-29 15:24:11.7642 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 74
+2018-11-29 15:24:11.7752 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:24:33.7354 DEBUG ----- Starting -----
+2018-11-29 15:25:33.2994 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_29_15_25_33\Temperature Log.csv
+2018-11-29 15:25:33.3073 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2018-11-29 15:25:33.3073 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-11-29 15:25:36.5457 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-11-29 15:25:36.5457 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:25:58.3254 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-11-29 15:25:58.3254 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:06.9185 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 24
+2018-11-29 15:26:06.9185 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:06.9185 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:07.4441 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:07.4470 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:07.9517 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:07.9517 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:08.4834 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:08.4834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:08.9919 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:08.9969 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:09.5215 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:09.5564 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:10.0731 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:10.0731 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:10.6076 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:10.6076 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:11.1162 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:11.1232 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:11.6468 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:11.6508 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:12.1555 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:12.1555 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:12.6840 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:12.6840 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:13.1927 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:13.1927 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:13.7233 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:13.7302 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:14.2369 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:14.2369 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:14.7615 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:14.7615 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:15.2692 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:15.2692 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:15.7997 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:15.8077 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:16.3185 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:16.3223 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:16.8539 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:16.8998 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:17.4104 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:17.4104 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:17.9410 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:17.9410 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:18.4476 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:18.4476 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:18.9794 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:18.9794 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:19.4879 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:19.4879 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:20.0174 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:20.0174 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:20.5251 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:20.5490 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:21.0726 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:21.0726 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:21.5823 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:21.5823 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:22.1109 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:22.1109 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:22.6185 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:22.6215 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:23.1491 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:23.1531 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:23.6587 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:23.6587 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:24.1873 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:24.2302 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:24.7807 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:24.7807 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:25.3053 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:25.3093 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:25.8139 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:25.8139 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:26.3445 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:26.3445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:26.8522 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:26.8552 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:27.3827 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:27.3867 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:27.8914 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:27.8914 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:28.4210 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:28.4210 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:28.9297 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:28.9376 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:29.4592 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:29.4632 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:29.9698 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:29.9698 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:30.4984 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:30.4984 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:31.0061 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:31.0150 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:31.5366 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:31.5855 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:32.1500 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:32.1500 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:32.6706 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:32.6706 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:33.1782 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:33.1822 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:33.7088 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:33.7128 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:34.2185 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:34.2185 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:34.7470 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:34.7470 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:35.2547 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:35.2597 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:35.7863 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:35.7933 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:36.2989 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:36.2989 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:36.8245 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:36.8245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:37.3311 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:37.3311 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:37.8627 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:37.8717 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:38.3804 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:38.3863 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:38.9169 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:39.0136 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:39.5253 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:39.5253 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:40.0519 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:40.0569 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:40.5625 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:40.5625 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:41.0901 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:41.0901 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:41.5977 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:41.5977 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:42.1443 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:42.1443 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:42.6529 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:42.6768 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:43.1985 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:43.1985 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:43.7061 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:43.7061 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:44.2377 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:44.2377 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:44.7453 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:44.7453 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:45.2760 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:45.2760 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:45.7846 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:45.7945 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:46.3141 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:46.3789 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:46.8856 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:46.8856 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:47.4162 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:47.4162 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:47.9249 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:47.9249 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:48.4554 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:48.4554 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:48.9650 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:48.9650 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:49.4936 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:49.4936 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:50.0013 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:50.0013 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:50.5318 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:50.5318 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:51.0425 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:51.0425 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:51.5860 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:51.6090 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:52.1126 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:52.1126 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:52.6403 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:52.6403 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:53.1498 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:53.1498 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:53.6794 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:53.7363 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:54.2579 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:54.2609 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:54.7815 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:54.7815 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:55.2901 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:55.2951 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:55.8199 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:55.8237 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:56.3273 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:56.3273 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:56.8579 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:56.8579 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:57.3666 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:57.3706 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:57.8962 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:57.9011 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:58.4058 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:58.4058 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:26:58.9354 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:58.9354 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:26:59.4430 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:59.4470 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:26:59.9737 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:26:59.9826 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:00.4883 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:00.4883 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:27:01.0118 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:01.0387 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:01.5653 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:01.5653 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:27:02.0979 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:02.0979 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:02.6075 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:02.6075 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:27:03.1371 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:03.1371 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:03.6468 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:03.6547 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:27:04.1754 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:04.1754 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:04.6820 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:04.6820 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:27:05.2146 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:05.2146 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:05.7352 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:05.7352 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:27:06.2688 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:06.2688 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:06.7754 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:06.7754 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:27:07.3071 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:07.3071 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:07.8256 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:07.8256 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:27:08.3612 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:08.4130 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:08.9456 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:08.9486 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:27:09.4792 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:09.4792 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:09.9878 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:09.9878 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:27:10.5185 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:10.5274 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:11.0331 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:11.0331 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:27:11.5566 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:11.5566 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:12.0653 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:12.0653 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:27:12.5958 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:12.6048 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:13.1145 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:13.1145 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:27:13.6490 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:27:13.6520 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:27:14.1597 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 33
+2018-11-29 15:27:14.1597 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-11-29 15:27:22.7607 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 34
+2018-11-29 15:27:22.7607 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-11-29 15:27:36.5159 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 36
+2018-11-29 15:27:36.5159 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-11-29 15:28:09.2474 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 37
+2018-11-29 15:28:09.2474 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-11-29 15:28:10.0163 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 38
+2018-11-29 15:28:10.0163 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-11-29 15:28:20.6718 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 39
+2018-11-29 15:28:20.6718 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:28:23.6808 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 72
+2018-11-29 15:28:23.6848 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-11-29 15:28:24.3510 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 73
+2018-11-29 15:28:24.3550 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-11-29 15:28:38.5331 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 74
+2018-11-29 15:28:38.5331 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:45:02.5317 DEBUG ----- Starting -----
+2018-11-29 15:45:51.5466 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_29_15_45_51\Temperature Log.csv
+2018-11-29 15:45:51.5466 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-11-29 15:45:51.5606 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-11-29 15:45:51.5606 DEBUG Setting the temperature to 45
+2018-11-29 15:45:51.5895 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-29 15:45:51.7331 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.97 to temp is 95
+2018-11-29 15:45:51.7331 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.97 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-29 15:45:51.7331 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-29 15:45:51.9735 DEBUG TEC; setting the overshootDuration to 1
+2018-11-29 15:45:52.0363 DEBUG TEC; setting the overshootoffset to 1
+2018-11-29 15:45:52.1809 DEBUG TEC; setting the overshootDuration to 1
+2018-11-29 15:45:52.2288 DEBUG TEC; setting the overshootoffset to 1
+2018-11-29 15:45:52.8351 DEBUG Setting the temperature to 45
+2018-11-29 15:45:52.8990 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-11-29 15:45:53.0436 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.573 to temp is 95
+2018-11-29 15:45:53.0436 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.573 making settings for the temperature range: From: 0-90 To: 90-110
+2018-11-29 15:45:53.0436 DEBUG SetChannelSettings; Channel: 3 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-11-29 15:45:53.2032 DEBUG TEC; setting the overshootDuration to 1
+2018-11-29 15:45:53.2510 DEBUG TEC; setting the overshootoffset to 1
+2018-11-29 15:45:53.2670 DEBUG TEC; setting the overshootDuration to 1
+2018-11-29 15:45:53.2830 DEBUG TEC; setting the overshootoffset to 1
+2018-11-29 15:45:58.4870 DEBUG At temperature.
+2018-11-29 15:45:58.4870 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-11-29 15:45:58.5240 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-29 15:45:58.6037 DEBUG Meltcurve: setting the ramprate to 0.13
+2018-11-29 15:45:58.7952 DEBUG Setting the temperature to 85
+2018-11-29 15:45:58.9239 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-29 15:45:58.9877 DEBUG Setting the temperature to 85
+2018-11-29 15:45:59.0675 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-11-29 15:45:59.2121 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_11_29_15_45_51\Melt Curve logging.csv
+2018-11-29 15:45:59.2211 DEBUG Found the optics port closed, reopening.
+2018-11-29 15:46:07.4830 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_11_29_15_46_07\Temperature Log.csv
+2018-11-29 15:46:07.4830 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2018-11-29 15:46:07.4940 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-11-29 15:46:10.7203 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-11-29 15:46:10.7203 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:32.5061 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-11-29 15:46:32.5141 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:41.0991 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 24
+2018-11-29 15:46:41.1051 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:41.1051 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:41.6407 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:41.6407 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:42.1613 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:42.1852 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:42.7118 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:42.7228 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:43.2344 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:43.2344 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:43.8138 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:43.8138 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:44.3195 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:44.3195 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:44.8521 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:44.8550 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:45.3597 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:45.3597 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:45.8903 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:45.8903 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:46.3999 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:46.3999 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:46.9285 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:46.9325 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:47.4382 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:47.4382 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:47.9677 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:47.9677 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:48.4754 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:48.4933 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:49.0379 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:49.0419 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:49.5465 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:49.5465 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:50.0761 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:50.0761 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:50.5858 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:50.5897 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:51.1143 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:51.1143 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:51.6230 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:51.6230 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:52.1535 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:52.1535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:52.6604 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:52.6604 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:53.1918 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:53.1918 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:53.7014 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:53.7014 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:54.2300 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:54.2300 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:54.7386 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:54.7386 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:55.2692 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:55.2692 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:55.7778 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:55.7778 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:56.3224 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:56.3224 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:56.8291 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:56.8291 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:57.3606 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:57.3606 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:57.8703 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:57.8703 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:46:58.3998 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:58.3998 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:58.9125 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:58.9155 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:46:59.4382 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:59.4382 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:46:59.9487 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:46:59.9487 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:00.4763 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:00.5102 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:01.0497 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:01.0497 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:01.5783 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:01.5783 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:02.0870 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:02.0930 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:02.6176 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:02.6225 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:03.1272 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:03.1272 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:03.6558 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:03.6558 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:04.1634 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:04.1664 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:04.6941 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:04.6990 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:05.2036 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:05.2036 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:05.7322 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:05.7322 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:06.2399 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:06.2439 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:06.7705 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:06.7754 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:07.2791 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:07.2791 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:07.8087 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:07.8266 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:08.3313 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:08.3313 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:08.8629 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:08.8629 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:09.3715 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:09.3715 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:09.9021 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:09.9021 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:10.4107 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:10.4107 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:10.9403 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:10.9403 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:11.4480 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:11.4480 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:11.9785 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:11.9785 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:12.4892 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:12.4892 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:13.0167 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:13.0167 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:13.5244 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:13.5274 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:14.0560 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:14.0600 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:14.5676 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:14.5786 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:15.1101 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:15.1101 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:15.6228 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:15.6228 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:16.1484 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:16.1514 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:16.6560 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:16.6560 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:17.1876 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:17.1876 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:17.6953 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:17.6992 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:18.2248 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:18.2288 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:18.7355 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:18.7355 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:19.2640 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:19.2940 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:19.7986 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:19.8275 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:20.3821 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:20.3860 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:20.8917 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:20.8917 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:21.4203 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:21.4203 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:21.9291 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:21.9389 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:22.4585 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:22.4625 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:22.9681 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:22.9681 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:23.4977 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:23.4977 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:24.0153 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:24.0153 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:24.5359 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:24.5359 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:25.0446 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:25.0446 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:25.5742 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:25.5742 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:26.0828 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:26.1067 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:26.6285 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:26.6285 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:27.1390 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:27.1390 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:27.6666 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:27.6666 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:28.1742 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:28.1742 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:28.7058 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:28.7058 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:29.2154 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:29.2154 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:29.7440 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:29.7440 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:30.2527 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:30.2527 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:30.7822 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:30.7922 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:31.2989 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:31.2989 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:31.8205 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:31.8524 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:32.3939 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:32.4019 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:32.9225 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:32.9225 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:33.4312 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:33.4312 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:33.9617 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:33.9717 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:34.4823 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:34.4823 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:35.0159 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:35.0159 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:35.5256 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:35.5256 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:36.0542 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:36.0642 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:36.5738 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:36.5738 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:37.1084 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:37.1084 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:37.6170 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:37.6200 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:38.1476 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:38.1506 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:38.6552 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:38.6552 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:39.1858 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:39.1858 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:39.6944 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:39.6974 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:40.2240 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:40.2280 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:40.7547 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:40.7547 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:41.2782 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:41.2782 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:41.7878 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:41.7908 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:42.3174 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:42.3174 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:42.8241 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:42.8241 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:43.3557 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:43.3557 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:43.8862 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:43.9132 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:44.4577 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:44.4577 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:44.9663 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:44.9663 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:45.4959 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:45.4959 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:46.0076 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:46.0125 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-11-29 15:47:46.5342 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:46.5342 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:47.0428 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:47.0428 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-11-29 15:47:47.5734 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-11-29 15:47:47.5734 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:47:48.0930 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 33
+2018-11-29 15:47:48.0930 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-11-29 15:47:56.6970 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 34
+2018-11-29 15:47:56.6970 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-11-29 15:48:10.4363 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 36
+2018-11-29 15:48:10.4363 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-11-29 15:48:43.1707 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 37
+2018-11-29 15:48:43.1707 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-11-29 15:48:43.9347 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 38
+2018-11-29 15:48:43.9347 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-11-29 15:48:54.5932 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 39
+2018-11-29 15:48:54.5932 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:48:57.6071 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 72
+2018-11-29 15:48:57.6071 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-11-29 15:48:58.2634 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 73
+2018-11-29 15:48:58.2634 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-11-29 15:49:12.4394 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 74
+2018-11-29 15:49:12.4394 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-11-29 15:51:31.7841 DEBUG ----- Starting -----
+2018-11-29 15:55:56.7073 DEBUG ----- Starting -----
+2018-11-29 15:57:21.1426 DEBUG ----- Starting -----
+2018-11-29 15:57:37.2764 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 15:59:04.2261 DEBUG ----- Starting -----
+2018-11-29 16:00:02.6722 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:03:23.2753 DEBUG ----- Starting -----
+2018-11-29 16:05:06.0953 DEBUG ----- Starting -----
+2018-11-29 16:05:33.0622 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:06:48.9861 DEBUG ----- Starting -----
+2018-11-29 16:07:50.8858 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:10:48.2883 DEBUG ----- Starting -----
+2018-11-29 16:11:00.9504 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:11:42.7107 DEBUG ----- Starting -----
+2018-11-29 16:12:18.2912 DEBUG ----- Starting -----
+2018-11-29 16:12:43.4483 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:14:12.8883 DEBUG ----- Starting -----
+2018-11-29 16:14:58.2130 DEBUG ----- Starting -----
+2018-11-29 16:16:04.0230 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:17:16.7957 DEBUG ----- Starting -----
+2018-11-29 16:18:25.2056 DEBUG ----- Starting -----
+2018-11-29 16:18:55.5974 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:19:40.7995 DEBUG ----- Starting -----
+2018-11-29 16:20:33.9375 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:21:29.8837 DEBUG ----- Starting -----
+2018-11-29 16:22:41.6521 DEBUG ----- Starting -----
+2018-11-29 16:25:35.7184 DEBUG ----- Starting -----
+2018-11-29 16:26:04.6730 DEBUG ----- Starting -----
+2018-11-29 16:28:19.8497 DEBUG ----- Starting -----
+2018-11-29 16:29:28.5627 DEBUG ----- Starting -----
+2018-11-29 16:30:19.6696 DEBUG ----- Starting -----
+2018-11-29 16:33:12.9339 DEBUG ----- Starting -----
+2018-11-29 16:34:16.3677 DEBUG ----- Starting -----
+2018-11-29 16:34:39.1664 DEBUG ----- Starting -----
+2018-11-29 16:35:02.7414 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:36:38.6884 DEBUG ----- Starting -----
+2018-11-29 16:37:18.4411 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:38:48.5977 DEBUG ----- Starting -----
+2018-11-29 16:39:02.1260 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:40:05.9979 DEBUG ----- Starting -----
+2018-11-29 16:41:30.6569 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:42:09.9687 DEBUG ----- Starting -----
+2018-11-29 16:43:08.5190 DEBUG ----- Starting -----
+2018-11-29 16:43:33.3356 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:44:29.3181 DEBUG ----- Starting -----
+2018-11-29 16:45:10.6945 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:49:06.5444 DEBUG ----- Starting -----
+2018-11-29 16:50:21.5755 DEBUG ----- Starting -----
+2018-11-29 16:50:42.8506 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 16:51:13.4348 DEBUG ----- Starting -----
+2018-11-29 16:53:22.7132 DEBUG ----- Starting -----
+2018-11-29 16:54:59.3001 DEBUG ----- Starting -----
+2018-11-29 17:02:36.9071 DEBUG ----- Starting -----
+2018-11-29 17:04:00.1500 DEBUG ----- Starting -----
+2018-11-29 17:04:10.7995 DEBUG ----- Starting -----
+2018-11-29 17:04:49.1948 DEBUG deviceHeaterPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 17:04:49.2397 DEBUG deviceChassisPiston::initialize() Caught an exception: 端口被关闭。
+2018-11-29 17:06:17.7530 DEBUG ----- Starting -----
+2018-11-29 17:28:02.8259 DEBUG ----- Starting -----
+2018-11-29 17:29:07.0586 DEBUG ----- Starting -----
+2018-11-29 17:29:37.5595 DEBUG ----- Starting -----

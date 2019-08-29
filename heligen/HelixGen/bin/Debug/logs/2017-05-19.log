@@ -1,0 +1,941 @@
+2017-05-19 08:04:11.7100 DEBUG ----- Starting -----
+2017-05-19 08:04:37.1943 DEBUG ----- Starting -----
+2017-05-19 08:04:42.9582 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /02N3R; iteration: 3
+2017-05-19 08:04:42.9701 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:04:43.4213 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-19 08:04:55.0233 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-19 08:04:55.0273 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /02N3R; iteration: 3
+2017-05-19 08:04:57.3026 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /04N3R; iteration: 3
+2017-05-19 08:04:57.3134 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:04:57.3666 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(0
+; command: /03?C; iteration: 3
+2017-05-19 08:05:13.2477 DEBUG ----- Starting -----
+2017-05-19 08:05:54.9575 DEBUG ----- Starting -----
+2017-05-19 08:06:02.7075 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /04N3R; iteration: 3
+2017-05-19 08:06:02.7176 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:06:04.0962 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:04.2405 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:04.3675 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:04.4960 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:04.6400 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:04.7835 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:04.9114 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.0387 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.1992 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.3432 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.4866 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.6138 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.7422 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.8703 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:05.9979 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:06.1253 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:06.2533 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:06.3968 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:06.5251 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:06.6527 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:06.7802 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:06.9240 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.0682 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.1962 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.3236 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.4509 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.5790 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.7073 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.8349 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:07.9630 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:08.1069 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:08.2506 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:08.3933 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:16.3902 DEBUG ----- Starting -----
+2017-05-19 08:06:22.7974 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-19 08:06:25.9038 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /02N3R; iteration: 3
+2017-05-19 08:06:25.9229 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:06:27.3102 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:27.4531 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:27.5981 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:27.7412 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:27.8692 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:27.9972 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:28.1250 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:28.2684 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:28.4119 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:28.5400 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:28.6681 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:28.7958 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:28.9395 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:29.0674 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:29.1951 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:29.3392 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:29.4662 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:29.6107 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:29.7378 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:29.8662 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.0096 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.1379 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.2656 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.4094 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.5530 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.6970 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.8404 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:30.9684 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:31.1116 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:31.2556 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:31.3839 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:31.5277 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:31.6712 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:31.8152 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:31.9587 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:32.1028 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:32.2461 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:32.3904 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:32.5184 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:32.6619 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:32.7898 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:32.9491 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:33.0934 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:33.2368 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:33.3803 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:33.5248 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:33.6678 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:33.8120 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:33.9561 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:34.0842 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:34.2275 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:34.3712 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:34.5149 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:34.6429 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:34.7862 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:34.9305 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:35.0741 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:35.2014 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:35.3460 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:35.4888 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:35.6174 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:35.7449 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:35.8889 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.0321 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.1766 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.3044 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.4478 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.5914 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.7196 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.8476 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:36.9751 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:37.1187 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:37.2624 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:37.3908 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:37.5343 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:37.6780 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:37.8220 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:37.9495 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:38.0937 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:38.2372 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:38.3810 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:38.5242 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:38.6688 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:38.8124 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:38.9400 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.0836 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.2115 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.3554 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.4835 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.6111 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.7385 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.8668 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:39.9947 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:40.1216 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:40.2502 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:40.3776 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:40.5212 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:40.6495 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:40.7775 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:40.9049 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.0326 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.1609 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.2883 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.4167 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.5437 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.6882 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.8158 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:41.9596 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:06:59.0906 DEBUG ----- Starting -----
+2017-05-19 08:07:07.7948 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /02N3R; iteration: 3
+2017-05-19 08:07:07.7948 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:07:07.8583 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(0
+; command: /03?C; iteration: 3
+2017-05-19 08:07:40.8438 DEBUG ----- Starting -----
+2017-05-19 08:07:52.6125 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-19 08:10:39.1790 DEBUG ----- Starting -----
+2017-05-19 08:10:46.8956 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /04N3R; iteration: 3
+2017-05-19 08:10:46.9157 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:10:57.9643 DEBUG ----- Starting -----
+2017-05-19 08:11:04.7969 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-19 08:11:07.8865 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /02N3R; iteration: 3
+2017-05-19 08:11:07.8865 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:11:09.2764 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:09.4200 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:09.5639 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:09.7075 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:09.8513 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:09.9946 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:10.1545 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:10.2989 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:10.4263 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:10.5532 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:10.6816 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:10.8254 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:10.9696 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:11.0972 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:11.2413 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:11.3846 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:11.5290 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:11.6884 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:11.8159 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:11.9603 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:12.1041 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:12.2477 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:12.3914 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:12.5351 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:12.6621 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:12.8066 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:12.9345 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:13.0779 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:13.2219 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:13.3654 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:13.4937 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:13.6372 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:13.7645 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:13.9091 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.0365 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.1801 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.3077 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.4358 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.5632 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.7074 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.8353 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:14.9784 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:15.1065 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:15.2508 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:15.3945 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:15.5376 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:15.6975 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:15.8257 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:15.9526 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:16.0815 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:16.2249 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:16.3525 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:16.4804 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:16.6079 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:16.7360 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:16.8794 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:17.0070 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:17.1355 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:17.2629 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:17.4068 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:17.5508 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:17.6788 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:17.8386 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:11:42.2698 DEBUG ----- Starting -----
+2017-05-19 08:12:04.7124 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_19_08_12_04\Temperature Log.csv
+2017-05-19 08:12:04.7245 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-19 08:12:04.7337 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-19 08:12:04.7482 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:12:04.7482 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-19 08:12:04.8294 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:12:06.7896 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:12:06.8537 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-19 08:12:16.3154 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:12:16.3814 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-19 08:12:16.3975 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:12:17.0053 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-19 08:12:17.0173 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:12:43.3806 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-19 08:12:43.4082 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:12:43.4709 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-19 08:12:52.9588 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-19 08:12:53.0029 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:12:53.2706 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-19 08:12:53.2846 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-19 08:12:53.3914 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:12:53.4134 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-19 08:12:53.4274 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-19 08:12:53.6045 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:12:53.9922 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-19 08:12:54.0241 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:13:20.4000 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-19 08:13:20.4340 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:13:20.5084 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-19 08:13:20.5435 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:13:30.0243 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-19 08:13:30.0704 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:13:34.5189 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-19 08:13:34.5654 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:13:39.0074 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-19 08:13:39.0565 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:13:39.2793 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-19 08:13:39.3008 DEBUG Setting the temperature to 50
+2017-05-19 08:13:39.3238 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:13:39.3968 DEBUG Current setpoint reading back as 50
+2017-05-19 08:13:39.7136 DEBUG Setting the temperature2 to 50
+2017-05-19 08:13:39.7436 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:13:39.9034 DEBUG Current setpoint2 reading back as 50
+2017-05-19 08:13:40.1483 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:40.2055 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:40.2275 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:40.2506 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:41.3897 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:41.4070 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:41.4266 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:41.4457 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:42.1625 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:42.1945 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:42.2125 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:42.2364 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:43.2519 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:43.2682 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:43.2883 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:43.3063 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:44.2916 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:44.3405 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:44.3631 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:44.3812 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:45.1859 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:45.2020 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:45.2230 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:45.2392 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:46.3036 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:46.3171 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:46.3331 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:46.3452 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:47.2848 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:47.2962 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 60 to 70
+2017-05-19 08:13:47.3093 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: -1.5, OvershootDuration: 30 P: 10 I: 0.05 D: 300
+2017-05-19 08:13:47.7460 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: -1.5, OvershootDuration: 30 P: 10 I: 0.05 D: 300
+2017-05-19 08:13:48.3913 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:48.4023 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:48.4023 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:48.4294 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 60 to 70
+2017-05-19 08:13:48.4371 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: -1.5, OvershootDuration: 30 P: 10 I: 0.05 D: 300
+2017-05-19 08:13:48.7165 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:49.1952 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: -1.5, OvershootDuration: 30 P: 10 I: 0.05 D: 300
+2017-05-19 08:13:49.5477 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:49.5477 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:49.9100 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:50.5062 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:50.5301 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:51.3163 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:51.3354 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:52.1532 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:52.1732 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:53.4028 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:53.4219 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:54.2186 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:54.2466 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:55.3258 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:55.3258 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:56.3640 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:56.3750 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:57.1580 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:57.1580 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:13:58.3136 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:13:58.3136 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:17.3142 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:17.3142 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:18.2191 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:18.2191 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:19.3480 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:19.3734 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:20.3073 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:20.3158 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:21.3235 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:21.3305 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:22.0469 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-19 08:14:22.0609 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:14:22.3093 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:22.3093 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:23.2884 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:23.3054 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:24.0182 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:14:24.3489 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:24.3552 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:25.3560 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:25.3560 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:26.2518 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:26.2648 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:27.4389 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:27.4620 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:28.2691 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:28.2863 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:28.4763 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-19 08:14:28.5064 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:14:28.7700 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2017-05-19 08:14:28.7830 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-19 08:14:28.7931 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:14:29.0652 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-19 08:14:29.0893 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:14:29.2375 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:29.2485 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:29.3333 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-19 08:14:29.3453 DEBUG Setting the temperature to 50
+2017-05-19 08:14:29.3554 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:14:29.4507 DEBUG Current setpoint reading back as 50
+2017-05-19 08:14:29.6204 DEBUG Setting the temperature2 to 50
+2017-05-19 08:14:29.6337 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:14:29.8345 DEBUG Current setpoint2 reading back as 50
+2017-05-19 08:14:30.2277 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:30.2370 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:33.3329 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:33.3439 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:34.2385 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:34.2482 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:35.3301 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:35.3412 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:36.3315 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:36.3430 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:37.3372 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:37.3496 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:38.3170 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:38.3381 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:39.3562 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:39.3562 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:40.3305 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:40.3415 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:41.3068 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:41.3389 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:42.3485 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:42.3572 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:43.3501 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:43.3681 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:44.2976 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:44.3247 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:45.3357 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:45.3426 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:46.3381 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:46.3532 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:47.2754 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:47.2955 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:48.4504 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:48.4504 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:49.2823 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:49.3194 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:50.2408 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:50.2502 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:51.4128 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:51.4251 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:52.2004 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:52.2247 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:53.3458 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:53.3458 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:54.2942 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:54.3557 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:55.1988 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:55.2148 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:56.4197 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:56.4471 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:57.2009 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:57.2239 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:58.3523 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:58.3622 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:14:59.3049 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:14:59.3266 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:00.3271 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:00.3271 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:01.3498 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:01.3591 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:02.2869 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:02.2965 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:02.9728 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-19 08:15:02.9972 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-19 08:15:03.0153 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:15:03.2075 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-19 08:15:03.2195 DEBUG Setting the temperature to 95
+2017-05-19 08:15:03.2195 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:15:03.3679 DEBUG Current setpoint reading back as 95
+2017-05-19 08:15:03.4111 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:03.4221 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 50
+2017-05-19 08:15:03.4221 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:15:03.7513 DEBUG Setting the temperature2 to 95
+2017-05-19 08:15:03.7513 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:15:04.0548 DEBUG Current setpoint2 reading back as 95
+2017-05-19 08:15:04.4441 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:04.4501 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 50
+2017-05-19 08:15:04.4501 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:15:04.5234 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:15:05.5886 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:15:05.8491 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:06.1906 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:06.2006 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:06.7433 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:06.9742 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:07.0002 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:08.2098 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:08.2178 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:08.9816 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:09.0046 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:10.2305 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:10.2305 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:11.0368 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:11.0527 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:13.9828 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:14.0129 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:15.1752 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:15.1832 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:44.2948 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-19 08:15:44.2948 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:15:44.3674 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:44.4199 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:45.2589 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:45.2846 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:46.1314 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:46.1410 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:47.2923 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:47.3033 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:47.3109 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-19 08:15:47.3109 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:15:47.3335 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:15:47.8574 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-19 08:15:47.8574 DEBUG Setting the temperature to 95
+2017-05-19 08:15:47.8764 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:15:47.9285 DEBUG Current setpoint reading back as 95
+2017-05-19 08:15:48.0959 DEBUG Setting the temperature2 to 95
+2017-05-19 08:15:48.0959 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:15:48.1169 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:48.1257 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:48.1608 DEBUG Current setpoint2 reading back as 95
+2017-05-19 08:15:49.1627 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:49.1707 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:52.0068 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:52.0148 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:15:53.2838 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:15:53.2929 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:26.3799 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-19 08:16:26.3929 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:16:26.3929 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:26.4150 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:27.2008 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:27.2008 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:28.4105 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:28.4105 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:29.1996 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:29.2302 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:30.0669 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:30.0821 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:30.4060 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:16:30.4411 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:16:30.8435 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-19 08:16:30.8662 DEBUG Setting the temperature to 60
+2017-05-19 08:16:30.8793 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:16:31.2010 DEBUG Current setpoint reading back as 60
+2017-05-19 08:16:31.3294 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:31.3294 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:31.3495 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:31.3625 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:31.3932 DEBUG Setting the temperature2 to 60
+2017-05-19 08:16:31.3932 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:16:31.6166 DEBUG Current setpoint2 reading back as 60
+2017-05-19 08:16:32.2821 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:32.2950 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:32.2950 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:32.3200 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:33.3236 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:33.3314 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:33.3416 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:33.3416 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:34.2744 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:34.2811 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:34.2941 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:34.2941 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:35.1731 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:35.1731 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:35.1942 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:35.2072 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:36.0379 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:36.0590 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:36.0803 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:36.0934 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:37.0380 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:37.0649 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:37.0930 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:37.1120 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:38.1925 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:38.1925 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:38.2085 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:38.2175 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:39.2958 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:39.2958 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:39.3149 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:39.3249 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:40.3979 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:40.4058 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:40.4178 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:40.4178 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:41.2500 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:41.2500 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:41.2735 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:41.2820 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:42.2942 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:42.2942 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:42.3158 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:42.3279 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:43.2480 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:43.2480 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:43.2669 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:43.2669 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:44.1159 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:44.1320 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:44.1570 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:44.1791 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:45.0950 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:45.1079 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:45.1287 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:45.1427 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:46.0435 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:46.0592 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:46.0793 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:46.0963 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:47.0501 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:47.0652 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:47.0799 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:47.0799 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:48.1833 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:48.1833 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:48.1989 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:48.1989 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:49.1861 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:49.1861 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:49.2072 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:49.2192 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:50.0481 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:50.0727 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:50.0907 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:50.1101 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:51.2679 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:51.2779 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:51.2779 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:51.2979 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:52.0987 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:52.1151 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:52.1328 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:52.1488 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:53.2002 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:53.2002 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:53.2192 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:53.2313 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:54.1160 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:54.1257 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:54.1498 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:54.1639 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:55.4426 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:55.4526 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:55.4668 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:55.4668 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:56.0493 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:56.0493 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:56.0682 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:56.0773 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:57.1996 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:57.1996 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:57.1996 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:57.2190 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:58.3033 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:58.3133 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:58.3133 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:58.3293 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:59.0696 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:59.0958 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:16:59.1169 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:16:59.1279 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:00.4473 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:00.4543 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:00.4664 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:00.4664 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:00.9175 DEBUG Running the SetPCRTemperature command.  Temperature is 25
+2017-05-19 08:17:00.9355 DEBUG Setting the temperature to 25
+2017-05-19 08:17:00.9355 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2017-05-19 08:17:01.0614 DEBUG Current setpoint reading back as 25
+2017-05-19 08:17:01.1025 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:01.1133 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:01.2626 DEBUG Setting the temperature2 to 25
+2017-05-19 08:17:01.2626 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2017-05-19 08:17:01.3808 DEBUG Current setpoint2 reading back as 25
+2017-05-19 08:17:01.5582 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:01.5642 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:02.0568 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:02.0677 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:02.0794 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:02.0794 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:03.1426 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:03.1426 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:03.1627 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:03.1737 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:04.0650 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:04.0811 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:04.1503 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:04.1673 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:05.1772 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:05.1972 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:17:05.2093 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-19 08:17:05.2233 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-19 08:20:34.2611 DEBUG ----- Starting -----
+2017-05-19 08:20:40.1242 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /02N3R; iteration: 3
+2017-05-19 08:20:40.1563 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:20:45.7645 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-19 08:20:45.7868 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /02N3R; iteration: 3
+2017-05-19 08:20:47.8235 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /04N3R; iteration: 3
+2017-05-19 08:20:47.8368 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:20:47.9040 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(0
+; command: /03?C; iteration: 3
+2017-05-19 08:21:01.8787 DEBUG ----- Starting -----
+2017-05-19 08:21:07.9981 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-19 08:21:35.3160 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_19_08_21_35\Temperature Log.csv
+2017-05-19 08:21:35.3280 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-19 08:21:35.3280 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-19 08:21:35.3431 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:21:35.3551 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-19 08:21:35.4317 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:21:37.4225 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:21:37.5024 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-19 08:21:46.9643 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:21:46.9974 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-19 08:21:46.9974 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:21:47.6398 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-19 08:21:47.6637 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:22:14.0286 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-19 08:22:14.0527 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:22:14.1206 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-19 08:22:23.5890 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-19 08:22:23.6140 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:22:23.8931 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-19 08:22:23.9292 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-19 08:22:24.1057 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:22:24.1298 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-19 08:22:24.1418 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-19 08:22:24.1961 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:22:24.5818 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-19 08:22:24.6223 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:22:51.0035 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-19 08:22:51.0376 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:22:51.1261 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-19 08:22:51.1405 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:23:00.6124 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-19 08:23:00.6515 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:23:05.0965 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-19 08:23:05.1136 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:23:09.5659 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-19 08:23:09.6139 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:23:09.7276 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-19 08:23:09.7688 DEBUG Setting the temperature to 50
+2017-05-19 08:23:09.7900 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:23:09.8997 DEBUG Current setpoint reading back as 50
+2017-05-19 08:23:10.0923 DEBUG Setting the temperature2 to 50
+2017-05-19 08:23:10.1104 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:23:10.2188 DEBUG Current setpoint2 reading back as 50
+2017-05-19 08:23:17.8979 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 60-70 To: 40-50
+2017-05-19 08:23:17.9421 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: -1.5, OvershootDuration: 30 P: 10 I: 0.05 D: 300
+2017-05-19 08:23:18.7191 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: -1.5, OvershootDuration: 30 P: 10 I: 0.05 D: 300
+2017-05-19 08:23:52.5672 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-19 08:23:52.5862 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-19 08:23:54.5608 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-19 08:23:59.0293 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-19 08:23:59.0655 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:23:59.3603 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2017-05-19 08:23:59.4101 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-19 08:23:59.4311 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-19 08:23:59.7004 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-19 08:23:59.7496 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:23:59.9772 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-19 08:24:00.0012 DEBUG Setting the temperature to 50
+2017-05-19 08:24:00.0183 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:24:00.1414 DEBUG Current setpoint reading back as 50
+2017-05-19 08:24:00.4164 DEBUG Setting the temperature2 to 50
+2017-05-19 08:24:00.4332 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-19 08:24:00.4934 DEBUG Current setpoint2 reading back as 50
+2017-05-19 08:24:34.6446 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-19 08:24:34.6927 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-19 08:24:34.7137 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:24:34.9278 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-19 08:24:34.9519 DEBUG Setting the temperature to 95
+2017-05-19 08:24:34.9666 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:24:35.2264 DEBUG Current setpoint reading back as 95
+2017-05-19 08:24:35.2694 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0-50 To: 90-100
+2017-05-19 08:24:35.2855 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:24:35.4228 DEBUG Setting the temperature2 to 95
+2017-05-19 08:24:35.4353 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:24:35.5301 DEBUG Current setpoint2 reading back as 95
+2017-05-19 08:24:36.0893 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:24:36.2004 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0-50 To: 90-100
+2017-05-19 08:24:36.2194 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:24:37.2525 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0-50 To: 90-100
+2017-05-19 08:24:37.2655 DEBUG SetChannelSettings; Channel: 0 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:24:37.3675 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:24:38.4807 DEBUG SetChannelSettings; Channel: 1 OvershootOffset: 10, OvershootDuration: 30 P: 40 I: 0.05 D: 400
+2017-05-19 08:25:17.8465 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-19 08:25:17.8805 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:25:20.9004 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-19 08:25:20.9273 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:25:20.9443 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:25:21.1375 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-19 08:25:21.1594 DEBUG Setting the temperature to 95
+2017-05-19 08:25:21.1725 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:25:21.2237 DEBUG Current setpoint reading back as 95
+2017-05-19 08:25:21.5744 DEBUG Setting the temperature2 to 95
+2017-05-19 08:25:21.5904 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:25:21.7029 DEBUG Current setpoint2 reading back as 95
+2017-05-19 08:25:59.9032 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-19 08:25:59.9032 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:26:03.9222 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:26:03.9413 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:26:04.2000 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-19 08:26:04.2199 DEBUG Setting the temperature to 60
+2017-05-19 08:26:04.2620 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:26:04.6315 DEBUG Current setpoint reading back as 60
+2017-05-19 08:26:04.8875 DEBUG Setting the temperature2 to 60
+2017-05-19 08:26:04.8875 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:26:05.0793 DEBUG Current setpoint2 reading back as 60
+2017-05-19 08:26:49.6400 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-19 08:26:49.6570 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:26:54.6673 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2017-05-19 08:27:01.9349 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:27:01.9349 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:27:02.1655 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-19 08:27:02.1806 DEBUG Setting the temperature to 95
+2017-05-19 08:27:02.1916 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:27:02.2869 DEBUG Current setpoint reading back as 95
+2017-05-19 08:27:02.6488 DEBUG Setting the temperature2 to 95
+2017-05-19 08:27:02.6548 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:27:02.7130 DEBUG Current setpoint2 reading back as 95
+2017-05-19 08:27:40.8337 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-19 08:27:40.8438 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:27:44.8521 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:27:44.8581 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:27:44.9962 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-19 08:27:45.0173 DEBUG Setting the temperature to 60
+2017-05-19 08:27:45.0273 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:27:45.1198 DEBUG Current setpoint reading back as 60
+2017-05-19 08:27:45.4344 DEBUG Setting the temperature2 to 60
+2017-05-19 08:27:45.4344 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:27:45.7109 DEBUG Current setpoint2 reading back as 60
+2017-05-19 08:28:31.1808 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-19 08:28:31.1868 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:28:36.1962 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2017-05-19 08:28:43.6866 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:28:43.6866 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:28:43.9618 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-19 08:28:43.9808 DEBUG Setting the temperature to 95
+2017-05-19 08:28:43.9979 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:28:44.0626 DEBUG Current setpoint reading back as 95
+2017-05-19 08:28:44.1559 DEBUG Setting the temperature2 to 95
+2017-05-19 08:28:44.1900 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:28:44.2913 DEBUG Current setpoint2 reading back as 95
+2017-05-19 08:29:23.5315 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-19 08:29:23.5315 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:29:27.5478 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-19 08:29:27.5478 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:29:27.6585 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-19 08:29:27.6766 DEBUG Setting the temperature to 60
+2017-05-19 08:29:27.6886 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:29:27.7849 DEBUG Current setpoint reading back as 60
+2017-05-19 08:29:28.1037 DEBUG Setting the temperature2 to 60
+2017-05-19 08:29:28.1107 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-19 08:29:28.3173 DEBUG Current setpoint2 reading back as 60
+2017-05-19 08:30:13.8317 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-19 08:30:13.8317 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:30:18.8465 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2017-05-19 08:30:26.3232 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-19 08:30:26.3362 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-19 08:30:26.5008 DEBUG gotoTempAndStay: temperature = 40 time = 0 ms
+2017-05-19 08:30:26.5138 DEBUG Setting the temperature to 40
+2017-05-19 08:30:26.5138 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2017-05-19 08:30:26.5958 DEBUG Current setpoint reading back as 40
+2017-05-19 08:30:26.7300 DEBUG Setting the temperature2 to 40
+2017-05-19 08:30:26.7380 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2017-05-19 08:30:26.8404 DEBUG Current setpoint2 reading back as 40
+2017-05-19 08:31:59.0818 DEBUG gotoTempAndStay: at temperature = 40, sleeping ...
+2017-05-19 08:31:59.1094 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-19 08:32:02.1235 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-05-19 08:32:02.3065 DEBUG gotoTempAndStay: temperature = 40 time = 60 ms
+2017-05-19 08:32:02.3430 DEBUG Setting the temperature to 40
+2017-05-19 08:32:02.3581 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2017-05-19 08:32:02.4196 DEBUG Current setpoint reading back as 40
+2017-05-19 08:32:02.5153 DEBUG Setting the temperature2 to 40
+2017-05-19 08:32:02.5272 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2017-05-19 08:32:02.6675 DEBUG Current setpoint2 reading back as 40
+2017-05-19 08:33:08.9315 DEBUG gotoTempAndStay: at temperature = 40, sleeping ...
+2017-05-19 08:33:09.1906 DEBUG Meltcurve: setting the ramprate to 0.06
+2017-05-19 08:33:09.2968 DEBUG Setting the temperature to 95
+2017-05-19 08:33:09.3102 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:33:09.4024 DEBUG Current setpoint reading back as 95
+2017-05-19 08:33:09.5726 DEBUG Setting the temperature2 to 95
+2017-05-19 08:33:09.5790 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-19 08:33:09.7434 DEBUG Current setpoint2 reading back as 95
+2017-05-19 08:33:10.0639 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2017_05_19_08_21_35\Melt Curve logging.csv
+2017-05-19 08:47:12.1802 DEBUG Setting the temperature to 25
+2017-05-19 08:47:12.1912 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2017-05-19 08:47:12.3064 DEBUG Current setpoint reading back as 25
+2017-05-19 08:47:12.5992 DEBUG Setting the temperature2 to 25
+2017-05-19 08:47:12.6082 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2017-05-19 08:47:12.7044 DEBUG Current setpoint2 reading back as 25
+2017-05-19 08:51:03.3270 DEBUG ----- Starting -----
+2017-05-19 08:51:14.9339 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2017-05-19 08:51:15.0050 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2017-05-19 08:51:27.2979 DEBUG ----- Starting -----
+2017-05-19 08:51:44.2550 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2017-05-19 08:51:44.3232 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2017-05-19 08:51:59.9962 DEBUG ----- Starting -----
+2017-05-19 08:52:11.7821 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-19 08:53:20.9275 DEBUG ----- Starting -----
+2017-05-19 08:53:28.2257 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /04N3R; iteration: 3
+2017-05-19 08:53:28.2448 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:53:39.4981 DEBUG ----- Starting -----
+2017-05-19 08:54:18.4640 DEBUG ----- Starting -----
+2017-05-19 08:54:24.2359 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-19 08:54:25.9958 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /04N3R; iteration: 3
+2017-05-19 08:54:26.0263 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-19 08:54:27.4021 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:27.5623 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:27.6898 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:27.8492 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:27.9935 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:28.1371 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:28.2972 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:28.4400 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:28.5686 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:28.7124 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:28.8562 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:28.9998 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:29.1277 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:29.2710 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:29.4154 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:29.5593 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:29.7022 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:29.8306 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:29.9740 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:30.1180 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:30.2783 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:30.4222 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:30.5814 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:30.7248 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:30.8535 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:30.9961 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:31.1248 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:31.2526 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:31.3959 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 03
+2017-05-19 08:54:38.4130 DEBUG ----- Starting -----

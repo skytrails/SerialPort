@@ -1,0 +1,5 @@
+2019-02-20 18:25:24.9515 DEBUG ----- Starting -----
+2019-02-20 18:26:30.7875 DEBUG ----- Starting -----
+2019-02-20 18:27:11.0379 DEBUG ReadCmd, got an exception: 操作已超时。
+2019-02-20 18:32:22.8263 DEBUG ----- Starting -----
+2019-02-20 18:34:04.5275 DEBUG ReadCmd, got an exception: 操作已超时。

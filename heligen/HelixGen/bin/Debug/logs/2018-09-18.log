@@ -1,0 +1,30 @@
+2018-09-18 11:15:02.5187 DEBUG ----- Starting -----
+2018-09-18 14:50:55.2439 DEBUG ----- Starting -----
+2018-09-18 16:38:26.3679 DEBUG ----- Starting -----
+2018-09-18 16:38:30.0610 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-18 16:38:48.5991 DEBUG ----- Starting -----
+2018-09-18 16:38:52.3181 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-18 16:39:20.1363 DEBUG ----- Starting -----
+2018-09-18 16:39:47.1870 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-18 16:40:20.7349 DEBUG ----- Starting -----
+2018-09-18 16:40:29.7737 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-18 16:42:24.0776 DEBUG ----- Starting -----
+2018-09-18 16:46:04.2203 DEBUG ----- Starting -----
+2018-09-18 16:47:52.3442 DEBUG ----- Starting -----
+2018-09-18 16:48:49.8975 DEBUG ----- Starting -----
+2018-09-18 16:49:54.6139 DEBUG ----- Starting -----
+2018-09-18 16:51:07.3358 DEBUG ----- Starting -----
+2018-09-18 16:52:31.0705 DEBUG ----- Starting -----
+2018-09-18 16:55:15.6428 DEBUG ----- Starting -----
+2018-09-18 16:56:49.7301 DEBUG ----- Starting -----
+2018-09-18 16:57:03.5102 DEBUG ----- Starting -----
+2018-09-18 17:01:31.6937 DEBUG ----- Starting -----
+2018-09-18 17:10:21.0999 DEBUG ----- Starting -----
+2018-09-18 17:10:24.7601 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-18 17:10:44.1612 DEBUG ----- Starting -----
+2018-09-18 17:10:47.8773 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-18 17:11:13.5391 DEBUG ----- Starting -----
+2018-09-18 17:15:46.4809 DEBUG ----- Starting -----
+2018-09-18 17:28:00.7131 DEBUG ----- Starting -----
+2018-09-18 17:31:45.8647 DEBUG ----- Starting -----
+2018-09-18 17:33:57.4139 DEBUG ----- Starting -----

@@ -1,0 +1,5 @@
+Protocol file: C:\HelixGen\Protocols\Protocol_pcr - Pauls.xml
+Run date.time: 5/18/2017 2:15:57 PM
+Time, Elapsed Seconds, SPREP Thermal Setpoint, SPREP Thermal C, PCR TEC1 Setpoint, PCR TEC1 C, PCR TEC1 PWR, PRC TE1C Amps,PCR TEC2 Setpoint, PCR TEC2 C, PCR TEC2 PWR, PRC TEC2 AmpsTEC3 Temp, TEC4 Temp, TEC5 temp, TEC6 temp
+"2017-05-18 14:18:14.235",0,25,24.938,95,99.157,0,0,95,101.895,100,1.57,125.989,-2.688,-2.688,118.752
+"2017-05-18 14:19:01.374",47.1396,25,24.973,95,98.058,4.4,0,95,97.929,0,3.352,125.699,-2.688,-2.688,118.05

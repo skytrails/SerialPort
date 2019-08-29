@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol>
+  <description text="This is a generic protocol." author="Steve Engle" date="3/14/2017" />
+  <steps>
+    <step slider="2" r1="2" r2="1" heaterpiston="2" heater="0" pcr="0" pump="off" desc="home"/>
+    <step slider="1" desc="pull sample position"/>
+    <step heaterpiston="3" desc="pull sample heat"/>
+    <step r1="1" r2="1" desc="dispense r1"/>
+    <step slider="3" desc="denature position"/>
+    <step heater="95" time="6" desc="denature heat"/>
+    <!--<step heater="95" time="600000" desc="denature heat"/>-->
+    <step slider="2" heater="0" desc="filter position"/> 
+    <step heaterpiston="2" desc="filter"/>
+    <step r2="1" desc="dispense r2"/>
+    <step r2="3" desc="mix aereate"/>
+    <step r2="2" desc="mix push"/>
+    <step r2="3" desc="mix pull"/>
+    <step r2="2" heaterpiston="1" pcr="50" desc="fill serpentine"/>
+    <step slider="4" desc="dispense position"/>
+    <step pump="on" time="600000" desc="dispense"/>
+    <step slider="2" pump="off" desc="pcr seal"/>
+    <step pcr="50" desc="pcr"/>
+  </steps>
+</protocol>

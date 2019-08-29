@@ -1,0 +1,13 @@
+2018-04-16 14:07:37.3393 DEBUG ----- Starting -----
+2018-04-16 14:07:38.0392 DEBUG TEC; setting the overshootoffset to 0
+2018-04-16 14:08:45.3552 DEBUG ----- Starting -----
+2018-04-16 14:10:38.5668 DEBUG ----- Starting -----
+2018-04-16 14:10:39.8416 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-16 14:11:52.5622 DEBUG ----- Starting -----
+2018-04-16 14:12:11.3334 DEBUG ----- Starting -----
+2018-04-16 14:14:04.7440 DEBUG ----- Starting -----
+2018-04-16 14:14:05.4339 DEBUG TEC; setting the overshootoffset to 0
+2018-04-16 14:14:39.9894 DEBUG ----- Starting -----
+2018-04-16 14:14:41.4375 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-16 14:16:56.2926 ERROR Configuration::Load Caught an exception; Could not find file 'C:\HelixGen\Protocols\.xml'.
+2018-04-16 14:16:56.3126 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_04_16_14_16_56\Temperature Log.csv

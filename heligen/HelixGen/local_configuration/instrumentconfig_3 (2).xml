@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SystemSettings>
+  <InstrumentSettings>
+    <SerialNo>SERIALNO</SerialNo>
+    <ProductNumber>1.0</ProductNumber>
+    <ProductName>HelixGen</ProductName>
+  </InstrumentSettings>
+  <MiscSettings>
+    <!-- <SystemProtocolPath>xxx</SystemProtocolPath> -->
+    <!-- <SystemLogPath>E:\Users\Ricej\</SystemLogPath> -->
+    <!-- <MeasurementLogPath>Q:\Projects\AZ-P\Software\PCR tests logs\</MeasurementLogPath> -->
+    <MeasurementLogPath>C:\Users\Combinati\PCR_tests_logs</MeasurementLogPath>
+    <ProtocolCycleStep_MinTemperature>0</ProtocolCycleStep_MinTemperature>
+    <ProtocolCycleStep_MaxTemperature>100</ProtocolCycleStep_MaxTemperature>
+    <ProtocolNonCycleStep_MinTemperature>0</ProtocolNonCycleStep_MinTemperature>
+    <ProtocolNonCycleStep_MinTemp_MaxHoldTimeinSeconds>108000</ProtocolNonCycleStep_MinTemp_MaxHoldTimeinSeconds>
+    <ProtocolNonCycleStep_MaxTemperature>100</ProtocolNonCycleStep_MaxTemperature>
+    <ThermalRampSamplePeriodInSeconds>1.0</ThermalRampSamplePeriodInSeconds>
+    <ThermalRampTimeoutInSeconds>180</ThermalRampTimeoutInSeconds>
+  </MiscSettings>
+  <HWSettings>
+    <MotorControllers>
+      <!-- right side facing the slider -->
+      <MotorController>
+        <Name>MC-1</Name>
+        <Port>COM6</Port>
+      </MotorController>
+
+      <!-- left side facing the slider -->
+      <MotorController>
+        <Name>MC-2</Name>
+        <Port>COM4</Port>
+      </MotorController>
+    </MotorControllers>
+    <ThermalControllers>
+      <ThermalController>
+        <Name>ACCEL-TEC-CNTRL-1</Name>
+        <Model></Model>
+        <Port>COM5</Port>
+      </ThermalController>
+    </ThermalControllers>
+    <Slider_Motor>
+      <MotorController>MC-1</MotorController>
+      <channel>4</channel>
+      <motor_home_speed>200</motor_home_speed>
+      <!-- Home velocity (int value) in steps/sec -->
+      <motor_start_speed>1500</motor_start_speed>
+      <!-- Move Start velocity (int value) in steps/sec -->
+      <motor_max_speed>1500</motor_max_speed>
+      <!-- Velocity (int value) in steps/sec -->
+      <motor_accel_speed>1000</motor_accel_speed>
+      <!-- Acceleration (int value) in steps/sec^2 -->
+      <motor_decel_speed>1000</motor_decel_speed>
+      <!-- Deceleration (int value) n steps/sec^2 -->
+      <motor_move_current>80</motor_move_current>
+      <!-- 0 - 100 percent -->
+      <motor_hold_current>5</motor_hold_current>
+      <!-- 0 - 50 percent -->
+      <motor_jerk>150000</motor_jerk>
+      <!-- steps / (sec**3) -->
+      <motor_resolution>3</motor_resolution>
+      <!-- 0 - Full stepping,1 - Half stepping,2 - Quarter,3 - Sixteenth -->
+      <motor_profile_mode>0</motor_profile_mode>
+      <!-- Boolean profile mode (1=S-curve, 0=Trapezoidal) -->
+      <motor_home_timeout>180</motor_home_timeout>
+      <!-- Home timeout (sec) -->
+      <axis_move_timeout>20</axis_move_timeout>
+      <!-- Move timeout (sec) -->
+      <motor_direction>1</motor_direction>
+      <motor_max_num_lost_steps>200</motor_max_num_lost_steps>
+      <!-- 125 full steps * 4 (quarter step resolution) -->
+      <encoder_enable>1</encoder_enable>
+      <encoder_monitor_timer_ms>100</encoder_monitor_timer_ms>
+      <encoder_monitor_pulse_change_threshold>100</encoder_monitor_pulse_change_threshold>
+      <encoder_monitor_error_count_threshold>100</encoder_monitor_error_count_threshold>
+      <encoder_direction_polarity>1</encoder_direction_polarity>
+      <encoder_start_offset>1</encoder_start_offset>
+      <encoder_scaling_factor>0.25</encoder_scaling_factor>
+      <positions>11800,0,7100,400</positions>
+    </Slider_Motor>
+    <R1Piston_Motor>
+      <MotorController>MC-1</MotorController>
+      <channel>1</channel>
+      <motor_home_speed>200</motor_home_speed>
+      <!-- Home velocity (int value) in steps/sec -->
+      <motor_start_speed>200</motor_start_speed>
+      <!-- Move Start velocity (int value) in steps/sec -->
+      <motor_max_speed>1500</motor_max_speed>
+      <!-- Velocity (int value) in steps/sec -->
+      <motor_accel_speed>1000</motor_accel_speed>
+      <!-- Acceleration (int value) in steps/sec^2 -->
+      <motor_decel_speed>1000</motor_decel_speed>
+      <!-- Deceleration (int value) n steps/sec^2 -->
+      <motor_move_current>80</motor_move_current>
+      <!-- 0 - 100 percent -->
+      <motor_hold_current>5</motor_hold_current>
+      <!-- 0 - 50 percent -->
+      <motor_jerk>150000</motor_jerk>
+      <!-- steps / (sec**3) -->
+      <motor_resolution>3</motor_resolution>
+      <!-- 0 - Full stepping,1 - Half stepping,2 - Quarter,3 - Sixteenth -->
+      <motor_profile_mode>0</motor_profile_mode>
+      <!-- Boolean profile mode (1=S-curve, 0=Trapezoidal) -->
+      <motor_home_timeout>180</motor_home_timeout>
+      <!-- Home timeout (sec) -->
+      <axis_move_timeout>20</axis_move_timeout>
+      <!-- Move timeout (sec) -->
+      <motor_direction>1</motor_direction>
+      <motor_max_num_lost_steps>200</motor_max_num_lost_steps>
+      <!-- 125 full steps * 4 (quarter step resolution) -->
+      <encoder_enable>1</encoder_enable>
+      <encoder_monitor_timer_ms>100</encoder_monitor_timer_ms>
+      <encoder_monitor_pulse_change_threshold>100</encoder_monitor_pulse_change_threshold>
+      <encoder_monitor_error_count_threshold>100</encoder_monitor_error_count_threshold>
+      <encoder_direction_polarity>1</encoder_direction_polarity>
+      <encoder_start_offset>1</encoder_start_offset>
+      <encoder_scaling_factor>0.25</encoder_scaling_factor>
+      <positions>100,200</positions>
+    </R1Piston_Motor>
+    <R2Piston_Motor>
+      <MotorController>MC-1</MotorController>
+      <channel>2</channel>
+      <motor_home_speed>200</motor_home_speed>
+      <!-- Home velocity (int value) in steps/sec -->
+      <motor_start_speed>200</motor_start_speed>
+      <!-- Move Start velocity (int value) in steps/sec -->
+      <motor_max_speed>1500</motor_max_speed>
+      <!-- Velocity (int value) in steps/sec -->
+      <motor_accel_speed>1000</motor_accel_speed>
+      <!-- Acceleration (int value) in steps/sec^2 -->
+      <motor_decel_speed>1000</motor_decel_speed>
+      <!-- Deceleration (int value) n steps/sec^2 -->
+      <motor_move_current>80</motor_move_current>
+      <!-- 0 - 100 percent -->
+      <motor_hold_current>5</motor_hold_current>
+      <!-- 0 - 50 percent -->
+      <motor_jerk>150000</motor_jerk>
+      <!-- steps / (sec**3) -->
+      <motor_resolution>3</motor_resolution>
+      <!-- 0 - Full stepping,1 - Half stepping,2 - Quarter,3 - Sixteenth -->
+      <motor_profile_mode>0</motor_profile_mode>
+      <!-- Boolean profile mode (1=S-curve, 0=Trapezoidal) -->
+      <motor_home_timeout>180</motor_home_timeout>
+      <!-- Home timeout (sec) -->
+      <axis_move_timeout>20</axis_move_timeout>
+      <!-- Move timeout (sec) -->
+      <motor_direction>1</motor_direction>
+      <motor_max_num_lost_steps>200</motor_max_num_lost_steps>
+      <!-- 125 full steps * 4 (quarter step resolution) -->
+      <encoder_enable>1</encoder_enable>
+      <encoder_monitor_timer_ms>100</encoder_monitor_timer_ms>
+      <encoder_monitor_pulse_change_threshold>100</encoder_monitor_pulse_change_threshold>
+      <encoder_monitor_error_count_threshold>100</encoder_monitor_error_count_threshold>
+      <encoder_direction_polarity>1</encoder_direction_polarity>
+      <encoder_start_offset>1</encoder_start_offset>
+      <encoder_scaling_factor>0.25</encoder_scaling_factor>
+      <positions>30000,90000</positions>
+    </R2Piston_Motor>
+    <HeaterPiston_Motor>
+      <MotorController>MC-1</MotorController>
+      <channel>3</channel>
+      <motor_home_speed>200</motor_home_speed>
+      <!-- Home velocity (int value) in steps/sec -->
+      <motor_start_speed>200</motor_start_speed>
+      <!-- Move Start velocity (int value) in steps/sec -->
+      <motor_max_speed>1500</motor_max_speed>
+      <!-- Velocity (int value) in steps/sec -->
+      <motor_accel_speed>1000</motor_accel_speed>
+      <!-- Acceleration (int value) in steps/sec^2 -->
+      <motor_decel_speed>1000</motor_decel_speed>
+      <!-- Deceleration (int value) n steps/sec^2 -->
+      <motor_move_current>80</motor_move_current>
+      <!-- 0 - 100 percent -->
+      <motor_hold_current>5</motor_hold_current>
+      <!-- 0 - 50 percent -->
+      <motor_jerk>150000</motor_jerk>
+      <!-- steps / (sec**3) -->
+      <motor_resolution>3</motor_resolution>
+      <!-- 0 - Full stepping,1 - Half stepping,2 - Quarter,3 - Sixteenth -->
+      <motor_profile_mode>0</motor_profile_mode>
+      <!-- Boolean profile mode (1=S-curve, 0=Trapezoidal) -->
+      <motor_home_timeout>180</motor_home_timeout>
+      <!-- Home timeout (sec) -->
+      <axis_move_timeout>20</axis_move_timeout>
+      <!-- Move timeout (sec) -->
+      <motor_direction>1</motor_direction>
+      <motor_max_num_lost_steps>200</motor_max_num_lost_steps>
+      <!-- 125 full steps * 4 (quarter step resolution) -->
+      <encoder_enable>1</encoder_enable>
+      <encoder_monitor_timer_ms>100</encoder_monitor_timer_ms>
+      <encoder_monitor_pulse_change_threshold>100</encoder_monitor_pulse_change_threshold>
+      <encoder_monitor_error_count_threshold>100</encoder_monitor_error_count_threshold>
+      <encoder_direction_polarity>1</encoder_direction_polarity>
+      <encoder_start_offset>1</encoder_start_offset>
+      <encoder_scaling_factor>0.25</encoder_scaling_factor>
+      <positions>0,200,300</positions>
+    </HeaterPiston_Motor>
+    <Optics_Motor>
+      <MotorController>MC-2</MotorController>
+      <channel>4</channel>
+      <motor_home_speed>1500</motor_home_speed>
+      <!-- Home velocity (int value) in steps/sec -->
+      <motor_start_speed>200</motor_start_speed>
+      <!-- Move Start velocity (int value) in steps/sec -->
+      <motor_max_speed>2500</motor_max_speed>
+      <!-- Velocity (int value) in steps/sec -->
+      <motor_accel_speed>10000</motor_accel_speed>
+      <!-- Acceleration (int value) in steps/sec^2 -->
+      <motor_decel_speed>10000</motor_decel_speed>
+      <!-- Deceleration (int value) n steps/sec^2 -->
+      <motor_move_current>80</motor_move_current>
+      <!-- 0 - 100 percent -->
+      <motor_hold_current>5</motor_hold_current>
+      <!-- 0 - 50 percent -->
+      <motor_jerk>30000</motor_jerk>
+      <!-- steps / (sec**3) -->
+      <motor_resolution>3</motor_resolution>
+      <!-- 0 - Full stepping,1 - Half stepping,2 - Quarter,3 - Sixteenth -->
+      <motor_profile_mode>0</motor_profile_mode>
+      <!-- Boolean profile mode (1=S-curve, 0=Trapezoidal) -->
+      <motor_home_timeout>180</motor_home_timeout>
+      <!-- Home timeout (sec) -->
+      <axis_move_timeout>20</axis_move_timeout>
+      <!-- Move timeout (sec) -->
+      <motor_direction>0</motor_direction>
+      <motor_max_num_lost_steps>200</motor_max_num_lost_steps>
+      <!-- 125 full steps * 4 (quarter step resolution) -->
+      <encoder_enable>0</encoder_enable>
+      <encoder_monitor_timer_ms>100</encoder_monitor_timer_ms>
+      <encoder_monitor_pulse_change_threshold>100</encoder_monitor_pulse_change_threshold>
+      <encoder_monitor_error_count_threshold>100</encoder_monitor_error_count_threshold>
+      <encoder_direction_polarity>1</encoder_direction_polarity>
+      <encoder_start_offset>1</encoder_start_offset>
+      <encoder_scaling_factor>2.0</encoder_scaling_factor>
+      <positions>8783,9850,10917,11983,13050</positions>
+    </Optics_Motor>
+    <ChassisPiston_Motor>
+      <MotorController>MC-2</MotorController>
+      <channel>2</channel>
+      <motor_home_speed>1500</motor_home_speed>
+      <!-- Home velocity (int value) in steps/sec -->
+      <motor_start_speed>200</motor_start_speed>
+      <!-- Move Start velocity (int value) in steps/sec -->
+      <motor_max_speed>2500</motor_max_speed>
+      <!-- Velocity (int value) in steps/sec -->
+      <motor_accel_speed>10000</motor_accel_speed>
+      <!-- Acceleration (int value) in steps/sec^2 -->
+      <motor_decel_speed>10000</motor_decel_speed>
+      <!-- Deceleration (int value) n steps/sec^2 -->
+      <motor_move_current>40</motor_move_current>
+      <!-- 0 - 100 percent -->
+      <motor_hold_current>25</motor_hold_current>
+      <!-- 0 - 50 percent -->
+      <motor_jerk>30000</motor_jerk>
+      <!-- steps / (sec**3) -->
+      <motor_resolution>3</motor_resolution>
+      <!-- 0 - Full stepping,1 - Half stepping,2 - Quarter,3 - Sixteenth -->
+      <motor_profile_mode>0</motor_profile_mode>
+      <!-- Boolean profile mode (1=S-curve, 0=Trapezoidal) -->
+      <motor_home_timeout>180</motor_home_timeout>
+      <!-- Home timeout (sec) -->
+      <axis_move_timeout>20</axis_move_timeout>
+      <!-- Move timeout (sec) -->
+      <motor_direction>1</motor_direction>
+      <motor_max_num_lost_steps>200</motor_max_num_lost_steps>
+      <!-- 125 full steps * 4 (quarter step resolution) -->
+      <encoder_enable>0</encoder_enable>
+      <encoder_monitor_timer_ms>100</encoder_monitor_timer_ms>
+      <encoder_monitor_pulse_change_threshold>100</encoder_monitor_pulse_change_threshold>
+      <encoder_monitor_error_count_threshold>100</encoder_monitor_error_count_threshold>
+      <encoder_direction_polarity>1</encoder_direction_polarity>
+      <encoder_start_offset>1</encoder_start_offset>
+      <encoder_scaling_factor>2.0</encoder_scaling_factor>
+      <positions>1650,0</positions>
+    </ChassisPiston_Motor>
+    <Optics_Controller>
+      <port>COM3</port>
+      </Optics_Controller>
+    <pump>
+      <MotorController>MC-1</MotorController>
+      <channel>1</channel>      
+      </pump>
+    <PCR_HeatSink_Fan>
+      <TECController>ACCEL-TEC-CNTRL-1</TECController>
+      <address>8</address>
+      <bands>
+        <band>
+          <upper>500</upper>
+          <lower>35</lower>
+          <deadband>1</deadband>
+          <dutycycle>100</dutycycle>
+        </band>
+        <band>
+          <upper>35</upper>
+          <lower>25</lower>
+          <deadband>1</deadband>
+          <dutycycle>80</dutycycle>
+        </band>
+        <band>
+          <upper>25</upper>
+          <lower>20</lower>
+          <deadband>1</deadband>
+          <dutycycle>50</dutycycle>
+        </band>
+        <band>
+          <upper>20</upper>
+          <lower>-100</lower>
+          <deadband>1</deadband>
+          <dutycycle>0</dutycycle>
+        </band>
+      </bands>
+      <SampleTimeInSeconds>0.5</SampleTimeInSeconds>
+    </PCR_HeatSink_Fan>
+    <PCR_Thermal_Block_Fan_Control_Thermistor>
+      <TECController>ACCEL-TEC-CNTRL-1</TECController>
+      <address>7</address>
+      <channel>0</channel>
+      <ThermA_Coeff>0.00112398</ThermA_Coeff>
+      <ThermB_Coeff>0.0002349859</ThermB_Coeff>
+      <ThermC_Coeff>8.432199e-08</ThermC_Coeff>
+    </PCR_Thermal_Block_Fan_Control_Thermistor>
+    <System_Exhaust_Fan_Control>
+      <Left>
+        <Accel_DIO>
+          <MotorController>MC-1</MotorController>
+          <DutyCycle>50</DutyCycle>
+          <DO>6</DO>
+        </Accel_DIO>
+      </Left>
+      <Right>
+        <Accel_DIO>
+          <MotorController>MC-1</MotorController>
+          <DutyCycle>50</DutyCycle>
+          <DO>7</DO>
+        </Accel_DIO>
+      </Right>
+    </System_Exhaust_Fan_Control>    
+    <TECControllerChannels>
+      <TEC_1>
+        <TECController>ACCEL-TEC-CNTRL-1</TECController>
+        <address>1</address>
+        <ControlPIDSampleTimeInSeconds>0.1</ControlPIDSampleTimeInSeconds>
+        <ErrorTermBand>40.0</ErrorTermBand>
+        <ErrorTermCount>200</ErrorTermCount>
+        <SteadyStatePowerLimit>101</SteadyStatePowerLimit>
+        <SteadyStatePowerLimitCount>100.0</SteadyStatePowerLimitCount>
+        <PIDs>
+          <step>
+            <rampup>
+              <fromtemps>
+                <from>
+                  <lowtemp>0</lowtemp>
+                  <hightemp>55</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                        <PGain>22,22</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>   
+                        <SetpointOffset>2.5</SetpointOffset>
+                        <PBand>35</PBand>                        
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <from>
+                  <lowtemp>56</lowtemp>
+                  <hightemp>65</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>70</lowtemp>
+                      <hightemp>75</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                        <PGain>15,15</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>   
+                        <SetpointOffset>2</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>   
+                        <SetpointOffset>1.5</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <from>
+                  <lowtemp>70</lowtemp>
+                  <hightemp>75</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>   
+                        <SetpointOffset>2.5</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <default>
+                  <params>
+                    <RabbitGain>0.3405</RabbitGain>
+                    <RabbitGain2>0.0015</RabbitGain2>
+                    <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                    <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                    <PGain>20,20</PGain>
+                    <DGain>100,100</DGain>
+                    <IGain>0.00,0.00</IGain>
+                    <DeadBand>0.0</DeadBand>
+                    <OvershootOffset>0</OvershootOffset>
+                    <OvershootDuration>0</OvershootDuration>   
+                    <SetpointOffset>0</SetpointOffset>
+                    <PBand>35</PBand>
+                    <LowClamp>-100.0</LowClamp>
+                    <HighClamp>100.0</HighClamp>
+                  </params>
+                </default>
+              </fromtemps>
+            </rampup>
+            <rampdown>
+              <fromtemps>
+                <from>
+                  <lowtemp>90</lowtemp>
+                  <hightemp>100</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>50</lowtemp>
+                      <hightemp>65</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>   
+                        <SetpointOffset>1</SetpointOffset>
+                        <PBand>10</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>   
+                        <SetpointOffset>2.5</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <default>
+                  <params>
+                    <RabbitGain>0.3405</RabbitGain>
+                    <RabbitGain2>0.0015</RabbitGain2>
+                    <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                    <RabbitDerivGain>50.0,50</RabbitDerivGain> 
+                    <PGain>5,5</PGain>
+                    <DGain>100,100</DGain>
+                    <IGain>0.00,0.00</IGain>
+                    <DeadBand>0.0</DeadBand>
+                    <OvershootOffset>0</OvershootOffset>
+                    <OvershootDuration>0</OvershootDuration>   
+                    <SetpointOffset>0</SetpointOffset>
+                    <PBand>10</PBand>
+                    <LowClamp>-100.0</LowClamp>
+                    <HighClamp>100.0</HighClamp>
+                  </params>
+                </default>
+              </fromtemps>
+            </rampdown>
+          </step>
+        </PIDs>
+        <ThermA_Coeff>1.126737467e-3</ThermA_Coeff>
+        <ThermB_Coeff>2.345062109e-4</ThermB_Coeff>
+        <ThermC_Coeff>0.8629484887e-7</ThermC_Coeff>
+      </TEC_1>
+      <TEC_2>
+        <TECController>ACCEL-TEC-CNTRL-1</TECController>
+        <address>2</address>
+        <ControlPIDSampleTimeInSeconds>0.1</ControlPIDSampleTimeInSeconds>
+        <ErrorTermBand>40.0</ErrorTermBand>
+        <ErrorTermCount>200</ErrorTermCount>
+        <SteadyStatePowerLimit>101</SteadyStatePowerLimit>
+        <SteadyStatePowerLimitCount>100.0</SteadyStatePowerLimitCount>
+        <PIDs>
+          <step>
+            <rampup>
+              <fromtemps>
+                <from>
+                  <lowtemp>0</lowtemp>
+                  <hightemp>55</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                        <PGain>22,22</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>
+                        <SetpointOffset>2.5</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <from>
+                  <lowtemp>56</lowtemp>
+                  <hightemp>65</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>70</lowtemp>
+                      <hightemp>75</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                        <PGain>15,15</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>
+                        <SetpointOffset>2</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>
+                        <SetpointOffset>1.5</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <from>
+                  <lowtemp>70</lowtemp>
+                  <hightemp>75</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>
+                        <SetpointOffset>2.5</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <default>
+                  <params>
+                    <RabbitGain>0.3405</RabbitGain>
+                    <RabbitGain2>0.0015</RabbitGain2>
+                    <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                    <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                    <PGain>20,20</PGain>
+                    <DGain>100,100</DGain>
+                    <IGain>0.00,0.00</IGain>
+                    <DeadBand>0.0</DeadBand>
+                    <OvershootOffset>0</OvershootOffset>
+                    <OvershootDuration>0</OvershootDuration>
+                    <SetpointOffset>0</SetpointOffset>
+                    <PBand>35</PBand>
+                    <LowClamp>-100.0</LowClamp>
+                    <HighClamp>100.0</HighClamp>
+                  </params>
+                </default>
+              </fromtemps>
+            </rampup>
+            <rampdown>
+              <fromtemps>
+                <from>
+                  <lowtemp>90</lowtemp>
+                  <hightemp>100</hightemp>
+                  <totemps>
+                    <to>
+                      <lowtemp>50</lowtemp>
+                      <hightemp>65</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>
+                        <SetpointOffset>1</SetpointOffset>
+                        <PBand>10</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                    <to>
+                      <lowtemp>90</lowtemp>
+                      <hightemp>100</hightemp>
+                      <params>
+                        <RabbitGain>0.3405</RabbitGain>
+                        <RabbitGain2>0.0015</RabbitGain2>
+                        <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                        <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                        <PGain>20,20</PGain>
+                        <DGain>100,100</DGain>
+                        <IGain>0.00,0.00</IGain>
+                        <DeadBand>0.0</DeadBand>
+                        <OvershootOffset>0</OvershootOffset>
+                        <OvershootDuration>0</OvershootDuration>
+                        <SetpointOffset>2.5</SetpointOffset>
+                        <PBand>35</PBand>
+                        <LowClamp>-100.0</LowClamp>
+                        <HighClamp>100.0</HighClamp>
+                      </params>
+                    </to>
+                  </totemps>
+                </from>
+                <default>
+                  <params>
+                    <RabbitGain>0.3405</RabbitGain>
+                    <RabbitGain2>0.0015</RabbitGain2>
+                    <RabbitGainOffset>-8.6635</RabbitGainOffset>
+                    <RabbitDerivGain>50.0,50</RabbitDerivGain>
+                    <PGain>5,5</PGain>
+                    <DGain>100,100</DGain>
+                    <IGain>0.00,0.00</IGain>
+                    <DeadBand>0.0</DeadBand>
+                    <OvershootOffset>0</OvershootOffset>
+                    <OvershootDuration>0</OvershootDuration>
+                    <SetpointOffset>0</SetpointOffset>
+                    <PBand>10</PBand>
+                    <LowClamp>-100.0</LowClamp>
+                    <HighClamp>100.0</HighClamp>
+                  </params>
+                </default>
+              </fromtemps>
+            </rampdown>
+          </step>
+        </PIDs>
+        <ThermA_Coeff>1.126737467e-3</ThermA_Coeff>
+        <ThermB_Coeff>2.345062109e-4</ThermB_Coeff>
+        <ThermC_Coeff>0.8629484887e-7</ThermC_Coeff>
+      </TEC_2>      
+    </TECControllerChannels>
+    <!-- other hardware sections TBD -->
+  </HWSettings>
+</SystemSettings>

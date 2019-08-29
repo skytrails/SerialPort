@@ -1,0 +1,1948 @@
+2018-07-04 14:11:52.1671 DEBUG ----- Starting -----
+2018-07-04 14:12:32.1945 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_14_12_32\Temperature Log.csv
+2018-07-04 14:12:32.4546 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-04 14:12:32.4546 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-04 14:12:32.4645 DEBUG Setting the temperature to 45
+2018-07-04 14:12:32.5145 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-04 14:12:32.5545 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 27.948 to temp is 95
+2018-07-04 14:12:32.5645 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 27.948 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-04 14:12:32.5645 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-04 14:12:32.6045 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:12:32.6345 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:12:32.6745 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:12:32.6745 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:12:39.6646 DEBUG At temperature.
+2018-07-04 14:12:39.6846 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-04 14:12:39.7446 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-04 14:12:39.7946 DEBUG Setting the temperature to 85
+2018-07-04 14:12:39.8145 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-04 14:12:39.8446 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_04_14_12_32\Melt Curve logging.csv
+2018-07-04 14:12:40.1445 DEBUG In meltcurve, curTemp = 44.6749992370605
+2018-07-04 14:12:44.0646 DEBUG In meltcurve, curTemp = 44.734001159668
+2018-07-04 14:12:48.1846 DEBUG In meltcurve, curTemp = 44.9900016784668
+2018-07-04 14:12:51.9746 DEBUG In meltcurve, curTemp = 45.2309989929199
+2018-07-04 14:12:55.9246 DEBUG In meltcurve, curTemp = 45.4900016784668
+2018-07-04 14:12:59.7746 DEBUG In meltcurve, curTemp = 45.757999420166
+2018-07-04 14:13:03.5747 DEBUG In meltcurve, curTemp = 46.0800018310547
+2018-07-04 14:13:07.4446 DEBUG In meltcurve, curTemp = 46.4080009460449
+2018-07-04 14:13:11.2946 DEBUG In meltcurve, curTemp = 46.6669998168945
+2018-07-04 14:13:15.3246 DEBUG In meltcurve, curTemp = 46.8899993896484
+2018-07-04 14:13:19.4146 DEBUG In meltcurve, curTemp = 47.0480003356934
+2018-07-04 14:13:23.5047 DEBUG In meltcurve, curTemp = 47.2150001525879
+2018-07-04 14:13:27.6746 DEBUG In meltcurve, curTemp = 47.4370002746582
+2018-07-04 14:13:31.7646 DEBUG In meltcurve, curTemp = 47.6959991455078
+2018-07-04 14:13:35.9946 DEBUG In meltcurve, curTemp = 48.1619987487793
+2018-07-04 14:13:40.1256 DEBUG In meltcurve, curTemp = 48.4550018310547
+2018-07-04 14:13:44.2157 DEBUG In meltcurve, curTemp = 48.6829986572266
+2018-07-04 14:13:48.5156 DEBUG In meltcurve, curTemp = 48.7430000305176
+2018-07-04 14:13:52.6456 DEBUG In meltcurve, curTemp = 48.931999206543
+2018-07-04 14:13:56.8856 DEBUG In meltcurve, curTemp = 49.2290000915527
+2018-07-04 14:14:00.7156 DEBUG In meltcurve, curTemp = 49.4360008239746
+2018-07-04 14:14:04.7956 DEBUG In meltcurve, curTemp = 49.6910018920898
+2018-07-04 14:14:08.5857 DEBUG In meltcurve, curTemp = 49.8779983520508
+2018-07-04 14:14:12.4858 DEBUG In meltcurve, curTemp = 50.1209983825684
+2018-07-04 14:14:16.4958 DEBUG In meltcurve, curTemp = 50.3569984436035
+2018-07-04 14:14:20.4556 DEBUG In meltcurve, curTemp = 50.5950012207031
+2018-07-04 14:14:24.3356 DEBUG In meltcurve, curTemp = 50.8330001831055
+2018-07-04 14:14:28.3056 DEBUG In meltcurve, curTemp = 51.0859985351563
+2018-07-04 14:14:32.3156 DEBUG In meltcurve, curTemp = 51.3120002746582
+2018-07-04 14:14:36.1956 DEBUG In meltcurve, curTemp = 51.5719985961914
+2018-07-04 14:14:40.0156 DEBUG In meltcurve, curTemp = 51.9150009155273
+2018-07-04 14:14:43.9156 DEBUG In meltcurve, curTemp = 52.1990013122559
+2018-07-04 14:14:48.0556 DEBUG In meltcurve, curTemp = 52.3450012207031
+2018-07-04 14:14:52.1456 DEBUG In meltcurve, curTemp = 52.5139999389648
+2018-07-04 14:14:56.2456 DEBUG In meltcurve, curTemp = 52.7290000915527
+2018-07-04 14:15:00.3056 DEBUG In meltcurve, curTemp = 53.0009994506836
+2018-07-04 14:15:04.5456 DEBUG In meltcurve, curTemp = 53.4179992675781
+2018-07-04 14:15:08.6356 DEBUG In meltcurve, curTemp = 53.7560005187988
+2018-07-04 14:15:12.7058 DEBUG In meltcurve, curTemp = 54.056999206543
+2018-07-04 14:15:16.8456 DEBUG In meltcurve, curTemp = 54.3050003051758
+2018-07-04 14:15:21.0356 DEBUG In meltcurve, curTemp = 54.4280014038086
+2018-07-04 14:15:24.9556 DEBUG In meltcurve, curTemp = 54.7210006713867
+2018-07-04 14:15:29.0856 DEBUG In meltcurve, curTemp = 54.8810005187988
+2018-07-04 14:15:33.1356 DEBUG In meltcurve, curTemp = 55.0359992980957
+2018-07-04 14:16:16.0102 DEBUG ----- Starting -----
+2018-07-04 14:16:39.8577 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_14_16_39\Temperature Log.csv
+2018-07-04 14:16:40.1377 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-04 14:16:40.1477 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-04 14:16:40.1477 DEBUG Setting the temperature to 45
+2018-07-04 14:16:40.3077 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-04 14:16:40.3677 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 42.567 to temp is 95
+2018-07-04 14:16:40.3777 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 42.567 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-04 14:16:40.3777 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-04 14:16:40.4077 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:16:40.4377 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:16:40.4677 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:16:40.4977 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:16:45.1479 DEBUG At temperature.
+2018-07-04 14:16:45.1777 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-04 14:16:45.2477 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-04 14:16:45.2877 DEBUG Setting the temperature to 85
+2018-07-04 14:16:45.3077 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-04 14:16:45.3377 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_04_14_16_39\Melt Curve logging.csv
+2018-07-04 14:16:45.5677 DEBUG In meltcurve, curTemp = 45.060001373291
+2018-07-04 14:16:49.8477 DEBUG In meltcurve, curTemp = 45.0880012512207
+2018-07-04 14:16:53.7177 DEBUG In meltcurve, curTemp = 45.2849998474121
+2018-07-04 14:16:57.8678 DEBUG In meltcurve, curTemp = 45.5130004882813
+2018-07-04 14:17:01.9577 DEBUG In meltcurve, curTemp = 45.7490005493164
+2018-07-04 14:17:05.7978 DEBUG In meltcurve, curTemp = 45.9939994812012
+2018-07-04 14:17:09.6277 DEBUG In meltcurve, curTemp = 46.2060012817383
+2018-07-04 14:17:13.4977 DEBUG In meltcurve, curTemp = 46.4039993286133
+2018-07-04 14:17:17.2977 DEBUG In meltcurve, curTemp = 46.564998626709
+2018-07-04 14:17:21.1677 DEBUG In meltcurve, curTemp = 46.7690010070801
+2018-07-04 14:17:25.0678 DEBUG In meltcurve, curTemp = 47.0120010375977
+2018-07-04 14:17:29.2177 DEBUG In meltcurve, curTemp = 47.2410011291504
+2018-07-04 14:17:33.4077 DEBUG In meltcurve, curTemp = 47.5279998779297
+2018-07-04 14:17:37.5577 DEBUG In meltcurve, curTemp = 47.8009986877441
+2018-07-04 14:17:41.7677 DEBUG In meltcurve, curTemp = 48.1139984130859
+2018-07-04 14:17:45.9678 DEBUG In meltcurve, curTemp = 48.3849983215332
+2018-07-04 14:17:49.8679 DEBUG In meltcurve, curTemp = 48.6119995117188
+2018-07-04 14:17:53.7677 DEBUG In meltcurve, curTemp = 48.8199996948242
+2018-07-04 14:17:57.7279 DEBUG In meltcurve, curTemp = 49.0130004882813
+2018-07-04 14:18:01.6277 DEBUG In meltcurve, curTemp = 49.1959991455078
+2018-07-04 14:18:05.7477 DEBUG In meltcurve, curTemp = 49.5229988098145
+2018-07-04 14:18:09.6479 DEBUG In meltcurve, curTemp = 49.7099990844727
+2018-07-04 14:18:13.4578 DEBUG In meltcurve, curTemp = 49.8540000915527
+2018-07-04 14:18:17.2677 DEBUG In meltcurve, curTemp = 50.0690002441406
+2018-07-04 14:18:21.0579 DEBUG In meltcurve, curTemp = 50.3650016784668
+2018-07-04 14:18:24.8479 DEBUG In meltcurve, curTemp = 50.7039985656738
+2018-07-04 14:18:28.9679 DEBUG In meltcurve, curTemp = 50.8930015563965
+2018-07-04 14:18:33.1077 DEBUG In meltcurve, curTemp = 51.0960006713867
+2018-07-04 14:18:37.2277 DEBUG In meltcurve, curTemp = 51.2960014343262
+2018-07-04 14:18:41.4177 DEBUG In meltcurve, curTemp = 51.4879989624023
+2018-07-04 14:18:45.4779 DEBUG In meltcurve, curTemp = 51.7290000915527
+2018-07-04 14:18:49.5177 DEBUG In meltcurve, curTemp = 51.9650001525879
+2018-07-04 14:18:53.7877 DEBUG In meltcurve, curTemp = 52.3339996337891
+2018-07-04 14:18:57.6979 DEBUG In meltcurve, curTemp = 52.5050010681152
+2018-07-04 14:19:01.5479 DEBUG In meltcurve, curTemp = 52.6720008850098
+2018-07-04 14:19:05.6377 DEBUG In meltcurve, curTemp = 52.9249992370605
+2018-07-04 14:19:09.4977 DEBUG In meltcurve, curTemp = 53.1650009155273
+2018-07-04 14:19:13.3478 DEBUG In meltcurve, curTemp = 53.4480018615723
+2018-07-04 14:19:17.1478 DEBUG In meltcurve, curTemp = 53.7970008850098
+2018-07-04 14:19:21.0477 DEBUG In meltcurve, curTemp = 54.0769996643066
+2018-07-04 14:19:24.9577 DEBUG In meltcurve, curTemp = 54.3310012817383
+2018-07-04 14:19:28.7678 DEBUG In meltcurve, curTemp = 54.4910011291504
+2018-07-04 14:19:32.9077 DEBUG In meltcurve, curTemp = 54.7789993286133
+2018-07-04 14:19:37.0277 DEBUG In meltcurve, curTemp = 55.056999206543
+2018-07-04 14:19:41.2477 DEBUG In meltcurve, curTemp = 55.2360000610352
+2018-07-04 14:19:45.5077 DEBUG In meltcurve, curTemp = 55.3709983825684
+2018-07-04 14:19:49.6678 DEBUG In meltcurve, curTemp = 55.5359992980957
+2018-07-04 14:19:53.8577 DEBUG In meltcurve, curTemp = 55.7929992675781
+2018-07-04 14:19:57.7877 DEBUG In meltcurve, curTemp = 56.007999420166
+2018-07-04 14:20:01.9578 DEBUG In meltcurve, curTemp = 56.3079986572266
+2018-07-04 14:20:05.7479 DEBUG In meltcurve, curTemp = 56.5099983215332
+2018-07-04 14:20:09.7078 DEBUG In meltcurve, curTemp = 56.7569999694824
+2018-07-04 14:20:13.5578 DEBUG In meltcurve, curTemp = 57.1319999694824
+2018-07-04 14:20:17.4078 DEBUG In meltcurve, curTemp = 57.4440002441406
+2018-07-04 14:20:21.2078 DEBUG In meltcurve, curTemp = 57.7249984741211
+2018-07-04 14:20:25.0678 DEBUG In meltcurve, curTemp = 57.8429985046387
+2018-07-04 14:20:29.0278 DEBUG In meltcurve, curTemp = 58.0779991149902
+2018-07-04 14:20:32.9578 DEBUG In meltcurve, curTemp = 58.2089996337891
+2018-07-04 14:20:36.9379 DEBUG In meltcurve, curTemp = 58.4249992370605
+2018-07-04 14:20:41.0278 DEBUG In meltcurve, curTemp = 58.7350006103516
+2018-07-04 14:20:45.1478 DEBUG In meltcurve, curTemp = 59.0439987182617
+2018-07-04 14:20:49.2578 DEBUG In meltcurve, curTemp = 59.3499984741211
+2018-07-04 14:20:53.3178 DEBUG In meltcurve, curTemp = 59.6399993896484
+2018-07-04 14:20:57.4378 DEBUG In meltcurve, curTemp = 59.9199981689453
+2018-07-04 14:21:01.4178 DEBUG In meltcurve, curTemp = 60.1450004577637
+2018-07-04 14:21:05.4279 DEBUG In meltcurve, curTemp = 60.3810005187988
+2018-07-04 14:21:09.3878 DEBUG In meltcurve, curTemp = 60.5320014953613
+2018-07-04 14:21:13.2378 DEBUG In meltcurve, curTemp = 60.6479988098145
+2018-07-04 14:21:17.1278 DEBUG In meltcurve, curTemp = 60.7299995422363
+2018-07-04 14:21:21.2679 DEBUG In meltcurve, curTemp = 61.068000793457
+2018-07-04 14:21:25.0878 DEBUG In meltcurve, curTemp = 61.2019996643066
+2018-07-04 14:21:28.8878 DEBUG In meltcurve, curTemp = 61.5400009155273
+2018-07-04 14:21:32.7378 DEBUG In meltcurve, curTemp = 61.9650001525879
+2018-07-04 14:21:36.7278 DEBUG In meltcurve, curTemp = 62.2350006103516
+2018-07-04 14:21:40.5978 DEBUG In meltcurve, curTemp = 62.5330009460449
+2018-07-04 14:21:44.7378 DEBUG In meltcurve, curTemp = 62.7509994506836
+2018-07-04 14:21:48.8178 DEBUG In meltcurve, curTemp = 62.9679985046387
+2018-07-04 14:21:52.8878 DEBUG In meltcurve, curTemp = 63.1640014648438
+2018-07-04 14:21:57.0378 DEBUG In meltcurve, curTemp = 63.3740005493164
+2018-07-04 14:22:01.2278 DEBUG In meltcurve, curTemp = 63.5130004882813
+2018-07-04 14:22:05.3878 DEBUG In meltcurve, curTemp = 63.6660003662109
+2018-07-04 14:22:09.4878 DEBUG In meltcurve, curTemp = 63.8979988098145
+2018-07-04 14:22:13.4980 DEBUG In meltcurve, curTemp = 64.1910018920898
+2018-07-04 14:24:31.0929 DEBUG ----- Starting -----
+2018-07-04 14:24:48.0145 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_14_24_47\Temperature Log.csv
+2018-07-04 14:24:48.2545 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-07-04 14:24:48.2545 DEBUG Executing the action: HelixGen.Model.pumpAction
+2018-07-04 14:24:48.2545 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-07-04 14:24:48.2745 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-07-04 14:24:48.3245 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2018-07-04 14:24:50.9545 DEBUG Executing the action: HelixGen.Model.r2Action
+2018-07-04 14:24:51.0045 DEBUG Executing the action: HelixGen.Model.r1Action
+2018-07-04 14:25:13.4090 DEBUG ----- Starting -----
+2018-07-04 14:25:30.0664 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_14_25_30\Temperature Log.csv
+2018-07-04 14:25:30.3364 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-04 14:25:30.3464 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-04 14:25:30.3464 DEBUG Setting the temperature to 45
+2018-07-04 14:25:30.5264 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-04 14:25:30.5564 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-04 14:25:30.5664 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-04 14:25:30.5664 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-04 14:25:30.6064 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:25:30.6364 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:25:30.6664 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:25:30.6964 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:25:34.5465 DEBUG At temperature.
+2018-07-04 14:25:34.5664 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-04 14:25:34.6664 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-04 14:25:34.7564 DEBUG Setting the temperature to 85
+2018-07-04 14:25:34.7864 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-04 14:25:34.8264 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_04_14_25_30\Melt Curve logging.csv
+2018-07-04 14:25:35.0464 DEBUG In meltcurve, curTemp = 45.2610015869141
+2018-07-04 14:25:39.1064 DEBUG In meltcurve, curTemp = 45.4529991149902
+2018-07-04 14:25:43.0964 DEBUG In meltcurve, curTemp = 45.5979995727539
+2018-07-04 14:25:46.9364 DEBUG In meltcurve, curTemp = 45.726001739502
+2018-07-04 14:25:50.7664 DEBUG In meltcurve, curTemp = 45.8520011901855
+2018-07-04 14:25:54.9264 DEBUG In meltcurve, curTemp = 45.9900016784668
+2018-07-04 14:25:58.7264 DEBUG In meltcurve, curTemp = 46.1199989318848
+2018-07-04 14:26:02.5964 DEBUG In meltcurve, curTemp = 46.2599983215332
+2018-07-04 14:26:06.4564 DEBUG In meltcurve, curTemp = 46.4020004272461
+2018-07-04 14:26:10.4564 DEBUG In meltcurve, curTemp = 46.5530014038086
+2018-07-04 14:26:14.6464 DEBUG In meltcurve, curTemp = 46.7130012512207
+2018-07-04 14:26:18.7164 DEBUG In meltcurve, curTemp = 46.875
+2018-07-04 14:26:22.8864 DEBUG In meltcurve, curTemp = 47.0460014343262
+2018-07-04 14:26:27.0264 DEBUG In meltcurve, curTemp = 47.2159996032715
+2018-07-04 14:26:30.9264 DEBUG In meltcurve, curTemp = 47.3810005187988
+2018-07-04 14:26:35.0764 DEBUG In meltcurve, curTemp = 47.5610008239746
+2018-07-04 14:26:38.9164 DEBUG In meltcurve, curTemp = 47.726001739502
+2018-07-04 14:26:42.8664 DEBUG In meltcurve, curTemp = 47.8969993591309
+2018-07-04 14:26:46.9165 DEBUG In meltcurve, curTemp = 48.0779991149902
+2018-07-04 14:26:50.7364 DEBUG In meltcurve, curTemp = 48.2519989013672
+2018-07-04 14:26:54.5764 DEBUG In meltcurve, curTemp = 48.4230003356934
+2018-07-04 14:26:58.3665 DEBUG In meltcurve, curTemp = 48.5960006713867
+2018-07-04 14:27:02.4866 DEBUG In meltcurve, curTemp = 48.7859992980957
+2018-07-04 14:27:06.6072 DEBUG In meltcurve, curTemp = 48.9809989929199
+2018-07-04 14:27:10.6674 DEBUG In meltcurve, curTemp = 49.1689987182617
+2018-07-04 14:27:14.8872 DEBUG In meltcurve, curTemp = 49.3660011291504
+2018-07-04 14:27:19.1072 DEBUG In meltcurve, curTemp = 49.564998626709
+2018-07-04 14:27:23.0972 DEBUG In meltcurve, curTemp = 49.7550010681152
+2018-07-04 14:27:27.2572 DEBUG In meltcurve, curTemp = 49.9570007324219
+2018-07-04 14:27:31.1173 DEBUG In meltcurve, curTemp = 50.1419982910156
+2018-07-04 14:27:35.1972 DEBUG In meltcurve, curTemp = 50.3409996032715
+2018-07-04 14:27:39.0274 DEBUG In meltcurve, curTemp = 50.5250015258789
+2018-07-04 14:27:42.8472 DEBUG In meltcurve, curTemp = 50.7159996032715
+2018-07-04 14:27:46.7772 DEBUG In meltcurve, curTemp = 50.9080009460449
+2018-07-04 14:27:50.9373 DEBUG In meltcurve, curTemp = 51.1100006103516
+2018-07-04 14:27:54.9974 DEBUG In meltcurve, curTemp = 51.3139991760254
+2018-07-04 14:27:59.1473 DEBUG In meltcurve, curTemp = 51.515998840332
+2018-07-04 14:28:03.3372 DEBUG In meltcurve, curTemp = 51.726001739502
+2018-07-04 14:28:07.5872 DEBUG In meltcurve, curTemp = 51.9420013427734
+2018-07-04 14:28:11.3673 DEBUG In meltcurve, curTemp = 52.1349983215332
+2018-07-04 14:28:15.4773 DEBUG In meltcurve, curTemp = 52.3419990539551
+2018-07-04 14:28:19.6972 DEBUG In meltcurve, curTemp = 52.5540008544922
+2018-07-04 14:28:23.5172 DEBUG In meltcurve, curTemp = 52.7470016479492
+2018-07-04 14:28:27.4172 DEBUG In meltcurve, curTemp = 52.9449996948242
+2018-07-04 14:28:31.2773 DEBUG In meltcurve, curTemp = 53.1399993896484
+2018-07-04 14:28:35.4173 DEBUG In meltcurve, curTemp = 53.3540000915527
+2018-07-04 14:28:39.5473 DEBUG In meltcurve, curTemp = 53.5639991760254
+2018-07-04 14:28:43.6073 DEBUG In meltcurve, curTemp = 53.7770004272461
+2018-07-04 14:28:47.7273 DEBUG In meltcurve, curTemp = 53.9879989624023
+2018-07-04 14:28:51.8773 DEBUG In meltcurve, curTemp = 54.2000007629395
+2018-07-04 14:28:55.9273 DEBUG In meltcurve, curTemp = 54.4119987487793
+2018-07-04 14:28:59.7773 DEBUG In meltcurve, curTemp = 54.6110000610352
+2018-07-04 14:29:03.5575 DEBUG In meltcurve, curTemp = 54.8059997558594
+2018-07-04 14:29:07.4873 DEBUG In meltcurve, curTemp = 55.0110015869141
+2018-07-04 14:29:11.5374 DEBUG In meltcurve, curTemp = 55.2239990234375
+2018-07-04 14:29:15.3173 DEBUG In meltcurve, curTemp = 55.4179992675781
+2018-07-04 14:29:19.1773 DEBUG In meltcurve, curTemp = 55.6220016479492
+2018-07-04 14:29:23.1173 DEBUG In meltcurve, curTemp = 55.8279991149902
+2018-07-04 14:29:27.2573 DEBUG In meltcurve, curTemp = 56.048999786377
+2018-07-04 14:29:31.4573 DEBUG In meltcurve, curTemp = 56.2709999084473
+2018-07-04 14:29:35.5374 DEBUG In meltcurve, curTemp = 56.4809989929199
+2018-07-04 14:29:39.6775 DEBUG In meltcurve, curTemp = 56.7029991149902
+2018-07-04 14:29:43.4973 DEBUG In meltcurve, curTemp = 56.9049987792969
+2018-07-04 14:29:47.3473 DEBUG In meltcurve, curTemp = 57.1069984436035
+2018-07-04 14:29:51.5973 DEBUG In meltcurve, curTemp = 57.3339996337891
+2018-07-04 14:29:55.6273 DEBUG In meltcurve, curTemp = 57.5470008850098
+2018-07-04 14:29:59.4573 DEBUG In meltcurve, curTemp = 57.7490005493164
+2018-07-04 14:30:03.2573 DEBUG In meltcurve, curTemp = 57.951000213623
+2018-07-04 14:30:07.1873 DEBUG In meltcurve, curTemp = 58.1640014648438
+2018-07-04 14:30:11.1375 DEBUG In meltcurve, curTemp = 58.3740005493164
+2018-07-04 14:30:15.2773 DEBUG In meltcurve, curTemp = 58.5929985046387
+2018-07-04 14:30:19.4173 DEBUG In meltcurve, curTemp = 58.8199996948242
+2018-07-04 14:30:23.4875 DEBUG In meltcurve, curTemp = 59.0340003967285
+2018-07-04 14:30:27.6573 DEBUG In meltcurve, curTemp = 59.257999420166
+2018-07-04 14:30:31.6373 DEBUG In meltcurve, curTemp = 59.4739990234375
+2018-07-04 14:32:43.1847 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-07-04 14:32:53.5224 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-07-04 14:33:03.1751 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-07-04 14:33:14.6630 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-07-04 14:33:16.7830 DEBUG In meltcurve, curTemp = 68.5029983520508
+2018-07-04 14:33:20.6830 DEBUG In meltcurve, curTemp = 68.7170028686523
+2018-07-04 14:33:24.4730 DEBUG In meltcurve, curTemp = 68.9229965209961
+2018-07-04 14:33:28.6130 DEBUG In meltcurve, curTemp = 69.1549987792969
+2018-07-04 14:33:32.7032 DEBUG In meltcurve, curTemp = 69.3769989013672
+2018-07-04 14:33:36.8231 DEBUG In meltcurve, curTemp = 69.6110000610352
+2018-07-04 14:33:41.0431 DEBUG In meltcurve, curTemp = 69.838996887207
+2018-07-04 14:33:45.1331 DEBUG In meltcurve, curTemp = 70.0699996948242
+2018-07-04 14:46:21.8460 DEBUG ----- Starting -----
+2018-07-04 14:46:38.5783 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_14_46_38\Temperature Log.csv
+2018-07-04 14:46:38.8583 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-04 14:46:38.8683 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-04 14:46:38.8783 DEBUG Setting the temperature to 45
+2018-07-04 14:46:38.9683 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-04 14:46:38.9983 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-04 14:46:39.0083 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-04 14:46:39.0083 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-04 14:46:39.0483 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:46:39.0783 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:46:39.1083 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 14:46:39.1383 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 14:46:54.1983 DEBUG At temperature.
+2018-07-04 14:46:54.2283 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-04 14:46:54.3183 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-04 14:46:54.4683 DEBUG Setting the temperature to 85
+2018-07-04 14:46:54.5283 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-04 14:46:54.5683 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_04_14_46_38\Melt Curve logging.csv
+2018-07-04 14:46:54.8984 DEBUG In meltcurve, curTemp = 45.560001373291
+2018-07-04 14:46:58.9585 DEBUG In meltcurve, curTemp = 46.5540008544922
+2018-07-04 14:47:02.8085 DEBUG In meltcurve, curTemp = 46.7680015563965
+2018-07-04 14:47:06.7384 DEBUG In meltcurve, curTemp = 46.9650001525879
+2018-07-04 14:47:10.6385 DEBUG In meltcurve, curTemp = 47.173999786377
+2018-07-04 14:47:14.5983 DEBUG In meltcurve, curTemp = 47.3860015869141
+2018-07-04 14:47:18.4083 DEBUG In meltcurve, curTemp = 47.5940017700195
+2018-07-04 14:47:22.2085 DEBUG In meltcurve, curTemp = 47.8009986877441
+2018-07-04 14:47:26.1085 DEBUG In meltcurve, curTemp = 48.0149993896484
+2018-07-04 17:00:18.9981 DEBUG ----- Starting -----
+2018-07-04 17:00:35.1177 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_17_00_35\Temperature Log.csv
+2018-07-04 17:00:35.3678 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-04 17:00:35.3777 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-04 17:00:35.3777 DEBUG Setting the temperature to 45
+2018-07-04 17:00:35.5177 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-04 17:00:35.5777 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-04 17:00:35.5877 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-04 17:00:35.5977 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-04 17:00:35.7277 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:00:35.7878 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:00:35.8178 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:00:35.8478 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:00:51.6879 DEBUG At temperature.
+2018-07-04 17:00:51.7178 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-04 17:00:51.9277 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-04 17:00:52.0077 DEBUG Setting the temperature to 85
+2018-07-04 17:00:52.0677 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-04 17:00:52.1077 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_04_17_00_35\Melt Curve logging.csv
+2018-07-04 17:00:52.3378 DEBUG In meltcurve, curTemp = 45.5789985656738
+2018-07-04 17:00:56.2877 DEBUG In meltcurve, curTemp = 46.7190017700195
+2018-07-04 17:01:00.4377 DEBUG In meltcurve, curTemp = 46.8880004882813
+2018-07-04 17:01:04.6177 DEBUG In meltcurve, curTemp = 47.1080017089844
+2018-07-04 17:01:08.7678 DEBUG In meltcurve, curTemp = 47.3289985656738
+2018-07-04 17:01:13.0177 DEBUG In meltcurve, curTemp = 47.5610008239746
+2018-07-04 17:01:17.1579 DEBUG In meltcurve, curTemp = 47.7869987487793
+2018-07-04 17:01:21.2778 DEBUG In meltcurve, curTemp = 48.0110015869141
+2018-07-04 17:01:25.4079 DEBUG In meltcurve, curTemp = 48.242000579834
+2018-07-04 17:01:29.3179 DEBUG In meltcurve, curTemp = 48.4560012817383
+2018-07-04 17:01:33.1978 DEBUG In meltcurve, curTemp = 48.6730003356934
+2018-07-04 17:01:37.0379 DEBUG In meltcurve, curTemp = 48.8919982910156
+2018-07-04 17:01:40.8278 DEBUG In meltcurve, curTemp = 49.0989990234375
+2018-07-04 17:02:07.9441 DEBUG ----- Starting -----
+2018-07-04 17:02:22.0603 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_17_02_22\Temperature Log.csv
+2018-07-04 17:02:22.3303 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 32
+2018-07-04 17:02:22.3303 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:25.4504 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:25.4703 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:26.4904 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:29.5805 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:29.5805 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:30.6003 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:33.7203 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:33.7203 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:34.7403 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:37.9005 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:37.9203 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:38.9605 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:41.9905 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:41.9905 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:43.0222 DEBUG Cycle 5: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:45.8737 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:45.8937 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:46.9137 DEBUG Cycle 6: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:49.5008 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-07-04 17:02:49.5078 DEBUG Setting the temperature to 45
+2018-07-04 17:02:49.7123 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-04 17:02:49.7765 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 45
+2018-07-04 17:02:49.8005 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-04 17:02:49.8005 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-04 17:02:49.9680 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:02:50.0323 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:02:50.0643 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:02:50.0643 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:50.1011 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:50.1121 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:02:51.1385 DEBUG Cycle 7: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:54.2565 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:54.2806 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:55.3049 DEBUG Cycle 8: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:02:58.4287 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:02:58.4287 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:02:59.4514 DEBUG Cycle 9: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:02.5836 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:02.5836 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:03.6117 DEBUG Cycle 10: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:06.4123 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:06.4123 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:07.4022 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-07-04 17:03:07.4132 DEBUG Setting the temperature to 30
+2018-07-04 17:03:07.4651 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-07-04 17:03:07.5253 DEBUG Cycle 11: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:10.4149 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:10.4149 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:11.4343 DEBUG Cycle 12: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:14.5224 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:14.5224 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:15.5623 DEBUG Cycle 13: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:18.6725 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:18.6923 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:19.7323 DEBUG Cycle 14: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:22.8170 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:22.8380 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:23.8710 DEBUG Cycle 15: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:26.9403 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:26.9403 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:27.9648 DEBUG Cycle 16: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:30.9492 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:30.9592 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:31.9992 DEBUG Cycle 17: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:35.1393 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:35.1492 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:36.1692 DEBUG Cycle 18: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:39.1894 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:03:39.1894 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:03:40.2392 DEBUG Cycle 19: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:03:46.5252 DEBUG ----- Starting -----
+2018-07-04 17:04:01.4999 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_17_04_01\Temperature Log.csv
+2018-07-04 17:04:01.7599 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 59
+2018-07-04 17:04:01.7699 DEBUG gotoTempAndStay: temperature = 45 time = 60 ms
+2018-07-04 17:04:01.7699 DEBUG Setting the temperature to 45
+2018-07-04 17:04:01.9099 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-07-04 17:04:01.9699 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30.696 to temp is 95
+2018-07-04 17:04:01.9799 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 30.696 making settings for the temperature range: From: 0-90 To: 90-110
+2018-07-04 17:04:01.9899 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-07-04 17:04:02.0199 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:04:02.0500 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:04:02.0800 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:04:02.1101 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:04:05.8801 DEBUG At temperature.
+2018-07-04 17:04:05.9099 DEBUG gotoTempAndStay: at temperature = 45, sleeping ...
+2018-07-04 17:04:05.9799 DEBUG Meltcurve: setting the ramprate to 0.06
+2018-07-04 17:04:06.0299 DEBUG Setting the temperature to 85
+2018-07-04 17:04:06.0399 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-07-04 17:04:06.0799 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_07_04_17_04_01\Melt Curve logging.csv
+2018-07-04 17:04:06.3599 DEBUG In meltcurve, curTemp = 46.1139984130859
+2018-07-04 17:04:10.4850 DEBUG In meltcurve, curTemp = 47.1510009765625
+2018-07-04 17:04:16.8083 DEBUG ----- Starting -----
+2018-07-04 17:04:32.7257 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-07-04 17:04:32.7257 DEBUG Setting the temperature to 30
+2018-07-04 17:04:32.7828 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-07-04 17:04:32.8159 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 30
+2018-07-04 17:04:32.8159 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-07-04 17:04:32.8339 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-07-04 17:04:32.8630 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:04:32.8951 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:04:32.9583 DEBUG TEC; setting the overshootDuration to 1
+2018-07-04 17:04:33.0866 DEBUG TEC; setting the overshootoffset to 1
+2018-07-04 17:04:59.8250 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_07_04_17_04_59\Temperature Log.csv
+2018-07-04 17:05:00.0550 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 32
+2018-07-04 17:05:00.0649 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:03.1350 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:03.1549 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:04.1849 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:07.2949 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:07.2949 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:08.3151 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:11.4451 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:11.4649 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:12.4950 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:15.6551 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:15.6749 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:16.7049 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:19.6350 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:19.6549 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:20.6949 DEBUG Cycle 5: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:23.6051 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:23.6149 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:24.6351 DEBUG Cycle 6: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:27.6651 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:27.6749 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:28.6950 DEBUG Cycle 7: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:31.8251 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:31.8449 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:32.8750 DEBUG Cycle 8: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:35.8950 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:35.8950 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:36.9350 DEBUG Cycle 9: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:39.7349 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:39.7549 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:40.7949 DEBUG Cycle 10: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:43.6149 DEBUG Cycle 10: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:43.6449 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:44.6751 DEBUG Cycle 11: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:47.6451 DEBUG Cycle 11: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:47.6649 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:48.7050 DEBUG Cycle 12: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:51.7750 DEBUG Cycle 12: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:51.7950 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:52.8350 DEBUG Cycle 13: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:05:55.9249 DEBUG Cycle 13: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:05:55.9549 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:05:56.9851 DEBUG Cycle 14: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:00.0450 DEBUG Cycle 14: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:00.0650 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:01.1050 DEBUG Cycle 15: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:04.1750 DEBUG Cycle 15: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:04.1750 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:05.2050 DEBUG Cycle 16: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:08.3250 DEBUG Cycle 16: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:08.3350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:09.3550 DEBUG Cycle 17: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:12.4851 DEBUG Cycle 17: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:12.4950 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:13.5350 DEBUG Cycle 18: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:16.3350 DEBUG Cycle 18: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:16.3350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:17.3750 DEBUG Cycle 19: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:20.3951 DEBUG Cycle 19: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:20.4150 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:21.4350 DEBUG Cycle 20: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:24.4750 DEBUG Cycle 20: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:24.4750 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:25.5150 DEBUG Cycle 21: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:28.4350 DEBUG Cycle 21: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:28.4450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:29.4750 DEBUG Cycle 22: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:32.2650 DEBUG Cycle 22: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:32.2850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:33.3150 DEBUG Cycle 23: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:36.1050 DEBUG Cycle 23: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:36.1150 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:37.1450 DEBUG Cycle 24: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:40.1150 DEBUG Cycle 24: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:40.1150 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:41.1450 DEBUG Cycle 25: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:44.2352 DEBUG Cycle 25: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:44.2550 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:45.2950 DEBUG Cycle 26: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:48.3652 DEBUG Cycle 26: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:48.3850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:49.4150 DEBUG Cycle 27: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:52.5050 DEBUG Cycle 27: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:52.5050 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:53.5450 DEBUG Cycle 28: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:06:56.6150 DEBUG Cycle 28: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:06:56.6350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:06:57.6552 DEBUG Cycle 29: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:00.7851 DEBUG Cycle 29: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:00.8050 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:01.8351 DEBUG Cycle 30: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:04.9652 DEBUG Cycle 30: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:04.9950 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:06.0250 DEBUG Cycle 31: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:08.8250 DEBUG Cycle 31: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:08.8450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:09.8950 DEBUG Cycle 32: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:13.0252 DEBUG Cycle 32: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:13.0450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:14.0750 DEBUG Cycle 33: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:17.0850 DEBUG Cycle 33: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:17.0850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:18.1050 DEBUG Cycle 34: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:20.8852 DEBUG Cycle 34: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:20.9150 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:21.9452 DEBUG Cycle 35: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:24.7352 DEBUG Cycle 35: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:24.7550 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:25.8050 DEBUG Cycle 36: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:28.7152 DEBUG Cycle 36: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:28.7450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:29.7751 DEBUG Cycle 37: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:32.8250 DEBUG Cycle 37: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:32.8350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:33.8450 DEBUG Cycle 38: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:36.9152 DEBUG Cycle 38: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:36.9450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:37.9850 DEBUG Cycle 39: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:41.0751 DEBUG Cycle 39: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:41.0850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:42.1150 DEBUG Cycle 40: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:45.1652 DEBUG Cycle 40: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:45.1850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:46.2150 DEBUG Cycle 41: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:49.2450 DEBUG Cycle 41: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:49.2450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:50.2852 DEBUG Cycle 42: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:53.4450 DEBUG Cycle 42: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:53.4650 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:54.4750 DEBUG Cycle 43: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:07:57.2652 DEBUG Cycle 43: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:07:57.2850 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:07:58.3251 DEBUG Cycle 44: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:01.1151 DEBUG Cycle 44: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:01.1350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:02.1752 DEBUG Cycle 45: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:04.9650 DEBUG Cycle 45: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:04.9750 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:06.0150 DEBUG Cycle 46: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:08.9152 DEBUG Cycle 46: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:08.9350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:09.9950 DEBUG Cycle 47: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:12.7950 DEBUG Cycle 47: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:12.8050 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:13.8350 DEBUG Cycle 48: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:16.6152 DEBUG Cycle 48: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:16.6152 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:17.6450 DEBUG Cycle 49: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:20.7250 DEBUG Cycle 49: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:20.7250 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:21.7650 DEBUG Cycle 50: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:24.8350 DEBUG Cycle 50: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:24.8350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:25.8652 DEBUG Cycle 51: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:28.9451 DEBUG Cycle 51: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:28.9550 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:29.9752 DEBUG Cycle 52: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:33.0452 DEBUG Cycle 52: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:33.0650 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:34.0950 DEBUG Cycle 53: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:37.0252 DEBUG Cycle 53: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:37.0450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:38.0950 DEBUG Cycle 54: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:41.2152 DEBUG Cycle 54: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:41.2250 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:42.2750 DEBUG Cycle 55: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:45.4352 DEBUG Cycle 55: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:45.4550 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:46.4950 DEBUG Cycle 56: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:49.2852 DEBUG Cycle 56: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:49.3050 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:50.3350 DEBUG Cycle 57: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:53.2350 DEBUG Cycle 57: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:53.2450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:54.2950 DEBUG Cycle 58: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:08:57.3250 DEBUG Cycle 58: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:08:57.3350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:08:58.3950 DEBUG Cycle 59: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:01.3050 DEBUG Cycle 59: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:01.3150 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:02.3452 DEBUG Cycle 60: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:05.1350 DEBUG Cycle 60: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:05.1550 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:06.1852 DEBUG Cycle 61: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:09.2750 DEBUG Cycle 61: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:09.2950 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:10.3151 DEBUG Cycle 62: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:13.3752 DEBUG Cycle 62: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:13.3951 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:14.4351 DEBUG Cycle 63: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:17.4952 DEBUG Cycle 63: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:17.5250 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:18.5751 DEBUG Cycle 64: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:21.6450 DEBUG Cycle 64: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:21.6450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:22.6950 DEBUG Cycle 65: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:25.6250 DEBUG Cycle 65: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:25.6450 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:26.6652 DEBUG Cycle 66: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:29.6751 DEBUG Cycle 66: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:29.6751 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:30.7051 DEBUG Cycle 67: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:33.4951 DEBUG Cycle 67: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:33.5050 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:34.5450 DEBUG Cycle 68: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:37.3452 DEBUG Cycle 68: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:37.3750 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:38.3951 DEBUG Cycle 69: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:41.4051 DEBUG Cycle 69: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:41.4150 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:42.4351 DEBUG Cycle 70: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:45.2052 DEBUG Cycle 70: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:45.2350 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:46.2951 DEBUG Cycle 71: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:49.2051 DEBUG Cycle 71: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:49.2250 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:50.2750 DEBUG Cycle 72: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:53.0751 DEBUG Cycle 72: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:53.1351 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:54.1650 DEBUG Cycle 73: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:09:57.2551 DEBUG Cycle 73: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:09:57.2751 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:09:58.3151 DEBUG Cycle 74: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:01.3850 DEBUG Cycle 74: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:01.3950 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:02.4250 DEBUG Cycle 75: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:05.4851 DEBUG Cycle 75: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:05.5351 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:06.5551 DEBUG Cycle 76: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:09.6251 DEBUG Cycle 76: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:09.6351 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:10.6551 DEBUG Cycle 77: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:13.6051 DEBUG Cycle 77: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:13.6151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:14.6451 DEBUG Cycle 78: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:17.8151 DEBUG Cycle 78: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:17.8151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:18.8551 DEBUG Cycle 79: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:21.9852 DEBUG Cycle 79: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:22.0051 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:23.0651 DEBUG Cycle 80: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:25.9652 DEBUG Cycle 80: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:25.9851 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:27.0251 DEBUG Cycle 81: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:30.0552 DEBUG Cycle 81: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:30.0851 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:31.1251 DEBUG Cycle 82: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:33.9051 DEBUG Cycle 82: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:33.9151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:34.9352 DEBUG Cycle 83: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:37.7452 DEBUG Cycle 83: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:37.7651 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:38.8351 DEBUG Cycle 84: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:41.6451 DEBUG Cycle 84: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:41.6651 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:42.7251 DEBUG Cycle 85: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:45.5251 DEBUG Cycle 85: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:45.5551 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:46.6051 DEBUG Cycle 86: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:49.6051 DEBUG Cycle 86: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:49.6351 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:50.6951 DEBUG Cycle 87: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:53.7753 DEBUG Cycle 87: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:53.8051 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:54.8351 DEBUG Cycle 88: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:10:57.8951 DEBUG Cycle 88: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:10:57.9151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:10:58.9451 DEBUG Cycle 89: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:02.0051 DEBUG Cycle 89: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:02.0451 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:03.0751 DEBUG Cycle 90: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:06.1251 DEBUG Cycle 90: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:06.1351 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:07.1552 DEBUG Cycle 91: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:10.2852 DEBUG Cycle 91: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:10.3051 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:11.3451 DEBUG Cycle 92: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:14.2451 DEBUG Cycle 92: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:14.2551 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:15.2851 DEBUG Cycle 93: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:18.0651 DEBUG Cycle 93: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:18.0651 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:19.1151 DEBUG Cycle 94: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:22.1251 DEBUG Cycle 94: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:22.1451 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:23.1851 DEBUG Cycle 95: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:26.1051 DEBUG Cycle 95: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:26.1151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:27.1351 DEBUG Cycle 96: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:29.9451 DEBUG Cycle 96: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:29.9651 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:31.0051 DEBUG Cycle 97: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:33.8052 DEBUG Cycle 97: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:33.8251 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:34.8651 DEBUG Cycle 98: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:37.6751 DEBUG Cycle 98: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:37.6751 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:38.7251 DEBUG Cycle 99: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:41.7853 DEBUG Cycle 99: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:41.8151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:42.8451 DEBUG Cycle 100: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:45.9052 DEBUG Cycle 100: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:45.9151 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:46.9751 DEBUG Cycle 101: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:50.0653 DEBUG Cycle 101: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:50.0851 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:51.1052 DEBUG Cycle 102: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:54.0851 DEBUG Cycle 102: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:54.1051 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:55.1451 DEBUG Cycle 103: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:11:58.2651 DEBUG Cycle 103: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:11:58.2951 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:11:59.3351 DEBUG Cycle 104: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:02.4651 DEBUG Cycle 104: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:02.4751 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:03.5251 DEBUG Cycle 105: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:06.3165 DEBUG Cycle 105: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:06.3365 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:07.3965 DEBUG Cycle 106: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:10.3065 DEBUG Cycle 106: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:10.3265 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:11.3765 DEBUG Cycle 107: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:14.1766 DEBUG Cycle 107: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:14.1965 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:15.2365 DEBUG Cycle 108: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:18.0166 DEBUG Cycle 108: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:18.0465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:19.0865 DEBUG Cycle 109: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:21.8965 DEBUG Cycle 109: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:21.8965 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:22.9665 DEBUG Cycle 110: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:25.7465 DEBUG Cycle 110: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:25.7565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:26.7865 DEBUG Cycle 111: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:29.6666 DEBUG Cycle 111: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:29.6865 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:30.7365 DEBUG Cycle 112: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:33.8265 DEBUG Cycle 112: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:33.8365 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:34.8865 DEBUG Cycle 113: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:37.9566 DEBUG Cycle 113: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:37.9865 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:39.0465 DEBUG Cycle 114: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:42.1365 DEBUG Cycle 114: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:42.1465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:43.1865 DEBUG Cycle 115: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:46.2767 DEBUG Cycle 115: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:46.2965 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:47.3365 DEBUG Cycle 116: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:50.2465 DEBUG Cycle 116: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:50.2765 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:51.3265 DEBUG Cycle 117: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:54.4865 DEBUG Cycle 117: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:54.5065 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:55.5765 DEBUG Cycle 118: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:12:58.5966 DEBUG Cycle 118: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:12:58.6165 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:12:59.6565 DEBUG Cycle 119: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:02.4666 DEBUG Cycle 119: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:02.4865 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:03.5365 DEBUG Cycle 120: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:06.3265 DEBUG Cycle 120: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:06.3365 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:07.3865 DEBUG Cycle 121: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:10.1765 DEBUG Cycle 121: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:10.1765 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:11.2165 DEBUG Cycle 122: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:14.0465 DEBUG Cycle 122: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:14.0665 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:15.1165 DEBUG Cycle 123: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:17.8965 DEBUG Cycle 123: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:17.9265 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:18.9765 DEBUG Cycle 124: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:22.0366 DEBUG Cycle 124: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:22.0665 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:23.1265 DEBUG Cycle 125: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:26.1767 DEBUG Cycle 125: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:26.1767 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:27.2165 DEBUG Cycle 126: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:30.3365 DEBUG Cycle 126: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:30.3465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:31.3765 DEBUG Cycle 127: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:34.4465 DEBUG Cycle 127: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:34.4665 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:35.4965 DEBUG Cycle 128: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:38.5466 DEBUG Cycle 128: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:38.5565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:39.5965 DEBUG Cycle 129: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:42.6267 DEBUG Cycle 129: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:42.6465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:43.7065 DEBUG Cycle 130: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:46.6567 DEBUG Cycle 130: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:46.6567 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:47.7065 DEBUG Cycle 131: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:50.8265 DEBUG Cycle 131: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:50.8365 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:51.8665 DEBUG Cycle 132: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:54.7565 DEBUG Cycle 132: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:54.7565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:55.8465 DEBUG Cycle 133: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:13:58.6365 DEBUG Cycle 133: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:13:58.6465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:13:59.6865 DEBUG Cycle 134: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:02.4765 DEBUG Cycle 134: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:02.4865 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:03.5365 DEBUG Cycle 135: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:06.3466 DEBUG Cycle 135: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:06.3466 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:07.4165 DEBUG Cycle 136: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:10.2067 DEBUG Cycle 136: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:10.2265 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:11.2865 DEBUG Cycle 137: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:14.3467 DEBUG Cycle 137: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:14.3665 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:15.4265 DEBUG Cycle 138: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:18.4765 DEBUG Cycle 138: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:18.5065 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:19.5665 DEBUG Cycle 139: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:22.6567 DEBUG Cycle 139: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:22.6865 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:23.7265 DEBUG Cycle 140: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:26.7966 DEBUG Cycle 140: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:26.8065 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:27.8465 DEBUG Cycle 141: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:30.9565 DEBUG Cycle 141: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:30.9565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:31.9965 DEBUG Cycle 142: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:35.1065 DEBUG Cycle 142: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:35.1165 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:36.1465 DEBUG Cycle 143: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:39.1565 DEBUG Cycle 143: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:39.1665 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:40.1865 DEBUG Cycle 144: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:42.9765 DEBUG Cycle 144: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:42.9865 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:44.0165 DEBUG Cycle 145: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:46.7965 DEBUG Cycle 145: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:46.8065 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:47.8365 DEBUG Cycle 146: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:50.6165 DEBUG Cycle 146: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:50.6165 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:51.6565 DEBUG Cycle 147: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:54.4365 DEBUG Cycle 147: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:54.4365 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:55.4665 DEBUG Cycle 148: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:14:58.2565 DEBUG Cycle 148: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:14:58.2565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:14:59.2865 DEBUG Cycle 149: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:02.3466 DEBUG Cycle 149: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:02.3466 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:03.3865 DEBUG Cycle 150: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:06.4365 DEBUG Cycle 150: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:06.4465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:07.4765 DEBUG Cycle 151: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:10.5465 DEBUG Cycle 151: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:10.5765 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:11.6165 DEBUG Cycle 152: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:14.6667 DEBUG Cycle 152: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:14.6765 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:15.7165 DEBUG Cycle 153: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:18.8265 DEBUG Cycle 153: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:18.8465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:19.9065 DEBUG Cycle 154: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:22.9167 DEBUG Cycle 154: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:22.9465 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:23.9965 DEBUG Cycle 155: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:26.9067 DEBUG Cycle 155: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:26.9365 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:27.9865 DEBUG Cycle 156: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:31.1166 DEBUG Cycle 156: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:31.1166 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:32.1465 DEBUG Cycle 157: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:35.0466 DEBUG Cycle 157: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:35.0565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:36.1065 DEBUG Cycle 158: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:38.8967 DEBUG Cycle 158: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:38.9165 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:39.9465 DEBUG Cycle 159: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:42.8565 DEBUG Cycle 159: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:42.8865 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:43.9465 DEBUG Cycle 160: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:46.7567 DEBUG Cycle 160: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:46.7765 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:47.8066 DEBUG Cycle 161: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:50.5965 DEBUG Cycle 161: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:50.5965 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:51.6565 DEBUG Cycle 162: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:54.6066 DEBUG Cycle 162: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:54.6765 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:55.7065 DEBUG Cycle 163: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:15:58.7667 DEBUG Cycle 163: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:15:58.7765 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:15:59.8366 DEBUG Cycle 164: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:02.9065 DEBUG Cycle 164: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:02.9165 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:03.9865 DEBUG Cycle 165: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:07.0466 DEBUG Cycle 165: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:07.0565 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:08.1065 DEBUG Cycle 166: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:11.1067 DEBUG Cycle 166: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:11.1166 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:12.1766 DEBUG Cycle 167: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:15.0866 DEBUG Cycle 167: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:15.1066 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:16.1766 DEBUG Cycle 168: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:18.9866 DEBUG Cycle 168: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:19.0066 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:20.0766 DEBUG Cycle 169: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:22.8467 DEBUG Cycle 169: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:22.8666 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:23.8966 DEBUG Cycle 170: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:26.6867 DEBUG Cycle 170: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:26.7066 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:27.7766 DEBUG Cycle 171: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:30.5667 DEBUG Cycle 171: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:30.5667 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:31.6266 DEBUG Cycle 172: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:34.4166 DEBUG Cycle 172: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:34.4366 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:35.4766 DEBUG Cycle 173: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:38.2767 DEBUG Cycle 173: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:38.2866 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:39.3466 DEBUG Cycle 174: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:42.1367 DEBUG Cycle 174: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:42.1766 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:43.2166 DEBUG Cycle 175: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:46.2967 DEBUG Cycle 175: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:46.3066 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:47.3666 DEBUG Cycle 176: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:50.4366 DEBUG Cycle 176: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:50.4666 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:51.5066 DEBUG Cycle 177: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:54.5766 DEBUG Cycle 177: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:54.5866 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:55.6266 DEBUG Cycle 178: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:16:58.6766 DEBUG Cycle 178: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:16:58.6766 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:16:59.7366 DEBUG Cycle 179: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:02.8166 DEBUG Cycle 179: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:02.8166 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:03.8766 DEBUG Cycle 180: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:06.7966 DEBUG Cycle 180: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:06.8166 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:07.8666 DEBUG Cycle 181: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:10.8966 DEBUG Cycle 181: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:10.8966 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:11.9966 DEBUG Cycle 182: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:14.7868 DEBUG Cycle 182: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:14.8166 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:15.8666 DEBUG Cycle 183: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:18.6468 DEBUG Cycle 183: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:18.6766 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:19.7366 DEBUG Cycle 184: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:22.6568 DEBUG Cycle 184: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:22.6766 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:23.7366 DEBUG Cycle 185: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:26.7466 DEBUG Cycle 185: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:26.7766 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:27.8466 DEBUG Cycle 186: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:30.6666 DEBUG Cycle 186: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:30.6766 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:31.7266 DEBUG Cycle 187: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:34.5167 DEBUG Cycle 187: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:34.5466 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:35.6066 DEBUG Cycle 188: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:38.6733 DEBUG Cycle 188: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:38.6733 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:39.7033 DEBUG Cycle 189: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:42.7635 DEBUG Cycle 189: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:42.7733 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:43.8333 DEBUG Cycle 190: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:46.9033 DEBUG Cycle 190: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:46.9233 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:47.9933 DEBUG Cycle 191: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:51.0535 DEBUG Cycle 191: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:51.0733 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:52.1533 DEBUG Cycle 192: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:55.0635 DEBUG Cycle 192: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:55.0733 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:17:56.1333 DEBUG Cycle 193: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:17:59.0434 DEBUG Cycle 193: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:17:59.0633 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:00.1133 DEBUG Cycle 194: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:03.1233 DEBUG Cycle 194: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:03.1333 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:04.1833 DEBUG Cycle 195: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:07.0035 DEBUG Cycle 195: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:07.0333 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:08.1033 DEBUG Cycle 196: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:10.9034 DEBUG Cycle 196: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:10.9233 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:12.0233 DEBUG Cycle 197: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:14.8333 DEBUG Cycle 197: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:14.8333 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:15.8833 DEBUG Cycle 198: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:18.6735 DEBUG Cycle 198: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:18.7033 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:19.7733 DEBUG Cycle 199: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:22.5535 DEBUG Cycle 199: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:22.5833 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:23.6533 DEBUG Cycle 200: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:26.7135 DEBUG Cycle 200: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:26.7333 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:27.8033 DEBUG Cycle 201: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:30.9033 DEBUG Cycle 201: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:30.9133 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:31.9833 DEBUG Cycle 202: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:35.0535 DEBUG Cycle 202: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:35.0733 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:36.1033 DEBUG Cycle 203: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:39.1635 DEBUG Cycle 203: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:39.1834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:40.2233 DEBUG Cycle 204: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:43.3333 DEBUG Cycle 204: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:43.3533 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:44.3933 DEBUG Cycle 205: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:47.5235 DEBUG Cycle 205: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:47.5434 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:48.6033 DEBUG Cycle 206: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:51.5135 DEBUG Cycle 206: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:51.5433 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:52.6134 DEBUG Cycle 207: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:55.5135 DEBUG Cycle 207: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:55.5234 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:18:56.5833 DEBUG Cycle 208: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:18:59.3635 DEBUG Cycle 208: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:18:59.3834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:00.4633 DEBUG Cycle 209: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:03.4734 DEBUG Cycle 209: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:03.4734 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:04.5233 DEBUG Cycle 210: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:07.3433 DEBUG Cycle 210: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:07.3433 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:08.4033 DEBUG Cycle 211: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:11.1733 DEBUG Cycle 211: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:11.2134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:12.2534 DEBUG Cycle 212: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:15.3433 DEBUG Cycle 212: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:15.3734 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:16.4333 DEBUG Cycle 213: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:19.4835 DEBUG Cycle 213: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:19.5033 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:20.5734 DEBUG Cycle 214: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:23.6234 DEBUG Cycle 214: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:23.6433 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:24.6734 DEBUG Cycle 215: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:27.7635 DEBUG Cycle 215: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:27.7834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:28.8433 DEBUG Cycle 216: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:31.9333 DEBUG Cycle 216: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:31.9533 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:33.0133 DEBUG Cycle 217: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:36.1435 DEBUG Cycle 217: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:36.1633 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:37.2133 DEBUG Cycle 218: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:40.2435 DEBUG Cycle 218: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:40.2633 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:41.3034 DEBUG Cycle 219: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:44.0834 DEBUG Cycle 219: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:44.1033 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:45.1434 DEBUG Cycle 220: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:47.9533 DEBUG Cycle 220: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:47.9633 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:49.0233 DEBUG Cycle 221: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:51.8034 DEBUG Cycle 221: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:51.8333 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:52.9034 DEBUG Cycle 222: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:55.6835 DEBUG Cycle 222: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:55.7033 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:19:56.7933 DEBUG Cycle 223: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:19:59.5833 DEBUG Cycle 223: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:19:59.5833 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:00.6334 DEBUG Cycle 224: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:03.6133 DEBUG Cycle 224: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:03.6133 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:04.6734 DEBUG Cycle 225: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:07.7335 DEBUG Cycle 225: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:07.7634 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:08.8234 DEBUG Cycle 226: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:11.9135 DEBUG Cycle 226: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:11.9135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:12.9434 DEBUG Cycle 227: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:16.0034 DEBUG Cycle 227: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:16.0234 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:17.1034 DEBUG Cycle 228: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:20.2335 DEBUG Cycle 228: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:20.2634 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:21.3234 DEBUG Cycle 229: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:24.2334 DEBUG Cycle 229: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:24.2434 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:25.3034 DEBUG Cycle 230: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:28.2235 DEBUG Cycle 230: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:28.2434 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:29.3034 DEBUG Cycle 231: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:32.1134 DEBUG Cycle 231: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:32.1134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:33.1834 DEBUG Cycle 232: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:35.9634 DEBUG Cycle 232: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:35.9834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:37.0534 DEBUG Cycle 233: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:39.8434 DEBUG Cycle 233: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:39.8634 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:40.8934 DEBUG Cycle 234: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:43.6835 DEBUG Cycle 234: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:43.6934 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:44.7334 DEBUG Cycle 235: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:47.5234 DEBUG Cycle 235: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:47.5434 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:48.5934 DEBUG Cycle 236: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:51.3836 DEBUG Cycle 236: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:51.4034 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:52.5234 DEBUG Cycle 237: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:55.5934 DEBUG Cycle 237: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:55.6134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:20:56.6834 DEBUG Cycle 238: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:20:59.7434 DEBUG Cycle 238: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:20:59.7534 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:00.8034 DEBUG Cycle 239: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:03.8734 DEBUG Cycle 239: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:03.8934 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:04.9534 DEBUG Cycle 240: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:08.0534 DEBUG Cycle 240: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:08.0834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:09.1334 DEBUG Cycle 241: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:12.2635 DEBUG Cycle 241: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:12.2635 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:13.3034 DEBUG Cycle 242: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:16.3134 DEBUG Cycle 242: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:16.3234 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:17.3634 DEBUG Cycle 243: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:20.3936 DEBUG Cycle 243: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:20.4134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:21.4734 DEBUG Cycle 244: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:24.2634 DEBUG Cycle 244: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:24.2734 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:25.3334 DEBUG Cycle 245: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:28.1135 DEBUG Cycle 245: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:28.1135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:29.2034 DEBUG Cycle 246: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:31.9935 DEBUG Cycle 246: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:32.0134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:33.0434 DEBUG Cycle 247: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:35.8536 DEBUG Cycle 247: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:35.8634 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:36.9034 DEBUG Cycle 248: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:39.8734 DEBUG Cycle 248: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:39.8934 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:40.9434 DEBUG Cycle 249: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:44.0036 DEBUG Cycle 249: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:44.0036 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:45.0634 DEBUG Cycle 250: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:48.1235 DEBUG Cycle 250: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:48.1434 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:49.1834 DEBUG Cycle 251: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:52.2335 DEBUG Cycle 251: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:52.2534 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:53.3334 DEBUG Cycle 252: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:21:56.3034 DEBUG Cycle 252: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:21:56.3334 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:21:57.4134 DEBUG Cycle 253: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:00.2036 DEBUG Cycle 253: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:00.2334 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:01.3134 DEBUG Cycle 254: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:04.2634 DEBUG Cycle 254: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:04.2834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:05.3434 DEBUG Cycle 255: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:08.1635 DEBUG Cycle 255: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:08.1635 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:09.2134 DEBUG Cycle 256: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:12.0336 DEBUG Cycle 256: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:12.0534 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:13.1034 DEBUG Cycle 257: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:15.9036 DEBUG Cycle 257: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:15.9234 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:16.9834 DEBUG Cycle 258: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:19.8934 DEBUG Cycle 258: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:19.9134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:20.9934 DEBUG Cycle 259: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:23.8934 DEBUG Cycle 259: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:23.8934 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:24.9534 DEBUG Cycle 260: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:27.7436 DEBUG Cycle 260: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:27.7634 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:28.8034 DEBUG Cycle 261: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:31.8636 DEBUG Cycle 261: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:31.8934 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:32.9434 DEBUG Cycle 262: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:35.9934 DEBUG Cycle 262: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:36.0034 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:37.0434 DEBUG Cycle 263: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:40.1034 DEBUG Cycle 263: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:40.1134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:41.1734 DEBUG Cycle 264: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:44.2536 DEBUG Cycle 264: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:44.2734 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:45.3534 DEBUG Cycle 265: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:48.4436 DEBUG Cycle 265: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:48.4436 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:49.5234 DEBUG Cycle 266: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:52.5336 DEBUG Cycle 266: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:52.5535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:53.6034 DEBUG Cycle 267: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:22:56.7634 DEBUG Cycle 267: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:22:56.7834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:22:57.8534 DEBUG Cycle 268: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:00.9736 DEBUG Cycle 268: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:01.0034 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:02.0534 DEBUG Cycle 269: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:05.0634 DEBUG Cycle 269: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:05.0734 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:06.1135 DEBUG Cycle 270: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:09.0534 DEBUG Cycle 270: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:09.0534 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:10.1034 DEBUG Cycle 271: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:12.9136 DEBUG Cycle 271: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:12.9334 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:14.0035 DEBUG Cycle 272: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:16.7936 DEBUG Cycle 272: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:16.8134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:17.9034 DEBUG Cycle 273: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:20.7236 DEBUG Cycle 273: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:20.7534 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:21.8234 DEBUG Cycle 274: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:24.8935 DEBUG Cycle 274: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:24.9234 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:25.9834 DEBUG Cycle 275: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:29.0336 DEBUG Cycle 275: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:29.0535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:30.1135 DEBUG Cycle 276: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:33.1936 DEBUG Cycle 276: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:33.2134 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:34.3134 DEBUG Cycle 277: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:37.3834 DEBUG Cycle 277: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:37.3834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:38.4435 DEBUG Cycle 278: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:41.5636 DEBUG Cycle 278: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:41.5735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:42.6334 DEBUG Cycle 279: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:45.6734 DEBUG Cycle 279: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:45.6834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:46.7534 DEBUG Cycle 280: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:49.5934 DEBUG Cycle 280: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:49.5934 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:50.6334 DEBUG Cycle 281: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:53.5236 DEBUG Cycle 281: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:53.5335 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:54.5934 DEBUG Cycle 282: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:23:57.3736 DEBUG Cycle 282: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:23:57.4034 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:23:58.4635 DEBUG Cycle 283: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:01.2536 DEBUG Cycle 283: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:01.2834 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:02.3435 DEBUG Cycle 284: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:05.1535 DEBUG Cycle 284: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:05.1835 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:06.2635 DEBUG Cycle 285: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:09.0536 DEBUG Cycle 285: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:09.0735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:10.1335 DEBUG Cycle 286: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:12.9235 DEBUG Cycle 286: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:12.9335 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:13.9935 DEBUG Cycle 287: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:17.0635 DEBUG Cycle 287: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:17.0735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:18.1435 DEBUG Cycle 288: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:21.2236 DEBUG Cycle 288: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:21.2236 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:22.2935 DEBUG Cycle 289: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:25.3435 DEBUG Cycle 289: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:25.3735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:26.4835 DEBUG Cycle 290: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:29.5636 DEBUG Cycle 290: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:29.5835 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:30.6635 DEBUG Cycle 291: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:33.4736 DEBUG Cycle 291: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:33.5035 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:34.5835 DEBUG Cycle 292: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:37.6035 DEBUG Cycle 292: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:37.6135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:38.6935 DEBUG Cycle 293: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:41.7035 DEBUG Cycle 293: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:41.7135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:42.7935 DEBUG Cycle 294: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:45.9137 DEBUG Cycle 294: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:45.9335 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:47.0135 DEBUG Cycle 295: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:49.7937 DEBUG Cycle 295: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:49.8235 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:50.9135 DEBUG Cycle 296: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:53.6937 DEBUG Cycle 296: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:53.7135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:54.7735 DEBUG Cycle 297: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:24:57.5836 DEBUG Cycle 297: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:24:57.5836 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:24:58.6435 DEBUG Cycle 298: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:01.4435 DEBUG Cycle 298: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:01.4635 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:02.5235 DEBUG Cycle 299: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:05.3137 DEBUG Cycle 299: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:05.3335 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:06.3935 DEBUG Cycle 300: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:09.4535 DEBUG Cycle 300: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:09.4735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:10.5435 DEBUG Cycle 301: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:13.6135 DEBUG Cycle 301: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:13.6135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:14.6735 DEBUG Cycle 302: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:17.7437 DEBUG Cycle 302: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:17.7735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:18.8435 DEBUG Cycle 303: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:21.9237 DEBUG Cycle 303: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:21.9237 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:22.9835 DEBUG Cycle 304: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:25.8837 DEBUG Cycle 304: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:25.9035 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:26.9835 DEBUG Cycle 305: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:30.1137 DEBUG Cycle 305: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:30.1435 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:31.2535 DEBUG Cycle 306: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:34.0535 DEBUG Cycle 306: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:34.0535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:35.1335 DEBUG Cycle 307: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:38.1535 DEBUG Cycle 307: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:38.1735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:39.2135 DEBUG Cycle 308: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:42.2337 DEBUG Cycle 308: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:42.2535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:43.3235 DEBUG Cycle 309: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:46.2236 DEBUG Cycle 309: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:46.2535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:47.3135 DEBUG Cycle 310: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:50.1135 DEBUG Cycle 310: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:50.1135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:51.2035 DEBUG Cycle 311: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:53.9837 DEBUG Cycle 311: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:53.9935 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:55.0435 DEBUG Cycle 312: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:25:58.0235 DEBUG Cycle 312: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:25:58.0435 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:25:59.1135 DEBUG Cycle 313: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:02.1835 DEBUG Cycle 313: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:02.2035 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:03.2735 DEBUG Cycle 314: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:06.3635 DEBUG Cycle 314: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:06.3935 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:07.4735 DEBUG Cycle 315: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:10.5335 DEBUG Cycle 315: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:10.5535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:11.5835 DEBUG Cycle 316: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:14.6435 DEBUG Cycle 316: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:14.6435 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:15.6935 DEBUG Cycle 317: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:18.7235 DEBUG Cycle 317: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:18.7435 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:19.8035 DEBUG Cycle 318: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:22.8636 DEBUG Cycle 318: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:22.8636 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:23.9035 DEBUG Cycle 319: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:27.0337 DEBUG Cycle 319: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:27.0337 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:28.1235 DEBUG Cycle 320: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:30.9137 DEBUG Cycle 320: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:30.9435 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:32.0135 DEBUG Cycle 321: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:34.9235 DEBUG Cycle 321: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:34.9435 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:35.9835 DEBUG Cycle 322: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:38.7637 DEBUG Cycle 322: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:38.7835 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:39.8835 DEBUG Cycle 323: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:42.6637 DEBUG Cycle 323: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:42.6835 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:43.7435 DEBUG Cycle 324: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:46.5337 DEBUG Cycle 324: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:46.5535 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:47.6335 DEBUG Cycle 325: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:50.7036 DEBUG Cycle 325: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:50.7136 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:51.7635 DEBUG Cycle 326: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:54.8437 DEBUG Cycle 326: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:54.8635 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:26:55.9635 DEBUG Cycle 327: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:26:59.0236 DEBUG Cycle 327: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:26:59.0335 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:00.0735 DEBUG Cycle 328: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:03.1535 DEBUG Cycle 328: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:03.1735 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:04.2343 DEBUG Cycle 329: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:07.2944 DEBUG Cycle 329: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:07.3043 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:08.3943 DEBUG Cycle 330: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:11.5143 DEBUG Cycle 330: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:11.5343 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:12.6143 DEBUG Cycle 331: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:15.6643 DEBUG Cycle 331: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:15.6843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:16.7643 DEBUG Cycle 332: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:19.7743 DEBUG Cycle 332: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:19.7843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:20.8643 DEBUG Cycle 333: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:23.6544 DEBUG Cycle 333: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:23.6643 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:24.7443 DEBUG Cycle 334: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:27.5443 DEBUG Cycle 334: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:27.5543 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:28.6043 DEBUG Cycle 335: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:31.4843 DEBUG Cycle 335: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:31.4943 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:32.5543 DEBUG Cycle 336: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:35.3543 DEBUG Cycle 336: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:35.3644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:36.4043 DEBUG Cycle 337: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:39.1945 DEBUG Cycle 337: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:39.2143 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:40.3143 DEBUG Cycle 338: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:43.0943 DEBUG Cycle 338: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:43.1143 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:44.2043 DEBUG Cycle 339: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:47.3045 DEBUG Cycle 339: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:47.3244 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:48.3943 DEBUG Cycle 340: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:51.4445 DEBUG Cycle 340: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:51.4445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:52.5044 DEBUG Cycle 341: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:55.5745 DEBUG Cycle 341: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:55.5843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:27:56.6544 DEBUG Cycle 342: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:27:59.7643 DEBUG Cycle 342: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:27:59.7743 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:00.8644 DEBUG Cycle 343: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:03.9945 DEBUG Cycle 343: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:04.0043 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:05.0743 DEBUG Cycle 344: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:07.8645 DEBUG Cycle 344: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:07.8843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:08.9644 DEBUG Cycle 345: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:12.0843 DEBUG Cycle 345: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:12.0843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:13.1343 DEBUG Cycle 346: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:16.2544 DEBUG Cycle 346: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:16.2544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:17.3144 DEBUG Cycle 347: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:20.1043 DEBUG Cycle 347: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:20.1144 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:21.1543 DEBUG Cycle 348: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:24.0544 DEBUG Cycle 348: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:24.0643 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:25.1343 DEBUG Cycle 349: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:28.0345 DEBUG Cycle 349: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:28.0543 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:29.1444 DEBUG Cycle 350: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:32.0443 DEBUG Cycle 350: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:32.0643 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:33.1444 DEBUG Cycle 351: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:36.1143 DEBUG Cycle 351: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:36.1143 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:37.1843 DEBUG Cycle 352: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:40.2545 DEBUG Cycle 352: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:40.2843 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:41.3543 DEBUG Cycle 353: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:44.4144 DEBUG Cycle 353: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:44.4343 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:45.4943 DEBUG Cycle 354: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:48.5744 DEBUG Cycle 354: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:48.5844 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:49.6644 DEBUG Cycle 355: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:52.7244 DEBUG Cycle 355: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:52.7244 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:53.8344 DEBUG Cycle 356: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:28:56.9645 DEBUG Cycle 356: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:28:56.9844 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:28:58.0444 DEBUG Cycle 357: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:01.1744 DEBUG Cycle 357: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:01.1744 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:02.2244 DEBUG Cycle 358: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:05.0644 DEBUG Cycle 358: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:05.0644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:06.1444 DEBUG Cycle 359: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:09.0446 DEBUG Cycle 359: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:09.0644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:10.1544 DEBUG Cycle 360: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:13.0744 DEBUG Cycle 360: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:13.1144 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:14.1744 DEBUG Cycle 361: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:16.9544 DEBUG Cycle 361: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:16.9644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:18.0344 DEBUG Cycle 362: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:20.9445 DEBUG Cycle 362: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:20.9844 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:22.0744 DEBUG Cycle 363: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:24.8644 DEBUG Cycle 363: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:24.8644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:25.9544 DEBUG Cycle 364: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:28.8245 DEBUG Cycle 364: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:28.8444 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:29.9144 DEBUG Cycle 365: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:32.9844 DEBUG Cycle 365: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:32.9944 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:34.0744 DEBUG Cycle 366: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:37.1345 DEBUG Cycle 366: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:37.1644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:38.2444 DEBUG Cycle 367: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:41.3144 DEBUG Cycle 367: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:41.3544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:42.4044 DEBUG Cycle 368: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:45.4844 DEBUG Cycle 368: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:45.4844 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:46.5244 DEBUG Cycle 369: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:49.4144 DEBUG Cycle 369: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:49.4344 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:50.5144 DEBUG Cycle 370: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:53.6346 DEBUG Cycle 370: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:53.6544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:54.7444 DEBUG Cycle 371: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:29:57.5344 DEBUG Cycle 371: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:29:57.5344 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:29:58.5944 DEBUG Cycle 372: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:01.3845 DEBUG Cycle 372: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:01.3944 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:02.4444 DEBUG Cycle 373: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:05.2345 DEBUG Cycle 373: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:05.2544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:06.3144 DEBUG Cycle 374: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:09.0844 DEBUG Cycle 374: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:09.1044 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:10.1744 DEBUG Cycle 375: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:12.9745 DEBUG Cycle 375: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:12.9944 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:14.0444 DEBUG Cycle 376: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:16.8444 DEBUG Cycle 376: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:16.8444 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:17.8844 DEBUG Cycle 377: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:20.9644 DEBUG Cycle 377: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:20.9744 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:22.0544 DEBUG Cycle 378: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:25.1144 DEBUG Cycle 378: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:25.1144 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:26.2144 DEBUG Cycle 379: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:29.2846 DEBUG Cycle 379: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:29.2846 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:30.3844 DEBUG Cycle 380: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:33.4646 DEBUG Cycle 380: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:33.4844 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:34.5844 DEBUG Cycle 381: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:37.7246 DEBUG Cycle 381: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:37.7544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:38.8244 DEBUG Cycle 382: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:41.7345 DEBUG Cycle 382: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:41.7544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:42.8244 DEBUG Cycle 383: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:45.9444 DEBUG Cycle 383: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:45.9644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:47.0244 DEBUG Cycle 384: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:49.9246 DEBUG Cycle 384: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:49.9744 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:51.0244 DEBUG Cycle 385: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:53.8046 DEBUG Cycle 385: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:53.8244 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:54.9044 DEBUG Cycle 386: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:30:57.9344 DEBUG Cycle 386: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:30:57.9544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:30:59.0344 DEBUG Cycle 387: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:01.8146 DEBUG Cycle 387: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:01.8146 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:02.8844 DEBUG Cycle 388: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:05.6944 DEBUG Cycle 388: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:05.6944 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:06.7844 DEBUG Cycle 389: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:09.8346 DEBUG Cycle 389: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:09.8544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:10.9544 DEBUG Cycle 390: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:14.0444 DEBUG Cycle 390: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:14.0544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:15.1244 DEBUG Cycle 391: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:18.1746 DEBUG Cycle 391: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:18.2044 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:19.2644 DEBUG Cycle 392: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:22.3544 DEBUG Cycle 392: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:22.3644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:23.4044 DEBUG Cycle 393: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:26.5244 DEBUG Cycle 393: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:26.5445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:27.6044 DEBUG Cycle 394: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:30.6344 DEBUG Cycle 394: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:30.6444 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:31.7144 DEBUG Cycle 395: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:34.8444 DEBUG Cycle 395: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:34.8844 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:35.9644 DEBUG Cycle 396: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:38.9745 DEBUG Cycle 396: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:38.9745 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:40.0545 DEBUG Cycle 397: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:43.0645 DEBUG Cycle 397: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:43.0645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:44.1645 DEBUG Cycle 398: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:46.9446 DEBUG Cycle 398: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:46.9446 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:48.0345 DEBUG Cycle 399: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:50.8146 DEBUG Cycle 399: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:50.8345 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:51.9545 DEBUG Cycle 400: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:55.0146 DEBUG Cycle 400: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:55.0544 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:31:56.1344 DEBUG Cycle 401: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:31:59.1946 DEBUG Cycle 401: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:31:59.1946 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:00.2845 DEBUG Cycle 402: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:03.3646 DEBUG Cycle 402: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:03.3646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:04.4444 DEBUG Cycle 403: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:07.5046 DEBUG Cycle 403: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:07.5244 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:08.5844 DEBUG Cycle 404: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:11.6845 DEBUG Cycle 404: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:11.6944 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:12.7444 DEBUG Cycle 405: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:15.8544 DEBUG Cycle 405: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:15.8644 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:16.9444 DEBUG Cycle 406: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:20.0744 DEBUG Cycle 406: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:20.0944 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:21.1645 DEBUG Cycle 407: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:24.2845 DEBUG Cycle 407: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:24.2845 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:25.3544 DEBUG Cycle 408: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:28.1346 DEBUG Cycle 408: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:28.1545 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:29.2345 DEBUG Cycle 409: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:32.0344 DEBUG Cycle 409: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:32.0344 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:33.0945 DEBUG Cycle 410: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:35.8846 DEBUG Cycle 410: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:35.8945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:36.9445 DEBUG Cycle 411: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:39.7544 DEBUG Cycle 411: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:39.7745 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:40.8544 DEBUG Cycle 412: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:43.9044 DEBUG Cycle 412: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:43.9245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:44.9844 DEBUG Cycle 413: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:48.0746 DEBUG Cycle 413: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:48.0945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:49.1645 DEBUG Cycle 414: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:52.2546 DEBUG Cycle 414: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:52.2745 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:53.3345 DEBUG Cycle 415: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:32:56.3946 DEBUG Cycle 415: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:32:56.4145 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:32:57.4945 DEBUG Cycle 416: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:00.6145 DEBUG Cycle 416: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:00.6345 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:01.7145 DEBUG Cycle 417: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:04.7345 DEBUG Cycle 417: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:04.7545 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:05.8445 DEBUG Cycle 418: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:08.6345 DEBUG Cycle 418: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:08.6445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:09.7345 DEBUG Cycle 419: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:12.7445 DEBUG Cycle 419: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:12.7645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:13.8345 DEBUG Cycle 420: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:16.6246 DEBUG Cycle 420: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:16.6445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:17.7545 DEBUG Cycle 421: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:20.6647 DEBUG Cycle 421: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:20.6945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:21.8045 DEBUG Cycle 422: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:24.5946 DEBUG Cycle 422: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:24.6145 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:25.6945 DEBUG Cycle 423: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:28.4645 DEBUG Cycle 423: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:28.4745 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:29.5345 DEBUG Cycle 424: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:32.5945 DEBUG Cycle 424: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:32.6045 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:33.6445 DEBUG Cycle 425: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:36.6947 DEBUG Cycle 425: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:36.7245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:37.8045 DEBUG Cycle 426: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:40.8645 DEBUG Cycle 426: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:40.8845 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:41.9745 DEBUG Cycle 427: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:45.0247 DEBUG Cycle 427: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:45.0445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:46.1345 DEBUG Cycle 428: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:49.2545 DEBUG Cycle 428: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:49.2745 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:50.3545 DEBUG Cycle 429: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:53.1745 DEBUG Cycle 429: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:53.1945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:54.2745 DEBUG Cycle 430: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:33:57.2847 DEBUG Cycle 430: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:33:57.3045 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:33:58.4045 DEBUG Cycle 431: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:01.1845 DEBUG Cycle 431: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:01.1945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:02.2645 DEBUG Cycle 432: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:05.2145 DEBUG Cycle 432: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:05.2245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:06.2945 DEBUG Cycle 433: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:09.1145 DEBUG Cycle 433: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:09.1445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:10.2245 DEBUG Cycle 434: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:13.0245 DEBUG Cycle 434: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:13.0345 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:14.1245 DEBUG Cycle 435: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:16.9247 DEBUG Cycle 435: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:16.9247 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:18.0045 DEBUG Cycle 436: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:21.0847 DEBUG Cycle 436: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:21.1045 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:22.1845 DEBUG Cycle 437: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:25.2345 DEBUG Cycle 437: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:25.2545 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:26.3445 DEBUG Cycle 438: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:29.4047 DEBUG Cycle 438: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:29.4245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:30.4945 DEBUG Cycle 439: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:33.5647 DEBUG Cycle 439: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:33.5845 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:34.6845 DEBUG Cycle 440: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:37.4745 DEBUG Cycle 440: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:37.4945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:38.5845 DEBUG Cycle 441: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:41.6045 DEBUG Cycle 441: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:41.6145 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:42.6645 DEBUG Cycle 442: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:45.4546 DEBUG Cycle 442: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:45.4645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:46.5145 DEBUG Cycle 443: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:49.3047 DEBUG Cycle 443: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:49.3245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:50.3945 DEBUG Cycle 444: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:53.3945 DEBUG Cycle 444: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:53.4245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:54.5045 DEBUG Cycle 445: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:34:57.3145 DEBUG Cycle 445: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:34:57.3145 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:34:58.4045 DEBUG Cycle 446: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:01.2945 DEBUG Cycle 446: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:01.3145 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:02.3845 DEBUG Cycle 447: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:05.1945 DEBUG Cycle 447: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:05.1945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:06.2445 DEBUG Cycle 448: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:09.1245 DEBUG Cycle 448: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:09.1345 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:10.2045 DEBUG Cycle 449: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:13.2747 DEBUG Cycle 449: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:13.2945 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:14.3445 DEBUG Cycle 450: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:17.4047 DEBUG Cycle 450: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:17.4245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:18.5145 DEBUG Cycle 451: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:21.5747 DEBUG Cycle 451: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:21.5845 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:22.6545 DEBUG Cycle 452: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:25.7245 DEBUG Cycle 452: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:25.7545 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:26.8545 DEBUG Cycle 453: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:29.8645 DEBUG Cycle 453: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:29.8645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:30.9545 DEBUG Cycle 454: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:34.0845 DEBUG Cycle 454: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:34.1045 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:35.1945 DEBUG Cycle 455: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:37.9847 DEBUG Cycle 455: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:38.0145 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:39.0845 DEBUG Cycle 456: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:42.0045 DEBUG Cycle 456: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:42.0045 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:43.0646 DEBUG Cycle 457: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:45.9845 DEBUG Cycle 457: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:45.9946 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:47.0945 DEBUG Cycle 458: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:49.8947 DEBUG Cycle 458: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:49.9345 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:51.0045 DEBUG Cycle 459: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:54.0145 DEBUG Cycle 459: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:54.0345 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:55.0945 DEBUG Cycle 460: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:35:58.1447 DEBUG Cycle 460: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:35:58.1645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:35:59.2546 DEBUG Cycle 461: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:02.3245 DEBUG Cycle 461: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:02.3445 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:03.4445 DEBUG Cycle 462: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:06.5046 DEBUG Cycle 462: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:06.5046 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:07.5745 DEBUG Cycle 463: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:10.6545 DEBUG Cycle 463: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:10.6645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:11.7645 DEBUG Cycle 464: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:14.7845 DEBUG Cycle 464: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:14.7845 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:15.8645 DEBUG Cycle 465: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:19.0147 DEBUG Cycle 465: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:19.0245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:20.1345 DEBUG Cycle 466: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:23.0447 DEBUG Cycle 466: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:23.0646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:24.1546 DEBUG Cycle 467: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:26.9447 DEBUG Cycle 467: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:26.9646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:28.0346 DEBUG Cycle 468: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:30.8445 DEBUG Cycle 468: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:30.8645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:31.9345 DEBUG Cycle 469: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:34.7446 DEBUG Cycle 469: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:34.7546 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:35.8245 DEBUG Cycle 470: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:38.6445 DEBUG Cycle 470: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:38.6645 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:39.7546 DEBUG Cycle 471: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:42.5547 DEBUG Cycle 471: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:42.5746 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:43.6745 DEBUG Cycle 472: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:46.7246 DEBUG Cycle 472: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:46.7545 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:47.8545 DEBUG Cycle 473: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:50.9347 DEBUG Cycle 473: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:50.9646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:52.0145 DEBUG Cycle 474: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:55.0747 DEBUG Cycle 474: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:55.0747 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:36:56.1346 DEBUG Cycle 475: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:36:59.1947 DEBUG Cycle 475: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:36:59.2146 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:00.2746 DEBUG Cycle 476: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:03.0646 DEBUG Cycle 476: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:03.0646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:04.1646 DEBUG Cycle 477: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:07.2846 DEBUG Cycle 477: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:07.2846 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:08.3346 DEBUG Cycle 478: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:11.4846 DEBUG Cycle 478: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:11.5046 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:12.5846 DEBUG Cycle 479: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:15.7046 DEBUG Cycle 479: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:15.7146 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:16.7646 DEBUG Cycle 480: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:19.5548 DEBUG Cycle 480: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:19.5846 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:20.6746 DEBUG Cycle 481: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:23.4546 DEBUG Cycle 481: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:23.4846 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:24.5746 DEBUG Cycle 482: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:27.3747 DEBUG Cycle 482: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:27.3747 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:28.4846 DEBUG Cycle 483: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:31.2746 DEBUG Cycle 483: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:31.3046 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:32.4046 DEBUG Cycle 484: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:35.4548 DEBUG Cycle 484: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:35.4646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:36.5146 DEBUG Cycle 485: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:39.5847 DEBUG Cycle 485: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:39.5847 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:40.6546 DEBUG Cycle 486: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:43.7247 DEBUG Cycle 486: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:43.7247 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:44.7846 DEBUG Cycle 487: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:47.8646 DEBUG Cycle 487: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:47.8846 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:48.9946 DEBUG Cycle 488: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:51.8746 DEBUG Cycle 488: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:51.8946 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:53.0046 DEBUG Cycle 489: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:37:56.1446 DEBUG Cycle 489: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:37:56.1646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:37:57.2546 DEBUG Cycle 490: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:00.2646 DEBUG Cycle 490: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:00.2746 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:01.3646 DEBUG Cycle 491: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:04.1748 DEBUG Cycle 491: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:04.2246 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:05.2746 DEBUG Cycle 492: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:08.0646 DEBUG Cycle 492: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:08.0646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:09.1546 DEBUG Cycle 493: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:11.9448 DEBUG Cycle 493: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:11.9646 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:13.0446 DEBUG Cycle 494: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:15.8347 DEBUG Cycle 494: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:15.8546 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:16.9346 DEBUG Cycle 495: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:19.7246 DEBUG Cycle 495: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:19.7246 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:20.8046 DEBUG Cycle 496: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:23.8646 DEBUG Cycle 496: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:23.8846 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:24.9546 DEBUG Cycle 497: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:28.0046 DEBUG Cycle 497: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:28.0046 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:29.0846 DEBUG Cycle 498: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:32.1348 DEBUG Cycle 498: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:32.1546 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-07-04 17:38:33.2246 DEBUG Cycle 499: Executing the step: HelixGen.Model.SampleStep
+2018-07-04 17:38:36.3046 DEBUG Cycle 499: Executing the step: HelixGen.Model.ProtocolStep
+2018-07-04 17:38:36.3446 DEBUG Executing the action: HelixGen.Model.timeAction

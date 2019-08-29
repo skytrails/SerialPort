@@ -1,0 +1,4 @@
+2017-06-05 13:57:42.5463 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2017-06-05 13:57:42.5643 DEBUG ReadCmd, got an exception: The port is closed.
+2017-06-05 13:57:42.5794 DEBUG ReadCmd, got an exception: The port is closed.

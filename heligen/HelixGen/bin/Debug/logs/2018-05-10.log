@@ -1,0 +1,479 @@
+2018-05-10 09:18:04.5463 DEBUG ----- Starting -----
+2018-05-10 09:18:35.0784 DEBUG ----- Starting -----
+2018-05-10 09:20:32.9497 DEBUG ----- Starting -----
+2018-05-10 09:20:57.8451 DEBUG ----- Starting -----
+2018-05-10 09:21:05.8262 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:22:42.2268 DEBUG ----- Starting -----
+2018-05-10 09:22:46.0383 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:25:37.1770 DEBUG ----- Starting -----
+2018-05-10 09:25:49.3878 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:29:05.3145 DEBUG ----- Starting -----
+2018-05-10 09:35:48.3743 DEBUG ----- Starting -----
+2018-05-10 09:35:52.1351 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:36:18.2964 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 09:39:48.6856 DEBUG ----- Starting -----
+2018-05-10 09:39:54.1304 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:42:23.2066 DEBUG ----- Starting -----
+2018-05-10 09:42:24.2733 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:45:13.6711 DEBUG ----- Starting -----
+2018-05-10 09:45:14.6280 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:52:41.7136 DEBUG ----- Starting -----
+2018-05-10 09:52:42.6969 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 09:52:58.4918 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 09:53:08.6058 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 09:53:50.7247 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 09:54:03.7996 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 09:59:05.5435 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 09:59:17.8240 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:25:35.4263 DEBUG ----- Starting -----
+2018-05-10 10:25:36.1864 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 10:25:49.6404 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_25_49\Temperature Log.csv
+2018-05-10 10:25:49.9507 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:25:49.9707 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:25:49.9807 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-10 10:25:49.9807 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2018-05-10 10:25:50.0007 DEBUG Setting the temperature to 72
+2018-05-10 10:25:50.0307 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2018-05-10 10:25:50.1607 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is -2.688 to temp is 95
+2018-05-10 10:25:50.1807 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for -2.688 to 95.
+2018-05-10 10:28:50.9605 DEBUG ----- Starting -----
+2018-05-10 10:28:52.2730 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 10:29:12.3557 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_29_12\Temperature Log.csv
+2018-05-10 10:29:12.6557 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:29:12.6857 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:29:12.7057 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-10 10:29:12.7157 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2018-05-10 10:29:12.7357 DEBUG Setting the temperature to 72
+2018-05-10 10:29:12.8457 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2018-05-10 10:29:12.9757 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 26.86 to temp is 95
+2018-05-10 10:29:13.0057 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 26.86 making settings for the temperature range: From: 0-90 To: 90-110
+2018-05-10 10:29:13.0157 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-10 10:29:13.0557 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:29:13.0857 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:29:13.1157 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:29:13.1657 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:29:29.6558 DEBUG At temperature.
+2018-05-10 10:29:29.6856 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2018-05-10 10:29:29.7056 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:29:44.7257 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:30:24.8253 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:31:07.0282 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:31:09.9128 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:31:10.1528 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:31:10.1528 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-10 10:31:10.1728 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2018-05-10 10:31:10.1828 DEBUG Setting the temperature to 72
+2018-05-10 10:31:10.2628 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2018-05-10 10:31:10.3328 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 72
+2018-05-10 10:31:10.3328 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-05-10 10:31:10.3428 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-10 10:31:10.3728 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:31:10.4128 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:31:10.4428 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:31:10.4728 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:31:37.0528 DEBUG At temperature.
+2018-05-10 10:31:37.0928 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2018-05-10 10:31:37.1127 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:31:52.1429 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:35:28.3824 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:35:29.5912 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:35:37.1620 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:35:53.8738 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:37:00.8967 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:37:00.9067 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-10 10:37:00.9267 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2018-05-10 10:37:00.9467 DEBUG Setting the temperature to 72
+2018-05-10 10:37:01.1267 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2018-05-10 10:37:01.3167 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 72
+2018-05-10 10:37:01.3267 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-05-10 10:37:01.3367 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-10 10:37:01.4167 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:37:01.4967 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:37:01.5267 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:37:01.5567 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:37:05.0468 DEBUG At temperature.
+2018-05-10 10:37:05.0767 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2018-05-10 10:37:05.1067 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:38:18.8715 DEBUG ----- Starting -----
+2018-05-10 10:38:19.9730 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 10:38:34.4218 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_38_34\Temperature Log.csv
+2018-05-10 10:38:34.7140 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:38:34.7439 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:38:34.7638 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:38:39.7840 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:38:44.2681 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:38:50.0289 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:38:50.3087 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:38:50.3288 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:38:55.3489 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:39:03.0563 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:39:05.8602 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:39:05.8702 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:39:10.8902 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:39:23.7286 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:39:26.4226 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:39:26.4426 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:39:31.4627 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:42:18.0671 DEBUG ----- Starting -----
+2018-05-10 10:42:19.3342 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 10:42:30.4835 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_42_30\Temperature Log.csv
+2018-05-10 10:42:40.1241 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:42:54.7265 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:43:15.1590 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:43:21.2532 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:43:58.1881 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:44:11.1973 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:47:00.1849 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:47:00.2049 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:47:00.2149 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:47:05.2351 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:47:37.5702 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:47:44.0013 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:47:58.2001 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:48:01.1747 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:48:01.1846 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:48:06.2047 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:48:09.6990 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:48:10.9903 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 10:48:13.5589 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:48:13.5589 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:48:18.5891 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:48:25.7792 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:48:25.7792 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:48:30.8176 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:48:46.4031 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:48:46.4031 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:48:51.4331 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:49:30.6929 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_49_30\Temperature Log.csv
+2018-05-10 10:49:35.3030 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:49:35.3130 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:49:35.3230 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:49:40.3431 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:49:41.5730 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:49:41.6030 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:49:46.6231 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:49:47.8829 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:49:47.9130 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:49:52.9431 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:49:54.2029 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:49:54.2329 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:49:59.2630 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:50:00.5329 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:50:00.5529 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:50:05.5829 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:50:29.9529 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_50_29\Temperature Log.csv
+2018-05-10 10:50:30.2829 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:50:30.3329 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:50:30.3529 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:50:35.3731 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:50:36.5729 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:50:36.5929 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:50:41.6229 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:50:42.7929 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:50:42.7929 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:50:47.8129 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:50:49.0228 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:50:49.0328 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:50:54.0630 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:50:55.2428 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:50:55.2729 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:51:00.2928 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:51:31.2028 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_51_31\Temperature Log.csv
+2018-05-10 10:51:31.4828 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:51:31.5028 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:51:31.5128 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:51:36.5229 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:51:37.7228 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:51:37.7428 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:51:42.7628 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:51:43.9528 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:51:43.9628 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:51:48.9928 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:51:50.1927 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:51:50.2027 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:51:55.2229 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:51:56.4827 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:51:56.5027 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:52:01.5328 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:52:26.6427 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_10_52_26\Temperature Log.csv
+2018-05-10 10:52:26.9727 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 10:52:27.0027 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:52:27.0127 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:52:32.0429 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:52:33.2427 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:52:33.2427 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:52:38.2729 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:52:39.4627 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:52:39.4827 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:52:44.5028 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:52:45.7127 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:52:45.7427 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:52:50.7628 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 10:52:51.9527 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 10:52:51.9726 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 10:52:55.3899 DEBUG Running the SetPCRTemperature command.  Temperature is 72
+2018-05-10 10:52:55.4017 DEBUG Setting the temperature to 72
+2018-05-10 10:52:55.4625 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2018-05-10 10:52:55.5102 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 72
+2018-05-10 10:52:55.5292 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-05-10 10:52:55.5466 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-10 10:52:55.5895 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:52:55.6217 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:52:55.6532 DEBUG TEC; setting the overshootDuration to 1
+2018-05-10 10:52:55.6848 DEBUG TEC; setting the overshootoffset to 1
+2018-05-10 10:52:56.9856 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:16:01.7278 DEBUG ----- Starting -----
+2018-05-10 13:16:02.9472 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 13:16:17.5129 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_13_16_17\Temperature Log.csv
+2018-05-10 13:16:17.7530 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 13:16:17.8029 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:16:17.8229 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:16:22.8430 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:16:24.0330 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:16:24.0729 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:16:29.0930 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:16:30.2928 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:16:30.3128 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:16:35.3430 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:16:36.5329 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:16:36.5629 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:16:41.6030 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:16:42.8028 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:16:42.8229 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:16:47.8430 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:18:09.5986 DEBUG ----- Starting -----
+2018-05-10 13:18:10.6078 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 13:18:32.9972 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_13_18_32\Temperature Log.csv
+2018-05-10 13:18:33.2349 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 13:18:33.2549 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:18:33.2649 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:18:38.2849 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:18:39.5349 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:18:39.5949 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:18:44.6251 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:18:45.8949 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:18:45.9349 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:18:50.9649 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:18:51.7549 DEBUG Protocol::Execute caught an exception: The calling thread cannot access this object because a different thread owns it.
+2018-05-10 13:20:34.2891 DEBUG ----- Starting -----
+2018-05-10 13:20:35.2584 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 13:20:46.9839 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_13_20_46\Temperature Log.csv
+2018-05-10 13:20:47.2370 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 13:20:47.2470 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:20:47.2470 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:20:52.2770 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:21:09.6442 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:21:30.9881 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:21:40.0286 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:21:40.5487 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:21:40.5786 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:21:45.5987 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:21:53.4192 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:21:54.7822 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:21:56.0629 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:21:56.0829 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:22:01.1029 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:22:17.4578 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:22:53.2688 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:23:10.0100 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:23:11.9988 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:23:17.4405 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:23:18.7000 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:23:23.4861 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:24:12.2148 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:24:12.6048 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:24:12.6048 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:24:17.6450 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:24:59.0445 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:04.4279 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:20.1573 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:27.9271 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:30.0270 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:35.0195 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:36.9313 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:42.0797 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:25:57.4572 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:27:01.3536 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:27:07.3793 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:27:10.8990 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:28:44.6018 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:28:58.4417 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:34:55.7019 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:34:59.2542 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:35:13.0510 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:35:13.3010 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:35:13.3410 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:35:18.3638 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:37:14.3886 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:37:26.1236 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:38:36.1986 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:39:12.5219 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:39:22.4758 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:39:30.4883 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:39:37.8813 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:39:56.3587 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:16.0395 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:19.5309 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:34.9141 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:37.6807 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:44.2215 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:50.2584 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:54.5175 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:40:59.0421 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:41:02.4258 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:41:02.4357 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:41:07.4558 DEBUG Cycle 5: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:41:12.6688 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:41:32.6697 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:41:48.4969 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:41:54.3059 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:42:04.4313 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:42:11.3437 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:42:18.2724 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:42:33.3992 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:42:42.5795 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:42:52.3270 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:43:00.5507 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:43:15.4474 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:43:27.9194 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:43:30.2468 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:43:30.2468 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:43:35.2769 DEBUG Cycle 6: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:44:07.6369 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:44:38.0048 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:44:55.4203 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:45:09.7993 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:45:32.1153 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:45:47.7508 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:45:54.7808 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:47:01.9770 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:47:48.4291 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:52:19.6597 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:52:28.7859 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:52:39.6253 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:52:45.0802 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:53:58.5206 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:54:14.3260 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:55:17.7380 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:55:17.9780 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 13:55:17.9780 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 13:55:23.0055 DEBUG Cycle 7: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 13:56:40.6376 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:56:42.4741 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:56:49.8077 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:56:57.7864 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 13:58:02.2361 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:00:08.8402 DEBUG ----- Starting -----
+2018-05-10 14:02:59.5522 DEBUG ----- Starting -----
+2018-05-10 14:04:57.1581 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 14:05:13.1803 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_10_14_05_13\Temperature Log.csv
+2018-05-10 14:05:27.4571 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:05:47.4408 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:05:48.9258 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:06:47.7348 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:07:12.5657 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:07:12.5757 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 12
+2018-05-10 14:07:12.5957 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-10 14:07:12.6057 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-10 14:07:17.6223 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2018-05-10 14:13:21.5273 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:13:31.2017 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:13:34.6907 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:13:35.8542 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:13:37.3031 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:14:20.2550 DEBUG ----- Starting -----
+2018-05-10 14:14:21.1750 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 14:28:24.6361 DEBUG ----- Starting -----
+2018-05-10 14:28:45.8168 DEBUG ----- Starting -----
+2018-05-10 14:28:46.6249 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 14:32:16.2652 DEBUG ----- Starting -----
+2018-05-10 14:32:17.3301 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 14:36:31.3753 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:38:21.0589 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:38:28.5221 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:38:43.1870 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:41:44.3240 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:41:49.4716 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:41:54.7951 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:42:08.6031 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:42:20.9700 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:42:32.7679 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:42:46.8702 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:43:05.8687 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:43:13.1458 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:43:52.7202 DEBUG ----- Starting -----
+2018-05-10 14:44:24.7827 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 14:53:50.3900 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:54:31.2186 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:54:32.7912 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:54:34.8983 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:55:09.1011 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 14:55:40.6349 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:10:46.2807 DEBUG ----- Starting -----
+2018-05-10 15:11:05.0913 DEBUG ----- Starting -----
+2018-05-10 15:11:49.5550 DEBUG ----- Starting -----
+2018-05-10 15:12:13.7180 DEBUG ----- Starting -----
+2018-05-10 15:16:43.2538 DEBUG ----- Starting -----
+2018-05-10 15:17:37.7188 DEBUG ----- Starting -----
+2018-05-10 15:17:53.1911 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-05-10 15:19:17.8992 DEBUG ----- Starting -----
+2018-05-10 15:19:30.2405 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-05-10 15:19:41.8663 DEBUG ----- Starting -----
+2018-05-10 15:19:52.7901 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-05-10 15:22:02.4122 DEBUG ----- Starting -----
+2018-05-10 15:22:17.6739 DEBUG ----- Starting -----
+2018-05-10 15:22:58.9945 DEBUG ----- Starting -----
+2018-05-10 15:23:10.0043 DEBUG ----- Starting -----
+2018-05-10 15:24:55.1164 DEBUG ----- Starting -----
+2018-05-10 15:25:28.7770 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 15:26:27.9441 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:26:29.7271 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:27:11.4448 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:27:17.2110 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:27:31.2616 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:27:40.3078 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:27:53.4883 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:41:45.4668 DEBUG ----- Starting -----
+2018-05-10 15:41:59.5422 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 15:42:15.7421 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:45:39.7327 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:47:59.0150 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:48:00.6190 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:53:54.3241 DEBUG ----- Starting -----
+2018-05-10 15:54:24.2956 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 15:54:56.0042 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:57:17.0357 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:57:18.1286 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 15:57:19.2148 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 16:03:05.8648 DEBUG ----- Starting -----
+2018-05-10 16:03:22.4188 DEBUG ----- Starting -----
+2018-05-10 16:06:57.8828 DEBUG ----- Starting -----
+2018-05-10 16:07:09.8359 DEBUG ----- Starting -----
+2018-05-10 16:09:01.8083 DEBUG ----- Starting -----
+2018-05-10 16:16:31.8198 DEBUG ----- Starting -----
+2018-05-10 16:16:41.8887 DEBUG ----- Starting -----
+2018-05-10 16:17:23.5275 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 16:17:36.1199 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 16:17:46.8388 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 16:17:48.2054 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 16:26:01.4985 DEBUG ----- Starting -----
+2018-05-10 16:26:17.8099 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 16:26:34.0871 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 16:26:38.2900 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 16:27:00.9191 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 16:27:14.8321 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-10 17:02:06.4278 DEBUG ----- Starting -----
+2018-05-10 17:02:23.7083 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 17:05:13.3308 DEBUG ----- Starting -----
+2018-05-10 17:05:20.3370 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 17:08:39.3744 DEBUG ----- Starting -----
+2018-05-10 17:08:44.4540 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 17:09:51.3479 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-10 17:09:51.3779 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-10 17:09:51.3979 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-10 17:29:53.2959 DEBUG ----- Starting -----
+2018-05-10 17:30:07.9299 DEBUG ----- Starting -----
+2018-05-10 17:30:24.7697 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.
+2018-05-10 17:35:51.7734 DEBUG ----- Starting -----
+2018-05-10 17:35:55.2971 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM8' does not exist.

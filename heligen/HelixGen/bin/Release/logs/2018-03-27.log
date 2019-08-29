@@ -1,0 +1,4 @@
+2018-03-27 09:31:14.6043 DEBUG ----- Starting -----
+2018-03-27 09:31:18.3845 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-03-27 09:32:06.3545 DEBUG ----- Starting -----
+2018-03-27 09:32:16.0527 DEBUG ----- Starting -----

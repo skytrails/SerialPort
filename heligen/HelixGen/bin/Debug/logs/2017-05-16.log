@@ -1,0 +1,1978 @@
+2017-05-16 08:16:08.2974 DEBUG ----- Starting -----
+2017-05-16 08:16:08.9732 DEBUG Sending command ">VR01"
+2017-05-16 08:16:08.9842 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 08:16:08.9842 DEBUG Sending command ">LC00=0"
+2017-05-16 08:16:09.0474 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:16:09.0474 DEBUG Sending command ">LC01=0"
+2017-05-16 08:16:09.0795 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:16:09.0795 DEBUG Sending command ">LC02=0"
+2017-05-16 08:16:09.1116 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:16:09.1116 DEBUG Sending command ">LC03=0"
+2017-05-16 08:16:09.1436 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:16:09.1436 DEBUG Sending command ">LC04=0"
+2017-05-16 08:16:09.1757 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:16:09.1757 DEBUG Sending command ">LC05=0"
+2017-05-16 08:16:09.2078 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:16:11.1452 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-16 08:16:12.7656 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 08:16:12.7909 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 08:21:29.5122 DEBUG ReadCmd, got an exception: The operation has timed out.
+2017-05-16 08:33:28.7101 DEBUG ----- Starting -----
+2017-05-16 08:33:29.3087 DEBUG Sending command ">VR01"
+2017-05-16 08:33:29.3228 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 08:33:29.3228 DEBUG Sending command ">LC00=0"
+2017-05-16 08:33:29.4120 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:33:29.4421 DEBUG Sending command ">LC01=0"
+2017-05-16 08:33:29.4802 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:33:29.5213 DEBUG Sending command ">LC02=0"
+2017-05-16 08:33:29.5754 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:33:29.5754 DEBUG Sending command ">LC03=0"
+2017-05-16 08:33:29.6075 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:33:29.6617 DEBUG Sending command ">LC04=0"
+2017-05-16 08:33:29.7038 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:33:29.7148 DEBUG Sending command ">LC05=0"
+2017-05-16 08:33:29.7509 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:33:32.9490 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 08:33:32.9762 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 08:37:06.8204 DEBUG ----- Starting -----
+2017-05-16 08:37:07.4893 DEBUG Sending command ">VR01"
+2017-05-16 08:37:07.5024 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 08:37:07.5024 DEBUG Sending command ">LC00=0"
+2017-05-16 08:37:07.5645 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:37:07.5705 DEBUG Sending command ">LC01=0"
+2017-05-16 08:37:07.5967 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:37:07.6027 DEBUG Sending command ">LC02=0"
+2017-05-16 08:37:07.6284 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:37:07.6345 DEBUG Sending command ">LC03=0"
+2017-05-16 08:37:07.6605 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:37:07.6651 DEBUG Sending command ">LC04=0"
+2017-05-16 08:37:07.6926 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:37:07.6978 DEBUG Sending command ">LC05=0"
+2017-05-16 08:37:07.7242 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:37:10.9975 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 08:37:11.0221 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 08:38:01.1315 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_08_38_01\Temperature Log.csv
+2017-05-16 08:38:01.1729 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 08:38:01.1835 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 08:38:01.2216 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 08:38:10.6677 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:38:10.7313 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 08:38:12.6972 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 08:38:12.7505 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 08:38:12.7583 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 08:38:12.7583 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 08:38:12.7772 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 3
+2017-05-16 08:38:16.7289 DEBUG ----- Starting -----
+2017-05-16 08:38:17.4308 DEBUG Sending command ">VR01"
+2017-05-16 08:38:17.4308 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 08:38:17.4528 DEBUG Sending command ">LC00=0"
+2017-05-16 08:38:17.5040 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:38:17.5140 DEBUG Sending command ">LC01=0"
+2017-05-16 08:38:17.5361 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:38:17.5431 DEBUG Sending command ">LC02=0"
+2017-05-16 08:38:17.5682 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:38:17.5762 DEBUG Sending command ">LC03=0"
+2017-05-16 08:38:17.6003 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:38:17.6073 DEBUG Sending command ">LC04=0"
+2017-05-16 08:38:17.6324 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:38:17.6378 DEBUG Sending command ">LC05=0"
+2017-05-16 08:38:17.6639 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:38:19.6207 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-16 08:38:20.1798 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /01N3R; iteration: 3
+2017-05-16 08:38:20.1798 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 08:38:32.0701 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 08:38:32.0701 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /01N3R; iteration: 3
+2017-05-16 08:38:33.4989 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 08:38:33.5241 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 08:41:45.3018 DEBUG ----- Starting -----
+2017-05-16 08:41:45.9651 DEBUG Sending command ">VR01"
+2017-05-16 08:41:45.9919 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 08:41:45.9919 DEBUG Sending command ">LC00=0"
+2017-05-16 08:41:46.0570 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:41:46.0570 DEBUG Sending command ">LC01=0"
+2017-05-16 08:41:46.1171 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:41:46.1171 DEBUG Sending command ">LC02=0"
+2017-05-16 08:41:46.1656 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:41:46.1656 DEBUG Sending command ">LC03=0"
+2017-05-16 08:41:46.1968 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:41:46.1968 DEBUG Sending command ">LC04=0"
+2017-05-16 08:41:46.2451 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:41:46.2580 DEBUG Sending command ">LC05=0"
+2017-05-16 08:41:46.2934 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:41:49.9128 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 08:41:49.9266 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 08:47:49.5964 DEBUG ----- Starting -----
+2017-05-16 08:47:50.2212 DEBUG Sending command ">VR01"
+2017-05-16 08:47:50.2573 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 08:47:50.2684 DEBUG Sending command ">LC00=0"
+2017-05-16 08:47:50.3207 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:47:50.3207 DEBUG Sending command ">LC01=0"
+2017-05-16 08:47:50.3533 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:47:50.3533 DEBUG Sending command ">LC02=0"
+2017-05-16 08:47:50.4012 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:47:50.4012 DEBUG Sending command ">LC03=0"
+2017-05-16 08:47:50.4490 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:47:50.4769 DEBUG Sending command ">LC04=0"
+2017-05-16 08:47:50.5128 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:47:50.5128 DEBUG Sending command ">LC05=0"
+2017-05-16 08:47:50.5450 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 08:47:52.5150 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-16 08:47:54.5305 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 08:47:54.5449 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 08:48:38.3452 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_08_48_38\Temperature Log.csv
+2017-05-16 08:48:38.3785 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 08:48:38.3895 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 08:48:38.4153 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 08:48:47.8607 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:48:47.9400 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 08:48:49.9062 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 08:48:49.9838 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 08:48:49.9987 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 08:48:50.0107 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 08:48:50.0340 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 3
+2017-05-16 08:48:50.1139 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 2
+2017-05-16 08:48:50.2097 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1
+2017-05-16 08:48:50.2341 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 08:48:50.2552 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 08:48:50.2642 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 08:48:50.2642 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 08:48:50.8677 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 08:48:50.8677 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 08:49:17.2269 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 08:49:17.2552 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 08:49:26.7130 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:49:26.8001 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 08:49:26.8431 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 08:49:27.1147 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 08:49:27.1257 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 08:49:27.1796 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 08:49:27.2128 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 08:49:27.2268 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 08:49:27.6083 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 08:49:27.7600 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 08:49:27.7737 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 08:49:54.1328 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 08:49:54.1760 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:49:54.2533 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 08:49:54.2703 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:50:03.7389 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 08:50:03.7860 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:50:08.2291 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 08:50:08.2728 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:50:12.7142 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 08:50:12.7568 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 08:50:17.1834 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 08:50:19.1812 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 08:50:19.3961 DEBUG gotoTempAndStay: temperature = 50 time = 120000 ms
+2017-05-16 08:50:19.4181 DEBUG Setting the temperature to 50
+2017-05-16 08:50:19.4371 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 08:50:19.5336 DEBUG Current setpoint reading back as 50
+2017-05-16 08:50:19.5982 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 08:50:19.6149 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 08:50:19.6815 DEBUG Setting the temperature2 to 50
+2017-05-16 08:50:19.6981 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 08:50:19.8585 DEBUG Current setpoint2 reading back as 50
+2017-05-16 08:50:20.7431 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 08:50:20.7581 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 08:50:20.9607 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 08:50:21.9784 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 08:50:40.1511 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 08:52:40.1724 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 08:52:40.2183 DEBUG gotoTempAndStay: temperature = 94 time = 300000 ms
+2017-05-16 08:52:40.2474 DEBUG Setting the temperature to 94
+2017-05-16 08:52:40.2639 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 08:52:40.3286 DEBUG Current setpoint reading back as 94
+2017-05-16 08:52:40.4278 DEBUG Setting the temperature2 to 94
+2017-05-16 08:52:40.4489 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 08:52:40.5563 DEBUG Current setpoint2 reading back as 94
+2017-05-16 08:52:48.8069 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-05-16 08:57:48.8257 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 08:57:48.8878 DEBUG gotoTempAndStay: temperature = 50 time = 15000 ms
+2017-05-16 08:57:48.9093 DEBUG Setting the temperature to 50
+2017-05-16 08:57:48.9234 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 08:57:49.1568 DEBUG Current setpoint reading back as 50
+2017-05-16 08:57:49.2594 DEBUG Setting the temperature2 to 50
+2017-05-16 08:57:49.2944 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 08:57:49.4940 DEBUG Current setpoint2 reading back as 50
+2017-05-16 08:58:37.6951 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 08:58:52.7245 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 08:58:52.7646 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_08_48_38\Real time PCR data.csv
+2017-05-16 08:58:52.8257 DEBUG Protocol::Execute caught an exception: The process cannot access the file 'C:\HelixGen\Logs\Measurement\2017_05_16_08_48_38\Real time PCR data.csv' because it is being used by another process.
+2017-05-16 09:01:48.5687 DEBUG Running the SetPCRTemperature command.  Temperature is 20
+2017-05-16 09:01:48.5911 DEBUG Setting the temperature to 20
+2017-05-16 09:01:48.6022 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 20
+2017-05-16 09:01:48.6569 DEBUG Current setpoint reading back as 20
+2017-05-16 09:01:48.7626 DEBUG Setting the temperature2 to 20
+2017-05-16 09:01:48.7867 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 20
+2017-05-16 09:01:48.8472 DEBUG Current setpoint2 reading back as 20
+2017-05-16 09:03:22.7901 DEBUG ----- Starting -----
+2017-05-16 09:03:23.4709 DEBUG Sending command ">VR01"
+2017-05-16 09:03:23.4989 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 09:03:23.5080 DEBUG Sending command ">LC00=0"
+2017-05-16 09:03:23.5611 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:03:23.5701 DEBUG Sending command ">LC01=0"
+2017-05-16 09:03:23.5932 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:03:23.6022 DEBUG Sending command ">LC02=0"
+2017-05-16 09:03:23.6413 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:03:23.6483 DEBUG Sending command ">LC03=0"
+2017-05-16 09:03:23.6734 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:03:23.6794 DEBUG Sending command ">LC04=0"
+2017-05-16 09:03:23.7045 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:03:23.7115 DEBUG Sending command ">LC05=0"
+2017-05-16 09:03:23.7366 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:03:25.5159 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /02N3R; iteration: 3
+2017-05-16 09:03:25.5415 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 09:03:31.1884 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 09:03:31.2128 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /02N3R; iteration: 3
+2017-05-16 09:03:33.0680 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 09:03:33.1063 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 09:05:10.0979 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_09_05_10\Temperature Log.csv
+2017-05-16 09:05:10.1318 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 09:05:10.1428 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:05:10.1981 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 09:05:19.6434 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:05:19.7075 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:05:21.6570 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:05:21.8042 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 09:05:21.8144 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 09:05:21.8238 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 09:05:21.8493 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 3
+2017-05-16 09:05:21.9293 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 2
+2017-05-16 09:05:22.0090 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1
+2017-05-16 09:05:22.0347 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:05:22.0606 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:05:22.0768 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 09:05:22.0877 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:05:22.6882 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 09:05:22.7143 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:05:49.0714 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 09:05:49.0884 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 09:05:58.5449 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:05:58.6268 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 09:05:58.6428 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:05:58.9199 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 09:05:58.9590 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:05:59.0346 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:05:59.0547 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 09:05:59.0547 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:05:59.4397 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:05:59.5796 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 09:05:59.5926 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:06:25.9406 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 09:06:25.9566 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:06:26.0211 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 09:06:26.0381 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:06:35.5036 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 09:06:35.5428 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:06:39.9724 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 09:06:39.9885 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:06:44.4199 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 09:06:44.4420 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:06:48.8719 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:06:50.8539 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 09:06:51.0679 DEBUG gotoTempAndStay: temperature = 50 time = 120000 ms
+2017-05-16 09:06:51.0881 DEBUG Setting the temperature to 50
+2017-05-16 09:06:51.1052 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 09:06:51.1689 DEBUG Current setpoint reading back as 50
+2017-05-16 09:06:51.3585 DEBUG Setting the temperature2 to 50
+2017-05-16 09:06:51.3749 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 09:06:51.4346 DEBUG Current setpoint2 reading back as 50
+2017-05-16 09:06:51.9913 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 09:06:52.0445 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 09:06:53.0912 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 09:07:13.6028 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 09:09:13.6440 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 09:09:13.6680 DEBUG gotoTempAndStay: temperature = 94 time = 300000 ms
+2017-05-16 09:09:13.6904 DEBUG Setting the temperature to 94
+2017-05-16 09:09:13.7094 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 09:09:13.7725 DEBUG Current setpoint reading back as 94
+2017-05-16 09:09:13.8878 DEBUG Setting the temperature2 to 94
+2017-05-16 09:09:13.9037 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 09:09:13.9959 DEBUG Current setpoint2 reading back as 94
+2017-05-16 09:09:22.2330 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-05-16 09:14:22.2615 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 09:14:22.3257 DEBUG gotoTempAndStay: temperature = 50 time = 15000 ms
+2017-05-16 09:14:22.3548 DEBUG Setting the temperature to 50
+2017-05-16 09:14:22.3714 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 09:14:22.6474 DEBUG Current setpoint reading back as 50
+2017-05-16 09:14:22.8179 DEBUG Setting the temperature2 to 50
+2017-05-16 09:14:22.8329 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 09:14:22.8986 DEBUG Current setpoint2 reading back as 50
+2017-05-16 09:15:13.0612 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 09:15:28.0859 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 09:15:28.1356 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_09_05_10\Real time PCR data.csv
+2017-05-16 09:15:28.1649 DEBUG Protocol::Execute caught an exception: The process cannot access the file 'C:\HelixGen\Logs\Measurement\2017_05_16_09_05_10\Real time PCR data.csv' because it is being used by another process.
+2017-05-16 09:20:35.2112 DEBUG ----- Starting -----
+2017-05-16 09:20:35.9016 DEBUG Sending command ">VR01"
+2017-05-16 09:20:35.9327 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 09:20:35.9327 DEBUG Sending command ">LC00=0"
+2017-05-16 09:20:36.0099 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:20:36.0239 DEBUG Sending command ">LC01=0"
+2017-05-16 09:20:36.0580 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:20:36.0580 DEBUG Sending command ">LC02=0"
+2017-05-16 09:20:36.1061 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:20:36.1182 DEBUG Sending command ">LC03=0"
+2017-05-16 09:20:36.1539 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:20:36.1539 DEBUG Sending command ">LC04=0"
+2017-05-16 09:20:36.1860 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:20:36.1950 DEBUG Sending command ">LC05=0"
+2017-05-16 09:20:36.2171 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:20:38.1888 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-16 09:20:38.3486 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /02N3R; iteration: 3
+2017-05-16 09:20:38.3596 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 09:20:43.7819 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 09:20:43.8018 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /02N3R; iteration: 3
+2017-05-16 09:20:45.5008 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 09:20:45.5565 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 09:21:11.3847 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_09_21_11\Temperature Log.csv
+2017-05-16 09:21:11.4190 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 09:21:11.4190 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:21:11.4619 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 09:25:12.2372 DEBUG ----- Starting -----
+2017-05-16 09:25:12.9311 DEBUG Sending command ">VR01"
+2017-05-16 09:25:12.9581 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 09:25:12.9812 DEBUG Sending command ">LC00=0"
+2017-05-16 09:25:13.0504 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:25:13.0614 DEBUG Sending command ">LC01=0"
+2017-05-16 09:25:13.0822 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:25:13.0902 DEBUG Sending command ">LC02=0"
+2017-05-16 09:25:13.1142 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:25:13.1213 DEBUG Sending command ">LC03=0"
+2017-05-16 09:25:13.1461 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:25:13.1541 DEBUG Sending command ">LC04=0"
+2017-05-16 09:25:13.1783 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:25:13.1873 DEBUG Sending command ">LC05=0"
+2017-05-16 09:25:13.2105 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:25:15.4846 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /01N3R; iteration: 3
+2017-05-16 09:25:15.5027 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 09:25:15.9798 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!
+; command: /04Q; iteration: 3
+2017-05-16 09:25:25.8081 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 09:25:25.8201 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /01N3R; iteration: 3
+2017-05-16 09:25:27.2490 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 09:25:27.2622 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 09:27:14.7537 DEBUG ----- Starting -----
+2017-05-16 09:27:15.3837 DEBUG Sending command ">VR01"
+2017-05-16 09:27:15.4110 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 09:27:15.4180 DEBUG Sending command ">LC00=0"
+2017-05-16 09:27:15.4737 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:27:15.4912 DEBUG Sending command ">LC01=0"
+2017-05-16 09:27:15.5358 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:27:15.5458 DEBUG Sending command ">LC02=0"
+2017-05-16 09:27:15.5684 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:27:15.5755 DEBUG Sending command ">LC03=0"
+2017-05-16 09:27:15.6001 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:27:15.6071 DEBUG Sending command ">LC04=0"
+2017-05-16 09:27:15.6317 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:27:15.6387 DEBUG Sending command ">LC05=0"
+2017-05-16 09:27:15.6642 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:27:19.1026 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 09:27:19.1307 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 09:27:53.7991 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_09_27_53\Temperature Log.csv
+2017-05-16 09:27:53.8111 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 09:27:53.8222 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:27:53.8586 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 09:28:03.3048 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:28:03.3684 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:28:05.3341 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:28:05.4582 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 09:28:05.4653 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 09:28:05.4653 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 09:28:05.4939 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 3
+2017-05-16 09:28:05.5742 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 2
+2017-05-16 09:28:05.6697 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1
+2017-05-16 09:28:05.7147 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:28:05.7354 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:28:05.7445 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 09:28:05.7445 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:28:06.3450 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 09:28:06.3640 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:28:32.7146 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 09:28:32.7376 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 09:28:42.2030 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:28:42.2900 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 09:28:42.3251 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:28:42.6049 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 09:28:42.6049 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:28:42.6686 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:28:42.6970 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 09:28:42.7160 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:28:43.0978 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:28:43.1702 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 09:28:43.2093 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:29:09.5793 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 09:29:09.6254 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:29:09.6938 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 09:29:09.7346 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:29:19.2109 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 09:29:19.2529 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:29:23.7096 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 09:29:23.7547 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:29:28.1937 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 09:29:28.2448 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:29:32.6893 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:29:34.6868 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 09:29:34.8451 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 09:29:34.9003 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:29:35.1858 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2017-05-16 09:29:35.2081 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 09:29:35.2273 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 09:29:35.2624 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 3
+2017-05-16 09:29:35.3419 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 2
+2017-05-16 09:29:35.4225 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 1
+2017-05-16 09:29:35.4747 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 09:29:35.5133 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 09:29:35.5396 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:35:33.7721 DEBUG ----- Starting -----
+2017-05-16 09:35:34.4499 DEBUG Sending command ">VR01"
+2017-05-16 09:35:34.5011 DEBUG Response was "<001.0.0, 02/13/2017"
+2017-05-16 09:35:34.5211 DEBUG Sending command ">LC00=0"
+2017-05-16 09:35:34.6043 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:35:34.6314 DEBUG Sending command ">LC01=0"
+2017-05-16 09:35:34.6846 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:35:34.7076 DEBUG Sending command ">LC02=0"
+2017-05-16 09:35:34.7487 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:35:34.7708 DEBUG Sending command ">LC03=0"
+2017-05-16 09:35:34.8119 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:35:34.8279 DEBUG Sending command ">LC04=0"
+2017-05-16 09:35:34.8760 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:35:34.8951 DEBUG Sending command ">LC05=0"
+2017-05-16 09:35:34.9236 DEBUG Response was "<002497,0,0,0,0,0,0"
+2017-05-16 09:35:36.2968 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'
+; command: /04N3R; iteration: 3
+2017-05-16 09:35:36.3189 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 09:35:42.0817 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 09:35:42.1288 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2017-05-16 09:35:44.4553 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 09:35:44.5114 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 09:36:16.2715 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_09_36_16\Temperature Log.csv
+2017-05-16 09:36:16.2895 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 09:36:16.3056 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:36:16.3477 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 09:36:25.8257 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:36:25.8894 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:36:27.8707 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:36:27.9449 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 09:36:27.9594 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 09:36:27.9747 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 09:36:27.9983 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 3
+2017-05-16 09:36:28.0786 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 2
+2017-05-16 09:36:28.1741 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1
+2017-05-16 09:36:28.2086 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:36:28.2379 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:36:28.2535 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 09:36:28.2639 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:36:28.8635 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 09:36:28.8745 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:36:55.2173 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 09:36:55.2273 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 09:37:04.6779 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:37:04.7645 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 09:37:04.7966 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:37:05.0813 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 09:37:05.1056 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:37:05.1653 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:37:05.2078 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 09:37:05.2262 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:37:05.6042 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 09:37:05.6860 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 09:37:05.7060 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:37:32.0689 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 09:37:32.1085 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:37:32.1727 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 09:37:32.2078 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:37:41.6866 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 09:37:41.7337 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:37:46.1771 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 09:37:46.2204 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:37:50.6690 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 09:37:50.7096 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 09:37:55.1482 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 09:37:57.1298 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 09:37:57.3083 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 09:37:57.3261 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:37:57.6023 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2017-05-16 09:37:57.6481 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 09:37:57.6762 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 09:37:57.7049 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 3
+2017-05-16 09:37:57.8015 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 2
+2017-05-16 09:37:57.9129 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 1
+2017-05-16 09:37:57.9660 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 09:37:57.9897 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 09:37:58.0068 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:47:58.0361 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-16 09:47:58.0912 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 09:47:58.3672 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 09:47:58.4253 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 09:47:58.4786 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 3
+2017-05-16 09:47:58.5747 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 2
+2017-05-16 09:47:58.6710 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1
+2017-05-16 09:47:58.7111 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:47:58.7437 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0
+; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 09:47:58.7609 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2017-05-16 09:47:58.7750 DEBUG Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 09:47:58.7900 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:47:58.9252 DEBUG Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 09:47:58.9673 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:47:59.2905 DEBUG Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 09:47:59.2905 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 09:47:59.3309 DEBUG Executing the step: HelixGen.Model.CycleStep
+2017-05-16 09:47:59.3450 DEBUG Executing the step: HelixGen.Model.MeltCurveStep
+2017-05-16 10:15:12.2958 DEBUG ----- Starting -----
+2017-05-16 10:15:15.1096 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2017-05-16 10:15:21.9578 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 10:15:21.9970 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 10:15:46.3934 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_15_46\Temperature Log.csv
+2017-05-16 10:15:46.4094 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 10:15:46.4225 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:15:46.4665 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:15:55.9296 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:15:56.0090 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:15:57.9907 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:15:58.0688 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:15:58.0887 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:15:58.1090 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:15:58.1345 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:15:58.2143 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:15:58.2941 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:15:58.3235 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:15:58.3444 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:15:58.3588 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:15:58.3708 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:15:59.0044 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 10:15:59.0405 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:16:25.4206 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 10:16:25.4468 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:16:34.9104 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:16:34.9976 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 10:16:35.0448 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:16:35.3139 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 10:16:35.3362 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:16:35.4399 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:16:35.4640 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 10:16:35.4770 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:16:35.8537 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:16:35.9388 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 10:16:35.9809 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:17:02.3474 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 10:17:02.3865 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:17:02.4761 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 10:17:02.5142 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:17:11.9919 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 10:17:12.0341 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:17:16.4720 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 10:17:16.5095 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:17:20.9515 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 10:17:21.0002 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:17:25.4309 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:17:27.4288 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:17:27.7137 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 10:17:27.7317 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:17:28.0159 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2017-05-16 10:17:28.0621 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:17:28.0791 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 10:17:28.0997 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 3
+2017-05-16 10:17:28.1794 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 2
+2017-05-16 10:17:28.2757 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1
+2017-05-16 10:17:28.2996 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:17:28.3247 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:17:28.3417 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:22:41.5449 DEBUG ----- Starting -----
+2017-05-16 10:22:43.8547 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2017-05-16 10:22:43.8807 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 10:22:49.5919 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 10:22:49.6300 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /04N3R; iteration: 3
+2017-05-16 10:22:51.9019 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 10:22:51.9570 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 10:23:15.1273 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_23_15\Temperature Log.csv
+2017-05-16 10:23:15.1493 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 10:23:15.1676 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:23:15.2120 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:23:24.6747 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:23:24.7711 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:23:26.7686 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:23:26.8960 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:23:26.9104 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:23:26.9249 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:23:26.9441 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:23:27.0238 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:23:27.1041 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:23:27.1449 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:23:27.1954 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:23:27.1954 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:23:27.2166 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:23:27.8144 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 10:23:27.8505 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:23:54.2174 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 10:23:54.2545 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:24:03.7196 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:24:03.7905 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 10:24:03.8171 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:24:04.1019 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 10:24:04.1410 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:24:04.2428 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:24:04.2646 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 10:24:04.2769 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:24:04.6464 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:24:04.7374 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 10:24:04.7795 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:24:31.1552 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 10:24:31.1933 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:24:31.2594 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 10:24:31.2795 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:24:40.7455 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 10:24:40.7814 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:24:45.2124 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 10:24:45.2487 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:24:49.6809 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 10:24:49.7268 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:24:54.1601 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:24:56.1416 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:24:56.3357 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 10:24:56.3568 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:24:56.6320 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-16 10:24:56.6781 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:24:56.7021 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 10:24:56.7331 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 3
+2017-05-16 10:24:56.8127 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 2
+2017-05-16 10:24:56.9250 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1
+2017-05-16 10:24:56.9842 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:24:57.0112 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:24:57.0308 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:24:57.0623 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2017-05-16 10:24:57.0794 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:24:57.3406 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:24:57.3974 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:24:57.4204 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:24:57.4998 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:24:57.6118 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:24:57.6336 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:24:57.6545 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:24:57.6725 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2017-05-16 10:24:57.6878 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:24:57.7014 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:24:57.8361 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:24:57.8751 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:24:58.1949 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:24:58.2370 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:24:58.2791 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:24:58.2918 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-05-16 10:27:00.8618 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_27_00\Temperature Log.csv
+2017-05-16 10:27:00.8799 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 10:27:00.8959 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:27:00.9323 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:27:10.3949 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:27:15.5245 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:27:17.5064 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:27:17.6046 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:27:17.6046 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:27:17.6276 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:27:17.6507 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:27:17.7300 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:27:17.8266 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:27:17.8433 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:27:17.8581 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:27:22.0285 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:27:22.0445 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:27:26.3684 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 10:27:26.3684 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:27:56.0645 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 10:27:56.0795 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:28:05.5334 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:28:09.3943 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 10:28:09.4093 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:28:14.1619 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 10:28:14.1759 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:28:14.3113 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:28:18.1602 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 10:28:18.1803 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:28:18.5589 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:28:21.1696 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 10:28:21.1876 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:28:51.0168 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 10:28:51.0368 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:28:52.7273 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 10:28:52.7534 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:29:06.3943 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 10:29:06.4153 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:29:20.5817 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 10:29:20.6008 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:29:26.7987 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 10:29:26.8208 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:29:31.2470 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:29:33.2288 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:29:38.1088 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 10:29:38.1329 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:29:39.4873 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-16 10:29:39.5103 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:29:39.5284 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 10:29:39.5575 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 3
+2017-05-16 10:29:39.6377 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 2
+2017-05-16 10:29:39.7172 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1
+2017-05-16 10:29:39.7563 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:29:39.7821 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:29:39.8002 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:29:42.3912 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2017-05-16 10:29:42.4164 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:29:42.6895 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:29:42.7085 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:29:42.7383 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:29:42.8178 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:29:42.9140 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:29:42.9793 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:29:43.0214 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:29:46.0099 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2017-05-16 10:29:54.2656 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:30:34.3320 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:30:58.7509 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:30:58.7849 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:31:17.5238 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:31:17.5499 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:31:31.5486 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:31:43.8520 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-05-16 10:32:04.3672 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_32_04\Temperature Log.csv
+2017-05-16 10:32:04.3903 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 10:32:04.4023 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:32:04.4387 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:32:13.9008 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:32:19.0320 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:32:21.0136 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:32:21.1304 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:32:21.1410 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:32:21.1508 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:32:21.1727 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:32:21.2533 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:32:21.3330 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:32:21.3712 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:32:21.3948 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:32:28.5659 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:32:28.5829 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:32:30.4812 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 10:32:30.4933 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:33:00.3140 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 10:33:00.3281 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:33:09.7923 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:33:13.5751 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 10:33:13.5901 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:33:14.5840 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 10:33:14.6006 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:33:14.7481 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:33:16.3049 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 10:33:16.3049 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:33:16.6964 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:33:17.4156 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 10:33:17.4316 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:33:48.5766 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 10:33:48.5927 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:33:50.9958 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 10:33:51.0148 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:34:03.4401 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 10:34:03.4641 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:34:09.7707 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 10:34:09.7938 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:34:16.0672 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 10:34:16.0882 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:34:20.5156 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:34:22.4976 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:34:29.2114 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 10:34:29.2304 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:34:34.0842 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-16 10:34:34.1068 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:34:34.1259 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 10:34:34.1480 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 3
+2017-05-16 10:34:34.2285 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 2
+2017-05-16 10:34:34.3397 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1
+2017-05-16 10:34:34.3658 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:34:34.3909 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:34:34.4093 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:34:38.1963 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2017-05-16 10:34:38.2163 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:34:38.4801 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:34:38.4991 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:34:38.5280 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:34:38.6071 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:34:38.7191 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:34:38.7804 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:34:38.8260 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:34:41.2541 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2017-05-16 10:34:54.6138 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:34:54.6632 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:34:58.7005 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:34:58.7195 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:35:01.4836 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:35:01.5037 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:35:05.2116 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:35:08.6196 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-05-16 10:35:56.7211 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_35_56\Temperature Log.csv
+2017-05-16 10:35:56.7472 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 10:35:56.7612 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:35:56.7954 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:36:06.2571 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:36:11.3871 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:36:13.3696 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:36:13.4511 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:36:13.4696 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:36:13.4796 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:36:13.4973 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:36:13.5770 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:36:13.6572 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:36:13.6904 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:36:13.7145 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:36:19.0816 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:36:19.1006 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:36:20.3832 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 10:36:20.3832 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:36:55.0164 DEBUG ReadCmd, got an exception: The operation has timed out.
+2017-05-16 10:36:59.4164 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 10:36:59.4334 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:37:08.8924 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:37:13.8420 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 10:37:13.8531 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:37:14.1244 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 10:37:14.1395 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:37:14.1967 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:37:14.2218 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 10:37:14.2358 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:37:14.6144 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:37:14.7552 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 10:37:14.7762 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:37:41.1350 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 10:37:41.1500 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:37:41.2176 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 10:37:41.2547 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:37:50.7431 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 10:37:50.7823 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:37:55.2318 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 10:37:55.2628 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:37:59.7005 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 10:37:59.7256 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:38:04.1449 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:38:06.1430 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:38:06.3600 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 10:38:06.3910 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:38:06.6620 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-16 10:38:06.6837 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:38:06.7038 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 10:38:06.7341 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 3
+2017-05-16 10:38:06.8143 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 2
+2017-05-16 10:38:06.9251 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1
+2017-05-16 10:38:06.9517 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:38:06.9748 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:38:06.9949 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:38:07.0320 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2017-05-16 10:38:07.0500 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:38:07.3258 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:38:07.3519 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:38:07.3737 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:38:07.4536 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:38:07.5494 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:38:07.5885 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:38:07.6296 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:38:07.6507 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2017-05-16 10:38:07.6657 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:38:12.3778 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:38:12.5178 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:38:23.9522 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:38:24.2729 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:38:27.6013 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:38:27.6334 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:40:54.4310 DEBUG ----- Starting -----
+2017-05-16 10:40:57.1492 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2017-05-16 10:40:57.1732 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 10:40:57.7393 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2017-05-16 10:41:03.2681 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 10:41:03.2782 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /02N3R; iteration: 3
+2017-05-16 10:41:05.0048 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 10:41:05.0425 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 10:41:25.7511 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_41_25\Temperature Log.csv
+2017-05-16 10:41:25.7639 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 10:41:25.7749 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:41:25.8044 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:41:35.2665 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:41:35.3304 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:41:37.3115 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:41:37.4581 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:41:37.4682 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:41:37.4780 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:41:37.5041 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:41:37.5833 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:41:37.6796 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:41:37.7188 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:41:37.7417 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:41:37.7568 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:41:37.7728 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:41:38.3890 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 10:41:38.4218 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:42:04.7930 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 10:42:04.8311 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 10:42:14.2952 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:42:14.3622 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 10:42:14.3843 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:42:14.6541 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 10:42:14.6922 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:42:14.7561 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:42:14.7862 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 10:42:14.8033 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:42:15.1745 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 10:42:15.2626 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 10:42:15.2846 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:42:41.6506 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 10:42:41.6957 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:42:41.7732 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 10:42:41.7732 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:42:51.2607 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 10:42:51.2838 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:42:55.7162 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 10:42:55.7642 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:43:00.2017 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 10:43:00.2213 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 10:43:04.6561 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 10:43:06.6534 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:43:06.8530 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 10:43:06.8921 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:43:07.1678 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-16 10:43:07.2124 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:43:07.2365 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 10:43:07.2608 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 3
+2017-05-16 10:43:07.3410 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 2
+2017-05-16 10:43:07.4208 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1
+2017-05-16 10:43:07.4696 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:43:07.4997 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 10:43:07.5177 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:43:07.5530 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2017-05-16 10:43:07.5780 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 10:43:07.8520 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 10:43:07.9053 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 10:43:07.9474 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 10:43:08.0281 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 10:43:08.1240 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 10:43:08.1759 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:43:08.2110 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 10:43:08.2321 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2017-05-16 10:43:08.2471 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:43:14.2169 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:43:14.3659 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:43:15.8803 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:43:16.2031 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:43:22.4486 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:43:22.4807 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:43:27.1189 DEBUG ReadCmd, got an exception: The operation has timed out.
+2017-05-16 10:43:28.8007 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-05-16 10:43:30.3614 DEBUG gotoTempAndStay: temperature = 50 time = 60 ms
+2017-05-16 10:43:30.3774 DEBUG Setting the temperature to 50
+2017-05-16 10:43:30.3886 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 10:43:30.5199 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:43:30.5320 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:43:30.5400 DEBUG Current setpoint reading back as 50
+2017-05-16 10:43:30.5605 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:43:30.5706 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:43:30.8653 DEBUG Setting the temperature2 to 50
+2017-05-16 10:43:30.8733 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 10:43:31.0789 DEBUG Current setpoint2 reading back as 50
+2017-05-16 10:43:31.0997 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:43:31.1067 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:43:33.0808 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:43:33.0898 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:43:33.4213 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:43:33.6128 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:43:33.9333 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:43:34.7103 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:43:52.5194 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 10:43:52.6008 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 10:43:53.0339 DEBUG Setting the temperature to 85
+2017-05-16 10:43:53.0638 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2017-05-16 10:43:53.1222 DEBUG Current setpoint reading back as 85
+2017-05-16 10:43:53.3234 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2017_05_16_10_41_25\Melt Curve logging.csv
+2017-05-16 10:43:58.7398 DEBUG Optics PR readings back are; 0,0,1921611,0,0,0
+2017-05-16 10:43:59.5271 DEBUG Found the port closed, reopening.
+2017-05-16 10:44:04.0353 DEBUG Optics PR readings back are; 0,0,1171715,0,0,0
+2017-05-16 10:44:05.7134 DEBUG Optics PR readings back are; 0,0,3983756,0,0,0
+2017-05-16 10:44:07.3750 DEBUG Optics PR readings back are; 0,0,1933133,0,0,0
+2017-05-16 10:44:09.5805 DEBUG Optics PR readings back are; 0,0,1909131,0,0,0
+2017-05-16 10:44:11.2749 DEBUG Optics PR readings back are; 0,0,1167019,0,0,0
+2017-05-16 10:44:12.9367 DEBUG Optics PR readings back are; 0,0,3892367,0,0,0
+2017-05-16 10:44:14.5980 DEBUG Optics PR readings back are; 0,0,1922021,0,0,0
+2017-05-16 10:44:16.7877 DEBUG Optics PR readings back are; 0,0,1900901,0,0,0
+2017-05-16 10:44:18.4814 DEBUG Optics PR readings back are; 0,0,1164204,0,0,0
+2017-05-16 10:44:20.1434 DEBUG Optics PR readings back are; 0,0,3842297,0,0,0
+2017-05-16 10:44:21.7901 DEBUG Optics PR readings back are; 0,0,1915668,0,0,0
+2017-05-16 10:44:23.9621 DEBUG Optics PR readings back are; 0,0,1895590,0,0,0
+2017-05-16 10:44:25.6408 DEBUG Optics PR readings back are; 0,0,1161878,0,0,0
+2017-05-16 10:44:27.2861 DEBUG Optics PR readings back are; 0,0,3802469,0,0,0
+2017-05-16 10:44:28.9482 DEBUG Optics PR readings back are; 0,0,1911605,0,0,0
+2017-05-16 10:44:31.1056 DEBUG Optics PR readings back are; 0,0,1891540,0,0,0
+2017-05-16 10:44:32.8152 DEBUG Optics PR readings back are; 0,0,1160403,0,0,0
+2017-05-16 10:44:34.4930 DEBUG Optics PR readings back are; 0,0,3774082,0,0,0
+2017-05-16 10:44:36.1716 DEBUG Optics PR readings back are; 0,0,1908393,0,0,0
+2017-05-16 10:44:38.3607 DEBUG Optics PR readings back are; 0,0,1889126,0,0,0
+2017-05-16 10:44:40.0700 DEBUG Optics PR readings back are; 0,0,1159117,0,0,0
+2017-05-16 10:44:41.7322 DEBUG Optics PR readings back are; 0,0,3748603,0,0,0
+2017-05-16 10:44:43.3938 DEBUG Optics PR readings back are; 0,0,1905873,0,0,0
+2017-05-16 10:44:45.5833 DEBUG Optics PR readings back are; 0,0,1886846,0,0,0
+2017-05-16 10:44:47.2938 DEBUG Optics PR readings back are; 0,0,1158925,0,0,0
+2017-05-16 10:44:48.9714 DEBUG Optics PR readings back are; 0,0,3727850,0,0,0
+2017-05-16 10:44:50.6492 DEBUG Optics PR readings back are; 0,0,1904068,0,0,0
+2017-05-16 10:44:52.8229 DEBUG Optics PR readings back are; 0,0,1885050,0,0,0
+2017-05-16 10:44:54.5168 DEBUG Optics PR readings back are; 0,0,1158246,0,0,0
+2017-05-16 10:44:56.1785 DEBUG Optics PR readings back are; 0,0,3707812,0,0,0
+2017-05-16 10:44:57.8408 DEBUG Optics PR readings back are; 0,0,1902066,0,0,0
+2017-05-16 10:44:58.0796 DEBUG Setting the temperature to 25
+2017-05-16 10:44:58.0796 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2017-05-16 10:44:58.1933 DEBUG Current setpoint reading back as 25
+2017-05-16 10:47:07.6931 DEBUG ----- Starting -----
+2017-05-16 10:47:10.3795 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2017-05-16 10:47:10.3894 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2017-05-16 10:47:10.8430 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2017-05-16 10:47:16.2611 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2017-05-16 10:47:16.2834 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /02N3R; iteration: 3
+2017-05-16 10:47:18.1025 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 10:47:18.1308 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 10:47:47.3879 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_47_47\Temperature Log.csv
+2017-05-16 10:47:47.3989 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:47:47.3989 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:48:23.1316 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:48:23.2638 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:51:26.5325 DEBUG ----- Starting -----
+2017-05-16 10:51:30.8985 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 10:51:30.9390 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 10:51:51.9280 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_51_51\Temperature Log.csv
+2017-05-16 10:51:51.9400 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:51:51.9491 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:51:54.0643 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:51:54.5702 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:51:54.7008 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:51:55.7371 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:51:55.9587 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:51:56.2686 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:51:56.8252 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:51:57.1742 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:51:57.1991 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:52:07.5116 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-05-16 10:52:17.3563 DEBUG gotoTempAndStay: temperature = 50 time = 60 ms
+2017-05-16 10:52:17.3685 DEBUG Setting the temperature to 50
+2017-05-16 10:52:17.3685 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 10:52:17.8781 DEBUG Current setpoint reading back as 50
+2017-05-16 10:52:18.0917 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:18.0917 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:18.3523 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:18.3523 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:18.3734 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:18.3834 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:18.4155 DEBUG Setting the temperature2 to 50
+2017-05-16 10:52:18.4155 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 10:52:18.4365 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:18.4486 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:18.5017 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:18.5117 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:18.5117 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:18.5328 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:18.6290 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:18.6371 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:18.6722 DEBUG Current setpoint2 reading back as 50
+2017-05-16 10:52:19.8007 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:19.8097 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:21.3186 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:21.3256 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:22.4747 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:22.4827 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:23.7525 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:23.7595 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:25.0631 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 10:52:25.0711 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 10:52:25.2977 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:25.3191 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:25.8929 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:26.4043 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:26.4253 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:26.4675 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:26.5299 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:27.7247 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:28.3277 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:29.0196 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:29.2778 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:29.5305 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 10:52:40.5450 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 10:52:40.6271 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 10:52:41.0769 DEBUG Setting the temperature to 85
+2017-05-16 10:52:41.0769 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2017-05-16 10:52:41.1640 DEBUG Current setpoint reading back as 85
+2017-05-16 10:52:41.2640 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2017_05_16_10_51_51\Melt Curve logging.csv
+2017-05-16 10:53:45.2159 DEBUG Setting the temperature to 25
+2017-05-16 10:53:45.2340 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2017-05-16 10:53:45.3051 DEBUG Current setpoint reading back as 25
+2017-05-16 10:55:21.7766 DEBUG ----- Starting -----
+2017-05-16 10:55:26.1436 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 10:55:26.1578 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 10:55:52.8406 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_55_52\Temperature Log.csv
+2017-05-16 10:55:52.8558 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:55:52.8558 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:55:54.6716 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:55:55.0467 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:55:55.1744 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:55:56.1051 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:55:56.3280 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:55:56.6395 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:55:57.1857 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:55:57.4113 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:55:57.4349 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:58:15.5660 DEBUG ----- Starting -----
+2017-05-16 10:58:18.6619 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2017-05-16 10:58:20.5828 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 10:58:20.6105 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 10:58:56.7972 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_10_58_56\Temperature Log.csv
+2017-05-16 10:58:56.8093 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 10:58:56.8093 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:58:58.8381 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:58:59.2548 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:58:59.3852 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:00.5532 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:00.8225 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:01.1330 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:01.6329 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:01.9935 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:02.0177 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 10:59:12.0512 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:12.0652 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:12.4791 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:12.5222 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:12.5292 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:12.7524 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:12.7809 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:12.7899 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:12.8951 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:12.9372 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 10:59:24.5968 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:24.6148 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:24.8030 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:24.8419 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:24.8575 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:24.9708 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:25.0220 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:25.0451 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:25.2247 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:25.2489 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 10:59:39.0910 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:39.1201 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:39.2571 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:39.3035 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:39.3335 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:39.5285 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:39.5568 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 10:59:39.5568 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 10:59:39.7308 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 10:59:39.7718 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 10:59:59.8168 DEBUG ----- Starting -----
+2017-05-16 11:00:03.9991 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 11:00:04.0382 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 11:00:35.0263 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_11_00_35\Temperature Log.csv
+2017-05-16 11:00:35.0413 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 11:00:35.0413 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:01:04.3914 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:01:04.8232 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:01:04.9510 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:01:06.8254 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:01:07.0490 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:01:07.3582 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:01:08.0248 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:01:08.2479 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:01:08.2715 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 11:01:28.2089 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 11:01:57.0564 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:03:28.2469 DEBUG ----- Starting -----
+2017-05-16 11:03:32.3959 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 11:03:32.4364 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 11:03:56.6094 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_11_03_56\Temperature Log.csv
+2017-05-16 11:03:56.6294 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 11:03:56.6415 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:03:57.5132 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:03:57.7825 DEBUG gotoTempAndStay: temperature = 50 time = 120000 ms
+2017-05-16 11:03:57.7965 DEBUG Setting the temperature to 50
+2017-05-16 11:03:57.8058 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:03:57.8689 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:03:57.8689 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:03:57.9103 DEBUG Current setpoint reading back as 50
+2017-05-16 11:03:58.0861 DEBUG Setting the temperature2 to 50
+2017-05-16 11:03:58.0861 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:03:58.2355 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:03:58.8739 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:03:58.8739 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:03:59.5076 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:04:00.2860 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:04:13.5086 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:06:13.5335 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 11:06:13.5650 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:06:13.7010 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:06:17.5858 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:06:17.8746 DEBUG gotoTempAndStay: temperature = 94 time = 120000 ms
+2017-05-16 11:06:17.8855 DEBUG Setting the temperature to 94
+2017-05-16 11:06:17.8855 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:06:17.9928 DEBUG Current setpoint reading back as 94
+2017-05-16 11:06:18.0887 DEBUG Setting the temperature2 to 94
+2017-05-16 11:06:18.0887 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:06:18.1523 DEBUG Current setpoint2 reading back as 94
+2017-05-16 11:06:27.2911 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-05-16 11:08:27.3113 DEBUG gotoTempAndStay: ... done sleeping
+2017-05-16 11:08:27.3383 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:08:27.6540 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:08:30.0413 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:08:30.5485 DEBUG gotoTempAndStay: temperature = 50 time = 120000 ms
+2017-05-16 11:08:30.5586 DEBUG Setting the temperature to 50
+2017-05-16 11:08:30.5586 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:08:30.6496 DEBUG Current setpoint reading back as 50
+2017-05-16 11:08:30.7411 DEBUG Setting the temperature2 to 50
+2017-05-16 11:08:30.7506 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:08:30.8200 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:09:17.0691 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:11:37.0505 DEBUG ----- Starting -----
+2017-05-16 11:11:39.7981 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2017-05-16 11:11:41.3672 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 11:11:41.3950 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 11:12:11.0818 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_11_12_11\Temperature Log.csv
+2017-05-16 11:12:11.1180 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 11:12:11.1381 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:12:13.0258 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:13:20.1379 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 11:13:20.1559 DEBUG Setting the temperature to 50
+2017-05-16 11:13:20.1669 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:13:20.2071 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:13:20.2170 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:13:20.3131 DEBUG Current setpoint reading back as 50
+2017-05-16 11:13:20.3986 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:13:20.3986 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:13:20.5687 DEBUG Setting the temperature2 to 50
+2017-05-16 11:13:20.5757 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:13:20.7391 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:13:21.5485 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:13:21.5562 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:13:22.6511 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:13:22.6511 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:13:22.8647 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:13:23.1675 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:13:24.0724 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:13:24.6116 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:13:38.0773 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:13:38.1074 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:13:47.5628 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:13:51.4013 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:13:57.5455 DEBUG gotoTempAndStay: temperature = 94 time = 0 ms
+2017-05-16 11:13:57.5575 DEBUG Setting the temperature to 94
+2017-05-16 11:13:57.5575 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:13:57.7581 DEBUG Current setpoint reading back as 94
+2017-05-16 11:13:58.0350 DEBUG Setting the temperature2 to 94
+2017-05-16 11:13:58.0427 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:13:58.1261 DEBUG Current setpoint2 reading back as 94
+2017-05-16 11:14:07.2334 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-05-16 11:14:07.2574 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:14:13.2105 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:14:20.5563 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:14:41.5696 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 11:14:41.5837 DEBUG Setting the temperature to 50
+2017-05-16 11:14:41.5927 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:14:42.0896 DEBUG Current setpoint reading back as 50
+2017-05-16 11:14:42.3708 DEBUG Setting the temperature2 to 50
+2017-05-16 11:14:42.3708 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:14:42.4623 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:15:23.6056 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:15:23.6246 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:17:19.3661 DEBUG ----- Starting -----
+2017-05-16 11:17:23.3336 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 11:17:23.3607 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 11:17:46.1065 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_11_17_46\Temperature Log.csv
+2017-05-16 11:17:46.1206 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 11:17:46.1429 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:17:50.6628 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:17:56.8592 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 11:17:56.8763 DEBUG Setting the temperature to 50
+2017-05-16 11:17:56.8873 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:17:56.8873 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:17:56.9063 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:17:57.0768 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:17:57.0768 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:17:57.1410 DEBUG Current setpoint reading back as 50
+2017-05-16 11:17:57.1631 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:17:57.1700 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:17:57.2483 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:17:57.2483 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:17:57.7215 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:17:57.7306 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:17:57.7635 DEBUG Setting the temperature2 to 50
+2017-05-16 11:17:57.7635 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:17:58.0622 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:17:58.7019 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:17:58.7019 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:17:59.6646 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:17:59.6646 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:18:00.7784 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:18:00.7784 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:18:02.0092 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:02.6473 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:02.9948 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:03.0158 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:03.5902 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:04.2136 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:04.5937 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:04.7204 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:18:17.8000 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:18:17.8231 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:25:06.4436 DEBUG ----- Starting -----
+2017-05-16 11:25:09.2768 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2017-05-16 11:25:10.8334 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 11:25:10.8726 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 11:25:34.3137 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_11_25_34\Temperature Log.csv
+2017-05-16 11:25:34.3297 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 11:25:34.3398 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:25:35.0332 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:25:36.7073 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 11:25:36.7184 DEBUG Setting the temperature to 50
+2017-05-16 11:25:36.7274 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:25:36.7695 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:25:36.7978 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:25:36.8199 DEBUG Current setpoint reading back as 50
+2017-05-16 11:25:37.1067 DEBUG Setting the temperature2 to 50
+2017-05-16 11:25:37.1067 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:25:37.1498 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:25:37.1498 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:25:37.2774 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:25:38.1941 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:25:38.2021 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:25:39.2529 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:25:39.2599 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:25:39.4504 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:25:39.7542 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:25:40.6820 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:25:41.2035 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:25:54.5910 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:25:54.6151 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:27:56.9945 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:27:59.6336 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:28:01.9216 DEBUG gotoTempAndStay: temperature = 94 time = 0 ms
+2017-05-16 11:28:01.9346 DEBUG Setting the temperature to 94
+2017-05-16 11:28:01.9346 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:28:02.1140 DEBUG Current setpoint reading back as 94
+2017-05-16 11:28:02.2803 DEBUG Setting the temperature2 to 94
+2017-05-16 11:28:02.2803 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:28:02.3905 DEBUG Current setpoint2 reading back as 94
+2017-05-16 11:28:11.5520 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-05-16 11:28:11.5772 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:33:20.5850 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:33:20.6075 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:33:20.7262 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 11:33:20.7630 DEBUG Setting the temperature to 50
+2017-05-16 11:33:20.7810 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:33:21.0281 DEBUG Current setpoint reading back as 50
+2017-05-16 11:33:21.3687 DEBUG Setting the temperature2 to 50
+2017-05-16 11:33:21.3687 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:33:21.4533 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:34:12.5799 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:34:12.5979 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:34:27.6102 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 11:34:27.6312 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 11:34:27.6570 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:34:27.8192 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 11:34:27.8290 DEBUG Setting the temperature to 95
+2017-05-16 11:34:27.8290 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 11:34:27.9840 DEBUG Current setpoint reading back as 95
+2017-05-16 11:34:28.1325 DEBUG Setting the temperature2 to 95
+2017-05-16 11:34:28.1385 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 11:34:28.2372 DEBUG Current setpoint2 reading back as 95
+2017-05-16 11:34:37.4023 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 11:34:37.4244 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:35:07.4481 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 11:35:07.4661 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:35:07.5794 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 11:35:07.5995 DEBUG Setting the temperature to 60
+2017-05-16 11:35:07.6117 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 11:35:07.8078 DEBUG Current setpoint reading back as 60
+2017-05-16 11:35:07.9770 DEBUG Setting the temperature2 to 60
+2017-05-16 11:35:07.9770 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 11:35:08.0845 DEBUG Current setpoint2 reading back as 60
+2017-05-16 11:35:38.2545 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 11:35:38.2696 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:35:58.2851 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 11:35:58.3071 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:35:58.4204 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 11:35:58.4404 DEBUG Setting the temperature to 72
+2017-05-16 11:35:58.4549 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 11:35:58.5663 DEBUG Current setpoint reading back as 72
+2017-05-16 11:35:58.6727 DEBUG Setting the temperature2 to 72
+2017-05-16 11:35:58.6946 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 11:35:58.7580 DEBUG Current setpoint2 reading back as 72
+2017-05-16 11:36:15.8813 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 11:36:15.9034 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:36:30.9162 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 11:36:32.9915 DEBUG Found the port closed, reopening.
+2017-05-16 11:36:38.6623 DEBUG Found the port closed, reopening.
+2017-05-16 11:36:38.7499 DEBUG Protocol::Execute caught an exception: The port is closed.
+2017-05-16 11:40:10.1160 DEBUG ----- Starting -----
+2017-05-16 11:40:14.4954 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 11:40:14.5339 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 11:40:37.9623 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_11_40_37\Temperature Log.csv
+2017-05-16 11:40:37.9773 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 11:40:37.9773 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:40:37.9981 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:40:38.3264 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 11:40:38.3375 DEBUG Setting the temperature to 50
+2017-05-16 11:40:38.3375 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:40:38.3995 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:40:38.3995 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:40:38.4426 DEBUG Current setpoint reading back as 50
+2017-05-16 11:40:38.6240 DEBUG Setting the temperature2 to 50
+2017-05-16 11:40:38.6240 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 11:40:38.7732 DEBUG Current setpoint2 reading back as 50
+2017-05-16 11:40:39.5454 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 11:40:39.5454 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 11:40:39.8486 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:40:40.8182 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 11:41:12.0388 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 11:41:12.0619 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:43:12.0736 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 11:43:12.1027 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 11:43:12.2175 DEBUG gotoTempAndStay: temperature = 94 time = 0 ms
+2017-05-16 11:43:12.2468 DEBUG Setting the temperature to 94
+2017-05-16 11:43:12.2608 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:43:12.3159 DEBUG Current setpoint reading back as 94
+2017-05-16 11:43:12.5767 DEBUG Setting the temperature2 to 94
+2017-05-16 11:43:12.5767 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 11:43:12.6841 DEBUG Current setpoint2 reading back as 94
+2017-05-16 11:43:20.8029 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-05-16 11:43:20.8329 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 11:45:57.5679 DEBUG Running the SetPCRTemperature command.  Temperature is 20
+2017-05-16 11:45:57.5900 DEBUG Setting the temperature to 20
+2017-05-16 11:45:57.5900 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 20
+2017-05-16 11:45:57.8768 DEBUG Current setpoint reading back as 20
+2017-05-16 11:45:58.0552 DEBUG Setting the temperature2 to 20
+2017-05-16 11:45:58.0716 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 20
+2017-05-16 11:45:58.1252 DEBUG Current setpoint2 reading back as 20
+2017-05-16 13:16:35.2916 DEBUG ----- Starting -----
+2017-05-16 13:16:38.0530 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2017-05-16 13:16:39.7016 DEBUG clsAMD::SetDOStatus: channel 1 status 0
+2017-05-16 13:16:39.7146 DEBUG clsAMD::SetDOStatus returning
+2017-05-16 13:17:04.1407 DEBUG Opening results file to: ..\..\Logs\Measurement\2017_05_16_13_17_04\Temperature Log.csv
+2017-05-16 13:17:04.1547 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2017-05-16 13:17:04.1638 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 13:17:04.1994 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 13:17:13.6449 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 13:17:13.7095 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 13:17:15.6910 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 13:17:15.7620 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:17:15.7620 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 13:17:15.7786 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 13:17:15.8024 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 13:17:15.8816 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 13:17:15.9625 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 13:17:16.0006 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 13:17:16.0217 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 13:17:16.0318 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2017-05-16 13:17:16.0408 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 13:17:16.6371 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2017-05-16 13:17:16.6602 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 13:17:43.0232 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2017-05-16 13:17:43.0462 DEBUG Executing the action: HelixGen.Model.r1Action
+2017-05-16 13:17:52.5129 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 13:17:52.5963 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 9
+2017-05-16 13:17:52.6149 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 13:17:52.8829 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 10
+2017-05-16 13:17:52.8829 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 13:17:52.9909 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:17:53.0165 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 12
+2017-05-16 13:17:53.0305 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 13:17:53.4076 DEBUG Executing the action: HelixGen.Model.heaterAction
+2017-05-16 13:17:53.5004 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 13
+2017-05-16 13:17:53.5167 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 13:18:19.8828 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2017-05-16 13:18:19.9203 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 13:18:19.9881 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2017-05-16 13:18:20.0041 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 13:18:29.4743 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2017-05-16 13:18:29.5228 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 13:18:33.9585 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2017-05-16 13:18:33.9768 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 13:18:38.4086 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2017-05-16 13:18:38.4552 DEBUG Executing the action: HelixGen.Model.r2Action
+2017-05-16 13:18:42.8880 DEBUG Executing the action: HelixGen.Model.heaterPistonAction
+2017-05-16 13:18:44.8559 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2017-05-16 13:18:44.8740 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 13:18:45.1549 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2017-05-16 13:18:45.2110 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 13:18:45.2319 DEBUG clsAMD::SetDOStatus: channel 01 status 1
+2017-05-16 13:18:45.2537 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 3
+2017-05-16 13:18:45.3328 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 2
+2017-05-16 13:18:45.4133 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1
+2017-05-16 13:18:45.4544 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 13:18:45.4795 ERROR devicePump::dispense(true) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E0R; iteration: 1; source command: /101E0R; iteration: 0; error code: 2
+2017-05-16 13:18:45.4974 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:18:45.5287 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2017-05-16 13:18:45.5486 DEBUG Executing the action: HelixGen.Model.sliderAction
+2017-05-16 13:18:45.8122 DEBUG Executing the action: HelixGen.Model.pumpAction
+2017-05-16 13:18:45.8493 DEBUG clsAMD::SetDOStatus: channel 01 status 0
+2017-05-16 13:18:45.8768 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 3
+2017-05-16 13:18:45.9567 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 2
+2017-05-16 13:18:46.0368 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1
+2017-05-16 13:18:46.0661 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 13:18:46.0969 ERROR devicePump::dispense(false) caught an exception: Error: (AMB): (AMB )Error: 2  Data: /0; command: /101E1R; iteration: 1; source command: /101E1R; iteration: 0; error code: 2
+2017-05-16 13:18:46.1170 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2017-05-16 13:18:46.1330 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 13:18:46.1330 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:18:46.2702 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 13:18:46.3033 DEBUG Setting the temperature to 50
+2017-05-16 13:18:46.3243 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 13:18:46.3854 DEBUG Current setpoint reading back as 50
+2017-05-16 13:18:46.5303 DEBUG Setting the temperature2 to 50
+2017-05-16 13:18:46.5433 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 13:18:46.5970 DEBUG Current setpoint2 reading back as 50
+2017-05-16 13:18:46.9041 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:18:46.9442 DEBUG DevicePCRCycler SetToAppropriateBand making settings for the temperature range: From: 0 to 100
+2017-05-16 13:18:48.0201 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:19:07.7633 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 13:19:07.7854 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:21:07.8055 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 13:21:07.8203 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:21:08.0048 DEBUG gotoTempAndStay: temperature = 94 time = 0 ms
+2017-05-16 13:21:08.0168 DEBUG Setting the temperature to 94
+2017-05-16 13:21:08.0278 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 13:21:08.1657 DEBUG Current setpoint reading back as 94
+2017-05-16 13:21:08.2724 DEBUG Setting the temperature2 to 94
+2017-05-16 13:21:08.2955 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 94
+2017-05-16 13:21:08.3558 DEBUG Current setpoint2 reading back as 94
+2017-05-16 13:21:17.4572 DEBUG gotoTempAndStay: at temperature = 94, sleeping ...
+2017-05-16 13:21:17.4742 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:26:17.4906 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2017-05-16 13:26:17.5146 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:26:17.6816 DEBUG gotoTempAndStay: temperature = 50 time = 0 ms
+2017-05-16 13:26:17.6816 DEBUG Setting the temperature to 50
+2017-05-16 13:26:17.7040 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 13:26:17.7548 DEBUG Current setpoint reading back as 50
+2017-05-16 13:26:17.8562 DEBUG Setting the temperature2 to 50
+2017-05-16 13:26:17.8562 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 13:26:17.9606 DEBUG Current setpoint2 reading back as 50
+2017-05-16 13:27:05.1461 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 13:27:05.1661 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:27:20.1798 DEBUG Executing the step from _pcrActions: HelixGen.Model.CycleStep
+2017-05-16 13:27:20.2249 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:27:20.2420 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:27:20.3560 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:27:20.3910 DEBUG Setting the temperature to 95
+2017-05-16 13:27:20.4070 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:27:20.5041 DEBUG Current setpoint reading back as 95
+2017-05-16 13:27:20.6540 DEBUG Setting the temperature2 to 95
+2017-05-16 13:27:20.6540 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:27:20.7115 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:27:29.8321 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:27:29.8562 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:27:59.8680 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:27:59.8830 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:28:00.0704 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:28:00.0983 DEBUG Setting the temperature to 60
+2017-05-16 13:28:00.1214 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:28:00.1728 DEBUG Current setpoint reading back as 60
+2017-05-16 13:28:00.4123 DEBUG Setting the temperature2 to 60
+2017-05-16 13:28:00.4183 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:28:00.5193 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:28:29.6614 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:28:29.6795 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:28:49.6960 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:28:49.6960 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:28:49.9064 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:28:49.9163 DEBUG Setting the temperature to 72
+2017-05-16 13:28:49.9163 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:28:49.9761 DEBUG Current setpoint reading back as 72
+2017-05-16 13:28:50.0662 DEBUG Setting the temperature2 to 72
+2017-05-16 13:28:50.0783 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:28:50.1465 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:29:06.3715 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:29:06.3715 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:29:21.3859 DEBUG Cycle 0: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:29:23.4403 DEBUG Found the port closed, reopening.
+2017-05-16 13:29:34.4616 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:29:34.4616 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:29:34.6672 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:29:34.6672 DEBUG Setting the temperature to 95
+2017-05-16 13:29:34.6863 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:29:34.7358 DEBUG Current setpoint reading back as 95
+2017-05-16 13:29:34.8692 DEBUG Setting the temperature2 to 95
+2017-05-16 13:29:34.8692 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:29:34.9607 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:29:41.3563 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:29:41.3563 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:29:41.3767 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:29:41.3847 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:29:42.3589 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:29:42.3799 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:29:42.4080 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:29:42.4200 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:29:43.4010 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:29:43.4010 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:29:43.4197 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:29:43.4197 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:29:44.3709 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:29:44.4020 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:29:50.1111 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:29:50.1304 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:30:20.1421 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:30:20.1632 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:30:20.2738 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:30:20.3027 DEBUG Setting the temperature to 60
+2017-05-16 13:30:20.3137 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:30:20.6057 DEBUG Current setpoint reading back as 60
+2017-05-16 13:30:20.7738 DEBUG Setting the temperature2 to 60
+2017-05-16 13:30:20.7897 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:30:20.8466 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:30:49.9825 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:30:50.0096 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:31:10.0229 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:31:10.0459 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:31:10.1737 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:31:10.2063 DEBUG Setting the temperature to 72
+2017-05-16 13:31:10.2199 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:31:10.2744 DEBUG Current setpoint reading back as 72
+2017-05-16 13:31:10.3667 DEBUG Setting the temperature2 to 72
+2017-05-16 13:31:10.3727 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:31:10.5170 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:31:26.7455 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:31:26.7455 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:31:41.7662 DEBUG Cycle 1: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:31:51.2016 DEBUG Found the port closed, reopening.
+2017-05-16 13:31:56.1784 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:31:56.1954 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:31:56.2993 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:31:56.3434 DEBUG Setting the temperature to 95
+2017-05-16 13:31:56.3555 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:31:56.4090 DEBUG Current setpoint reading back as 95
+2017-05-16 13:31:56.8127 DEBUG Setting the temperature2 to 95
+2017-05-16 13:31:56.8127 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:31:56.8728 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:32:02.4697 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:32:02.4928 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:32:03.5080 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:32:03.5080 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:32:03.5260 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:32:03.5260 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:32:04.4735 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:32:04.4885 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:32:04.5158 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:32:04.5348 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:32:05.5156 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:32:05.5238 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:32:05.5238 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:32:05.5438 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:32:10.9840 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:32:10.9970 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:32:41.0105 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:32:41.0264 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:32:41.1374 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:32:41.1530 DEBUG Setting the temperature to 60
+2017-05-16 13:32:41.1650 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:32:41.2616 DEBUG Current setpoint reading back as 60
+2017-05-16 13:32:41.3880 DEBUG Setting the temperature2 to 60
+2017-05-16 13:32:41.4070 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:32:41.6082 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:33:10.8941 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:33:10.9201 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:33:30.9330 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:33:30.9601 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:33:31.0717 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:33:31.1107 DEBUG Setting the temperature to 72
+2017-05-16 13:33:31.1258 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:33:31.2166 DEBUG Current setpoint reading back as 72
+2017-05-16 13:33:31.3221 DEBUG Setting the temperature2 to 72
+2017-05-16 13:33:31.3382 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:33:31.3990 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:33:47.5530 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:33:47.5620 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:34:02.5710 DEBUG Cycle 2: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:34:13.3448 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:34:13.3618 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:34:13.6874 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:34:13.7014 DEBUG Setting the temperature to 95
+2017-05-16 13:34:13.7014 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:34:13.8051 DEBUG Current setpoint reading back as 95
+2017-05-16 13:34:14.0387 DEBUG Setting the temperature2 to 95
+2017-05-16 13:34:14.0470 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:34:14.1469 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:34:20.6179 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:34:20.6179 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:34:20.6371 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:34:20.6371 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:34:21.5767 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:34:21.5984 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:34:21.6305 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:34:21.6405 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:34:22.6197 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:34:22.6197 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:34:22.6367 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:34:22.6367 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:34:29.3455 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:34:29.3636 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:34:59.3755 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:34:59.3974 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:34:59.5175 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:34:59.5326 DEBUG Setting the temperature to 60
+2017-05-16 13:34:59.5426 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:34:59.7397 DEBUG Current setpoint reading back as 60
+2017-05-16 13:34:59.9952 DEBUG Setting the temperature2 to 60
+2017-05-16 13:34:59.9952 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:35:00.0656 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:35:30.2230 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:35:30.2471 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:35:50.2579 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:35:50.2838 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:35:50.3928 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:35:50.4309 DEBUG Setting the temperature to 72
+2017-05-16 13:35:50.4467 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:35:50.5560 DEBUG Current setpoint reading back as 72
+2017-05-16 13:35:50.7261 DEBUG Setting the temperature2 to 72
+2017-05-16 13:35:50.7329 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:35:50.8123 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:36:06.9778 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:36:06.9938 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:36:22.0049 DEBUG Cycle 3: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:36:32.7879 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:36:32.7996 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:36:32.9941 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:36:32.9941 DEBUG Setting the temperature to 95
+2017-05-16 13:36:33.0141 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:36:33.0664 DEBUG Current setpoint reading back as 95
+2017-05-16 13:36:33.1675 DEBUG Setting the temperature2 to 95
+2017-05-16 13:36:33.1945 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:36:33.3108 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:36:39.7176 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:36:39.7176 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:36:39.7368 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:36:39.7438 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:36:40.6768 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:36:40.6968 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:36:40.7169 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:36:40.7299 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:36:41.8018 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:36:41.8084 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:36:41.8084 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:36:41.8278 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:36:48.4673 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:36:48.4849 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:37:18.4954 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:37:18.5144 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:37:18.8499 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:37:18.8779 DEBUG Setting the temperature to 60
+2017-05-16 13:37:18.8871 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:37:19.2492 DEBUG Current setpoint reading back as 60
+2017-05-16 13:37:19.3613 DEBUG Setting the temperature2 to 60
+2017-05-16 13:37:19.3754 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:37:19.4367 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:37:49.6741 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:37:49.6911 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:38:09.7053 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:38:09.7112 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:38:09.9186 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:38:09.9326 DEBUG Setting the temperature to 72
+2017-05-16 13:38:09.9326 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:38:09.9905 DEBUG Current setpoint reading back as 72
+2017-05-16 13:38:10.0829 DEBUG Setting the temperature2 to 72
+2017-05-16 13:38:10.0906 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:38:10.1427 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:38:26.2669 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:38:26.2819 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:38:41.2917 DEBUG Cycle 4: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:38:52.0809 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:38:52.0919 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:38:52.2905 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:38:52.2905 DEBUG Setting the temperature to 95
+2017-05-16 13:38:52.3114 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:38:52.3623 DEBUG Current setpoint reading back as 95
+2017-05-16 13:38:52.4583 DEBUG Setting the temperature2 to 95
+2017-05-16 13:38:52.4702 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:38:52.7271 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:38:58.8150 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:38:58.8220 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:38:58.8220 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:38:58.8395 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:38:59.7786 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:38:59.8013 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:38:59.8344 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:38:59.8545 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:39:00.8168 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:39:00.8239 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:39:00.8239 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:39:00.8424 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:39:01.7766 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:39:01.7987 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:39:06.9990 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:39:06.9990 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:39:37.0141 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:39:37.0570 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:39:37.2821 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:39:37.2951 DEBUG Setting the temperature to 60
+2017-05-16 13:39:37.2951 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:39:37.3537 DEBUG Current setpoint reading back as 60
+2017-05-16 13:39:37.4872 DEBUG Setting the temperature2 to 60
+2017-05-16 13:39:37.4948 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:39:37.7222 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:40:06.9627 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:40:06.9777 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:40:26.9899 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:40:27.0179 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:40:27.1948 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:40:27.2329 DEBUG Setting the temperature to 72
+2017-05-16 13:40:27.2440 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:40:27.2948 DEBUG Current setpoint reading back as 72
+2017-05-16 13:40:27.3850 DEBUG Setting the temperature2 to 72
+2017-05-16 13:40:27.4006 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:40:27.4965 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:40:44.6746 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:40:44.6846 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:40:59.6959 DEBUG Cycle 5: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:41:10.4859 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:41:10.5049 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:41:10.6663 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:41:10.7013 DEBUG Setting the temperature to 95
+2017-05-16 13:41:10.7154 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:41:10.7676 DEBUG Current setpoint reading back as 95
+2017-05-16 13:41:10.9836 DEBUG Setting the temperature2 to 95
+2017-05-16 13:41:10.9836 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:41:11.0917 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:41:16.8719 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:41:16.8940 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:41:17.9133 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:41:17.9203 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:41:17.9301 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:41:17.9301 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:41:18.8745 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:41:18.8966 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:41:18.9177 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:41:18.9307 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:41:19.9168 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:41:19.9168 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:41:19.9347 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:41:19.9347 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:41:25.2540 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:41:25.2657 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:41:55.2727 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:41:55.2928 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:41:55.4162 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:41:55.4667 DEBUG Setting the temperature to 60
+2017-05-16 13:41:55.4827 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:41:55.8072 DEBUG Current setpoint reading back as 60
+2017-05-16 13:41:55.9814 DEBUG Setting the temperature2 to 60
+2017-05-16 13:41:55.9814 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:41:56.0648 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:42:26.2394 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:42:26.2567 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:42:46.2663 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:42:46.2894 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:42:46.4854 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:42:46.4982 DEBUG Setting the temperature to 72
+2017-05-16 13:42:46.4982 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:42:46.5563 DEBUG Current setpoint reading back as 72
+2017-05-16 13:42:46.6472 DEBUG Setting the temperature2 to 72
+2017-05-16 13:42:46.6542 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:42:46.7107 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:43:03.8438 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:43:03.8584 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:43:18.8743 DEBUG Cycle 6: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:43:29.6621 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:43:29.6766 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:43:29.7827 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2017-05-16 13:43:29.8148 DEBUG Setting the temperature to 95
+2017-05-16 13:43:29.8238 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:43:30.0870 DEBUG Current setpoint reading back as 95
+2017-05-16 13:43:30.2771 DEBUG Setting the temperature2 to 95
+2017-05-16 13:43:30.2891 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2017-05-16 13:43:30.3439 DEBUG Current setpoint2 reading back as 95
+2017-05-16 13:43:36.0087 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:43:36.0087 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:43:36.9683 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:43:36.9909 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:43:37.0169 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:43:37.0319 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:43:38.0109 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:43:38.0109 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:43:38.0295 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:43:38.0395 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:43:38.9717 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:43:39.0010 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:43:39.0261 DEBUG DevicePCRCycler SetToAppropriateBand starting
+2017-05-16 13:43:39.0261 DEBUG DevicePCRCycler SetToAppropriateBand exitting
+2017-05-16 13:43:44.4731 DEBUG gotoTempAndStay: at temperature = 95, sleeping ...
+2017-05-16 13:43:44.4912 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:44:14.5014 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:44:14.5144 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:44:14.7219 DEBUG gotoTempAndStay: temperature = 60 time = 0 ms
+2017-05-16 13:44:14.7376 DEBUG Setting the temperature to 60
+2017-05-16 13:44:14.7466 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:44:14.9221 DEBUG Current setpoint reading back as 60
+2017-05-16 13:44:15.3071 DEBUG Setting the temperature2 to 60
+2017-05-16 13:44:15.3071 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2017-05-16 13:44:15.4140 DEBUG Current setpoint2 reading back as 60
+2017-05-16 13:44:45.5611 DEBUG gotoTempAndStay: at temperature = 60, sleeping ...
+2017-05-16 13:44:45.5771 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:45:05.5867 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2017-05-16 13:45:05.6097 DEBUG Executing the action: HelixGen.Model.pcrAction
+2017-05-16 13:45:05.7266 DEBUG gotoTempAndStay: temperature = 72 time = 0 ms
+2017-05-16 13:45:05.7469 DEBUG Setting the temperature to 72
+2017-05-16 13:45:05.7576 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:45:05.8071 DEBUG Current setpoint reading back as 72
+2017-05-16 13:45:06.0176 DEBUG Setting the temperature2 to 72
+2017-05-16 13:45:06.0176 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 72
+2017-05-16 13:45:06.1510 DEBUG Current setpoint2 reading back as 72
+2017-05-16 13:45:22.2912 DEBUG gotoTempAndStay: at temperature = 72, sleeping ...
+2017-05-16 13:45:22.2912 DEBUG Executing the action: HelixGen.Model.timeAction
+2017-05-16 13:45:37.3126 DEBUG Cycle 7: Executing the step: HelixGen.Model.SampleStep
+2017-05-16 13:45:48.0755 DEBUG Executing the step from _pcrActions: HelixGen.Model.MeltCurveStep
+2017-05-16 13:45:48.1878 DEBUG gotoTempAndStay: temperature = 50 time = 60 ms
+2017-05-16 13:45:48.2217 DEBUG Setting the temperature to 50
+2017-05-16 13:45:48.2363 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 13:45:48.2893 DEBUG Current setpoint reading back as 50
+2017-05-16 13:45:48.3830 DEBUG Setting the temperature2 to 50
+2017-05-16 13:45:48.4049 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2017-05-16 13:45:48.4654 DEBUG Current setpoint2 reading back as 50
+2017-05-16 13:46:18.6664 DEBUG gotoTempAndStay: at temperature = 50, sleeping ...
+2017-05-16 13:46:19.1388 DEBUG Setting the temperature to 85
+2017-05-16 13:46:19.1388 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2017-05-16 13:46:19.2717 DEBUG Current setpoint reading back as 85
+2017-05-16 13:46:19.3882 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2017_05_16_13_17_04\Melt Curve logging.csv
+2017-05-16 13:47:17.5429 DEBUG Setting the temperature to 25
+2017-05-16 13:47:17.5669 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 25
+2017-05-16 13:47:17.6299 DEBUG Current setpoint reading back as 25

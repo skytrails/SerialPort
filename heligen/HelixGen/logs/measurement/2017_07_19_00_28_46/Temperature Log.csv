@@ -1,0 +1,6 @@
+Protocol file: C:\HelixGen\Protocols\Protocol_pcr - jacky - Copy.xml
+Run date.time: 7/19/2017 12:28:46 AM
+Time, Elapsed Seconds, SPREP Thermal Setpoint, SPREP Thermal C, PCR TEC1 Setpoint, PCR TEC1 C, PCR TEC1 PWR, PRC TE1C Amps,PCR TEC2 Setpoint, PCR TEC2 C, PCR TEC2 PWR, PRC TEC2 AmpsTEC3 Temp, TEC4 Temp, TEC5 temp, TEC6 temp
+"2017-07-19 00:28:47.559",0,25,35.194,98,38.257,0,0,98,38.239,0,0,-2.688,-2.688,-2.688,-2.688
+"2017-07-19 00:28:49.269",1.710009,25,35.188,98,38.265,0,0,98,38.24,0,0,-2.688,-2.688,-2.688,-2.688
+"2017-07-19 00:28:50.840",3.2802214,25,35.171,98,38.273,0,0,98,38.242,0,0,-2.688,-2.688,-2.688,-2.688

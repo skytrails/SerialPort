@@ -1,0 +1,388 @@
+﻿<Page x:Class="HelixGen.Pages.AnalysePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:d3="http://research.microsoft.com/DynamicDataDisplay/1.0"
+      xmlns:local="clr-namespace:HelixGen.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AnalysePage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="7*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="7*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10*" />
+
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Grid.Column="0">
+                <GroupBox.Header>
+                    <Label >类型</Label>
+                </GroupBox.Header>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+                    <RadioButton Grid.Column="1"   Name="rongjie"  Content="扩增"  Checked="OnCheckedEnlarge" FontSize="10" />
+                    <RadioButton Grid.Column="2"   Content="溶解" Checked="RadioButton_Checked" FontSize="10"/>
+                    <RadioButton Grid.Column="3"   Content="峰值" Checked="RadioButton_Checked_1" FontSize="10"/>
+                </Grid>
+            </GroupBox>
+            <Button  Grid.Column="1"  Content="数据源"  Margin="10,10" FontSize="10" Click="Button_Click_SelectData"    BorderThickness="0">
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <Button  Grid.Column="2"  Content="分析"  Margin="10,10" FontSize="10" Click="Button_Click1"    BorderThickness="0" >
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <Button  Grid.Column="3"  Content="返回"  Margin="10" FontSize="10" Click="Button_Click"    BorderThickness="0">
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+
+            </Button>
+            <Button  Grid.Column="4"  Content="开卡盒"  Margin="10" FontSize="10" Click="Button_ClickOpen"    BorderThickness="0">
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0"  Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="9*" />
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="5*" />
+                        
+                        
+                    </Grid.RowDefinitions>
+                    <TextBlock  Grid.Row="0"   HorizontalAlignment="Right" Margin="0,0"  VerticalAlignment="Center" FontSize="25">1</TextBlock>
+                    
+                    
+                    
+                </Grid>
+                <d3:ChartPlotter Grid.Column="1" x:Name="pcrplotter0"  Margin="0" LegendVisible="False">
+                    <d3:ChartPlotter.HorizontalAxis>
+                        <d3:HorizontalIntegerAxis Name="pcrdateAxis0"/>
+                    </d3:ChartPlotter.HorizontalAxis>
+                    <!-- <d3:VerticalAxisTitle Content="" FontSize="25"  />-->
+                    <d3:HorizontalAxisTitle Content=" " FontSize="15" />
+                    <d3:HorizontalLine Value="{Binding Path=PCRCyclerReading, UpdateSourceTrigger=PropertyChanged}" Stroke="Blue"/>
+                </d3:ChartPlotter>
+            </Grid>
+            <Grid Grid.Column="1"  Margin="0,5,0,0">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="9*" />
+
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Grid.RowSpan="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock  Grid.Row="0"   HorizontalAlignment="Right" Margin="0,0"  VerticalAlignment="Center" FontSize="25">2</TextBlock>
+                    
+                    
+                    
+                </Grid>
+                <d3:ChartPlotter Grid.Column="1" x:Name="pcrplotter"  Margin="0" LegendVisible="False" Grid.RowSpan="2" Grid.ColumnSpan="2">
+                    <d3:ChartPlotter.HorizontalAxis>
+                        <d3:HorizontalIntegerAxis Name="pcrdateAxis"/>
+                    </d3:ChartPlotter.HorizontalAxis>
+                    <!-- <d3:VerticalAxisTitle Content="" FontSize="25"  />-->
+                    <d3:HorizontalAxisTitle Content=" " FontSize="15" />
+                    <d3:HorizontalLine Value="{Binding Path=PCRCyclerReading, UpdateSourceTrigger=PropertyChanged}" Stroke="Blue"/>
+                </d3:ChartPlotter>
+            </Grid>
+
+            <Grid Grid.Column="2"  Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="9*" />
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock  Grid.Row="0"   HorizontalAlignment="Right" Margin="0,0"  VerticalAlignment="Center" FontSize="25">3</TextBlock>
+                    
+                    
+                    
+                </Grid>
+                <d3:ChartPlotter Grid.Column="1" x:Name="pcrplotter1"  Margin="0" LegendVisible="False">
+                    <d3:ChartPlotter.HorizontalAxis>
+                        <d3:HorizontalIntegerAxis Name="pcrdateAxis1"/>
+                    </d3:ChartPlotter.HorizontalAxis>
+                    <!-- <d3:VerticalAxisTitle Content="" FontSize="25"  />-->
+                    <d3:HorizontalAxisTitle Content=" " FontSize="15" />
+                    <d3:HorizontalLine Value="{Binding Path=PCRCyclerReading, UpdateSourceTrigger=PropertyChanged}" Stroke="Blue"/>
+                </d3:ChartPlotter>
+            </Grid>
+
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="4*" />
+                
+                
+            </Grid.ColumnDefinitions>
+            <Button  Grid.Column="1"  Content="报告"  Margin="0,0,0,5" FontSize="10" Click="Button_ClickOpen1"    BorderThickness="0" >
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <TextBlock  Grid.Column="4"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">病人ID: </TextBlock>
+            <TextBlock  Grid.Column="5"   x:Name="chan1patientID"  HorizontalAlignment="Left" Margin="0,0" VerticalAlignment="Top" FontSize="10" TextWrapping="Wrap"></TextBlock>
+            <!--<TextBox Grid.Row="2"  x:Name="chan1patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="15" TextWrapping="Wrap"/>-->
+            <TextBlock  Grid.Column="2"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">检测项: </TextBlock>
+            <TextBlock Grid.Column="3"  x:Name="chan1haocaiID" Margin="0,0" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="10" TextWrapping="Wrap"/>
+
+            <Button  Grid.Column="7"  Content="报告"  Margin="0,0,0,5" FontSize="10" Click="Button_ClickOpen2"    BorderThickness="0" >
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <TextBlock  Grid.Column="10"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">病人ID:</TextBlock>
+            <TextBlock  Grid.Column="11"   x:Name="chan2patientID"  HorizontalAlignment="Left" Margin="0,0" VerticalAlignment="Top" FontSize="10" TextWrapping="Wrap"></TextBlock>
+            <!--<TextBox Grid.Row="2"  x:Name="chan1patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="15" TextWrapping="Wrap"/>-->
+            <TextBlock  Grid.Column="8"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">检测项:</TextBlock>
+            <TextBlock Grid.Column="9"  x:Name="chan2haocaiID" Margin="0,0" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="10" TextWrapping="Wrap"/>
+
+            <Button  Grid.Column="13"  Content="报告"  Margin="0,0,0,5" FontSize="10" Click="Button_ClickOpen3"    BorderThickness="0" >
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <TextBlock  Grid.Column="16"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">病人ID:</TextBlock>
+            <TextBlock  Grid.Column="17"   x:Name="chan3patientID"  HorizontalAlignment="Left" Margin="0,0" VerticalAlignment="Top" FontSize="10" TextWrapping="Wrap"></TextBlock>
+            <!--<TextBox Grid.Row="2"  x:Name="chan1patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="15" TextWrapping="Wrap"/>-->
+            <TextBlock  Grid.Column="14"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">检测项:</TextBlock>
+            <TextBlock Grid.Column="15"  x:Name="chan3haocaiID" Margin="0,0" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="10" TextWrapping="Wrap"/>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*" />
+
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0"  Margin="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="8*" />
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock  Grid.Row="0"   HorizontalAlignment="Right" Margin="0,0"  VerticalAlignment="Center" FontSize="25">4</TextBlock>
+                    
+                    
+                    
+                </Grid>
+                <d3:ChartPlotter Grid.Column="1" x:Name="pcrplotter3"  Margin="0" LegendVisible="False">
+                    <d3:ChartPlotter.HorizontalAxis>
+                        <d3:HorizontalIntegerAxis Name="pcrdateAxis3"/>
+                    </d3:ChartPlotter.HorizontalAxis>
+                    <!--<d3:VerticalAxisTitle Content="4" FontSize="25" />-->
+                    <d3:HorizontalAxisTitle Content=" " FontSize="15" />
+                    <d3:HorizontalLine Value="{Binding Path=PCRCyclerReading, UpdateSourceTrigger=PropertyChanged}" Stroke="Blue"/>
+                </d3:ChartPlotter>
+            </Grid>
+
+            <Grid Grid.Column="1"  Margin="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="8*" />
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock  Grid.Row="0"   HorizontalAlignment="Right" Margin="0,0"  VerticalAlignment="Center" FontSize="25">5</TextBlock>
+                    
+                    
+                    
+                </Grid>
+                <d3:ChartPlotter Grid.Column="1" x:Name="pcrplotter4"  Margin="0" LegendVisible="False">
+                    <d3:ChartPlotter.HorizontalAxis>
+                        <d3:HorizontalIntegerAxis Name="pcrdateAxis4"/>
+                    </d3:ChartPlotter.HorizontalAxis>
+                    <!-- <d3:VerticalAxisTitle Content="" FontSize="25"  />-->
+                    <d3:HorizontalAxisTitle Content=" " FontSize="15" />
+                    <d3:HorizontalLine Value="{Binding Path=PCRCyclerReading, UpdateSourceTrigger=PropertyChanged}" Stroke="Blue"/>
+                </d3:ChartPlotter>
+            </Grid>
+
+            <Grid Grid.Column="2"  Margin="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="8*" />
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock  Grid.Row="0"   HorizontalAlignment="Right" Margin="0,0"  VerticalAlignment="Center" FontSize="25">6</TextBlock>
+                    
+                    
+                    
+                </Grid>
+                <d3:ChartPlotter Grid.Column="1" x:Name="pcrplotter5"  Margin="0" LegendVisible="False">
+                    <d3:ChartPlotter.HorizontalAxis>
+                        <d3:HorizontalIntegerAxis Name="pcrdateAxis5"/>
+                    </d3:ChartPlotter.HorizontalAxis>
+                    <!-- <d3:VerticalAxisTitle Content="" FontSize="25"  />-->
+                    <d3:HorizontalAxisTitle Content=" " FontSize="15" />
+                    <d3:HorizontalLine Value="{Binding Path=PCRCyclerReading, UpdateSourceTrigger=PropertyChanged}" Stroke="Blue"/>
+                </d3:ChartPlotter>
+            </Grid>
+
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="4*" />
+
+
+            </Grid.ColumnDefinitions>
+            <Button  Grid.Column="1"  Content="报告"  Margin="0,0,0,5" FontSize="10" Click="Button_ClickOpen4"    BorderThickness="0" >
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <TextBlock  Grid.Column="4"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">病人ID:</TextBlock>
+            <TextBlock  Grid.Column="5"   x:Name="chan4patientID"  HorizontalAlignment="Left" Margin="0,0" VerticalAlignment="Top" FontSize="10" TextWrapping="Wrap"></TextBlock>
+            <!--<TextBox Grid.Row="2"  x:Name="chan1patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="15" TextWrapping="Wrap"/>-->
+            <TextBlock  Grid.Column="2"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">检测项:</TextBlock>
+            <TextBlock Grid.Column="3"  x:Name="chan4haocaiID" Margin="0,0" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="10" TextWrapping="Wrap"/>
+
+            <Button  Grid.Column="7"  Content="报告"  Margin="0,0,0,5" FontSize="10" Click="Button_ClickOpen1"    BorderThickness="0" >
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <TextBlock  Grid.Column="10"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">病人ID:</TextBlock>
+            <TextBlock  Grid.Column="11"   x:Name="chan5patientID"  HorizontalAlignment="Left" Margin="0,0" VerticalAlignment="Top" FontSize="10" TextWrapping="Wrap"></TextBlock>
+            <!--<TextBox Grid.Row="2"  x:Name="chan1patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="15" TextWrapping="Wrap"/>-->
+            <TextBlock  Grid.Column="8"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">检测项:</TextBlock>
+            <TextBlock Grid.Column="9"  x:Name="chan5haocaiID" Margin="0,0" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="10" TextWrapping="Wrap"/>
+
+            <Button  Grid.Column="13"  Content="报告"  Margin="0,0,0,5" FontSize="10" Click="Button_ClickOpen1"    BorderThickness="0" >
+                <Button.Background>
+                    <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <TextBlock  Grid.Column="16"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">病人ID:</TextBlock>
+            <TextBlock  Grid.Column="17"   x:Name="chan6patientID"  HorizontalAlignment="Left" Margin="0,0" VerticalAlignment="Top" FontSize="10" TextWrapping="Wrap"></TextBlock>
+            <!--<TextBox Grid.Row="2"  x:Name="chan1patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="15" TextWrapping="Wrap"/>-->
+            <TextBlock  Grid.Column="14"   HorizontalAlignment="Right" Margin="0,0" VerticalAlignment="Top" FontSize="10">检测项:</TextBlock>
+            <TextBlock Grid.Column="15"  x:Name="chan6haocaiID" Margin="0,0" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="10" TextWrapping="Wrap"/>
+        </Grid>
+
+    </Grid>
+</Page>

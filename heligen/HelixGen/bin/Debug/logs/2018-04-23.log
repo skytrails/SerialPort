@@ -1,0 +1,225 @@
+2018-04-23 13:23:04.2930 DEBUG ----- Starting -----
+2018-04-23 13:23:46.3292 DEBUG ----- Starting -----
+2018-04-23 13:25:33.3775 DEBUG ----- Starting -----
+2018-04-23 13:26:36.4555 DEBUG ----- Starting -----
+2018-04-23 13:26:55.3975 DEBUG ----- Starting -----
+2018-04-23 13:27:23.6374 DEBUG ----- Starting -----
+2018-04-23 13:28:25.7324 DEBUG ----- Starting -----
+2018-04-23 13:29:11.8282 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:29:33.3143 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2018-04-23 13:30:11.7987 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: /04o0R; iteration: 0; error code: 0
+2018-04-23 13:30:14.9986 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: /03o1R; iteration: 0; error code: 0
+2018-04-23 13:30:15.0286 DEBUG deviceChassisPiston::initialize() Caught an exception: Error: (AMB): The operation has timed out.; source command: /03o1R; iteration: 0; error code: 0
+2018-04-23 13:31:25.4712 DEBUG ----- Starting -----
+2018-04-23 13:31:43.7961 DEBUG ----- Starting -----
+2018-04-23 13:33:07.4880 DEBUG ----- Starting -----
+2018-04-23 13:33:13.6438 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:33:25.3301 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:33:47.4887 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2018-04-23 13:36:49.9434 DEBUG ----- Starting -----
+2018-04-23 13:37:25.7589 DEBUG ----- Starting -----
+2018-04-23 13:37:26.0262 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:37:26.1762 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:37:26.3162 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2018-04-23 13:37:26.3962 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-04-23 13:37:52.7331 DEBUG ----- Starting -----
+2018-04-23 13:37:58.6670 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:38:00.3679 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:38:13.4604 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2018-04-23 13:38:15.8329 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-04-23 13:45:35.6052 DEBUG ----- Starting -----
+2018-04-23 13:45:39.5993 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:45:41.4102 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:46:51.3608 DEBUG ----- Starting -----
+2018-04-23 13:46:54.6240 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:46:55.5438 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:47:16.9974 DEBUG ----- Starting -----
+2018-04-23 13:47:21.3813 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:47:51.4849 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:48:18.4039 DEBUG ----- Starting -----
+2018-04-23 13:48:24.9804 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:49:18.5924 DEBUG ----- Starting -----
+2018-04-23 13:49:20.8426 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:49:50.5707 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:51:23.9008 DEBUG ----- Starting -----
+2018-04-23 13:51:26.5233 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:51:34.3666 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-04-23 13:52:14.1071 DEBUG ----- Starting -----
+2018-04-23 13:52:19.8003 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:53:06.4192 DEBUG ----- Starting -----
+2018-04-23 13:53:06.7150 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:54:44.4315 DEBUG ----- Starting -----
+2018-04-23 13:54:44.7517 DEBUG motorBoardModel::Initialize() Caught an exception: The port 'COM7' does not exist.
+2018-04-23 13:55:28.8969 DEBUG ----- Starting -----
+2018-04-23 13:58:45.9155 DEBUG ----- Starting -----
+2018-04-23 13:58:59.0200 DEBUG ----- Starting -----
+2018-04-23 14:02:44.3453 DEBUG ----- Starting -----
+2018-04-23 14:03:06.0022 DEBUG ----- Starting -----
+2018-04-23 14:03:17.6517 DEBUG ----- Starting -----
+2018-04-23 14:07:21.4069 DEBUG ----- Starting -----
+2018-04-23 14:38:40.6512 DEBUG ----- Starting -----
+2018-04-23 14:38:49.1950 DEBUG ----- Starting -----
+2018-04-23 14:44:20.1833 DEBUG ----- Starting -----
+2018-04-23 14:45:47.6137 DEBUG ----- Starting -----
+2018-04-23 14:47:18.4597 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 14:47:18.4697 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 14:48:14.3346 DEBUG ----- Starting -----
+2018-04-23 14:48:42.0333 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 14:48:42.0533 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 14:49:44.9418 DEBUG ----- Starting -----
+2018-04-23 14:49:53.8175 DEBUG ----- Starting -----
+2018-04-23 14:50:01.6553 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 3
+2018-04-23 14:50:01.7352 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 2
+2018-04-23 14:50:01.8148 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1
+2018-04-23 14:50:01.8298 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1; source command: /04D100R; iteration: 0; error code: 11
+2018-04-23 14:50:19.5601 DEBUG ----- Starting -----
+2018-04-23 14:50:27.6954 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 3
+2018-04-23 14:50:27.7757 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 2
+2018-04-23 14:50:27.8707 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1
+2018-04-23 14:50:27.9058 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1; source command: /04D100R; iteration: 0; error code: 11
+2018-04-23 14:50:37.2315 DEBUG ----- Starting -----
+2018-04-23 14:51:34.1238 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 3
+2018-04-23 14:51:45.3168 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 2
+2018-04-23 14:51:47.0242 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1
+2018-04-23 14:51:47.0242 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1; source command: /04D100R; iteration: 0; error code: 11
+2018-04-23 14:51:54.6798 DEBUG ----- Starting -----
+2018-04-23 14:52:13.9953 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 3
+2018-04-23 14:52:14.0751 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 2
+2018-04-23 14:52:14.1543 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1
+2018-04-23 14:52:14.1914 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 11  Data: /0+; command: /04D100R; iteration: 1; source command: /04D100R; iteration: 0; error code: 11
+2018-04-23 14:52:24.8875 DEBUG ----- Starting -----
+2018-04-23 14:54:25.1843 DEBUG ----- Starting -----
+2018-04-23 14:55:03.4952 DEBUG ----- Starting -----
+2018-04-23 14:55:03.8994 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 14:55:03.9194 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 14:55:35.0982 DEBUG ----- Starting -----
+2018-04-23 14:55:54.2936 DEBUG ----- Starting -----
+2018-04-23 14:56:01.1927 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 14:56:01.2125 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 14:56:52.7113 DEBUG ----- Starting -----
+2018-04-23 14:56:56.6821 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 14:56:56.7021 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 14:57:22.0456 DEBUG ----- Starting -----
+2018-04-23 14:57:30.5459 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 14:57:30.5559 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 14:58:01.9935 DEBUG ----- Starting -----
+2018-04-23 15:17:42.1237 DEBUG ----- Starting -----
+2018-04-23 15:18:03.1776 DEBUG ----- Starting -----
+2018-04-23 15:18:23.1940 DEBUG ----- Starting -----
+2018-04-23 15:18:23.4888 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:18:23.5159 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:18:36.4229 DEBUG ----- Starting -----
+2018-04-23 15:19:33.7699 DEBUG ----- Starting -----
+2018-04-23 15:19:34.1850 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:19:34.2011 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:19:43.8800 DEBUG ----- Starting -----
+2018-04-23 15:19:52.5523 DEBUG ----- Starting -----
+2018-04-23 15:19:57.3389 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 3
+2018-04-23 15:19:57.4185 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 2
+2018-04-23 15:19:57.4982 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 1
+2018-04-23 15:19:57.5365 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 1; source command: /04D5000R; iteration: 0; error code: 11
+2018-04-23 15:21:33.8211 DEBUG ----- Starting -----
+2018-04-23 15:21:53.8306 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:21:53.8406 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:23:19.8572 DEBUG ----- Starting -----
+2018-04-23 15:23:41.1775 DEBUG ----- Starting -----
+2018-04-23 15:23:49.1363 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:23:49.1363 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:24:19.6093 DEBUG ----- Starting -----
+2018-04-23 15:24:28.6563 DEBUG ----- Starting -----
+2018-04-23 15:25:24.4141 DEBUG ----- Starting -----
+2018-04-23 15:25:27.9353 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:25:27.9353 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:25:39.3495 DEBUG ----- Starting -----
+2018-04-23 15:26:18.2548 DEBUG ----- Starting -----
+2018-04-23 15:27:02.4036 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:27:02.4036 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:27:23.0139 DEBUG ----- Starting -----
+2018-04-23 15:27:52.3804 DEBUG ----- Starting -----
+2018-04-23 15:28:12.3400 DEBUG ----- Starting -----
+2018-04-23 15:28:15.7709 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:28:15.7809 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:28:29.6319 DEBUG ----- Starting -----
+2018-04-23 15:30:01.9026 DEBUG ----- Starting -----
+2018-04-23 15:30:04.0174 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:30:04.0274 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:30:16.1944 DEBUG ----- Starting -----
+2018-04-23 15:30:25.0262 DEBUG ----- Starting -----
+2018-04-23 15:30:36.9391 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 3
+2018-04-23 15:30:37.0193 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 2
+2018-04-23 15:30:37.1293 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 1
+2018-04-23 15:30:37.1691 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 11  Data: /0+; command: /04D5000R; iteration: 1; source command: /04D5000R; iteration: 0; error code: 11
+2018-04-23 15:33:25.6971 DEBUG ----- Starting -----
+2018-04-23 15:38:23.8667 DEBUG ----- Starting -----
+2018-04-23 15:39:44.2594 DEBUG ----- Starting -----
+2018-04-23 15:39:46.3327 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:39:46.3427 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:39:54.3642 DEBUG ----- Starting -----
+2018-04-23 15:40:02.1331 DEBUG ----- Starting -----
+2018-04-23 15:41:43.1494 DEBUG ----- Starting -----
+2018-04-23 15:44:11.0477 DEBUG ----- Starting -----
+2018-04-23 15:44:20.1284 DEBUG ----- Starting -----
+2018-04-23 15:49:10.7373 DEBUG ----- Starting -----
+2018-04-23 15:49:13.4165 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-23 15:49:13.4165 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 15:49:28.2902 DEBUG ----- Starting -----
+2018-04-23 15:51:07.2539 DEBUG ----- Starting -----
+2018-04-23 15:51:51.5102 DEBUG ----- Starting -----
+2018-04-23 15:53:32.3620 DEBUG ----- Starting -----
+2018-04-23 15:54:30.3471 DEBUG ----- Starting -----
+2018-04-23 15:56:13.4747 DEBUG ----- Starting -----
+2018-04-23 15:57:49.2440 DEBUG ----- Starting -----
+2018-04-23 15:59:23.0043 DEBUG ----- Starting -----
+2018-04-23 16:00:37.6398 DEBUG ----- Starting -----
+2018-04-23 16:03:00.6184 DEBUG ----- Starting -----
+2018-04-23 16:05:04.3371 DEBUG ----- Starting -----
+2018-04-23 16:05:15.6082 DEBUG ----- Starting -----
+2018-04-23 16:13:21.4323 DEBUG ----- Starting -----
+2018-04-23 16:13:58.6691 DEBUG ----- Starting -----
+2018-04-23 16:18:14.3227 DEBUG ----- Starting -----
+2018-04-23 16:18:39.3787 DEBUG ----- Starting -----
+2018-04-23 16:18:58.6979 DEBUG ----- Starting -----
+2018-04-23 16:19:01.0725 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:19:01.0725 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 16:19:15.8433 DEBUG ----- Starting -----
+2018-04-23 16:19:35.9328 DEBUG ----- Starting -----
+2018-04-23 16:19:57.2578 DEBUG ----- Starting -----
+2018-04-23 16:20:32.8998 DEBUG ----- Starting -----
+2018-04-23 16:20:35.4000 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:20:35.4000 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-23 16:22:29.0077 DEBUG ----- Starting -----
+2018-04-23 16:23:48.0687 DEBUG ----- Starting -----
+2018-04-23 16:23:55.3092 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:24:20.5547 DEBUG ----- Starting -----
+2018-04-23 16:24:20.9401 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:25:21.0475 DEBUG ----- Starting -----
+2018-04-23 16:25:21.3764 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:25:46.3972 DEBUG ----- Starting -----
+2018-04-23 16:25:46.8243 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:26:02.6849 DEBUG ----- Starting -----
+2018-04-23 16:26:03.0509 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:33:04.3595 DEBUG ----- Starting -----
+2018-04-23 16:35:39.6814 DEBUG ----- Starting -----
+2018-04-23 16:36:19.4282 DEBUG ----- Starting -----
+2018-04-23 16:37:04.7228 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-04-23 16:45:24.6452 DEBUG ----- Starting -----
+2018-04-23 16:45:49.5042 DEBUG ----- Starting -----
+2018-04-23 16:47:14.4798 DEBUG ----- Starting -----
+2018-04-23 16:48:58.3283 DEBUG ----- Starting -----
+2018-04-23 16:49:19.6180 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-04-23 16:58:29.8103 DEBUG ----- Starting -----
+2018-04-23 16:58:37.5730 DEBUG ----- Starting -----
+2018-04-23 16:59:00.8757 DEBUG ----- Starting -----
+2018-04-23 17:00:50.0767 DEBUG ----- Starting -----
+2018-04-23 17:01:16.4682 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-04-23 17:01:34.4522 DEBUG ----- Starting -----
+2018-04-23 17:01:34.7600 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-04-23 17:02:21.8978 DEBUG ----- Starting -----
+2018-04-23 17:02:38.9128 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-04-23 17:03:06.2870 DEBUG ----- Starting -----
+2018-04-23 17:03:06.5984 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-04-23 17:08:13.4776 DEBUG ----- Starting -----
+2018-04-23 17:08:35.5197 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-04-23 17:09:04.0699 DEBUG ----- Starting -----
+2018-04-23 17:09:04.4259 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-04-23 17:09:30.2405 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3

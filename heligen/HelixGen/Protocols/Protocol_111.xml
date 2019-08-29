@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol>
+  <description text="This is a generic protocol." author="Steve Engle" date="3/14/2017" />
+  <steps>
+    <!--<step slider="2" r1="2" r2="1" heaterpiston="2" heater="0" pcr="0" pump="off" desc="home"/>
+    <step slider="1" desc="pull sample position"/>
+    <step heaterpiston="3" desc="pull sample heat"/>
+    <step r1="2" r2="2" desc="dispense r1"/>
+    <step slider="3" desc="denature position"/>
+    <meltcurve start="40" end="80" ramprate="0.06" />-->
+    <!--<step overtemp="45" time="4000" />
+    <step pcr="60" time="27000" />
+    <step overtemp="108" time="3000" />
+    <step pcr="95.5" time="30000" />
+    <step overtemp="25" time="4000" />
+    <step pcr="35" time="30000" />
+    <step overtemp="89" time="4000" />
+    <step pcr="72" time="5000" />
+    <step heaterctrl="1"/>-->
+	    <meltcurve start="45" end="75" ramprate="0.1" />
+	  <!-- <step heaterprn="104354" desc="heat piston to pcr"/>
+	  
+    <cycle repetitions="40">
+      <steps>
+        <step r1rn="2387" desc="r1 step"/>
+        <step r2rn="1000" desc="r2 step"/>
+      </steps>
+    </cycle>
+    <step r2rn="10080" desc="r2 step"/>-->
+    <!--
+    
+    
+    <step heater="50" time="10000" />
+    <step heater="85" time="10000"/>
+    <step heater="95" time="10000" desc="heat process"/>
+    <step heater="104" time="600000" heaterctrl="0" />  
+    
+    
+    <step overtemp="25" time="4000" />
+    <step pcr="35" time="1000" />
+    <cycle repetitions="500">
+      <steps>
+        <sample />
+        <step time="10000" />
+      </steps>
+    </cycle>
+  
+    <cycle repetitions="44">
+      <steps>
+        <step overtemp="40" time="4000" />
+        <step pcr="61.5" time="10000" />
+        <sample />
+        <step overtemp="84" time="4000" />
+        <step pcr="73" time="15000" />
+        <step overtemp="109" time="4000" />
+        <step pcr="95" time="15000" />
+      </steps>
+    </cycle> -->
+   <!-- <step heater="95" time="6" desc="denature heat"/>-->
+    <!--<step heater="95" time="600000" desc="denature heat"/>-->
+    <!--<step slider="2" heater="0" desc="filter position"/> 
+    <step heaterpiston="2" desc="filter"/>
+    <step r2="1" desc="dispense r2"/>
+    <step r2="3" desc="mix aereate"/>
+    <step r2="2" desc="mix push"/>
+    <step r2="3" desc="mix pull"/>
+    <step r2="2" heaterpiston="1" pcr="50" desc="fill serpentine"/>
+    <step slider="4" desc="dispense position"/>
+    <step pump="on" time="600000" desc="dispense"/>
+    <step slider="2" pump="off" desc="pcr seal"/>
+    <step pcr="50" desc="pcr"/>-->
+  </steps>
+</protocol>

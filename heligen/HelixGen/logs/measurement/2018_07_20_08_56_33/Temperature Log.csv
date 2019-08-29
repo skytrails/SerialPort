@@ -1,0 +1,4 @@
+Protocol file: C:\HelixGen\Protocols\Protocol_111.xml
+Run date.time: 7/20/2018 8:56:34 AM
+Time, Elapsed Seconds, SPREP Thermal Setpoint, SPREP Thermal C, PCR TEC1 Setpoint, PCR TEC1 C, PCR TEC1 PWR, PRC TE1C Amps,PCR TEC2 Setpoint, PCR TEC2 C, PCR TEC2 PWR, PRC TEC2 AmpsTEC3 Temp, TEC4 Temp, TEC5 temp, TEC6 temp
+"2018-07-20 08:56:34.520",0,25,14.764,25,-6.537,0,0,25,-6.537,0,0,-2.688,25.951,25.876,23.897

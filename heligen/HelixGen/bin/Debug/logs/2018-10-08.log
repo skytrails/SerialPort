@@ -1,0 +1,973 @@
+2018-10-08 09:50:44.2997 DEBUG ----- Starting -----
+2018-10-08 10:00:20.4796 DEBUG ----- Starting -----
+2018-10-08 10:49:28.9830 DEBUG ----- Starting -----
+2018-10-08 15:14:43.7938 DEBUG ----- Starting -----
+2018-10-08 15:14:57.5675 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_14_57\Temperature Log.csv
+2018-10-08 15:14:57.5844 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:14:57.6144 DEBUG gotoTempAndStay: temperature = 42 time = 60 ms
+2018-10-08 15:14:57.6144 DEBUG Setting the temperature to 42
+2018-10-08 15:14:57.8188 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 42
+2018-10-08 15:14:57.9794 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 25.75 to temp is 95
+2018-10-08 15:14:57.9794 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 25.75 making settings for the temperature range: From: 0-90 To: 90-110
+2018-10-08 15:14:57.9874 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-10-08 15:14:58.1230 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:14:58.2507 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:14:58.3145 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:14:58.4581 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:15:04.7772 DEBUG At temperature.
+2018-10-08 15:15:04.7822 DEBUG gotoTempAndStay: at temperature = 42, sleeping ...
+2018-10-08 15:15:04.8660 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:15:04.9468 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_14_57\Melt Curve logging.csv
+2018-10-08 15:15:11.5761 DEBUG In meltcurve, curTemp = 41.3849983215332
+2018-10-08 15:15:11.9231 DEBUG In meltcurve, curTemp = 41.6380004882813
+2018-10-08 15:16:32.6236 DEBUG ----- Starting -----
+2018-10-08 15:16:45.4832 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_16_45\Temperature Log.csv
+2018-10-08 15:16:45.4912 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:16:45.4912 DEBUG gotoTempAndStay: temperature = 42 time = 60 ms
+2018-10-08 15:16:45.5022 DEBUG Setting the temperature to 42
+2018-10-08 15:16:45.6827 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 42
+2018-10-08 15:16:45.8423 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 27.929 to temp is 95
+2018-10-08 15:16:45.8493 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 27.929 making settings for the temperature range: From: 0-90 To: 90-110
+2018-10-08 15:16:45.8493 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-10-08 15:16:45.9859 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:16:46.0497 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:16:46.2103 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:16:46.3380 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:16:50.6395 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_16_50\Temperature Log.csv
+2018-10-08 15:16:50.6454 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:16:50.6454 DEBUG gotoTempAndStay: temperature = 42 time = 60 ms
+2018-10-08 15:16:50.6454 DEBUG Setting the temperature to 42
+2018-10-08 15:16:50.7960 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 42
+2018-10-08 15:16:50.9397 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 42
+2018-10-08 15:16:50.9397 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-10-08 15:16:50.9397 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-10-08 15:16:51.0035 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:16:51.0833 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:16:51.2279 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:16:51.2807 DEBUG At temperature.
+2018-10-08 15:16:51.2847 DEBUG gotoTempAndStay: at temperature = 42, sleeping ...
+2018-10-08 15:16:51.3875 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:16:51.4672 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:16:51.5799 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_16_50\Melt Curve logging.csv
+2018-10-08 15:16:58.0058 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:16:58.9632 DEBUG In meltcurve, curTemp = 41.6259994506836
+2018-10-08 15:17:02.7830 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:17:22.9332 DEBUG In meltcurve, curTemp = 41.9599990844727
+2018-10-08 15:17:30.9686 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:18:34.0993 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:18:36.2685 DEBUG In meltcurve, curTemp = 41.9199981689453
+2018-10-08 15:18:46.5600 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:18:48.7004 DEBUG At temperature.
+2018-10-08 15:18:48.7044 DEBUG gotoTempAndStay: at temperature = 42, sleeping ...
+2018-10-08 15:18:48.7653 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:18:48.8141 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_16_50\Melt Curve logging.csv
+2018-10-08 15:18:48.8141 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 467089,2708372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 15:18:52.3227 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:19:01.4723 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_19_01\Temperature Log.csv
+2018-10-08 15:19:01.4912 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:19:01.4912 DEBUG gotoTempAndStay: temperature = 42 time = 60 ms
+2018-10-08 15:19:01.4912 DEBUG Setting the temperature to 42
+2018-10-08 15:19:01.5810 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 42
+2018-10-08 15:19:01.8363 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 42
+2018-10-08 15:19:01.8363 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 0-90
+2018-10-08 15:19:01.8363 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-10-08 15:19:01.9001 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:19:01.9640 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:19:02.1245 DEBUG TEC; setting the overshootDuration to 1
+2018-10-08 15:19:02.1884 DEBUG TEC; setting the overshootoffset to 1
+2018-10-08 15:19:17.1005 DEBUG At temperature.
+2018-10-08 15:19:17.1005 DEBUG gotoTempAndStay: at temperature = 42, sleeping ...
+2018-10-08 15:19:17.1454 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:19:17.1943 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_19_01\Melt Curve logging.csv
+2018-10-08 15:19:22.0862 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:19:22.4592 DEBUG In meltcurve, curTemp = 41.8139991760254
+2018-10-08 15:19:45.4109 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_19_45\Temperature Log.csv
+2018-10-08 15:19:45.4109 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:19:45.4109 DEBUG gotoTempAndStay: temperature = 42 time = 60 ms
+2018-10-08 15:19:45.4268 DEBUG Setting the temperature to 42
+2018-10-08 15:19:45.5744 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 42
+2018-10-08 15:35:26.4976 DEBUG ----- Starting -----
+2018-10-08 15:35:40.0470 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_35_40\Temperature Log.csv
+2018-10-08 15:35:40.0470 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:35:40.1038 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:35:40.3063 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_35_40\Melt Curve logging.csv
+2018-10-08 15:35:43.4241 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:35:43.6994 DEBUG In meltcurve, curTemp = 26.5
+2018-10-08 15:35:43.7632 DEBUG In meltcurve, curTemp = 26.5
+2018-10-08 15:36:24.4827 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_36_24\Temperature Log.csv
+2018-10-08 15:36:24.4957 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:36:24.6393 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:36:24.9285 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_36_24\Melt Curve logging.csv
+2018-10-08 15:36:31.4690 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:36:31.8400 DEBUG In meltcurve, curTemp = 26.4389991760254
+2018-10-08 15:36:54.5154 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:37:10.4588 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:37:17.8550 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:37:18.2061 DEBUG In meltcurve, curTemp = 26.3899993896484
+2018-10-08 15:37:25.0747 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:37:41.5686 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:37:57.8661 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:38:00.1200 DEBUG In meltcurve, curTemp = 26.3530006408691
+2018-10-08 15:38:01.7228 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:38:05.4588 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:38:21.1807 DEBUG In meltcurve, curTemp = 26.3349990844727
+2018-10-08 15:38:25.0624 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:38:25.4154 DEBUG In meltcurve, curTemp = 26.3309993743896
+2018-10-08 15:38:26.6910 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:38:31.6767 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_38_31\Temperature Log.csv
+2018-10-08 15:38:31.6767 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:38:31.7754 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:38:31.8562 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_38_31\Melt Curve logging.csv
+2018-10-08 15:38:31.9549 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2548870,2463989,2690215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 15:38:32.1903 DEBUG In meltcurve, curTemp = 26.3250007629395
+2018-10-08 15:38:32.2541 DEBUG In meltcurve, curTemp = 26.3250007629395
+2018-10-08 15:38:38.3858 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_38_38\Temperature Log.csv
+2018-10-08 15:38:38.3947 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:38:38.5822 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:38:38.7598 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_38_38\Melt Curve logging.csv
+2018-10-08 15:38:38.8545 DEBUG In meltcurve, curTemp = 26.3209991455078
+2018-10-08 15:38:39.0141 DEBUG In meltcurve, curTemp = 26.3209991455078
+2018-10-08 15:38:44.1015 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_38_44\Temperature Log.csv
+2018-10-08 15:38:44.1334 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:38:44.2710 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:38:44.5283 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_38_44\Melt Curve logging.csv
+2018-10-08 15:38:44.7827 DEBUG In meltcurve, curTemp = 26.318000793457
+2018-10-08 15:38:44.8465 DEBUG In meltcurve, curTemp = 26.318000793457
+2018-10-08 15:38:58.9365 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_38_58\Temperature Log.csv
+2018-10-08 15:38:58.9435 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:38:59.1479 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:38:59.5020 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_38_58\Melt Curve logging.csv
+2018-10-08 15:39:03.0804 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:39:03.2579 DEBUG In meltcurve, curTemp = 26.3090000152588
+2018-10-08 15:39:19.7319 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_39_19\Temperature Log.csv
+2018-10-08 15:39:19.7379 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:39:19.9054 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:39:20.0510 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_39_19\Melt Curve logging.csv
+2018-10-08 15:39:23.0421 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:39:23.2296 DEBUG In meltcurve, curTemp = 26.3010005950928
+2018-10-08 15:40:38.6868 DEBUG ----- Starting -----
+2018-10-08 15:40:53.6960 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_40_53\Temperature Log.csv
+2018-10-08 15:40:53.7190 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:40:53.7988 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:40:54.1189 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_40_53\Melt Curve logging.csv
+2018-10-08 15:40:59.5973 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:41:05.6989 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:41:19.8232 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_41_19\Temperature Log.csv
+2018-10-08 15:41:19.8292 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:41:20.0047 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:41:20.1493 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_41_19\Melt Curve logging.csv
+2018-10-08 15:41:20.1493 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: ,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 15:41:23.7297 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_41_23\Temperature Log.csv
+2018-10-08 15:41:23.7357 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:41:23.9521 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:41:24.0968 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_41_23\Melt Curve logging.csv
+2018-10-08 15:41:51.9057 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_41_51\Temperature Log.csv
+2018-10-08 15:41:51.9117 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:41:52.0603 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:41:52.3017 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_41_51\Melt Curve logging.csv
+2018-10-08 15:41:54.8130 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:00.6593 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:03.2943 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_42_03\Temperature Log.csv
+2018-10-08 15:42:03.3441 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:42:03.5346 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:42:03.6184 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_42_03\Melt Curve logging.csv
+2018-10-08 15:42:03.6184 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 15:42:10.5818 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:19.5039 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:25.2695 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:28.4121 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:31.0082 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:38.9809 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:45.7618 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:42:47.8173 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_42_47\Temperature Log.csv
+2018-10-08 15:42:47.8173 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:42:47.9748 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:42:48.1683 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_42_47\Melt Curve logging.csv
+2018-10-08 15:42:48.1793 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 15:46:29.2284 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:46:44.0054 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_46_44\Temperature Log.csv
+2018-10-08 15:46:44.0054 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:46:44.1291 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:46:44.2049 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_46_44\Melt Curve logging.csv
+2018-10-08 15:46:44.2049 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 15:46:47.4303 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:46:59.8600 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:47:02.2307 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_47_02\Temperature Log.csv
+2018-10-08 15:47:02.2367 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:47:02.3145 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:47:02.3953 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_47_02\Melt Curve logging.csv
+2018-10-08 15:47:16.6591 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:47:40.0137 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:47:52.9342 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:47:59.8217 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:48:00.8829 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:48:09.4371 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:49:11.1082 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:49:13.0709 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_49_13\Temperature Log.csv
+2018-10-08 15:49:13.3033 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:49:13.4090 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:49:13.5387 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_49_13\Melt Curve logging.csv
+2018-10-08 15:49:13.5387 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 15:51:05.8824 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 15:51:38.7156 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_15_51_38\Temperature Log.csv
+2018-10-08 15:51:38.7256 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 15:51:38.9011 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 15:51:39.1106 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_15_51_38\Melt Curve logging.csv
+2018-10-08 15:51:43.9436 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:01:40.7120 DEBUG ----- Starting -----
+2018-10-08 16:01:53.2614 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_01_53\Temperature Log.csv
+2018-10-08 16:01:53.2704 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:01:53.4210 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:01:53.7252 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_01_53\Melt Curve logging.csv
+2018-10-08 16:01:56.3023 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:02:01.7397 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_02_01\Temperature Log.csv
+2018-10-08 16:02:01.7397 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:02:01.7786 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:02:02.0509 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_02_01\Melt Curve logging.csv
+2018-10-08 16:02:09.1210 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:02:12.7353 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_02_12\Temperature Log.csv
+2018-10-08 16:02:12.7353 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:02:12.8052 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:02:12.9508 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_02_12\Melt Curve logging.csv
+2018-10-08 16:02:16.9291 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:02:19.9491 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:02:21.9707 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_02_21\Temperature Log.csv
+2018-10-08 16:02:21.9707 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:02:22.0893 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:02:22.2509 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_02_21\Melt Curve logging.csv
+2018-10-08 16:02:32.1315 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:02:35.3150 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:02:37.4968 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_02_37\Temperature Log.csv
+2018-10-08 16:02:37.5178 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:02:37.6704 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:02:37.8479 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_02_37\Melt Curve logging.csv
+2018-10-08 16:03:21.8513 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:03:26.6185 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:03:33.6587 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:03:52.1293 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_03_52\Temperature Log.csv
+2018-10-08 16:03:52.1293 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:03:52.3128 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:03:52.4584 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_03_52\Melt Curve logging.csv
+2018-10-08 16:03:52.4584 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2476248,2703804,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:03:55.2819 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:03:57.1542 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_03_57\Temperature Log.csv
+2018-10-08 16:03:57.1621 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:03:57.2669 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:03:57.6837 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_03_57\Melt Curve logging.csv
+2018-10-08 16:04:41.1136 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:04:43.7217 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_04_43\Temperature Log.csv
+2018-10-08 16:04:43.7217 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:04:43.7995 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:04:43.8653 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_04_43\Melt Curve logging.csv
+2018-10-08 16:05:35.3975 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:05:37.6774 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_05_37\Temperature Log.csv
+2018-10-08 16:05:37.6774 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:05:37.7642 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:05:37.8460 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_05_37\Melt Curve logging.csv
+2018-10-08 16:05:38.0215 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2481380,2704989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:05:41.9261 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:05:43.8659 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_05_43\Temperature Log.csv
+2018-10-08 16:05:43.8659 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:05:44.2359 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:05:44.4613 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_05_43\Melt Curve logging.csv
+2018-10-08 16:06:09.3888 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:06:11.4991 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_06_11\Temperature Log.csv
+2018-10-08 16:06:11.5061 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:06:11.7534 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:06:11.9150 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_06_11\Melt Curve logging.csv
+2018-10-08 16:07:05.5855 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:08:02.0955 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:08:06.5954 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_08_06\Temperature Log.csv
+2018-10-08 16:08:06.5954 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:08:06.6972 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:08:06.8747 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_08_06\Melt Curve logging.csv
+2018-10-08 16:08:06.8787 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2484015,2707989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:08:15.4142 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:10:06.3212 DEBUG ----- Starting -----
+2018-10-08 16:10:45.8371 DEBUG ----- Starting -----
+2018-10-08 16:10:57.9458 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_10_57\Temperature Log.csv
+2018-10-08 16:10:58.0256 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:10:58.3008 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:10:58.3497 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_10_57\Melt Curve logging.csv
+2018-10-08 16:11:01.4215 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:11:05.4816 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_11_05\Temperature Log.csv
+2018-10-08 16:11:05.4886 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:11:05.6991 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:11:05.9723 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_11_05\Melt Curve logging.csv
+2018-10-08 16:11:09.1139 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:11:17.7857 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_11_17\Temperature Log.csv
+2018-10-08 16:11:17.7997 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:11:17.8755 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:11:18.0849 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_11_17\Melt Curve logging.csv
+2018-10-08 16:11:23.4656 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:11:34.1301 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:11:38.8764 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:11:59.3436 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:12:05.5780 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:12:24.9213 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:12:37.3520 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:12:43.7230 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:13:13.3468 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:13:28.7457 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:13:34.3587 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:13:45.3872 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:13:52.9547 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:13:56.5790 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:14:18.1025 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:14:22.0609 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:14:25.0040 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_14_25\Temperature Log.csv
+2018-10-08 16:14:25.0040 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:14:25.1037 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:14:25.4089 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_14_25\Melt Curve logging.csv
+2018-10-08 16:14:25.4089 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 835,2486941,2707615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:14:29.6815 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_14_29\Temperature Log.csv
+2018-10-08 16:14:29.6955 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:14:29.8022 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:14:30.0914 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_14_29\Melt Curve logging.csv
+2018-10-08 16:14:32.7244 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_14_32\Temperature Log.csv
+2018-10-08 16:14:32.7244 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:14:32.8072 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:14:32.8879 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_14_32\Melt Curve logging.csv
+2018-10-08 16:14:53.7857 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_14_53\Temperature Log.csv
+2018-10-08 16:14:53.7857 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:14:53.8685 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:14:54.1408 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_14_53\Melt Curve logging.csv
+2018-10-08 16:15:02.7238 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:07.0243 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:13.6676 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:18.3720 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_15_18\Temperature Log.csv
+2018-10-08 16:15:18.4398 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:15:18.6203 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:15:18.8138 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_15_18\Melt Curve logging.csv
+2018-10-08 16:15:18.8138 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2726443,2572857,2490305,2712425,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:15:25.5867 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:27.8028 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_15_27\Temperature Log.csv
+2018-10-08 16:15:27.8028 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:15:27.9374 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:15:28.0182 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_15_27\Melt Curve logging.csv
+2018-10-08 16:15:30.8247 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:44.8582 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_15_44\Temperature Log.csv
+2018-10-08 16:15:44.8652 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:15:44.9719 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:15:45.1993 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_15_44\Melt Curve logging.csv
+2018-10-08 16:15:47.7545 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:50.7814 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_15_50\Temperature Log.csv
+2018-10-08 16:15:50.7814 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:15:50.9958 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:15:51.1574 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_15_50\Melt Curve logging.csv
+2018-10-08 16:15:51.1574 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2490591,2711439,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:15:53.3704 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:56.0493 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:15:59.8442 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_15_59\Temperature Log.csv
+2018-10-08 16:15:59.8442 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:15:59.9289 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:16:00.0107 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_15_59\Melt Curve logging.csv
+2018-10-08 16:16:06.4994 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:16:08.4432 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_16_08\Temperature Log.csv
+2018-10-08 16:16:08.4432 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:16:08.7653 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:16:08.9428 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_16_08\Melt Curve logging.csv
+2018-10-08 16:16:11.5129 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:16:18.9863 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:16:34.8669 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_16_34\Temperature Log.csv
+2018-10-08 16:16:34.8669 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:16:35.0534 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:16:35.2628 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_16_34\Melt Curve logging.csv
+2018-10-08 16:16:47.4542 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:16:49.4040 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_16_49\Temperature Log.csv
+2018-10-08 16:16:49.4120 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:16:49.5785 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:16:49.8997 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_16_49\Melt Curve logging.csv
+2018-10-08 16:16:49.8997 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2489980,2711586,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:16:56.5509 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_16_56\Temperature Log.csv
+2018-10-08 16:16:56.5509 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:16:56.8331 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:16:56.9947 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_16_56\Melt Curve logging.csv
+2018-10-08 16:16:59.9049 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:17:15.3835 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_17_15\Temperature Log.csv
+2018-10-08 16:17:15.3925 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:17:15.5611 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:17:15.9311 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_17_15\Melt Curve logging.csv
+2018-10-08 16:18:11.2193 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:18:16.6009 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_18_16\Temperature Log.csv
+2018-10-08 16:18:16.6009 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:18:16.6518 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:18:16.7345 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_18_16\Melt Curve logging.csv
+2018-10-08 16:18:16.8213 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2490882,2712796,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:18:32.0257 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:18:36.7165 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_18_36\Temperature Log.csv
+2018-10-08 16:18:36.7234 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:18:36.8990 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:18:36.9807 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_18_36\Melt Curve logging.csv
+2018-10-08 16:18:45.5897 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:18:48.5408 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_18_48\Temperature Log.csv
+2018-10-08 16:18:48.5498 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:18:48.5797 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:18:48.6466 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_18_48\Melt Curve logging.csv
+2018-10-08 16:18:48.6466 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2491478,2711994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:19:10.0184 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:19:11.9214 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_19_11\Temperature Log.csv
+2018-10-08 16:19:11.9294 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:19:12.0071 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:19:12.0889 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_19_11\Melt Curve logging.csv
+2018-10-08 16:19:18.0928 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:19:25.7973 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_19_25\Temperature Log.csv
+2018-10-08 16:19:25.7973 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:19:25.8770 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:19:25.9598 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_19_25\Melt Curve logging.csv
+2018-10-08 16:19:25.9598 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2492025,2712997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:20:39.2529 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:20:41.3194 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_20_41\Temperature Log.csv
+2018-10-08 16:20:41.3373 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:20:41.5109 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:20:41.5926 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_20_41\Melt Curve logging.csv
+2018-10-08 16:21:18.1808 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:22:01.7174 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:22:07.0971 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_22_07\Temperature Log.csv
+2018-10-08 16:22:07.0971 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:22:07.2746 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:22:07.4052 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_22_07\Melt Curve logging.csv
+2018-10-08 16:22:07.4102 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2491260,2714660,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:22:59.1200 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:23:03.2948 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:23:05.2895 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_23_05\Temperature Log.csv
+2018-10-08 16:23:05.2985 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:23:05.3453 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:23:05.5079 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_23_05\Melt Curve logging.csv
+2018-10-08 16:23:26.2754 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:23:29.3821 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_23_29\Temperature Log.csv
+2018-10-08 16:23:29.4100 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:23:29.5556 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:23:29.6384 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_23_29\Melt Curve logging.csv
+2018-10-08 16:23:29.6514 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2491478,2714664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:23:39.9489 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:23:44.8398 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_23_44\Temperature Log.csv
+2018-10-08 16:23:44.8478 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:23:44.9275 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:23:45.0103 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_23_44\Melt Curve logging.csv
+2018-10-08 16:23:53.2623 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:23:54.7333 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:23:56.4089 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_23_56\Temperature Log.csv
+2018-10-08 16:23:56.4089 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:23:56.5934 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:23:56.6761 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_23_56\Melt Curve logging.csv
+2018-10-08 16:23:56.7260 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2493566,2715832,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:24:02.2273 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:24:05.3779 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_24_05\Temperature Log.csv
+2018-10-08 16:24:05.4487 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:24:05.6701 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:24:05.7529 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_24_05\Melt Curve logging.csv
+2018-10-08 16:24:49.2915 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:24:52.9827 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_24_52\Temperature Log.csv
+2018-10-08 16:24:52.9907 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:24:53.0665 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:24:53.1482 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_24_52\Melt Curve logging.csv
+2018-10-08 16:30:50.5204 DEBUG ----- Starting -----
+2018-10-08 16:31:05.8404 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_31_05\Temperature Log.csv
+2018-10-08 16:31:05.8474 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:31:05.8912 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:31:06.1316 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_31_05\Melt Curve logging.csv
+2018-10-08 16:31:49.6536 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_31_49\Temperature Log.csv
+2018-10-08 16:31:49.6596 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:31:49.8371 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:31:49.9498 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_31_49\Melt Curve logging.csv
+2018-10-08 16:31:59.2410 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:32:05.7356 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:32:10.8729 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_32_10\Temperature Log.csv
+2018-10-08 16:32:10.8789 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:32:10.9946 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:32:11.2668 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_32_10\Melt Curve logging.csv
+2018-10-08 16:32:11.2668 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 137,2493619,2714934,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:32:15.0996 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_32_15\Temperature Log.csv
+2018-10-08 16:32:15.0996 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:32:15.1973 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:32:15.3589 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_32_15\Melt Curve logging.csv
+2018-10-08 16:32:19.7182 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_32_19\Temperature Log.csv
+2018-10-08 16:32:19.7232 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:32:19.9277 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:32:20.0414 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_32_19\Melt Curve logging.csv
+2018-10-08 16:32:22.9396 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_32_22\Temperature Log.csv
+2018-10-08 16:32:22.9396 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:32:23.0753 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:32:23.1570 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_32_22\Melt Curve logging.csv
+2018-10-08 16:32:35.9788 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_32_35\Temperature Log.csv
+2018-10-08 16:32:35.9858 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:32:36.1473 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:32:36.2281 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_32_35\Melt Curve logging.csv
+2018-10-08 16:32:38.5669 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:32:42.5392 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:32:48.8563 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:33:03.7236 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:33:22.0875 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_33_22\Temperature Log.csv
+2018-10-08 16:33:22.1264 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:33:22.2022 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:33:22.2840 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_33_22\Melt Curve logging.csv
+2018-10-08 16:33:22.2840 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 250,2577157,2495096,2716189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:33:27.9977 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:33:30.3255 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_33_30\Temperature Log.csv
+2018-10-08 16:33:30.3335 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:33:30.4960 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:33:30.5778 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_33_30\Melt Curve logging.csv
+2018-10-08 16:33:45.9308 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:33:48.0771 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_33_48\Temperature Log.csv
+2018-10-08 16:33:48.0840 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:33:48.1698 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:33:48.3314 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_33_48\Melt Curve logging.csv
+2018-10-08 16:34:01.4463 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:34:52.2744 DEBUG ----- Starting -----
+2018-10-08 16:35:18.9366 DEBUG ----- Starting -----
+2018-10-08 16:35:31.9868 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_35_31\Temperature Log.csv
+2018-10-08 16:35:31.9868 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:35:32.0436 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:35:32.2680 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_35_31\Melt Curve logging.csv
+2018-10-08 16:35:35.7278 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:35:39.2344 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_35_39\Temperature Log.csv
+2018-10-08 16:35:39.2414 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:35:39.3142 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:35:39.4907 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_35_39\Melt Curve logging.csv
+2018-10-08 16:35:40.9977 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:35:43.2427 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_35_43\Temperature Log.csv
+2018-10-08 16:35:43.2427 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:35:43.2925 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:35:43.3733 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_35_43\Melt Curve logging.csv
+2018-10-08 16:35:52.9218 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:35:59.2100 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:36:08.2488 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:36:10.7073 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_36_10\Temperature Log.csv
+2018-10-08 16:36:10.7073 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:36:10.7910 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:36:10.9845 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_36_10\Melt Curve logging.csv
+2018-10-08 16:36:11.0144 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 5,2577277,2494965,2716190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:36:13.8319 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_36_13\Temperature Log.csv
+2018-10-08 16:36:13.8319 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:36:14.1311 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:36:14.4682 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_36_13\Melt Curve logging.csv
+2018-10-08 16:36:17.1042 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_36_17\Temperature Log.csv
+2018-10-08 16:36:17.1121 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:36:17.2149 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:36:17.3595 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_36_17\Melt Curve logging.csv
+2018-10-08 16:36:20.6287 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_36_20\Temperature Log.csv
+2018-10-08 16:36:20.6287 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:36:20.8092 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:36:21.0187 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_36_20\Melt Curve logging.csv
+2018-10-08 16:36:34.4927 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_36_34\Temperature Log.csv
+2018-10-08 16:36:34.4927 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:36:34.5834 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:36:34.7769 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_36_34\Melt Curve logging.csv
+2018-10-08 16:36:38.5897 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:36:42.9251 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:36:47.2216 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:36:52.6541 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:37:00.1291 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:37:23.3661 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:37:27.8002 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:37:36.0900 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:37:40.1871 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:37:49.0025 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:38:04.0982 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:38:25.8271 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:38:41.0424 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:40:40.8480 DEBUG ----- Starting -----
+2018-10-08 16:40:57.3783 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_40_57\Temperature Log.csv
+2018-10-08 16:40:57.3783 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:40:57.4391 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:40:57.8390 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_40_57\Melt Curve logging.csv
+2018-10-08 16:41:16.9868 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_41_16\Temperature Log.csv
+2018-10-08 16:41:16.9868 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:41:17.0626 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:41:17.3359 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_41_16\Melt Curve logging.csv
+2018-10-08 16:42:33.5601 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:42:36.4335 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:42:40.3560 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_42_40\Temperature Log.csv
+2018-10-08 16:42:40.3699 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:42:40.5774 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:42:40.7380 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_42_40\Melt Curve logging.csv
+2018-10-08 16:42:40.7380 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2577960,2496337,2716607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:42:46.2193 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_42_46\Temperature Log.csv
+2018-10-08 16:42:46.2193 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:42:46.3938 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:42:46.6512 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_42_46\Melt Curve logging.csv
+2018-10-08 16:42:48.6747 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_42_48\Temperature Log.csv
+2018-10-08 16:42:48.6747 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:42:48.7585 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:42:49.0318 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_42_48\Melt Curve logging.csv
+2018-10-08 16:43:17.5557 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_17\Temperature Log.csv
+2018-10-08 16:43:17.5627 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:17.6515 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:17.9726 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_17\Melt Curve logging.csv
+2018-10-08 16:43:21.5720 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:43:24.0414 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:43:26.0341 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:43:30.2289 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_30\Temperature Log.csv
+2018-10-08 16:43:30.2388 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:30.3715 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:30.7724 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_30\Melt Curve logging.csv
+2018-10-08 16:43:30.7844 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2576787,2495233,2715581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:43:33.9100 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_33\Temperature Log.csv
+2018-10-08 16:43:33.9100 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:33.9998 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:34.3050 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_33\Melt Curve logging.csv
+2018-10-08 16:43:36.7006 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_36\Temperature Log.csv
+2018-10-08 16:43:36.7065 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:36.7803 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:36.8611 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_36\Melt Curve logging.csv
+2018-10-08 16:43:39.6686 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_39\Temperature Log.csv
+2018-10-08 16:43:39.7025 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:39.7843 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:39.8661 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_39\Melt Curve logging.csv
+2018-10-08 16:43:43.3857 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_43\Temperature Log.csv
+2018-10-08 16:43:43.3917 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:43.5712 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:43.6530 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_43\Melt Curve logging.csv
+2018-10-08 16:43:45.6506 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_45\Temperature Log.csv
+2018-10-08 16:43:45.6596 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:45.6965 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:45.7942 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_45\Melt Curve logging.csv
+2018-10-08 16:43:47.8747 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_47\Temperature Log.csv
+2018-10-08 16:43:47.8807 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:47.9186 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:47.9993 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_47\Melt Curve logging.csv
+2018-10-08 16:43:56.5086 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_43_56\Temperature Log.csv
+2018-10-08 16:43:56.5166 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:43:56.5954 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:43:56.8527 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_43_56\Melt Curve logging.csv
+2018-10-08 16:44:05.8526 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:44:30.2255 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:44:59.1402 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:45:08.3027 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:45:20.2956 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:45:29.9398 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:45:34.2842 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:45:49.2771 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:46:41.6781 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:47:26.6279 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:47:36.0437 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:47:40.1129 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_47_40\Temperature Log.csv
+2018-10-08 16:47:40.1129 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:47:40.2724 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:47:40.3383 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_47_40\Melt Curve logging.csv
+2018-10-08 16:47:40.3383 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2494850,2714760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 16:47:42.3020 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:47:44.5410 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_47_44\Temperature Log.csv
+2018-10-08 16:47:44.5480 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:47:44.6348 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:47:44.7165 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_47_44\Melt Curve logging.csv
+2018-10-08 16:47:46.1517 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:47:50.1440 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_47_50\Temperature Log.csv
+2018-10-08 16:47:50.1770 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:47:50.5001 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:47:50.7095 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_47_50\Melt Curve logging.csv
+2018-10-08 16:47:53.2657 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:47:55.7840 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_47_55\Temperature Log.csv
+2018-10-08 16:47:55.7840 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:47:55.9645 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:47:56.0463 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_47_55\Melt Curve logging.csv
+2018-10-08 16:48:06.1463 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:48:11.7762 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:48:17.8490 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:48:22.9693 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:48:28.2871 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:51:34.7057 DEBUG ----- Starting -----
+2018-10-08 16:51:46.7445 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_51_46\Temperature Log.csv
+2018-10-08 16:51:46.7525 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:51:46.7973 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:51:46.9579 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_51_46\Melt Curve logging.csv
+2018-10-08 16:52:01.1619 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:52:18.1386 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:52:45.9462 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:53:00.9441 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:53:12.0135 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:53:19.2522 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:54:29.0277 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:54:34.0064 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:54:44.4514 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:54:53.1771 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:55:05.0653 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:55:08.3206 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:55:33.2051 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:55:54.2538 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_55_54\Temperature Log.csv
+2018-10-08 16:55:54.2538 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:55:54.3306 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:55:54.4752 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_55_54\Melt Curve logging.csv
+2018-10-08 16:55:55.7807 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:55:57.5351 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 16:56:02.2554 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_56_02\Temperature Log.csv
+2018-10-08 16:56:02.3033 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:56:02.4479 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:56:02.5297 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_56_02\Melt Curve logging.csv
+2018-10-08 16:56:05.6833 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_56_05\Temperature Log.csv
+2018-10-08 16:56:05.6923 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:56:05.7720 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:56:05.9805 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_56_05\Melt Curve logging.csv
+2018-10-08 16:56:09.2747 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_56_09\Temperature Log.csv
+2018-10-08 16:56:09.2747 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:56:09.4472 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:56:09.5290 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_56_09\Melt Curve logging.csv
+2018-10-08 16:56:10.1972 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_56_10\Temperature Log.csv
+2018-10-08 16:56:10.2042 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 16:56:10.3259 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 16:56:10.5353 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_16_56_10\Melt Curve logging.csv
+2018-10-08 16:56:10.7228 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_16_56_10\Temperature Log.csv
+2018-10-08 17:04:00.1371 DEBUG ----- Starting -----
+2018-10-08 17:04:15.3265 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_04_15\Temperature Log.csv
+2018-10-08 17:04:15.3335 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:04:15.3893 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:04:15.5818 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_04_15\Melt Curve logging.csv
+2018-10-08 17:04:23.0349 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_04_23\Temperature Log.csv
+2018-10-08 17:04:23.0349 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:04:23.2194 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:04:23.3480 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_04_23\Melt Curve logging.csv
+2018-10-08 17:04:26.6761 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_04_26\Temperature Log.csv
+2018-10-08 17:04:26.6761 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:04:26.8147 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:04:27.1030 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_04_26\Melt Curve logging.csv
+2018-10-08 17:04:30.9976 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_04_30\Temperature Log.csv
+2018-10-08 17:04:31.0026 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:04:31.0813 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:04:31.1621 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_04_30\Melt Curve logging.csv
+2018-10-08 17:04:43.8612 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_04_43\Temperature Log.csv
+2018-10-08 17:04:43.8612 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:04:44.0407 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:04:44.1704 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_04_43\Melt Curve logging.csv
+2018-10-08 17:05:45.0476 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:06:15.0345 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:06:25.3499 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:06:30.8113 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:06:35.8029 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:06:39.2926 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:06:50.7290 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:06:57.2117 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:07:01.2379 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:07:03.2715 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:07:09.3542 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:07:54.8147 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:08:29.0841 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_08_29\Temperature Log.csv
+2018-10-08 17:08:29.0841 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:08:29.1659 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:08:29.3115 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_08_29\Melt Curve logging.csv
+2018-10-08 17:08:33.0655 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:08:36.7755 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:08:40.5235 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_08_40\Temperature Log.csv
+2018-10-08 17:08:40.5235 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:08:40.6073 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:08:40.6891 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_08_40\Melt Curve logging.csv
+2018-10-08 17:08:42.3676 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:08:44.6794 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_08_44\Temperature Log.csv
+2018-10-08 17:08:44.6794 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:08:44.7622 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:08:45.0514 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_08_44\Melt Curve logging.csv
+2018-10-08 17:08:47.2256 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:08:49.3539 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_08_49\Temperature Log.csv
+2018-10-08 17:08:49.3629 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:08:49.4606 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:08:49.5424 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_08_49\Melt Curve logging.csv
+2018-10-08 17:08:53.3542 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:08:58.6700 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:09:03.2518 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:09:07.0915 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:09:17.9934 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:09:34.1113 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:09:52.6407 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_09_52\Temperature Log.csv
+2018-10-08 17:09:52.6407 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:09:52.7255 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:09:52.9978 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_09_52\Melt Curve logging.csv
+2018-10-08 17:09:56.1434 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:10:28.9367 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:10:33.0657 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:10:37.9117 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:10:51.4226 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:10:57.8414 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:11:01.6253 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:11:04.8467 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:11:06.9551 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:11:23.2585 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:11:41.6733 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:12:15.1967 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:12:22.0583 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:12:27.4349 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:13:09.1036 DEBUG ----- Starting -----
+2018-10-08 17:13:21.8126 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_13_21\Temperature Log.csv
+2018-10-08 17:13:21.8285 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:13:21.8754 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:13:22.1317 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_13_21\Melt Curve logging.csv
+2018-10-08 17:13:26.2283 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:13:29.9284 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_13_29\Temperature Log.csv
+2018-10-08 17:13:30.0640 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:13:30.1378 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:13:30.4420 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_13_29\Melt Curve logging.csv
+2018-10-08 17:13:35.6730 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_13_35\Temperature Log.csv
+2018-10-08 17:13:35.6730 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:13:35.7468 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:13:35.8276 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_13_35\Melt Curve logging.csv
+2018-10-08 17:13:37.6308 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:13:40.0533 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_13_40\Temperature Log.csv
+2018-10-08 17:13:40.0753 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:13:40.2528 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:13:40.3984 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_13_40\Melt Curve logging.csv
+2018-10-08 17:13:42.9247 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:13:44.7169 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_13_44\Temperature Log.csv
+2018-10-08 17:13:44.7228 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:13:44.7917 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:13:44.8754 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_13_44\Melt Curve logging.csv
+2018-10-08 17:13:46.6736 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:13:48.3711 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_13_48\Temperature Log.csv
+2018-10-08 17:13:48.3841 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:13:48.4668 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:13:48.6922 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_13_48\Melt Curve logging.csv
+2018-10-08 17:13:51.2624 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:13:53.1772 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_13_53\Temperature Log.csv
+2018-10-08 17:13:53.1772 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:13:53.2770 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:13:53.3588 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_13_53\Melt Curve logging.csv
+2018-10-08 17:13:56.5263 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:13:59.3198 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:14:01.8999 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:14:05.2320 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:14:13.7193 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:14:26.1162 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:14:36.4017 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:14:39.8265 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:18:43.3017 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:18:52.7883 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:05.3807 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:19.1508 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:25.3583 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:27.6860 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:34.2315 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:40.0420 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:50.4681 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:52.3591 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:19:58.3361 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:20:14.0650 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:20:22.0557 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:20:41.0728 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:21:01.2609 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:21:18.7721 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_21_18\Temperature Log.csv
+2018-10-08 17:21:18.7721 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:21:18.9097 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:21:19.0872 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_21_18\Melt Curve logging.csv
+2018-10-08 17:21:19.1032 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 17:21:23.7717 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:21:26.1015 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_21_26\Temperature Log.csv
+2018-10-08 17:21:26.1015 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:21:26.2601 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:21:26.3418 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_21_26\Melt Curve logging.csv
+2018-10-08 17:21:26.3488 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2496328,2716578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 17:21:31.6467 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:21:34.6875 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_21_34\Temperature Log.csv
+2018-10-08 17:21:34.6945 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:21:34.9378 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:21:35.0984 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_21_34\Melt Curve logging.csv
+2018-10-08 17:21:40.5269 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:21:44.8693 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_21_44\Temperature Log.csv
+2018-10-08 17:21:44.8783 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:21:44.9570 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:21:45.0867 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_21_44\Melt Curve logging.csv
+2018-10-08 17:22:18.4326 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:22:20.6865 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_22_20\Temperature Log.csv
+2018-10-08 17:22:20.8022 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:22:20.9778 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:22:21.2510 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_22_20\Melt Curve logging.csv
+2018-10-08 17:22:21.2510 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2496462,2714757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 17:22:32.4152 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:22:34.9195 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:22:37.3031 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_22_37\Temperature Log.csv
+2018-10-08 17:22:37.3031 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:22:37.6302 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:22:37.8237 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_22_37\Melt Curve logging.csv
+2018-10-08 17:22:37.8516 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 2498510,2716593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 17:22:42.9480 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:22:45.1262 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_22_45\Temperature Log.csv
+2018-10-08 17:22:45.1262 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:22:45.2050 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:22:45.2868 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_22_45\Melt Curve logging.csv
+2018-10-08 17:22:47.8360 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:22:49.9014 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:22:52.0467 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_22_52\Temperature Log.csv
+2018-10-08 17:22:52.0547 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:22:52.1724 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:22:52.3340 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_22_52\Melt Curve logging.csv
+2018-10-08 17:22:55.9453 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:22:58.2062 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:23:01.8694 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_23_01\Temperature Log.csv
+2018-10-08 17:23:01.8844 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:23:01.9682 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:23:02.0500 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_23_01\Melt Curve logging.csv
+2018-10-08 17:23:06.8531 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:23:14.3291 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:23:18.9996 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:23:21.2267 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:23:24.3902 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:23:28.0385 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:29:58.6054 DEBUG ----- Starting -----
+2018-10-08 17:30:12.7735 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_30_12\Temperature Log.csv
+2018-10-08 17:30:12.7895 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:30:12.8603 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:30:13.0867 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_30_12\Melt Curve logging.csv
+2018-10-08 17:30:15.4853 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:30:21.9939 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:30:24.8473 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_30_24\Temperature Log.csv
+2018-10-08 17:30:24.8473 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:30:24.9081 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:30:25.2292 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_30_24\Melt Curve logging.csv
+2018-10-08 17:30:28.4077 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:30:36.3585 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_30_36\Temperature Log.csv
+2018-10-08 17:30:36.3635 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:30:36.4453 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:30:36.6537 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_30_36\Melt Curve logging.csv
+2018-10-08 17:30:39.3066 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:30:44.1417 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_30_44\Temperature Log.csv
+2018-10-08 17:30:44.1417 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:30:44.3541 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:30:44.5636 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_30_44\Melt Curve logging.csv
+2018-10-08 17:30:48.5998 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:30:54.2367 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:30:57.1669 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_30_57\Temperature Log.csv
+2018-10-08 17:30:57.1669 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:30:57.2496 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:30:57.4591 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_30_57\Melt Curve logging.csv
+2018-10-08 17:31:00.6994 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:31:19.9709 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:31:32.5237 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:31:35.4409 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:31:40.5254 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:32:02.4208 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:32:12.9038 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:32:16.8712 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:32:23.2571 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_32_23\Temperature Log.csv
+2018-10-08 17:32:23.3818 ERROR RunScript caught an exception; 路径的形式不合法。
+2018-10-08 17:32:25.8512 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_32_25\Temperature Log.csv
+2018-10-08 17:32:25.8512 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:32:25.9330 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:32:26.0138 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_32_25\Melt Curve logging.csv
+2018-10-08 17:32:26.0187 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 9910,2497000,2716372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 17:32:28.8771 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:32:32.8445 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_32_32\Temperature Log.csv
+2018-10-08 17:32:32.8445 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:32:32.9313 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:32:33.0130 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_32_32\Melt Curve logging.csv
+2018-10-08 17:32:35.3747 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:32:37.3864 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_32_37\Temperature Log.csv
+2018-10-08 17:32:37.3933 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:32:37.5808 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:32:37.7424 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_32_37\Melt Curve logging.csv
+2018-10-08 17:33:20.5153 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:33:25.2537 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:33:29.9980 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:33:32.0375 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:33:34.4770 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:33:41.9630 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:33:45.5404 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:34:53.5603 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_10_08_17_34_53\Temperature Log.csv
+2018-10-08 17:34:53.5673 DEBUG Protocol: Execute step: HelixGen.Model.MeltCurveStep line: 20
+2018-10-08 17:34:53.7369 DEBUG Meltcurve: setting the ramprate to 0.03
+2018-10-08 17:34:53.8027 DEBUG Opening melt results file to: ..\..\Logs\Measurement\2018_10_08_17_34_53\Melt Curve logging.csv
+2018-10-08 17:34:53.8276 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB) response parsing error. Data: 1924,2580871,2498505,2716941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; command: >LC01=1; iteration: 3
+2018-10-08 17:34:59.6341 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:35:16.7822 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:35:20.7167 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:35:23.4774 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:35:25.7553 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:35:30.2632 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:35:32.3656 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-10-08 17:35:35.7466 DEBUG ReadCmd, got an exception: 操作已超时。

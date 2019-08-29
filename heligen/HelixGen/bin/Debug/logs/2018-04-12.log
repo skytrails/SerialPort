@@ -1,0 +1,474 @@
+2018-04-12 09:07:28.6827 DEBUG ----- Starting -----
+2018-04-12 09:09:36.7896 DEBUG ----- Starting -----
+2018-04-12 09:10:03.6248 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:10:03.6950 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:10:03.7750 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:10:03.7848 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:10:03.8048 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:14:49.2439 DEBUG ----- Starting -----
+2018-04-12 09:17:05.8180 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-12 09:17:05.8180 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:17:05.8782 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(0; command: /03?C; iteration: 3
+2018-04-12 09:17:19.9816 DEBUG ----- Starting -----
+2018-04-12 09:17:23.9281 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:17:24.0062 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:17:24.0866 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:17:24.0998 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:17:24.1112 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:17:52.1539 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-04-12 09:17:52.1689 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:17:53.2566 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:17:54.2799 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:17:55.3025 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:17:56.3261 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:17:57.3482 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:18:01.4244 DEBUG ----- Starting -----
+2018-04-12 09:18:04.0226 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:18:04.1026 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:18:04.1826 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:18:04.1926 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:18:04.2226 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:18:29.7891 DEBUG ----- Starting -----
+2018-04-12 09:18:33.1021 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:18:33.1913 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:18:33.2713 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:18:33.3011 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:18:33.3311 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:19:05.3083 DEBUG ----- Starting -----
+2018-04-12 09:19:09.3523 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:19:09.4425 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:19:09.5424 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:19:09.5723 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:19:09.5923 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:19:34.4579 DEBUG ----- Starting -----
+2018-04-12 09:19:37.0007 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:19:37.0908 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:19:37.1908 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:19:37.2306 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:19:37.2606 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:21:34.0943 DEBUG ----- Starting -----
+2018-04-12 09:22:13.0571 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-12 09:22:13.0671 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:22:22.0698 DEBUG ----- Starting -----
+2018-04-12 09:22:24.7774 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:22:24.8591 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:22:24.9392 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:22:24.9591 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:22:24.9891 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:22:46.4064 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-04-12 09:22:46.4064 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:22:47.5264 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:22:48.5464 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:22:49.5865 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:22:50.6265 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:22:51.6664 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:22:52.6926 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:22:53.7405 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:01.1825 DEBUG ----- Starting -----
+2018-04-12 09:23:03.3731 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:23:03.4427 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:23:03.5227 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:23:03.5427 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:23:03.5527 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:23:08.4503 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-04-12 09:23:08.4503 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:23:09.5703 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:10.5903 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:11.6305 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:12.6705 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:13.7105 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:14.7303 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:15.7705 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:16.8105 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:17.8504 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:18.8703 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:19.9105 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:20.9538 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:22.0015 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:23.0614 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:24.1114 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:25.1514 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:26.1913 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:27.2314 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:28.2714 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:29.3115 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:30.3615 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:31.4213 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:32.4713 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:33.5313 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:34.5513 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:35.5913 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:36.6314 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:37.6813 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:38.7415 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:39.7914 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:40.8313 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:41.8714 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:42.9115 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:43.9515 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:44.9914 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:46.0113 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:47.0515 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:48.1213 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:49.1613 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:50.2013 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:51.2415 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:52.2613 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:53.3015 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:54.3413 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:55.3915 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:56.4513 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:57.5014 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:58.5415 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:23:59.5815 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:00.6215 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:01.6813 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:02.7313 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:03.7715 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:04.8413 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:05.9114 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:06.9815 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:08.0214 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:09.0614 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:10.1013 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:11.1513 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:12.2115 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:13.2615 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:14.3215 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:15.3715 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:16.4313 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:17.4813 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:18.5213 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:19.5615 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:20.6014 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:21.6414 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:22.6813 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:23.7314 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:24.7714 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:25.8415 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:26.8815 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:27.9515 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:28.9913 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:30.0313 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:31.0713 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:32.1115 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:33.1813 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:34.2315 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:35.2914 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:36.3414 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:37.4015 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:38.4514 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:39.4914 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:40.5314 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:41.5715 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:42.6114 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:43.6614 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:44.7215 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:45.7715 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:46.8315 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:47.8814 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:48.9215 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:49.9615 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:51.0015 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:52.0414 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:53.0914 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:54.1516 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:55.1776 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:56.2244 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:57.2990 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:58.3690 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:24:59.4088 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:00.4522 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:01.5071 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:02.5421 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:03.5695 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:04.6185 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:05.6885 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:06.7284 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:07.7685 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:14.5908 DEBUG ----- Starting -----
+2018-04-12 09:25:18.2154 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-12 09:25:18.2154 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:25:29.2219 DEBUG ----- Starting -----
+2018-04-12 09:25:31.8380 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:25:31.9219 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:25:32.0019 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:25:32.0119 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:25:32.0419 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:25:37.7084 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-04-12 09:25:37.7184 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:25:38.8084 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:39.8484 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:40.8884 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:41.9585 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:42.9984 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:44.0184 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:45.0584 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:46.1284 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:47.1684 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:48.2086 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:49.2484 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:50.2886 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:51.3386 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:52.3785 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:53.4186 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:54.4586 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:55.4984 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:56.5486 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:57.6084 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:58.6585 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:25:59.7184 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:00.7384 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:01.7785 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:02.8186 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:03.8684 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:04.9084 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:05.9786 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:07.0386 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:08.0785 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:09.1284 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:10.1684 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:11.2084 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:12.2786 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:13.3484 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:14.3885 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:15.4284 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:16.4686 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:17.5386 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:18.6086 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:19.6784 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:20.7186 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:21.7586 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:22.7985 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:23.8384 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:24.8884 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:25.9286 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:26.9985 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:28.0385 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:29.1086 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:30.1486 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:31.1886 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:32.2284 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:33.2686 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:34.3386 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:35.3786 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:36.4286 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:37.4886 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:38.5386 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:39.5985 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:40.6486 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:41.7084 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:42.7786 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:43.8486 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:44.9186 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:45.9585 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:46.9985 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:48.0486 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:49.1086 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:50.1586 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:51.2186 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:52.2685 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:53.3085 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:54.3486 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:55.3887 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:56.4285 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:57.4985 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:58.5385 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:26:59.5885 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:00.6485 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:01.6686 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:02.7086 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:03.7485 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:10.1684 DEBUG ----- Starting -----
+2018-04-12 09:27:12.4678 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 09:27:12.5578 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 09:27:12.6378 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 09:27:12.6378 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:27:12.6578 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 09:27:18.1066 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-04-12 09:27:18.1066 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:27:19.2054 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:20.2454 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:21.2656 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:22.3055 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:23.3456 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:24.3854 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:25.4054 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:26.4456 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:27.4856 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:28.5254 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:29.5756 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:30.6156 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:31.6556 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:32.6956 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:33.7356 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:34.7854 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:35.8254 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:36.8656 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:37.9056 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:38.9756 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:40.0455 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:41.0856 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:42.1556 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:43.2154 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:44.2656 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:45.3356 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:46.3956 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:47.4656 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:48.5056 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:49.5756 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:50.6456 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:51.7157 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:52.7556 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:53.8256 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:54.8655 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:55.9055 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:56.9756 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:58.0455 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:27:59.1156 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:00.1856 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:01.2256 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:02.2655 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:03.3056 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:04.3757 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:05.4457 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:06.5156 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:07.5556 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:08.5957 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:09.6657 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:10.7064 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:11.7463 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:12.8164 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:13.8563 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:14.9264 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:15.9465 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:17.0165 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:18.0595 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:28:19.1104 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(0; command: /04?C; iteration: 3
+2018-04-12 09:28:19.2204 DEBUG ABot2::clsAMB::ReinitalizeController clearerror 04
+2018-04-12 09:31:19.7577 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(; command: /04Q; iteration: 3
+2018-04-12 09:34:20.4062 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(; command: /03Q; iteration: 3
+2018-04-12 09:34:20.8861 DEBUG ABot2::clsAMB::ReinitalizeController finishing
+2018-04-12 09:34:20.9060 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB) empty data returned; command: /03N3R; iteration: 3
+2018-04-12 09:34:20.9960 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 2
+2018-04-12 09:34:21.0260 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 09:36:14.6462 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2018-04-12 09:42:51.7646 DEBUG ----- Starting -----
+2018-04-12 09:44:20.2480 DEBUG ----- Starting -----
+2018-04-12 09:44:39.1233 DEBUG ----- Starting -----
+2018-04-12 10:05:42.4225 DEBUG ----- Starting -----
+2018-04-12 10:05:57.0685 DEBUG ----- Starting -----
+2018-04-12 10:06:14.9740 DEBUG ----- Starting -----
+2018-04-12 10:08:28.6323 DEBUG ----- Starting -----
+2018-04-12 10:08:50.7325 DEBUG ----- Starting -----
+2018-04-12 10:09:02.4905 DEBUG ----- Starting -----
+2018-04-12 10:09:05.4152 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 10:09:05.4944 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 10:09:05.5736 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 10:09:05.5887 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:09:05.6117 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:11:20.6632 DEBUG ----- Starting -----
+2018-04-12 10:11:27.8618 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 10:11:27.9443 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 10:11:28.0207 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 10:11:28.0646 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:11:28.1017 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:16:25.3366 DEBUG ----- Starting -----
+2018-04-12 10:16:26.0796 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-04-12 10:16:26.1056 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-12 10:16:26.1708 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(0; command: /03?C; iteration: 3
+2018-04-12 10:16:40.5512 DEBUG ----- Starting -----
+2018-04-12 10:16:41.2786 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 10:16:41.3728 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 10:16:41.4530 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 10:16:41.4681 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:16:41.4851 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:45:55.0006 DEBUG ----- Starting -----
+2018-04-12 10:46:06.9628 DEBUG ----- Starting -----
+2018-04-12 10:46:07.8436 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 10:46:07.9328 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 10:46:08.0130 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 10:46:08.0301 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:46:08.0501 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:46:46.7660 DEBUG ----- Starting -----
+2018-04-12 10:46:47.5331 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 3
+2018-04-12 10:46:47.6193 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 2
+2018-04-12 10:46:47.7155 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1
+2018-04-12 10:46:47.7316 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 10:46:47.7316 DEBUG deviceSlider::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /04N3R; iteration: 1; source command: /04N3R; iteration: 0; error code: 15
+2018-04-12 11:03:56.8894 DEBUG ----- Starting -----
+2018-04-12 11:06:29.7250 DEBUG ----- Starting -----
+2018-04-12 11:08:22.1372 DEBUG ----- Starting -----
+2018-04-12 11:08:39.0690 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(; command: /04o0R; iteration: 3
+2018-04-12 11:09:25.4040 DEBUG ----- Starting -----
+2018-04-12 11:09:28.4981 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 3
+2018-04-12 11:09:28.5762 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 2
+2018-04-12 11:09:28.6567 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1
+2018-04-12 11:09:28.6792 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1; source command: /04o0R; iteration: 0; error code: 15
+2018-04-12 11:10:12.6442 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(; command: /02o1R; iteration: 3
+2018-04-12 11:10:24.3549 DEBUG ----- Starting -----
+2018-04-12 11:10:27.3843 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 3
+2018-04-12 11:10:27.4628 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 2
+2018-04-12 11:10:27.5424 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1
+2018-04-12 11:10:27.5563 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1; source command: /04o0R; iteration: 0; error code: 15
+2018-04-12 11:11:14.7371 DEBUG ----- Starting -----
+2018-04-12 11:11:17.3931 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 3
+2018-04-12 11:11:17.4844 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 2
+2018-04-12 11:11:17.5646 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1
+2018-04-12 11:11:17.5866 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1; source command: /04o0R; iteration: 0; error code: 15
+2018-04-12 11:11:41.8488 DEBUG ----- Starting -----
+2018-04-12 11:12:54.0962 DEBUG ----- Starting -----
+2018-04-12 11:12:54.8261 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 3
+2018-04-12 11:12:54.9204 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 2
+2018-04-12 11:12:55.0026 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1
+2018-04-12 11:12:55.0217 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1; source command: /04o0R; iteration: 0; error code: 15
+2018-04-12 11:13:30.7577 DEBUG ----- Starting -----
+2018-04-12 11:13:31.5107 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 3
+2018-04-12 11:13:31.6009 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 2
+2018-04-12 11:13:31.6802 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1
+2018-04-12 11:13:31.7062 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1; source command: /04o0R; iteration: 0; error code: 15
+2018-04-12 11:13:43.7586 DEBUG ----- Starting -----
+2018-04-12 11:13:47.8841 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 3
+2018-04-12 11:13:47.9619 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 2
+2018-04-12 11:13:48.0415 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1
+2018-04-12 11:13:48.0555 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /04o0R; iteration: 1; source command: /04o0R; iteration: 0; error code: 15
+2018-04-12 11:14:17.5957 DEBUG ----- Starting -----
+2018-04-12 11:16:26.1422 DEBUG ----- Starting -----
+2018-04-12 11:20:34.1415 DEBUG ----- Starting -----
+2018-04-12 11:24:27.4527 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >LC01=0.00476553564620663; iteration: 0; error code: 0
+2018-04-12 13:15:52.0691 DEBUG ----- Starting -----
+2018-04-12 13:15:52.7611 DEBUG TEC; setting the overshootoffset to 0
+2018-04-12 13:16:16.9956 DEBUG ----- Starting -----
+2018-04-12 14:29:46.1650 DEBUG ----- Starting -----
+2018-04-12 14:30:16.4224 DEBUG ----- Starting -----
+2018-04-12 14:30:23.5428 DEBUG TEC; setting the overshootoffset to 0
+2018-04-12 14:30:46.0753 DEBUG ----- Starting -----
+2018-04-12 14:34:14.5082 DEBUG ----- Starting -----
+2018-04-12 14:35:49.2051 DEBUG ----- Starting -----
+2018-04-12 14:38:49.7815 DEBUG ----- Starting -----
+2018-04-12 14:42:13.7875 DEBUG ----- Starting -----
+2018-04-12 15:07:58.3517 DEBUG ----- Starting -----
+2018-04-12 15:09:52.6694 DEBUG ----- Starting -----
+2018-04-12 15:09:54.0441 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-12 15:12:01.9900 DEBUG ----- Starting -----
+2018-04-12 15:12:55.6529 DEBUG ----- Starting -----
+2018-04-12 15:12:56.8973 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-12 15:13:55.9809 DEBUG ----- Starting -----
+2018-04-12 15:16:44.3695 DEBUG ----- Starting -----
+2018-04-12 15:16:45.7928 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-12 15:17:26.6624 DEBUG ----- Starting -----
+2018-04-12 15:17:43.5555 DEBUG ----- Starting -----
+2018-04-12 15:17:49.5277 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /02N3R; iteration: 3
+2018-04-12 15:17:49.6085 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /02N3R; iteration: 2
+2018-04-12 15:17:49.6877 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /02N3R; iteration: 1
+2018-04-12 15:17:49.7047 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /02N3R; iteration: 1; source command: /02N3R; iteration: 0; error code: 15
+2018-04-12 15:17:59.4578 DEBUG ----- Starting -----
+2018-04-12 15:18:54.5953 DEBUG ----- Starting -----
+2018-04-12 15:18:56.0151 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-12 15:19:48.3595 DEBUG ----- Starting -----
+2018-04-12 15:20:42.9648 DEBUG ----- Starting -----
+2018-04-12 15:22:19.8285 DEBUG ----- Starting -----
+2018-04-12 15:30:20.0578 DEBUG ----- Starting -----
+2018-04-12 15:30:21.4886 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 1  Data: /0!; command: /04Q; iteration: 3
+2018-04-12 15:30:55.1707 DEBUG ----- Starting -----
+2018-04-12 15:34:04.9210 DEBUG ----- Starting -----

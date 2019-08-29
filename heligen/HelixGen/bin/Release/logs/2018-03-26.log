@@ -1,0 +1,31 @@
+2018-03-26 10:16:46.3016 DEBUG ----- Starting -----
+2018-03-26 13:09:46.9225 DEBUG ----- Starting -----
+2018-03-26 14:05:05.4469 DEBUG ----- Starting -----
+2018-03-26 14:06:09.5453 DEBUG ----- Starting -----
+2018-03-26 14:06:15.5175 DEBUG ----- Starting -----
+2018-03-26 14:06:44.4161 DEBUG ----- Starting -----
+2018-03-26 14:06:49.1954 DEBUG ----- Starting -----
+2018-03-26 14:23:35.6689 DEBUG ----- Starting -----
+2018-03-26 14:25:56.5408 DEBUG ----- Starting -----
+2018-03-26 14:31:59.9012 DEBUG ----- Starting -----
+2018-03-26 14:32:40.2877 DEBUG ----- Starting -----
+2018-03-26 15:02:54.0781 DEBUG ----- Starting -----
+2018-03-26 15:11:00.3623 DEBUG ----- Starting -----
+2018-03-26 15:52:01.7123 DEBUG ----- Starting -----
+2018-03-26 15:55:51.8307 DEBUG ----- Starting -----
+2018-03-26 16:01:43.9533 DEBUG ----- Starting -----
+2018-03-26 16:01:54.6794 DEBUG ----- Starting -----
+2018-03-26 16:02:48.7958 DEBUG ----- Starting -----
+2018-03-26 16:07:34.7901 DEBUG ----- Starting -----
+2018-03-26 16:12:00.4552 DEBUG ----- Starting -----
+2018-03-26 16:12:08.2296 DEBUG ----- Starting -----
+2018-03-26 16:17:45.8804 DEBUG ----- Starting -----
+2018-03-26 16:34:35.5816 DEBUG ----- Starting -----
+2018-03-26 16:40:16.2466 DEBUG ----- Starting -----
+2018-03-26 16:49:21.5821 DEBUG ----- Starting -----
+2018-03-26 16:56:49.8800 DEBUG ----- Starting -----
+2018-03-26 16:56:53.5873 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-03-26 17:00:14.5010 DEBUG ----- Starting -----
+2018-03-26 17:00:18.2435 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-03-26 17:19:50.6883 DEBUG ----- Starting -----
+2018-03-26 17:19:54.4319 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0

@@ -1,0 +1,31 @@
+2018-04-08 15:03:34.8857 DEBUG ----- Starting -----
+2018-04-08 15:04:04.0132 DEBUG ----- Starting -----
+2018-04-08 15:06:05.9392 DEBUG ----- Starting -----
+2018-04-08 15:06:14.0949 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:08:44.4834 DEBUG ----- Starting -----
+2018-04-08 15:08:55.3034 ERROR Configuration::Load Caught an exception; Instrument configuration file parse error.  Missing <ThermalRampPCRStep> required following <MiscSettings> tag.
+2018-04-08 15:11:09.0097 DEBUG ----- Starting -----
+2018-04-08 15:11:09.0932 ERROR Configuration::Load Caught an exception; Instrument configuration file parse error.  Missing <ThermalRampPCRStep> required following <MiscSettings> tag.
+2018-04-08 15:12:51.6983 DEBUG ----- Starting -----
+2018-04-08 15:12:55.1081 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:12:59.9881 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:15:36.5241 DEBUG ----- Starting -----
+2018-04-08 15:16:45.2206 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:16:51.8120 DEBUG ----- Starting -----
+2018-04-08 15:18:18.2210 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:20:16.4947 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:21:34.5314 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:22:04.8686 DEBUG ----- Starting -----
+2018-04-08 15:22:37.4796 DEBUG ----- Starting -----
+2018-04-08 15:26:06.5087 DEBUG ----- Starting -----
+2018-04-08 15:27:00.4316 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-04-08 15:27:13.1062 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-04-08 15:28:53.8894 DEBUG ----- Starting -----
+2018-04-08 15:28:59.7472 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-04-08 15:28:59.7772 DEBUG ABot2::clsAMB::ReinitalizeController starting
+2018-04-08 15:31:04.9007 DEBUG ----- Starting -----
+2018-04-08 15:31:14.0504 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:31:16.2245 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:31:21.3521 DEBUG ----- Starting -----
+2018-04-08 15:31:26.5682 DEBUG TEC; setting the overshootoffset to 0
+2018-04-08 15:35:45.7745 DEBUG ----- Starting -----

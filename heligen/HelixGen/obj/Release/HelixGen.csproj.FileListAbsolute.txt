@@ -1,0 +1,75 @@
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\HelixGen.exe.config
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\NLog.config
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\HelixGen.exe
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\HelixGen.pdb
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\DynamicDataDisplay.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\NLog.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\Parser.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\Stateless.dll
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\DynamicDataDisplay.xml
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\NLog.xml
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\Stateless.xml
+Q:\Team Folders\Steve Engle\HelixGen\bin\Release\ru-ru\DynamicDataDisplay.resources.dll
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen.csprojResolveAssemblyReference.cache
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\controls\ledControl.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\MainWindow.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\Pages\MainPage.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\Pages\OpticsControlPage.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\Pages\StartupPage.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\App.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen_Content.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\GeneratedInternalTypeHelper.g.cs
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen_MarkupCompile.cache
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen_MarkupCompile.lref
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\controls\ledControl.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\MainWindow.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\Pages\MainPage.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\Pages\OpticsControlPage.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\Pages\StartupPage.baml
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen.g.resources
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen.Properties.Resources.resources
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen.csproj.GenerateResource.Cache
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen.exe
+Q:\Team Folders\Steve Engle\HelixGen\obj\Release\HelixGen.pdb
+C:\HelixGen\bin\Release\NLog.config
+C:\HelixGen\bin\Release\HelixGen.exe.config
+C:\HelixGen\bin\Release\HelixGen.exe
+C:\HelixGen\bin\Release\HelixGen.pdb
+C:\HelixGen\bin\Release\NLog.dll
+C:\HelixGen\bin\Release\Parser.dll
+C:\HelixGen\bin\Release\Stateless.dll
+C:\HelixGen\bin\Release\NLog.xml
+C:\HelixGen\bin\Release\Stateless.xml
+C:\HelixGen\obj\Release\HelixGen.csprojAssemblyReference.cache
+C:\HelixGen\obj\Release\controls\ledControl.g.cs
+C:\HelixGen\obj\Release\MainWindow.g.cs
+C:\HelixGen\obj\Release\Pages\IDInput.g.cs
+C:\HelixGen\obj\Release\Pages\loginPage.g.cs
+C:\HelixGen\obj\Release\Pages\MainPage.g.cs
+C:\HelixGen\obj\Release\Pages\OpticsControlPage.g.cs
+C:\HelixGen\obj\Release\Pages\Page1.g.cs
+C:\HelixGen\obj\Release\Pages\page2.g.cs
+C:\HelixGen\obj\Release\Pages\setUp.g.cs
+C:\HelixGen\obj\Release\Pages\StartupPage.g.cs
+C:\HelixGen\obj\Release\App.g.cs
+C:\HelixGen\obj\Release\HelixGen_Content.g.cs
+C:\HelixGen\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\HelixGen\obj\Release\HelixGen_MarkupCompile.cache
+C:\HelixGen\obj\Release\HelixGen_MarkupCompile.lref
+C:\HelixGen\obj\Release\controls\ledControl.baml
+C:\HelixGen\obj\Release\MainWindow.baml
+C:\HelixGen\obj\Release\Pages\IDInput.baml
+C:\HelixGen\obj\Release\Pages\loginPage.baml
+C:\HelixGen\obj\Release\Pages\MainPage.baml
+C:\HelixGen\obj\Release\Pages\OpticsControlPage.baml
+C:\HelixGen\obj\Release\Pages\Page1.baml
+C:\HelixGen\obj\Release\Pages\page2.baml
+C:\HelixGen\obj\Release\Pages\setUp.baml
+C:\HelixGen\obj\Release\Pages\StartupPage.baml
+C:\HelixGen\obj\Release\HelixGen.g.resources
+C:\HelixGen\obj\Release\HelixGen.Properties.Resources.resources
+C:\HelixGen\obj\Release\HelixGen.csproj.GenerateResource.cache
+C:\HelixGen\obj\Release\HelixGen.csproj.CoreCompileInputs.cache
+C:\HelixGen\obj\Release\HelixGen.csproj.CopyComplete
+C:\HelixGen\obj\Release\HelixGen.exe
+C:\HelixGen\obj\Release\HelixGen.pdb

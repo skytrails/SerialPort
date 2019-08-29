@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol>
+  <description text="This is a generic protocol." author="Paul Fleming" date="3/14/2017" />
+  <steps>
+    <step desc="pcr">
+      <pcr>
+        <!--<step overtemp="42" time="2000" />
+        <step pcr="48" time="120000" />-->
+         <step pcr="85" time="3000" />
+        <step pcr="50" time="120000" />
+        <step overtemp="111" time="3000" />
+        <step pcr="97.5" time="300000" />
+        <step pcr="96.5" time="15000" />
+        <cycle repetitions="39">
+          <steps>
+            <step overtemp="35" time="4000" />
+            <step pcr="53" time="20000" />
+            <step overtemp="84" time="3000" />
+            <step pcr="69" time="60000" />
+            <step overtemp="109" time="3000" />
+            <step pcr="96.5" time="15000" />
+          </steps>
+        </cycle>
+        <step overtemp="35" time="4000" />
+        <step pcr="53" time="20000" />
+        <step overtemp="84" time="3000" />
+        <step pcr="68.5" time="480000" />
+        <!--<meltcurve start="60" end="65" ramprate="0.1" />-->
+      </pcr>
+    </step>
+  </steps>
+</protocol>

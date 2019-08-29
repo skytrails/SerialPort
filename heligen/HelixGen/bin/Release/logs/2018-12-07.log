@@ -1,0 +1,6 @@
+2018-12-07 15:21:54.4704 DEBUG ----- Starting -----
+2018-12-07 16:00:23.9268 DEBUG ----- Starting -----
+2018-12-07 16:00:46.5005 DEBUG ReadCmd, got an exception: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+2018-12-07 16:00:46.5374 DEBUG ReadCmd, got an exception: 端口被关闭。
+2018-12-07 16:00:46.5374 DEBUG ReadCmd, got an exception: 端口被关闭。

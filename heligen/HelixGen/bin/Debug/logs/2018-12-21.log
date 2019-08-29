@@ -1,0 +1,71 @@
+2018-12-21 09:16:49.3382 DEBUG ----- Starting -----
+2018-12-21 09:17:43.5881 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 09:19:17.6538 DEBUG ----- Starting -----
+2018-12-21 09:23:18.8809 DEBUG ----- Starting -----
+2018-12-21 09:26:04.8704 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 09:26:11.0788 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 09:26:19.0335 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 09:27:03.9769 DEBUG ----- Starting -----
+2018-12-21 09:29:22.2086 DEBUG ----- Starting -----
+2018-12-21 09:30:18.4957 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 09:31:27.1242 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 09:32:25.0144 DEBUG ----- Starting -----
+2018-12-21 09:34:08.7712 DEBUG ----- Starting -----
+2018-12-21 09:34:54.2335 DEBUG ----- Starting -----
+2018-12-21 09:37:37.5857 DEBUG ----- Starting -----
+2018-12-21 09:39:00.8147 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_12_21_09_39_00\Temperature Log.csv
+2018-12-21 09:39:00.8346 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-12-21 09:39:00.8446 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-12-21 09:39:34.3161 ERROR fileOperation caught an exception; 未能找到文件“C:\HelixGen\Logs\Measurement\2018_12_21_09_39_00\Melt Curve logging.csv”。
+2018-12-21 09:39:34.3420 ERROR fileOperation caught an exception; 文件“C:\HelixGen\Logs\Measurement\2018_12_21_09_39_00\Temperature Log.csv”正由另一进程使用，因此该进程无法访问此文件。
+2018-12-21 09:39:34.3879 ERROR fileOperation caught an exception; 未能找到文件“C:\HelixGen\Logs\Measurement\2018_12_21_09_39_00\Melt Curve logging.csv”。
+2018-12-21 09:39:34.4128 ERROR fileOperation caught an exception; 文件“C:\HelixGen\Logs\Measurement\2018_12_21_09_39_00\Temperature Log.csv”正由另一进程使用，因此该进程无法访问此文件。
+2018-12-21 09:41:09.7283 DEBUG ----- Starting -----
+2018-12-21 09:51:30.7430 DEBUG ----- Starting -----
+2018-12-21 09:56:57.5469 DEBUG ----- Starting -----
+2018-12-21 09:58:27.3540 DEBUG ----- Starting -----
+2018-12-21 10:00:57.2898 DEBUG ----- Starting -----
+2018-12-21 10:05:33.0104 DEBUG ----- Starting -----
+2018-12-21 10:32:25.0904 DEBUG ----- Starting -----
+2018-12-21 10:35:12.9727 DEBUG ----- Starting -----
+2018-12-21 10:36:50.1791 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:37:08.0274 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:38:41.2269 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:42:13.5317 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:44:11.1489 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:44:17.5817 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:45:53.9797 DEBUG ----- Starting -----
+2018-12-21 10:47:22.0595 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:50:47.0865 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:51:10.8918 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:52:57.8378 DEBUG ----- Starting -----
+2018-12-21 10:53:12.4787 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:53:26.1790 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 10:59:21.5388 DEBUG ----- Starting -----
+2018-12-21 11:00:59.1642 DEBUG ----- Starting -----
+2018-12-21 11:01:23.6786 DEBUG ReadCmd, got an exception: 操作已超时。
+2018-12-21 11:15:15.3666 DEBUG ----- Starting -----
+2018-12-21 11:20:40.0857 DEBUG ----- Starting -----
+2018-12-21 11:22:03.4614 DEBUG ----- Starting -----
+2018-12-21 11:23:38.8366 DEBUG ----- Starting -----
+2018-12-21 11:25:08.1980 DEBUG ----- Starting -----
+2018-12-21 11:30:30.1157 DEBUG ----- Starting -----
+2018-12-21 11:33:36.0031 DEBUG ----- Starting -----
+2018-12-21 11:34:52.4008 DEBUG ----- Starting -----
+2018-12-21 11:42:34.7712 DEBUG ----- Starting -----
+2018-12-21 11:48:54.0564 DEBUG ----- Starting -----
+2018-12-21 11:51:26.8390 DEBUG ----- Starting -----
+2018-12-21 15:38:38.6269 DEBUG ----- Starting -----
+2018-12-21 15:42:25.2996 DEBUG ----- Starting -----
+2018-12-21 15:43:59.6627 DEBUG ----- Starting -----
+2018-12-21 15:50:44.7123 DEBUG ----- Starting -----
+2018-12-21 15:55:51.3128 DEBUG ----- Starting -----
+2018-12-21 15:58:04.7753 DEBUG ----- Starting -----
+2018-12-21 16:05:01.7210 DEBUG ----- Starting -----
+2018-12-21 16:08:29.9548 DEBUG ----- Starting -----
+2018-12-21 16:15:00.2511 DEBUG ----- Starting -----
+2018-12-21 16:22:58.7292 DEBUG ----- Starting -----
+2018-12-21 16:46:49.3181 DEBUG ----- Starting -----
+2018-12-21 16:54:54.9655 DEBUG ----- Starting -----
+2018-12-21 17:01:04.5005 DEBUG ----- Starting -----
+2018-12-21 17:26:08.6379 DEBUG ----- Starting -----

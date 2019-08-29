@@ -1,0 +1,856 @@
+2018-05-19 09:44:16.0584 DEBUG ----- Starting -----
+2018-05-19 09:44:39.5681 DEBUG ----- Starting -----
+2018-05-19 09:44:50.8067 DEBUG ----- Starting -----
+2018-05-19 09:56:26.0257 DEBUG ----- Starting -----
+2018-05-19 09:56:52.1824 DEBUG ----- Starting -----
+2018-05-19 10:00:16.1598 DEBUG ----- Starting -----
+2018-05-19 10:01:22.4293 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-19 10:03:48.1002 DEBUG ----- Starting -----
+2018-05-19 10:11:41.3946 DEBUG ----- Starting -----
+2018-05-19 10:13:08.1207 DEBUG Setting the temperature to 95
+2018-05-19 10:13:08.1452 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:08.1784 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is -2.688 to temp is 95
+2018-05-19 10:13:08.1861 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for -2.688 to 95.
+2018-05-19 10:13:13.9328 DEBUG Setting the temperature to 95
+2018-05-19 10:13:13.9624 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:14.0741 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:14.1585 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:13:14.2123 DEBUG Setting the temperature to 95
+2018-05-19 10:13:14.2337 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:14.2651 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:14.2651 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:13:14.4374 DEBUG Setting the temperature to 95
+2018-05-19 10:13:14.4569 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:14.4888 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:14.4961 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:13:16.0398 DEBUG Setting the temperature to 95
+2018-05-19 10:13:16.0549 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:16.0878 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:16.0940 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:13:16.2517 DEBUG Setting the temperature to 95
+2018-05-19 10:13:16.2634 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:16.2946 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:16.2946 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:13:17.0306 DEBUG Setting the temperature to 95
+2018-05-19 10:13:17.0466 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:17.0785 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:17.0954 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:13:17.2729 DEBUG Setting the temperature to 95
+2018-05-19 10:13:17.2861 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:17.3177 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:17.3295 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:13:18.2010 DEBUG Setting the temperature to 95
+2018-05-19 10:13:18.2010 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-19 10:13:18.3403 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-19 10:13:18.3403 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 95.
+2018-05-19 10:14:18.8309 DEBUG ----- Starting -----
+2018-05-19 10:14:29.4909 DEBUG Setting the temperature to 95
+2018-05-19 10:14:38.4569 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-19 10:14:41.8619 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-19 10:16:06.4114 DEBUG ----- Starting -----
+2018-05-19 10:16:23.5471 DEBUG ----- Starting -----
+2018-05-19 10:40:12.8083 DEBUG ----- Starting -----
+2018-05-19 10:57:44.3446 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_10_57_44\Temperature Log.csv
+2018-05-19 10:57:44.5977 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 10:57:44.6377 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 10:57:44.7079 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 10:57:44.7278 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 10:58:44.7497 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 10:58:44.7697 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 10:58:44.8198 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 10:58:44.8298 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 10:59:44.8519 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 10:59:44.8818 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:00:11.1712 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_00_11\Temperature Log.csv
+2018-05-19 11:00:11.4480 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:00:11.4680 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:00:11.5481 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:00:11.5681 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:01:11.6116 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:01:11.6316 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:01:11.6917 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:01:11.7116 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:02:11.7456 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:02:11.7756 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:03:36.7209 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_03_36\Temperature Log.csv
+2018-05-19 11:03:36.9811 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:03:37.0010 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:03:37.1011 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:03:37.1111 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:04:07.1371 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:04:07.1571 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:04:07.2771 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:04:07.2771 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:05:07.3191 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:05:07.3492 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:10:41.6772 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_10_41\Temperature Log.csv
+2018-05-19 11:10:41.9574 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:10:41.9874 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:10:42.0574 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:10:42.0774 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:11:12.1035 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:11:12.1134 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:11:12.1835 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:11:12.2135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:11:28.5895 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_11_28\Temperature Log.csv
+2018-05-19 11:11:28.8798 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:11:28.8997 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:11:28.9497 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:11:28.9497 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:11:45.7594 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_11_45\Temperature Log.csv
+2018-05-19 11:11:46.0307 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:11:46.0508 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:11:46.1108 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:11:46.1208 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:11:54.8489 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_11_54\Temperature Log.csv
+2018-05-19 11:11:55.1374 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:11:55.1574 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:11:55.2075 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:11:55.2175 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:11:58.9895 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:11:59.0295 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:11:59.0995 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:11:59.1296 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:12:12.2610 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:12:12.2890 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:12:16.1399 DEBUG Protocol: Execute stopping the script.
+2018-05-19 11:12:29.9681 DEBUG ----- Starting -----
+2018-05-19 11:12:42.4018 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_12_42\Temperature Log.csv
+2018-05-19 11:12:42.6506 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:12:42.6905 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:12:42.7605 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:12:42.7905 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:13:12.2974 DEBUG ----- Starting -----
+2018-05-19 11:13:25.5131 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_13_25\Temperature Log.csv
+2018-05-19 11:13:25.7817 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:13:25.8117 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:13:25.8719 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:13:25.8917 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:13:55.9079 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:13:55.9477 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:13:55.9978 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:13:55.9978 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:14:56.0232 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:14:56.0472 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:15:28.2295 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_15_28\Temperature Log.csv
+2018-05-19 11:15:28.5098 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:15:28.5497 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:15:28.6197 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:15:28.6597 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:15:54.3758 DEBUG ----- Starting -----
+2018-05-19 11:17:18.9091 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 11:17:47.9125 DEBUG ----- Starting -----
+2018-05-19 11:20:17.3605 DEBUG ----- Starting -----
+2018-05-19 11:20:28.4705 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_20_28\Temperature Log.csv
+2018-05-19 11:20:28.7807 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:20:28.7807 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:20:28.8807 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:20:28.9007 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:20:58.9267 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:20:58.9467 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:20:58.9967 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:20:58.9967 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:21:59.0287 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:21:59.0287 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:22:44.4839 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_22_44\Temperature Log.csv
+2018-05-19 11:22:44.7474 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:22:44.7774 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:22:44.8874 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:22:44.8874 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:23:14.9234 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:23:14.9535 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:23:15.0036 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:23:15.0135 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:24:15.0356 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:24:15.0555 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:24:24.5443 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_24_24\Temperature Log.csv
+2018-05-19 11:24:24.8245 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:24:24.8445 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:24:24.9145 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:24:24.9245 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:25:02.3301 DEBUG ----- Starting -----
+2018-05-19 11:25:15.4120 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_25_15\Temperature Log.csv
+2018-05-19 11:25:15.6922 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:25:15.7022 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:25:15.7522 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:25:15.7722 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:25:45.8093 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:25:45.8433 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:25:45.8903 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:25:45.9023 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:26:45.9233 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:26:45.9584 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:26:49.5106 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_26_49\Temperature Log.csv
+2018-05-19 11:26:49.7626 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:26:49.7827 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:26:49.8227 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:26:49.8327 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:27:03.1098 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_27_03\Temperature Log.csv
+2018-05-19 11:27:03.3899 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:27:03.3899 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:27:03.5000 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:27:03.5200 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:27:11.9745 DEBUG ----- Starting -----
+2018-05-19 11:27:21.4327 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_27_21\Temperature Log.csv
+2018-05-19 11:27:21.6830 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:27:21.7129 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:27:21.8129 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:27:21.8129 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:27:59.5707 DEBUG ----- Starting -----
+2018-05-19 11:28:32.1059 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 11:28:45.7236 DEBUG ----- Starting -----
+2018-05-19 11:28:58.3631 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_28_58\Temperature Log.csv
+2018-05-19 11:28:58.6232 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:28:58.6232 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:28:58.6832 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:28:58.6832 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:29:28.7106 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:29:28.7306 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:29:28.7706 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:29:28.7806 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:30:28.8034 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:30:28.8433 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:32:11.5691 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_11_32_11\Temperature Log.csv
+2018-05-19 11:32:11.8291 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 11:32:11.8691 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:32:11.9191 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 11:32:11.9391 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:32:41.9519 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 11:32:41.9519 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 11:32:42.0121 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 11:32:42.0419 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 11:33:42.0715 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 11:33:42.0815 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 11:35:39.5976 DEBUG ----- Starting -----
+2018-05-19 11:42:01.6993 DEBUG ----- Starting -----
+2018-05-19 11:42:52.1354 DEBUG ----- Starting -----
+2018-05-19 11:48:44.9007 DEBUG ----- Starting -----
+2018-05-19 11:49:06.5092 DEBUG ----- Starting -----
+2018-05-19 11:49:22.3037 DEBUG ----- Starting -----
+2018-05-19 11:49:38.6128 DEBUG ----- Starting -----
+2018-05-19 11:49:58.3975 DEBUG ----- Starting -----
+2018-05-19 11:50:20.2549 DEBUG ----- Starting -----
+2018-05-19 11:50:39.6289 DEBUG ----- Starting -----
+2018-05-19 11:50:58.3478 DEBUG ----- Starting -----
+2018-05-19 11:51:24.8294 DEBUG ----- Starting -----
+2018-05-19 11:51:47.9721 DEBUG ----- Starting -----
+2018-05-19 11:52:44.5864 DEBUG ----- Starting -----
+2018-05-19 11:54:11.2717 DEBUG ----- Starting -----
+2018-05-19 11:54:32.7856 DEBUG ----- Starting -----
+2018-05-19 13:00:56.9586 DEBUG ----- Starting -----
+2018-05-19 13:02:18.2625 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-19 13:02:18.2825 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 13:02:18.3026 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 13:04:34.4137 DEBUG ----- Starting -----
+2018-05-19 13:15:38.7977 DEBUG ----- Starting -----
+2018-05-19 13:29:12.9951 DEBUG ----- Starting -----
+2018-05-19 13:31:02.6238 DEBUG ----- Starting -----
+2018-05-19 13:31:07.1052 DEBUG ReadCmd, got an exception: Access to the port is denied.
+2018-05-19 13:31:07.1352 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 13:31:07.1752 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 13:31:07.9149 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-05-19 13:31:07.9761 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 13:31:19.6093 DEBUG ----- Starting -----
+2018-05-19 13:35:01.0199 DEBUG ----- Starting -----
+2018-05-19 13:35:05.5356 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 13:39:07.5760 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-05-19 13:39:07.6261 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 13:39:38.0491 DEBUG ----- Starting -----
+2018-05-19 13:41:30.3764 DEBUG ----- Starting -----
+2018-05-19 13:41:34.6761 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 13:42:49.4577 DEBUG ----- Starting -----
+2018-05-19 13:42:53.4488 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 13:46:36.7733 DEBUG ----- Starting -----
+2018-05-19 13:46:41.0796 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 13:46:41.8300 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 13:46:44.5014 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-19 13:46:49.7643 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-19 13:50:43.4460 DEBUG ----- Starting -----
+2018-05-19 13:51:03.7053 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 13:51:20.0948 DEBUG ----- Starting -----
+2018-05-19 13:51:29.2814 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 13:51:29.3614 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 13:51:29.4717 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 13:51:29.5115 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 13:51:54.2833 DEBUG ----- Starting -----
+2018-05-19 13:52:10.1239 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 13:52:10.2124 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 13:52:10.3125 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 13:52:10.3623 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 13:52:31.8115 DEBUG ----- Starting -----
+2018-05-19 13:53:23.8779 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 13:53:23.9780 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 13:53:24.0780 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 13:53:24.1180 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 13:53:39.5607 DEBUG ----- Starting -----
+2018-05-19 13:56:29.0617 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 13:57:52.1955 DEBUG ----- Starting -----
+2018-05-19 13:58:03.0086 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 13:58:03.0978 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 13:58:03.1780 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 13:58:03.2279 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 13:58:03.2479 DEBUG deviceHeaterPiston::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 13:58:48.9211 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_13_58_48\Temperature Log.csv
+2018-05-19 13:58:49.1912 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-19 13:58:49.2213 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-19 13:58:52.3929 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-19 13:58:52.4130 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 13:58:52.4632 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-19 13:58:52.4830 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 13:59:52.5152 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-05-19 13:59:52.5450 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 13:59:52.5952 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 9
+2018-05-19 13:59:52.6050 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 13:59:52.6050 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 13:59:55.6667 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 13:59:55.6667 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 13:59:57.3277 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 13:59:57.3575 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:00.3893 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:00.4092 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:02.0901 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:02.0901 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:05.1517 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:05.1717 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:06.8527 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:06.8726 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:09.9044 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:09.9342 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:11.6252 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:11.6552 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:14.6968 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:14.7268 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:16.4477 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:16.4777 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:19.5095 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:19.5294 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:21.2403 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:21.2703 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:24.3121 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:24.3419 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:26.0229 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:26.0528 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:29.1245 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:29.1445 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:30.8054 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:30.8354 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:33.8371 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:33.8570 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:35.5179 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:35.5379 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 14:00:38.5395 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 14:00:38.5695 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 14:00:40.2504 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-19 14:00:40.2504 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 14:00:50.2957 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-19 14:00:50.2957 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 14:00:50.3358 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(; command: /01v200R; iteration: 3
+2018-05-19 14:00:50.4758 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /01P58000R; iteration: 3
+2018-05-19 14:00:50.5861 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /01P58000R; iteration: 2
+2018-05-19 14:00:50.6960 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 11  Data: /0+; command: /01P58000R; iteration: 1
+2018-05-19 14:00:50.7360 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 11  Data: /0+; command: /01P58000R; iteration: 1; source command: /01P58000R; iteration: 0; error code: 11
+2018-05-19 14:00:50.7460 DEBUG Protocol::Execute caught an exception: Error: (AMB): (AMB )Error: 11  Data: /0+; command: /01P58000R; iteration: 1; source command: /01P58000R; iteration: 0; error code: 11
+2018-05-19 14:06:23.9002 DEBUG ----- Starting -----
+2018-05-19 14:06:30.4708 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 14:06:47.9412 DEBUG ----- Starting -----
+2018-05-19 14:06:55.0211 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:06:55.1113 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:06:55.2112 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:06:55.2512 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:06:55.2712 DEBUG deviceHeaterPiston::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:07:28.7876 DEBUG ----- Starting -----
+2018-05-19 14:07:33.3162 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:07:33.4162 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:07:33.4963 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:07:33.5163 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:07:33.5163 DEBUG deviceHeaterPiston::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:07:45.3205 DEBUG ----- Starting -----
+2018-05-19 14:07:58.1450 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:07:58.2352 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:07:58.3352 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:07:58.3751 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:08:43.2293 DEBUG ----- Starting -----
+2018-05-19 14:10:20.8844 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 14:11:18.9056 DEBUG ----- Starting -----
+2018-05-19 14:11:26.8990 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:11:26.9792 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:11:27.0593 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:11:27.0992 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:12:14.3713 DEBUG ----- Starting -----
+2018-05-19 14:12:21.8569 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:12:21.9371 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:12:22.0471 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:12:22.0970 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:12:30.0034 DEBUG ----- Starting -----
+2018-05-19 14:12:49.7179 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:12:49.8028 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:12:49.9229 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:12:49.9728 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:13:41.4633 DEBUG ----- Starting -----
+2018-05-19 14:14:39.7097 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 14:15:20.2333 DEBUG ----- Starting -----
+2018-05-19 14:15:28.2708 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:15:28.3510 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:15:28.4611 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:15:28.5110 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:15:56.0395 DEBUG ----- Starting -----
+2018-05-19 14:16:10.6135 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:16:10.6937 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:16:10.8038 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:16:10.8536 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:16:22.3049 DEBUG ----- Starting -----
+2018-05-19 14:17:12.7028 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:17:12.7803 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:17:12.8917 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:17:12.9328 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:17:22.8747 DEBUG ----- Starting -----
+2018-05-19 14:17:41.3653 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:17:41.4454 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:17:41.5554 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:17:41.5954 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:17:57.7698 DEBUG ----- Starting -----
+2018-05-19 14:18:22.8665 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 14:43:28.3057 DEBUG ----- Starting -----
+2018-05-19 14:44:06.4281 DEBUG ----- Starting -----
+2018-05-19 14:44:22.6204 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 14:44:26.9827 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-19 14:44:33.4562 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-19 14:45:35.0235 DEBUG ----- Starting -----
+2018-05-19 14:46:08.8611 DEBUG ----- Starting -----
+2018-05-19 14:46:13.3935 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:46:13.5038 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:46:13.5838 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:46:13.6136 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:57:14.1964 DEBUG ----- Starting -----
+2018-05-19 14:57:25.0581 DEBUG ----- Starting -----
+2018-05-19 14:58:45.8492 DEBUG ----- Starting -----
+2018-05-19 14:58:50.2992 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:58:50.4091 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:58:50.5093 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:58:50.5392 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:59:01.5513 DEBUG deviceHeaterPiston::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 14:59:48.7365 DEBUG ----- Starting -----
+2018-05-19 14:59:53.2924 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 14:59:53.4026 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 14:59:53.5127 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 14:59:53.5425 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 15:00:39.9788 DEBUG ----- Starting -----
+2018-05-19 15:00:44.4476 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 3
+2018-05-19 15:00:44.5579 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 2
+2018-05-19 15:00:44.6579 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1
+2018-05-19 15:00:44.6877 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 15:00:46.9215 DEBUG deviceHeaterPiston::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /01N3R; iteration: 1; source command: /01N3R; iteration: 0; error code: 15
+2018-05-19 15:02:51.3625 DEBUG ----- Starting -----
+2018-05-19 15:02:55.7081 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(; command: /01k1R; iteration: 3
+2018-05-19 15:03:14.7027 DEBUG ----- Starting -----
+2018-05-19 15:03:19.2934 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 3
+2018-05-19 15:03:19.4235 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 2
+2018-05-19 15:03:19.5236 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 1
+2018-05-19 15:03:19.5735 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 1; source command: /01k1R; iteration: 0; error code: 15
+2018-05-19 15:03:21.7195 DEBUG deviceHeaterPiston::initialize() Caught an exception: Error: (AMB): (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 1; source command: /01k1R; iteration: 0; error code: 15
+2018-05-19 15:03:30.2873 DEBUG ----- Starting -----
+2018-05-19 15:03:34.8743 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 3
+2018-05-19 15:03:34.9844 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 2
+2018-05-19 15:03:35.0643 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 1
+2018-05-19 15:03:35.1042 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01k1R; iteration: 1; source command: /01k1R; iteration: 0; error code: 15
+2018-05-19 15:05:59.1987 DEBUG ----- Starting -----
+2018-05-19 15:06:03.7449 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 8  Data: /0(; command: /01o1R; iteration: 3
+2018-05-19 15:06:18.9211 DEBUG ----- Starting -----
+2018-05-19 15:06:23.2660 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o1R; iteration: 3
+2018-05-19 15:06:23.3762 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o1R; iteration: 2
+2018-05-19 15:06:23.4663 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 15  Data: /0; command: /01o1R; iteration: 1
+2018-05-19 15:06:23.4962 ERROR ABot2::clsAMB::ExecCMD throwing Exception Error: (AMB): (AMB )Error: 15  Data: /0; command: /01o1R; iteration: 1; source command: /01o1R; iteration: 0; error code: 15
+2018-05-19 15:10:10.2629 DEBUG ----- Starting -----
+2018-05-19 15:18:48.4173 DEBUG ----- Starting -----
+2018-05-19 15:19:29.0199 DEBUG ----- Starting -----
+2018-05-19 15:19:48.0233 DEBUG ----- Starting -----
+2018-05-19 15:24:31.3242 DEBUG ----- Starting -----
+2018-05-19 15:25:32.8873 DEBUG ----- Starting -----
+2018-05-19 15:25:37.3495 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 15:28:53.5386 DEBUG ----- Starting -----
+2018-05-19 15:29:22.6933 DEBUG ----- Starting -----
+2018-05-19 15:29:42.4349 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 15:29:51.6154 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_15_29_51\Temperature Log.csv
+2018-05-19 15:29:51.8788 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-19 15:29:51.8888 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-19 15:30:01.6200 DEBUG Protocol::Execute caught an exception: The port is closed.
+2018-05-19 15:30:01.7100 DEBUG Found the optics port closed, reopening.
+2018-05-19 15:30:01.7579 ERROR RunScript caught an exception; The port is closed.
+2018-05-19 15:31:54.4218 DEBUG ----- Starting -----
+2018-05-19 15:33:17.1824 DEBUG ----- Starting -----
+2018-05-19 15:33:30.2721 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 15:33:45.9305 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 15:34:11.4578 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 15:40:15.9868 DEBUG ----- Starting -----
+2018-05-19 15:40:42.7284 DEBUG ----- Starting -----
+2018-05-19 15:42:14.5878 DEBUG ----- Starting -----
+2018-05-19 15:42:28.5244 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 15:42:32.9968 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-19 15:42:39.4703 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-19 15:42:49.4056 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 15:43:55.1982 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_15_43_55\Temperature Log.csv
+2018-05-19 15:43:55.4483 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-19 15:43:55.4583 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-19 15:43:58.5600 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-19 15:43:58.5600 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 15:43:58.6200 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-19 15:43:58.6300 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 15:44:58.6462 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-05-19 15:44:58.6562 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 15:44:58.6762 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 9
+2018-05-19 15:44:58.6962 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:44:58.7062 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:01.6978 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:01.7078 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:03.3587 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:03.3587 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:06.3603 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:06.3603 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:08.0612 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:08.0612 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:11.0528 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:11.0628 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:12.7137 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:12.7337 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:15.7153 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:15.7153 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:17.3862 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:17.3862 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:20.3778 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:20.3878 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:22.0486 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:22.0687 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:25.0604 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:25.0803 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:26.7612 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:26.7912 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:29.8228 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:29.8428 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:31.5237 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:31.5537 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:34.5655 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:34.5853 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:36.2562 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:36.2662 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:39.2778 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:39.2978 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:40.9887 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:41.0087 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 15:45:44.0205 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 15:45:44.0404 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 15:45:45.7413 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-19 15:45:45.7613 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 15:45:55.7866 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-19 15:45:55.8166 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 15:46:14.0563 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-19 15:46:14.0764 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 15:46:14.8768 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-19 15:46:14.8968 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-19 15:46:33.1465 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-19 15:46:33.1665 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 15:46:36.1882 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-19 15:46:36.2081 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 15:46:36.8885 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 15:46:36.9185 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 15:46:49.4952 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 15:46:49.5152 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 15:46:52.5569 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 15:46:52.5769 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-19 15:47:03.8829 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 15:47:03.9029 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-19 15:47:17.9304 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 15:47:17.9504 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-19 15:47:18.2605 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-19 15:47:18.3006 DEBUG Protocol::Execute caught an exception: The port is closed.
+2018-05-19 15:47:18.3106 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 15:47:18.3606 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 15:56:04.8266 DEBUG ----- Starting -----
+2018-05-19 15:56:16.9010 DEBUG ----- Starting -----
+2018-05-19 15:59:01.4590 DEBUG ----- Starting -----
+2018-05-19 15:59:13.8901 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 15:59:17.7021 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-19 15:59:22.9550 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-19 15:59:39.7182 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 16:00:16.0250 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_16_00_16\Temperature Log.csv
+2018-05-19 16:00:16.2951 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-19 16:00:16.3352 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-19 16:00:19.4469 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-19 16:00:19.4668 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 16:00:19.5169 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-19 16:00:19.5369 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:01:19.5688 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-05-19 16:01:19.5989 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 16:01:19.6389 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 9
+2018-05-19 16:01:19.6389 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:19.6589 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:22.6405 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:22.6405 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:24.3114 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:24.3414 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:27.3530 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:27.3830 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:29.0539 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:29.0840 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:32.0855 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:32.1155 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:33.8065 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:33.8264 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:36.8582 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:36.8881 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:38.5890 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:38.6090 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:41.6006 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:41.6106 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:43.3015 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:43.3215 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:46.3810 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:46.3910 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:48.1014 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:48.1275 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:51.1677 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:51.1977 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:52.9088 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:52.9186 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:01:55.9303 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:55.9602 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:01:57.6211 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:01:57.6411 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:02:00.6427 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:02:00.6627 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:02:02.3636 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:02:02.3837 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:02:05.3853 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:02:05.4153 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:02:07.1062 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-19 16:02:07.1262 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:02:17.1615 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-19 16:02:17.1815 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 16:02:35.4113 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-19 16:02:35.4413 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 16:02:36.3418 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-19 16:02:36.3617 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-19 16:02:54.5214 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-19 16:02:54.5414 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:02:57.5632 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-19 16:02:57.5831 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 16:02:58.2734 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 16:02:58.2934 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 16:03:10.9302 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 16:03:10.9402 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:03:13.9718 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 16:03:13.9918 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-19 16:03:25.2578 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 16:03:25.2778 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-19 16:03:39.2653 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 16:03:39.2953 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-19 16:03:50.6414 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-19 16:03:50.6614 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-19 16:08:50.2446 DEBUG ----- Starting -----
+2018-05-19 16:08:54.7661 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 16:09:38.5934 DEBUG ----- Starting -----
+2018-05-19 16:09:43.0383 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 16:10:31.5741 DEBUG ----- Starting -----
+2018-05-19 16:10:36.0141 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 16:13:12.6457 DEBUG ----- Starting -----
+2018-05-19 16:13:17.1579 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 16:13:35.3471 DEBUG deviceSlider::initialize() Caught an exception: The port is closed.
+2018-05-19 16:13:35.4072 DEBUG deviceHeaterPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 16:13:35.4472 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 16:13:49.6133 DEBUG ----- Starting -----
+2018-05-19 16:16:17.0831 DEBUG ----- Starting -----
+2018-05-19 16:16:32.6347 DEBUG ----- Starting -----
+2018-05-19 16:16:45.8031 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 16:16:48.4745 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-19 16:16:53.7473 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-19 16:17:02.6721 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 16:17:29.2837 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_16_17_29\Temperature Log.csv
+2018-05-19 16:17:29.5417 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-19 16:17:29.5517 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-19 16:17:32.6533 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-19 16:17:32.6533 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 16:17:32.7033 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-19 16:17:32.7033 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:18:32.7285 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 8
+2018-05-19 16:18:32.7686 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 16:18:32.7888 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 9
+2018-05-19 16:18:32.7986 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:32.8086 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:18:35.8502 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:35.8803 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:18:37.5312 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:37.5512 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:18:40.5829 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:40.6027 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:18:42.2836 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:42.3137 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:18:45.3054 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:45.3353 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:18:47.0162 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:47.0362 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:18:50.0878 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:50.1178 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:18:51.7887 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:51.8187 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:18:54.8605 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:54.8803 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:18:56.5412 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:56.5512 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:18:59.5728 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:18:59.5829 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:19:01.2637 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:01.2838 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:19:04.2854 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:04.3154 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:19:06.0063 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:06.0263 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:19:09.0437 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:09.0735 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:19:10.7544 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:10.7744 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:19:13.7862 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:13.8161 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:19:15.4870 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:15.4970 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 16:19:18.4986 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 16:19:18.4986 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 16:19:20.1895 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-19 16:19:20.2095 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:19:30.2448 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-19 16:19:30.2649 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 16:19:48.5446 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-19 16:19:48.5646 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 16:19:49.3550 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-19 16:19:49.3750 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-19 16:20:07.5747 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-19 16:20:07.5747 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:20:10.6064 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-19 16:20:10.6064 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 16:20:11.3067 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 16:20:11.3267 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 16:20:23.9835 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 16:20:24.0034 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 16:20:27.0251 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 16:20:27.0351 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-19 16:20:38.2710 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 16:20:38.2911 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-19 16:20:52.2985 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 16:20:52.3285 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-19 16:21:03.7346 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-19 16:21:03.7546 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-19 16:34:20.2497 DEBUG ----- Starting -----
+2018-05-19 16:44:40.2910 DEBUG ----- Starting -----
+2018-05-19 16:45:10.4771 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 16:45:17.0513 DEBUG ----- Starting -----
+2018-05-19 16:46:16.0325 DEBUG ----- Starting -----
+2018-05-19 16:48:15.0166 DEBUG ----- Starting -----
+2018-05-19 16:48:31.8711 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 16:49:37.2544 DEBUG ----- Starting -----
+2018-05-19 16:49:59.6575 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 16:50:25.3699 DEBUG ----- Starting -----
+2018-05-19 16:51:47.8233 DEBUG ----- Starting -----
+2018-05-19 16:51:57.3733 DEBUG ----- Starting -----
+2018-05-19 16:52:43.8540 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 16:53:54.7512 DEBUG ----- Starting -----
+2018-05-19 17:00:26.7249 DEBUG ----- Starting -----
+2018-05-19 17:00:37.7207 DEBUG ----- Starting -----
+2018-05-19 17:04:06.1184 DEBUG ----- Starting -----
+2018-05-19 17:07:45.8245 DEBUG ----- Starting -----
+2018-05-19 17:14:40.2487 DEBUG ----- Starting -----
+2018-05-19 17:15:34.6932 DEBUG ----- Starting -----
+2018-05-19 17:17:32.0360 DEBUG ----- Starting -----
+2018-05-19 17:17:58.1966 DEBUG deviceChassisPiston::initialize() Caught an exception: The port is closed.
+2018-05-19 17:18:06.4159 DEBUG ----- Starting -----
+2018-05-19 17:19:54.6947 DEBUG ----- Starting -----
+2018-05-19 17:27:48.4260 DEBUG ----- Starting -----
+2018-05-19 17:28:00.7293 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /04N3R; iteration: 3
+2018-05-19 17:28:03.3908 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /03N3R; iteration: 3
+2018-05-19 17:28:08.6636 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /02N3R; iteration: 3
+2018-05-19 17:28:17.5983 ERROR ABot2::clsAMB::ExecCMD throwing Exception (AMB )Error: 7  Data: /0'; command: /01N3R; iteration: 3
+2018-05-19 17:29:27.1092 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_17_29_27\Temperature Log.csv
+2018-05-19 17:29:27.3509 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-19 17:29:27.3609 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-19 17:29:30.4626 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-19 17:29:30.4726 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 17:29:30.5226 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-19 17:29:30.5326 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 17:31:30.5466 DEBUG Protocol: Execute step: HelixGen.Model.CycleStep line: 8
+2018-05-19 17:31:30.5866 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:30.6066 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:31:33.5982 DEBUG Cycle 0: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:33.6282 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:31:35.2991 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:35.3291 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:31:38.3409 DEBUG Cycle 1: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:38.3707 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:31:40.0416 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:40.0616 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:31:43.1032 DEBUG Cycle 2: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:43.1132 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:31:44.7841 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:44.8042 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:31:47.8560 DEBUG Cycle 3: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:47.8858 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:31:49.5567 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:49.5767 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:31:52.5885 DEBUG Cycle 4: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:52.5983 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:31:54.2792 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:54.2992 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:31:57.3108 DEBUG Cycle 5: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:57.3408 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:31:59.0217 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:31:59.0517 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:32:02.0433 DEBUG Cycle 6: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:32:02.0433 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:32:03.7343 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:32:03.7642 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:32:06.7660 DEBUG Cycle 7: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:32:06.7959 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:32:08.4768 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:32:08.4968 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:32:11.5085 DEBUG Cycle 8: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:32:11.5384 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:32:13.2093 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:32:13.2193 DEBUG Executing the action: HelixGen.Model.r1RNPosition
+2018-05-19 17:32:16.2109 DEBUG Cycle 9: Executing the step: HelixGen.Model.ProtocolStep
+2018-05-19 17:32:16.2309 DEBUG Executing the action: HelixGen.Model.r2RNPosition
+2018-05-19 17:32:17.9518 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 14
+2018-05-19 17:32:17.9518 DEBUG Executing the action: HelixGen.Model.heaterCtrlAction
+2018-05-19 17:32:18.0018 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 15
+2018-05-19 17:32:18.0118 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 17:32:28.0472 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 16
+2018-05-19 17:32:28.0672 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 17:32:46.3570 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 17
+2018-05-19 17:32:46.3769 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 17:32:47.1574 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 18
+2018-05-19 17:32:47.1674 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-19 17:33:05.4171 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 19
+2018-05-19 17:33:05.4471 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 17:33:08.4689 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 20
+2018-05-19 17:33:08.4987 DEBUG Executing the action: HelixGen.Model.SlideNNPosition
+2018-05-19 17:33:09.1891 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 21
+2018-05-19 17:33:09.2091 DEBUG Executing the action: HelixGen.Model.HeatNPosition
+2018-05-19 17:33:21.7958 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 22
+2018-05-19 17:33:21.8258 DEBUG Executing the action: HelixGen.Model.timeAction
+2018-05-19 17:33:24.8575 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 23
+2018-05-19 17:33:24.8775 DEBUG Executing the action: HelixGen.Model.r2RNNPosition
+2018-05-19 17:33:36.1635 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 24
+2018-05-19 17:33:36.1735 DEBUG Executing the action: HelixGen.Model.r1RNNPosition
+2018-05-19 17:33:50.1709 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 25
+2018-05-19 17:33:50.1709 DEBUG Executing the action: HelixGen.Model.HeatNNPosition
+2018-05-19 17:34:01.5670 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 26
+2018-05-19 17:34:01.5970 DEBUG Executing the action: HelixGen.Model.chasisAction
+2018-05-19 17:43:14.9718 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_19_17_43_14\Temperature Log.csv
+2018-05-19 17:43:15.2619 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 5
+2018-05-19 17:43:15.2619 DEBUG Executing the action: HelixGen.Model.SlideNPosition
+2018-05-19 17:43:18.3917 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-19 17:43:18.4165 DEBUG Executing the action: HelixGen.Model.heaterAction
+2018-05-19 17:43:18.6360 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-19 17:43:18.6591 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 17:43:18.6764 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-19 17:43:18.7247 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 7
+2018-05-19 17:43:18.7442 DEBUG Protocol::Execute caught an exception: Object reference not set to an instance of an object.
+2018-05-19 17:43:18.7742 ERROR RunScript caught an exception; Object reference not set to an instance of an object.

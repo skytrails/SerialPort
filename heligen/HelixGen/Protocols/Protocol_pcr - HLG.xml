@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol>
+  <description text="This is a generic protocol." author="Paul Fleming" date="3/14/2017" />
+  <steps>
+
+    <step desc="pcr">
+      <pcr>
+        <step pcr="50" time="30000" />
+        <step pcr="94" time="30000" />
+        <cycle repetitions="2">
+          <steps>
+            <step pcr="94" time="15000" />
+            <step pcr="60" time="20000" />
+            <step pcr="72" time="15000" />
+            <sample />
+          </steps>
+        </cycle>
+        <meltcurve start="40" end="80" ramprate="0.06" />
+      </pcr>
+    </step>
+  </steps>
+</protocol>

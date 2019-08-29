@@ -1,0 +1,14 @@
+2019-02-14 16:26:56.5697 DEBUG ----- Starting -----
+2019-02-14 16:40:49.9413 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:40:50.3373 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:40:56.6813 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:40:56.7052 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:40:59.0828 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:40:59.4558 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:41:00.5669 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:41:00.5918 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:41:01.5473 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:41:01.5712 ERROR fileOperation caught an exception; 文件“C:\HelixGen\logs\measurement\2019_02_14_14_08_32\Melt Curve logging.csv”正由另一进程使用，因此该进程无法访问此文件。
+2019-02-14 16:58:04.6984 DEBUG ----- Starting -----
+2019-02-14 16:59:01.1605 DEBUG ----- Starting -----
+2019-02-14 17:20:34.9603 DEBUG ----- Starting -----

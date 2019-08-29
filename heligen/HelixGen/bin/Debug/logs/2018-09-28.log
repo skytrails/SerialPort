@@ -1,0 +1,13 @@
+2018-09-28 11:15:32.9215 DEBUG ----- Starting -----
+2018-09-28 11:16:50.6569 DEBUG ----- Starting -----
+2018-09-28 11:20:42.3905 DEBUG ----- Starting -----
+2018-09-28 11:20:46.2502 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-28 11:21:22.3580 DEBUG ----- Starting -----
+2018-09-28 11:21:29.6335 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-28 11:22:37.8839 DEBUG ----- Starting -----
+2018-09-28 11:22:43.8050 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): 操作已超时。; source command: >VR01; iteration: 0; error code: 0
+2018-09-28 13:56:24.6383 DEBUG ----- Starting -----
+2018-09-28 14:38:44.1555 DEBUG ----- Starting -----
+2018-09-28 15:03:08.9768 DEBUG ----- Starting -----
+2018-09-28 15:22:06.1193 DEBUG ----- Starting -----
+2018-09-28 16:23:51.5313 DEBUG ----- Starting -----

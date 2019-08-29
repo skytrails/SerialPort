@@ -1,0 +1,65 @@
+﻿<Page x:Class="HelixGen.Pages.OpticsControlPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HelixGen.Pages"
+      xmlns:localcontrols="clr-namespace:HelixGen.controls"      
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="OpticsControl">
+    <GroupBox Header="Optics Controls" >
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <localcontrols:ledControl x:Name="ledCtrl0" Grid.Row="0" Led="1" 
+                                      Title="LED: "
+                                      ledCurrentChanged="ledControl_ledCurrentChanged" 
+                                      readCurrent="ledControl_readCurrent" 
+                                      readPhotodetector="ledControl_readPhotodetector"
+                                      readTemperature="ledControl_readTemperature"
+                                      />
+            <localcontrols:ledControl x:Name="ledCtrl1" Grid.Row="1" Led="2" 
+                                  Title="LED: "
+                                  ledCurrentChanged="ledControl_ledCurrentChanged" 
+                                  readCurrent="ledControl_readCurrent" 
+                                  readPhotodetector="ledControl_readPhotodetector" 
+                                   readTemperature="ledControl_readTemperature"
+                                  />
+            <localcontrols:ledControl x:Name="ledCtrl2" Grid.Row="2" Led="3" 
+                                  Title="LED: "
+                                  ledCurrentChanged="ledControl_ledCurrentChanged" 
+                                  readCurrent="ledControl_readCurrent" 
+                                  readPhotodetector="ledControl_readPhotodetector" 
+                                   readTemperature="ledControl_readTemperature"
+                                  />
+            <localcontrols:ledControl x:Name="ledCtrl3" Grid.Row="3" Led="4" 
+                                  Title="LED: "
+                                  ledCurrentChanged="ledControl_ledCurrentChanged" 
+                                  readCurrent="ledControl_readCurrent" 
+                                  readPhotodetector="ledControl_readPhotodetector"
+                                   readTemperature="ledControl_readTemperature"
+                                  />
+            <localcontrols:ledControl x:Name="ledCtrl4" Grid.Row="4" Led="5" 
+                                  Title="LED: "
+                                  ledCurrentChanged="ledControl_ledCurrentChanged" 
+                                  readCurrent="ledControl_readCurrent" 
+                                  readPhotodetector="ledControl_readPhotodetector" 
+                                   readTemperature="ledControl_readTemperature"
+                                  />
+            <localcontrols:ledControl x:Name="ledCtrl5" Grid.Row="5" Led="6" 
+                                  Title="LED: "
+                                  ledCurrentChanged="ledControl_ledCurrentChanged" 
+                                  readCurrent="ledControl_readCurrent" 
+                                  readPhotodetector="ledControl_readPhotodetector" 
+                                  readTemperature="ledControl_readTemperature"                                  
+                                  />
+        </Grid>
+    </GroupBox>
+</Page>

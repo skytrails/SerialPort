@@ -1,0 +1,32 @@
+2018-04-03 08:30:21.0780 DEBUG ----- Starting -----
+2018-04-03 08:32:24.6543 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 08:32:38.9942 DEBUG ----- Starting -----
+2018-04-03 08:32:42.7343 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 08:36:46.4362 DEBUG ----- Starting -----
+2018-04-03 08:36:50.1862 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 08:39:27.3630 DEBUG ----- Starting -----
+2018-04-03 08:39:31.1132 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 08:56:02.2488 DEBUG ----- Starting -----
+2018-04-03 08:56:17.2402 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:22:15.4816 DEBUG ----- Starting -----
+2018-04-03 11:22:19.2216 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:22:36.8016 DEBUG ----- Starting -----
+2018-04-03 11:22:40.5618 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:25:06.5891 DEBUG ----- Starting -----
+2018-04-03 11:25:10.3893 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:25:39.2889 DEBUG ----- Starting -----
+2018-04-03 11:25:43.0791 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:29:39.9657 DEBUG ----- Starting -----
+2018-04-03 11:33:55.7032 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:34:08.6929 DEBUG ----- Starting -----
+2018-04-03 11:34:12.4331 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:35:40.3022 DEBUG ----- Starting -----
+2018-04-03 11:36:53.2321 DEBUG ----- Starting -----
+2018-04-03 11:36:56.9723 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:40:04.5609 DEBUG ----- Starting -----
+2018-04-03 11:40:10.2213 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 11:40:12.4111 DEBUG ----- Starting -----
+2018-04-03 11:40:17.3267 DEBUG ----- Starting -----
+2018-04-03 11:40:21.0747 ERROR ABot2::clsOptics::ExecCMD throwing Exception Error: (AMB): The operation has timed out.; source command: >VR01; iteration: 0; error code: 0
+2018-04-03 13:03:54.0004 DEBUG ----- Starting -----
+2018-04-03 13:09:18.0272 DEBUG ----- Starting -----

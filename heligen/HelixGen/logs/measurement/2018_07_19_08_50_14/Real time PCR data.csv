@@ -1,0 +1,9 @@
+Protocol file: C:\HelixGen\Protocols\Protocol_111.xml
+PCR Cycle#, Cartridge 1 Channel 1, Cartridge 1 Channel 2, Cartridge 1 Channel 3, Cartridge 1 Channel 4,Cartridge 2 Channel 1, Cartridge 2 Channel 2, Cartridge 2 Channel 3, Cartridge 2 Channel 4,Cartridge 3 Channel 1, Cartridge 3 Channel 2, Cartridge 3 Channel 3, Cartridge 3 Channel 4,Cartridge 4 Channel 1, Cartridge 4 Channel 2, Cartridge 4 Channel 3, Cartridge 4 Channel 4,Cartridge 5 Channel 1, Cartridge 5 Channel 2, Cartridge 5 Channel 3, Cartridge 5 Channel 4,Cartridge 6 Channel 1, Cartridge 6 Channel 2, Cartridge 6 Channel 3, Cartridge 6 Channel 4,Sensor Temp 1, Sensor Temp 2, Sensor Temp 3, Sensor Temp 4, Sensor Temp 5, Sensor Temp 6
+1,0,0,0,0,0,0,0,0,9513253,10030005,11475792,7798410,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30.5,0,0,0
+2,0,0,0,0,0,0,0,0,9283311,9706108,10906097,7414029,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0
+3,0,0,0,0,0,0,0,0,9244134,9693935,10834952,7489487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31.5,0,0,0
+4,0,0,0,0,0,0,0,0,9183624,9650749,10754597,7438071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0
+5,0,0,0,0,0,0,0,0,9138950,9622350,10643630,7425214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0
+6,0,0,0,0,0,0,0,0,9117009,9582897,10608183,7397052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0
+7,0,0,0,0,0,0,0,0,9082079,9579833,10557158,7368475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0

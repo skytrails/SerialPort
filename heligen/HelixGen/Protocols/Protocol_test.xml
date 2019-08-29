@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol>
+  <description text="This is a generic protocol." author="Steve Engle" date="3/14/2107" />
+  <steps>
+    <step slider="2" desc="slide start position"/>
+    <step time="3000" desc="abstract process"/>
+    <cycle repetitions="20">
+      <steps>
+        <step r1rn="2500" desc="dispense r1"/>
+        <step r2rn="1500" desc="mix aereate"/>
+      </steps>
+    </cycle>
+    <step time="3000" desc="mix process" />
+    <step heaterpiston="1" desc="heat piston position"/>
+    <step slider="3" desc="slider half position"/>
+    <step time="3000" desc="pcr process"/>
+    <step slider="1" desc="slider end position"/>
+   </steps>
+</protocol>

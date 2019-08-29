@@ -1,0 +1,954 @@
+2018-05-02 11:29:16.9288 DEBUG ----- Starting -----
+2018-05-02 11:31:05.6629 DEBUG ----- Starting -----
+2018-05-02 11:36:10.2401 DEBUG ----- Starting -----
+2018-05-02 11:36:33.8075 DEBUG ----- Starting -----
+2018-05-02 11:38:36.4689 DEBUG ----- Starting -----
+2018-05-02 11:39:06.6635 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:39:06.6729 DEBUG Setting the temperature to 55
+2018-05-02 11:39:06.6808 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:06.8037 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 11:39:06.8247 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 11:39:06.8378 DEBUG SetChannelSettings; Channel: 2 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:39:06.8658 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:39:06.8981 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:39:06.9299 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:39:06.9620 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:39:18.5271 DEBUG Setting the temperature2 to 55
+2018-05-02 11:39:18.5471 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:29.6240 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:39:29.6240 DEBUG Setting the temperature to 55
+2018-05-02 11:39:29.6376 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:29.8185 DEBUG Setting the temperature2 to 55
+2018-05-02 11:39:29.8396 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:46.4992 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:39:46.4992 DEBUG Setting the temperature to 55
+2018-05-02 11:39:46.5152 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:46.7169 DEBUG Setting the temperature2 to 55
+2018-05-02 11:39:46.7299 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:52.5318 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:39:52.5409 DEBUG Setting the temperature to 55
+2018-05-02 11:39:52.5409 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:52.7385 DEBUG Setting the temperature2 to 55
+2018-05-02 11:39:52.7464 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:53.8036 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:39:53.8109 DEBUG Setting the temperature to 55
+2018-05-02 11:39:53.8109 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:39:54.0004 DEBUG Setting the temperature2 to 55
+2018-05-02 11:39:54.0185 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:40:06.4045 DEBUG ----- Starting -----
+2018-05-02 11:40:16.7365 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:40:16.7445 DEBUG Setting the temperature to 55
+2018-05-02 11:40:16.7445 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:40:16.8781 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 11:40:16.9012 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 11:40:16.9151 DEBUG SetChannelSettings; Channel: 2 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:40:17.0510 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:40:17.0823 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:40:17.1299 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:40:17.1630 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:41:10.0437 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 11:41:10.7350 DEBUG Setting the temperature2 to 55
+2018-05-02 11:41:10.7448 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:41:52.3849 DEBUG ----- Starting -----
+2018-05-02 11:42:01.5386 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:42:01.5473 DEBUG Setting the temperature to 55
+2018-05-02 11:42:01.5473 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:42:01.6796 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 11:42:01.6983 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 11:42:01.7123 DEBUG SetChannelSettings; Channel: 5 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:42:01.7405 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:42:01.7721 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:42:01.8041 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:42:01.8361 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:42:07.6230 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 11:42:09.1206 DEBUG Setting the temperature2 to 55
+2018-05-02 11:42:09.1206 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:43:02.3384 DEBUG ----- Starting -----
+2018-05-02 11:43:10.9283 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:43:10.9499 DEBUG Setting the temperature to 55
+2018-05-02 11:43:10.9499 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:43:10.9896 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 11:43:10.9971 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 11:43:10.9971 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:43:11.1324 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:43:11.2600 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:43:11.3873 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:43:11.4198 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:43:14.1532 DEBUG Setting the temperature2 to 55
+2018-05-02 11:43:14.1713 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:45:12.1095 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:45:12.1192 DEBUG Setting the temperature to 95
+2018-05-02 11:45:12.1192 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:45:12.1560 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 11:45:12.1679 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 11:45:12.1845 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:45:12.2207 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:45:12.2527 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:45:12.2848 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:45:12.3164 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:45:15.3186 DEBUG Setting the temperature2 to 95
+2018-05-02 11:45:15.3466 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:45:45.2836 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:45:45.2906 DEBUG Setting the temperature to 55
+2018-05-02 11:45:45.2906 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:45:45.3317 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 11:45:45.3377 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 11:45:45.3377 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 11:45:45.3634 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:45:45.3951 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:45:45.4268 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:45:45.4587 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:45:50.0752 DEBUG Setting the temperature2 to 55
+2018-05-02 11:45:50.0752 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:47:32.3547 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:47:32.3547 DEBUG Setting the temperature to 95
+2018-05-02 11:47:32.3707 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:47:32.3937 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 11:47:32.3999 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 11:47:32.3999 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:47:32.4412 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:47:32.4734 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:47:32.5051 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:47:32.5374 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:47:33.0160 DEBUG Setting the temperature2 to 95
+2018-05-02 11:47:33.0373 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:47:55.2014 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:47:55.2014 DEBUG Setting the temperature to 55
+2018-05-02 11:47:55.2175 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:47:55.2492 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 11:47:55.2492 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 11:47:55.2624 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 11:47:55.2969 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:47:55.3280 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:47:55.4723 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:47:55.6005 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:47:56.1758 DEBUG Setting the temperature2 to 55
+2018-05-02 11:47:56.2029 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:48:53.4832 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:48:53.4832 DEBUG Setting the temperature to 95
+2018-05-02 11:48:53.4980 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:48:53.6102 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 11:48:53.6251 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 11:48:53.6357 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:48:53.7376 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:48:53.7697 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:48:53.8019 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:48:53.8340 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:48:54.2973 DEBUG Setting the temperature2 to 95
+2018-05-02 11:48:54.3186 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:49:17.0435 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:49:17.0435 DEBUG Setting the temperature to 55
+2018-05-02 11:49:17.0604 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:49:17.0887 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 11:49:17.0887 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 11:49:17.1022 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 11:49:17.1201 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:49:17.1520 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:49:17.1842 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:49:17.2169 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:49:18.0629 DEBUG Setting the temperature2 to 55
+2018-05-02 11:49:18.0629 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:56:31.3778 DEBUG ----- Starting -----
+2018-05-02 11:57:15.7393 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:57:15.7513 DEBUG Setting the temperature to 95
+2018-05-02 11:57:15.7608 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:57:15.8949 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 11:57:15.9189 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 11:57:20.5191 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:57:20.5263 DEBUG Setting the temperature to 95
+2018-05-02 11:57:20.5263 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:57:20.6509 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-02 11:57:20.6799 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 90-110
+2018-05-02 11:57:20.6915 DEBUG SetChannelSettings; Channel: 5 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2018-05-02 11:57:20.7150 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 11:57:20.7473 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 11:57:20.7786 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 11:57:20.8110 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 11:57:22.8694 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:57:22.8694 DEBUG Setting the temperature to 95
+2018-05-02 11:57:22.8834 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:57:39.6478 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:57:39.6548 DEBUG Setting the temperature to 95
+2018-05-02 11:57:39.6548 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:57:40.8007 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:57:40.8080 DEBUG Setting the temperature to 95
+2018-05-02 11:57:40.8080 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:58:22.1673 DEBUG ----- Starting -----
+2018-05-02 11:58:35.3836 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:58:35.3836 DEBUG Setting the temperature to 95
+2018-05-02 11:58:35.3836 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:58:35.4233 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 11:58:35.4322 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 11:58:35.5050 DEBUG Setting the temperature2 to 95
+2018-05-02 11:58:35.5262 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:59:10.4857 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:59:10.4939 DEBUG Setting the temperature to 55
+2018-05-02 11:59:10.4939 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:59:10.5292 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 11:59:10.5292 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 11:59:10.5453 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 11:59:10.5773 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:59:10.6087 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:59:10.6404 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:59:10.6725 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:59:11.1997 DEBUG Setting the temperature2 to 55
+2018-05-02 11:59:11.2208 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:59:32.6551 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 11:59:32.6650 DEBUG Setting the temperature to 95
+2018-05-02 11:59:32.6650 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:59:32.6968 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 11:59:32.6968 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 11:59:32.7121 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 11:59:32.8406 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:59:32.9693 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:59:33.0962 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 11:59:33.1290 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 11:59:33.5920 DEBUG Setting the temperature2 to 95
+2018-05-02 11:59:33.6164 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 11:59:45.9628 DEBUG Running the SetPCRTemperature command.  Temperature is 9555
+2018-05-02 11:59:45.9628 DEBUG Setting the temperature to 9555
+2018-05-02 11:59:45.9774 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 9555
+2018-05-02 11:59:46.0652 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 9555
+2018-05-02 11:59:46.0722 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 9555.
+2018-05-02 11:59:46.1460 DEBUG Setting the temperature2 to 9555
+2018-05-02 11:59:46.1659 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 9555
+2018-05-02 11:59:49.7325 DEBUG Running the SetPCRTemperature command.  Temperature is 9555
+2018-05-02 11:59:49.7325 DEBUG Setting the temperature to 9555
+2018-05-02 11:59:49.7493 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 9555
+2018-05-02 11:59:49.8037 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 9555 to temp is 9555
+2018-05-02 11:59:49.8107 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 9555 to 9555.
+2018-05-02 11:59:49.8836 DEBUG Setting the temperature2 to 9555
+2018-05-02 11:59:49.9027 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 9555
+2018-05-02 11:59:53.8581 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 11:59:53.8682 DEBUG Setting the temperature to 55
+2018-05-02 11:59:53.8682 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 11:59:54.3240 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 9555 to temp is 55
+2018-05-02 11:59:54.3460 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 9555 to 55.
+2018-05-02 11:59:54.4137 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-02 11:59:54.4267 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 11:59:54.4398 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 11:59:54.5380 DEBUG Setting the temperature2 to 55
+2018-05-02 11:59:55.1279 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 12:00:06.1267 DEBUG ----- Starting -----
+2018-05-02 12:00:14.6151 DEBUG ----- Starting -----
+2018-05-02 12:00:27.7781 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 12:00:27.7781 DEBUG Setting the temperature to 55
+2018-05-02 12:00:27.7961 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 12:00:27.9294 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 12:00:27.9464 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 12:00:27.9633 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 12:00:28.0550 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:00:28.0872 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:00:28.1191 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:00:28.1511 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:00:28.6159 DEBUG Setting the temperature2 to 55
+2018-05-02 12:00:28.6380 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 12:01:09.2458 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 12:01:09.2458 DEBUG Setting the temperature to 95
+2018-05-02 12:01:09.2612 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 12:01:09.2910 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 12:01:09.2910 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 12:01:09.3061 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 12:01:09.3390 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:01:09.3712 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:01:09.4024 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:01:09.4349 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:01:10.1369 DEBUG Setting the temperature2 to 95
+2018-05-02 12:01:10.1529 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 12:01:20.8038 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 12:01:20.8149 DEBUG Setting the temperature to 55
+2018-05-02 12:01:20.8239 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 12:01:20.8860 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 12:01:20.8860 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 12:01:20.8990 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 12:01:20.9341 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:01:20.9661 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:01:20.9975 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:01:21.0301 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:01:21.4929 DEBUG Setting the temperature2 to 55
+2018-05-02 12:01:21.5199 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 12:01:34.7915 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 12:01:34.7915 DEBUG Setting the temperature to 50
+2018-05-02 12:01:34.8086 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 12:01:34.8755 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 50
+2018-05-02 12:01:34.8835 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 55 to 50.
+2018-05-02 12:01:35.0672 DEBUG Setting the temperature2 to 50
+2018-05-02 12:01:35.0763 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 12:02:12.5875 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 12:02:12.5875 DEBUG Setting the temperature to 95
+2018-05-02 12:02:12.6039 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 12:02:12.6315 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 95
+2018-05-02 12:02:12.6376 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 50 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 12:02:12.6376 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 12:02:12.6793 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:02:12.7108 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:02:12.7427 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:02:12.7748 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:02:13.5896 DEBUG Setting the temperature2 to 95
+2018-05-02 12:02:13.6136 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 12:02:54.3091 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 12:02:54.3091 DEBUG Setting the temperature to 55
+2018-05-02 12:02:54.3241 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 12:02:54.3463 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 12:02:54.3532 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 12:02:54.3532 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 12:02:54.3942 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:02:54.4259 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:02:54.4576 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 12:02:54.4897 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 12:02:55.1920 DEBUG Setting the temperature2 to 55
+2018-05-02 12:02:55.2040 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 12:04:47.6848 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 12:04:47.6958 DEBUG Setting the temperature to 50
+2018-05-02 12:04:47.6958 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 12:04:47.7351 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 50
+2018-05-02 12:04:47.7428 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 55 to 50.
+2018-05-02 12:04:47.8155 DEBUG Setting the temperature2 to 50
+2018-05-02 12:04:47.8361 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 12:04:52.0961 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-02 12:04:52.1132 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 12:04:52.1312 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 13:10:06.1057 DEBUG ----- Starting -----
+2018-05-02 13:12:38.0374 DEBUG ----- Starting -----
+2018-05-02 13:12:49.9481 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:12:49.9481 DEBUG Setting the temperature to 95
+2018-05-02 13:12:49.9673 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:12:49.9968 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 13:12:49.9968 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 13:13:22.7805 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:13:22.7805 DEBUG Setting the temperature to 55
+2018-05-02 13:13:22.7946 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:13:22.9142 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 13:13:22.9344 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 13:13:22.9561 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 13:13:23.0583 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:13:23.0907 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:13:23.1224 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:13:23.1549 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:13:33.2980 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-02 13:13:33.2980 DEBUG Setting the temperature to 85
+2018-05-02 13:13:33.3127 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-02 13:13:33.3446 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 85
+2018-05-02 13:13:33.3523 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 55 to 85.
+2018-05-02 13:13:51.0451 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:13:51.0451 DEBUG Setting the temperature to 95
+2018-05-02 13:13:51.0627 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:13:51.0897 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 85 to temp is 95
+2018-05-02 13:13:51.0897 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 85 to 95.
+2018-05-02 13:14:51.4193 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:14:51.4193 DEBUG Setting the temperature to 55
+2018-05-02 13:14:51.4363 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:15:09.3124 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:15:09.3124 DEBUG Setting the temperature to 95
+2018-05-02 13:15:09.3284 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:15:09.3520 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 13:15:09.3580 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 13:15:09.3580 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:15:09.4004 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:15:09.4323 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:15:09.4642 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:15:09.4960 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:16:30.4978 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:16:30.4978 DEBUG Setting the temperature to 55
+2018-05-02 13:16:30.5127 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:16:30.6625 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 13:16:30.6775 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 13:16:30.6887 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 13:16:46.5237 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:16:46.6179 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:16:46.8570 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:16:46.8891 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:16:47.0167 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:18:12.5755 DEBUG ----- Starting -----
+2018-05-02 13:18:28.7811 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:18:28.7811 DEBUG Setting the temperature to 95
+2018-05-02 13:18:28.7965 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:18:28.8445 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 13:18:28.8528 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 13:18:40.3220 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:18:40.3220 DEBUG Setting the temperature to 95
+2018-05-02 13:18:40.3372 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:18:40.3587 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 95
+2018-05-02 13:18:40.3587 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 90-110
+2018-05-02 13:18:40.3751 DEBUG SetChannelSettings; Channel: 5 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2018-05-02 13:18:48.8403 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 13:18:49.0641 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 13:18:49.1899 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 13:18:49.2226 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 13:19:14.3737 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:19:14.3737 DEBUG Setting the temperature to 55
+2018-05-02 13:19:14.3877 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:19:14.5528 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 13:19:14.5617 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 13:19:14.5709 DEBUG SetChannelSettings; Channel: 5 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 13:19:17.8424 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:19:17.9700 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:19:18.1940 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:19:18.2416 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:19:30.4610 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:19:30.4681 DEBUG Setting the temperature to 95
+2018-05-02 13:19:30.4681 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:19:30.6034 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 13:19:30.6034 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 13:19:30.6309 DEBUG SetChannelSettings; Channel: 5 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:19:35.0909 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:19:35.3146 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:19:35.4419 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:19:35.4735 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:19:46.4605 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:19:46.4675 DEBUG Setting the temperature to 95
+2018-05-02 13:19:46.4675 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:20:49.7780 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 13:20:49.7780 DEBUG Setting the temperature to 30
+2018-05-02 13:20:49.7943 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 13:20:49.9138 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 30
+2018-05-02 13:20:49.9378 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 30.
+2018-05-02 13:20:52.3585 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 13:20:52.3585 DEBUG Setting the temperature to 30
+2018-05-02 13:20:52.3737 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 13:20:52.5006 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30 to temp is 30
+2018-05-02 13:20:52.5207 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 30 to 30.
+2018-05-02 13:20:54.9185 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 13:20:54.9185 DEBUG Setting the temperature to 30
+2018-05-02 13:20:54.9331 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 13:20:55.0564 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30 to temp is 30
+2018-05-02 13:20:55.0784 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 30 to 30.
+2018-05-02 13:20:55.2503 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 13:20:55.2711 DEBUG Setting the temperature to 30
+2018-05-02 13:20:55.2906 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 13:20:55.3271 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30 to temp is 30
+2018-05-02 13:20:55.3386 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 30 to 30.
+2018-05-02 13:21:13.0311 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:21:13.0311 DEBUG Setting the temperature to 95
+2018-05-02 13:21:13.0441 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:21:15.1617 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:21:15.1688 DEBUG Setting the temperature to 95
+2018-05-02 13:21:15.1688 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:21:48.2106 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:21:48.2177 DEBUG Setting the temperature to 95
+2018-05-02 13:21:48.2177 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:22:19.0926 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:22:19.0926 DEBUG Setting the temperature to 95
+2018-05-02 13:22:19.1106 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:22:25.6732 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:24:21.0479 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:24:21.0590 DEBUG Setting the temperature to 95
+2018-05-02 13:24:21.0590 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:24:59.5039 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:25:12.3335 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:25:12.3415 DEBUG Setting the temperature to 55
+2018-05-02 13:25:12.3415 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:25:46.1955 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:25:48.6740 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 13:25:48.7051 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:25:48.7051 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 13:25:50.8006 DEBUG SetChannelSettings; Channel: 5 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 13:25:50.8206 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:25:51.9570 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:25:52.1961 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:25:52.2753 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:25:52.5311 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:26:09.7794 DEBUG ----- Starting -----
+2018-05-02 13:26:21.2595 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:26:21.2595 DEBUG Setting the temperature to 95
+2018-05-02 13:26:21.2755 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:26:27.2323 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 13:26:27.2323 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 13:26:29.0625 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:27:45.7227 DEBUG ----- Starting -----
+2018-05-02 13:28:02.6043 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:28:02.6043 DEBUG Setting the temperature to 55
+2018-05-02 13:28:02.6224 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:28:06.7474 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 13:28:06.7474 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 13:28:08.3634 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:28:08.3834 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:28:10.5466 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:28:10.7642 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:28:10.9389 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:28:11.1145 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:28:11.1942 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:28:16.3275 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:28:16.3275 DEBUG Setting the temperature to 95
+2018-05-02 13:28:16.3425 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:28:20.4495 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 13:28:20.4495 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 13:28:25.8505 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:28:25.8685 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:28:28.9064 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:28:29.1944 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:28:29.2735 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:28:29.3377 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:29:18.5308 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:29:18.5308 DEBUG Setting the temperature to 55
+2018-05-02 13:29:18.5458 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:29:21.4811 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 55
+2018-05-02 13:29:21.4811 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 13:29:22.1303 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 13:29:23.0161 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:29:23.1441 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:29:23.3035 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:29:23.3666 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:33:25.2019 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:33:25.2139 DEBUG Setting the temperature to 95
+2018-05-02 13:33:25.2139 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:33:27.1219 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:33:27.5989 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 13:33:27.6079 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 13:33:28.2373 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:33:29.0900 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:33:29.2336 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:33:29.4252 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:33:29.4895 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:37:30.3231 DEBUG ----- Starting -----
+2018-05-02 13:37:44.2715 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:37:44.2794 DEBUG Setting the temperature to 55
+2018-05-02 13:37:44.2794 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:37:46.9003 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 13:37:46.9003 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 13:37:47.8707 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:37:48.9658 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:37:49.1259 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:37:49.2849 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:37:49.3654 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:39:27.4759 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 13:39:27.4829 DEBUG Setting the temperature to 50
+2018-05-02 13:39:27.4829 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 13:39:57.7862 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 13:39:57.7939 DEBUG Setting the temperature to 50
+2018-05-02 13:39:57.7939 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 13:40:32.7066 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 13:40:32.7186 DEBUG Setting the temperature to 45
+2018-05-02 13:40:32.7186 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 13:40:37.6519 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 13:40:37.6519 DEBUG Setting the temperature to 50
+2018-05-02 13:40:37.6669 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 13:40:57.5660 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 13:40:57.5730 DEBUG Setting the temperature to 45
+2018-05-02 13:40:57.5730 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 13:41:06.4895 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-02 13:41:06.4962 DEBUG Setting the temperature to 85
+2018-05-02 13:41:06.4962 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-02 13:41:06.5353 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 45 to temp is 85
+2018-05-02 13:41:06.5429 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 45 to 85.
+2018-05-02 13:41:15.7745 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 13:41:15.7745 DEBUG Setting the temperature to 45
+2018-05-02 13:41:15.7745 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 13:41:21.4638 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 13:41:21.4638 DEBUG Setting the temperature to 45
+2018-05-02 13:41:21.4789 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 13:41:34.1321 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:41:34.1410 DEBUG Setting the temperature to 55
+2018-05-02 13:41:34.1490 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:41:46.0249 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-02 13:41:46.0249 DEBUG Setting the temperature to 85
+2018-05-02 13:41:46.0407 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-02 13:41:46.1083 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 85
+2018-05-02 13:41:46.1083 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 55 to 85.
+2018-05-02 13:41:56.1086 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:41:56.1086 DEBUG Setting the temperature to 55
+2018-05-02 13:41:56.1226 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:42:57.4307 DEBUG Running the SetPCRTemperature command.  Temperature is 85
+2018-05-02 13:42:57.4307 DEBUG Setting the temperature to 85
+2018-05-02 13:42:57.4492 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 85
+2018-05-02 13:42:57.4785 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 85
+2018-05-02 13:42:57.4785 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 55 to 85.
+2018-05-02 13:43:17.1296 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:43:22.3873 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:43:22.3873 DEBUG Setting the temperature to 55
+2018-05-02 13:43:22.4013 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:43:36.0092 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:43:44.2135 DEBUG Running the SetPCRTemperature command.  Temperature is 75
+2018-05-02 13:43:44.2135 DEBUG Setting the temperature to 75
+2018-05-02 13:43:44.2279 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 75
+2018-05-02 13:45:35.6805 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 75
+2018-05-02 13:45:35.7176 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:45:35.7296 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 55-65 To: 66-75
+2018-05-02 13:45:38.3758 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 20 I: 0.05 D: 400
+2018-05-02 13:45:40.0202 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:45:40.2425 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:45:40.7221 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:45:40.8174 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:45:40.8821 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:45:42.5501 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-02 13:45:42.5662 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 13:45:42.5802 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 13:51:43.1404 DEBUG ----- Starting -----
+2018-05-02 13:51:58.9341 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 13:51:58.9341 DEBUG Setting the temperature to 55
+2018-05-02 13:51:58.9489 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 13:52:06.5138 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 13:52:06.5459 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:52:06.5459 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 13:52:13.7523 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:52:13.7714 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 13:52:17.2757 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:52:17.4829 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:52:17.6900 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:52:17.8820 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:52:59.3067 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 13:52:59.3067 DEBUG Setting the temperature to 50
+2018-05-02 13:52:59.3249 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 13:53:32.5511 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:53:32.5581 DEBUG Setting the temperature to 95
+2018-05-02 13:53:32.5581 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:53:32.5949 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 95
+2018-05-02 13:53:32.5949 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 50 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 13:53:32.6090 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:53:32.6423 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:53:32.6737 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:53:32.8176 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:53:32.9462 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:53:43.0549 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 13:53:43.0616 DEBUG Setting the temperature to 95
+2018-05-02 13:53:43.0616 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 13:54:32.3162 DEBUG ----- Starting -----
+2018-05-02 13:54:46.3328 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 13:54:46.3407 DEBUG Setting the temperature to 50
+2018-05-02 13:54:46.3407 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 13:54:46.3784 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 50
+2018-05-02 13:54:46.3864 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 13:54:46.3864 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:54:46.4246 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:54:46.4574 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:54:46.4891 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:54:46.5208 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:55:29.5356 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 13:55:29.5436 DEBUG Setting the temperature to 90
+2018-05-02 13:55:29.5436 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 13:55:29.5770 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 90
+2018-05-02 13:55:29.5770 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 50 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 13:55:29.5919 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 13:55:29.6253 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:55:29.6575 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:55:29.6893 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 13:55:29.7372 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 13:56:26.1229 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 13:56:26.1350 DEBUG Setting the temperature to 50
+2018-05-02 13:56:26.1350 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 13:56:26.1616 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 50
+2018-05-02 13:56:26.1676 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 90 to 50.
+2018-05-02 13:57:07.4100 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 13:57:07.4180 DEBUG Setting the temperature to 45
+2018-05-02 13:57:07.4180 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 13:57:07.4444 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 45
+2018-05-02 13:57:07.4513 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 50 to 45.
+2018-05-02 13:58:40.1968 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 13:58:40.1968 DEBUG Setting the temperature to 90
+2018-05-02 13:58:40.2116 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 14:03:02.2766 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 14:03:02.2766 DEBUG Setting the temperature to 50
+2018-05-02 14:03:02.2946 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 14:03:02.3183 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 50
+2018-05-02 14:03:02.3249 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 90 to 50.
+2018-05-02 14:03:41.0709 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 14:03:41.0709 DEBUG Setting the temperature to 45
+2018-05-02 14:03:41.0868 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 14:03:41.1098 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 45
+2018-05-02 14:03:41.1098 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 50 to 45.
+2018-05-02 14:03:56.4363 DEBUG Running the SetPCRTemperature command.  Temperature is 40
+2018-05-02 14:03:56.4363 DEBUG Setting the temperature to 40
+2018-05-02 14:03:56.4513 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2018-05-02 14:03:56.4733 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 45 to temp is 40
+2018-05-02 14:03:56.4801 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 45 to 40.
+2018-05-02 14:04:12.9079 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 14:04:12.9181 DEBUG Setting the temperature to 95
+2018-05-02 14:04:12.9181 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 14:04:29.4735 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 14:04:29.4807 DEBUG Setting the temperature to 90
+2018-05-02 14:04:29.4807 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 14:04:47.4042 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 14:04:47.4042 DEBUG Setting the temperature to 45
+2018-05-02 14:04:47.4195 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 14:04:47.4493 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 45
+2018-05-02 14:04:47.4493 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 90 to 45.
+2018-05-02 14:05:22.6888 DEBUG Running the SetPCRTemperature command.  Temperature is 40
+2018-05-02 14:05:22.6979 DEBUG Setting the temperature to 40
+2018-05-02 14:05:22.6979 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2018-05-02 14:05:22.7271 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 45 to temp is 40
+2018-05-02 14:05:22.7271 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 45 to 40.
+2018-05-02 14:05:33.8472 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 14:05:33.8538 DEBUG Setting the temperature to 30
+2018-05-02 14:05:33.8538 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 14:05:33.8907 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 40 to temp is 30
+2018-05-02 14:05:33.8907 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 40 to 30.
+2018-05-02 14:05:49.6379 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-02 14:05:49.6549 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 14:05:49.6710 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 14:06:03.3923 DEBUG ----- Starting -----
+2018-05-02 14:06:15.8845 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 14:06:15.8845 DEBUG Setting the temperature to 30
+2018-05-02 14:06:15.9056 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 14:06:15.9429 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 30
+2018-05-02 14:06:15.9496 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 30.
+2018-05-02 14:06:28.9536 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 14:06:28.9617 DEBUG Setting the temperature to 55
+2018-05-02 14:06:28.9617 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 14:06:29.0845 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30 to temp is 55
+2018-05-02 14:06:29.1025 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 30 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 14:06:29.1196 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 14:06:29.2127 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 14:06:29.3406 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 14:06:29.3726 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 14:06:29.4037 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 14:06:54.5764 DEBUG Running the SetPCRTemperature command.  Temperature is 45
+2018-05-02 14:06:54.5764 DEBUG Setting the temperature to 45
+2018-05-02 14:06:54.5908 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 45
+2018-05-02 14:07:14.2536 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 14:07:14.2673 DEBUG Setting the temperature to 30
+2018-05-02 14:07:14.2748 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 14:07:14.3599 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 45 to temp is 30
+2018-05-02 14:07:14.3721 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 45 to 30.
+2018-05-02 14:07:52.0398 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 14:07:52.0398 DEBUG Setting the temperature to 90
+2018-05-02 14:07:52.0573 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 14:07:52.1618 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30 to temp is 90
+2018-05-02 14:07:52.1779 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 30 to 90.
+2018-05-02 14:08:29.7709 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 14:08:29.7789 DEBUG Setting the temperature to 95
+2018-05-02 14:08:29.7789 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 14:08:29.8187 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 95
+2018-05-02 14:08:29.8259 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 90 making settings for the temperature range: From: 90-110 To: 90-110
+2018-05-02 14:08:29.8259 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2018-05-02 14:08:29.8670 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 14:08:29.8992 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 14:08:29.9311 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 14:08:29.9628 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 14:08:49.3018 DEBUG Running the SetPCRTemperature command.  Temperature is 40
+2018-05-02 14:08:49.3098 DEBUG Setting the temperature to 40
+2018-05-02 14:08:49.3098 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 40
+2018-05-02 14:08:49.3510 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 40
+2018-05-02 14:08:49.3580 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 95 to 40.
+2018-05-02 14:09:16.6771 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 14:09:16.6852 DEBUG Setting the temperature to 30
+2018-05-02 14:09:16.6852 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 14:09:16.7249 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 40 to temp is 30
+2018-05-02 14:09:16.7359 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 40 to 30.
+2018-05-02 14:11:28.3320 DEBUG Running the SetPCRTemperature command.  Temperature is 10
+2018-05-02 14:11:28.3390 DEBUG Setting the temperature to 10
+2018-05-02 14:11:28.3390 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 10
+2018-05-02 14:11:28.4301 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 30 to temp is 10
+2018-05-02 14:11:28.4371 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 30 to 10.
+2018-05-02 14:11:54.7057 DEBUG Running the SetPCRTemperature command.  Temperature is 0
+2018-05-02 14:11:54.7125 DEBUG Setting the temperature to 0
+2018-05-02 14:11:54.7125 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 0
+2018-05-02 14:11:54.7501 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 10 to temp is 0
+2018-05-02 14:11:54.7501 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 10 to 0.
+2018-05-02 14:12:15.6715 DEBUG Running the SetPCRTemperature command.  Temperature is -20
+2018-05-02 14:12:15.6715 DEBUG Setting the temperature to -20
+2018-05-02 14:12:15.6867 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: -20
+2018-05-02 14:12:15.7196 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is -20
+2018-05-02 14:12:15.7196 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to -20.
+2018-05-02 14:18:17.7073 DEBUG Running the SetPCRTemperature command.  Temperature is -20
+2018-05-02 14:18:17.7157 DEBUG Setting the temperature to -20
+2018-05-02 14:18:17.7157 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: -20
+2018-05-02 14:18:17.7639 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is -20 to temp is -20
+2018-05-02 14:18:17.7639 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for -20 to -20.
+2018-05-02 14:31:09.7941 DEBUG Running the SetPCRTemperature command.  Temperature is 30
+2018-05-02 14:31:09.8052 DEBUG Setting the temperature to 30
+2018-05-02 14:31:09.8052 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 30
+2018-05-02 14:31:09.8345 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is -20 to temp is 30
+2018-05-02 14:31:09.8415 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for -20 to 30.
+2018-05-02 14:37:35.9757 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 14:37:35.9836 DEBUG Setting the temperature to 90
+2018-05-02 14:37:35.9836 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 14:47:53.3189 DEBUG ReadCmd, got an exception: The I/O operation has been aborted because of either a thread exit or an application request.
+
+2018-05-02 14:47:53.3490 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 14:47:53.3661 DEBUG ReadCmd, got an exception: The port is closed.
+2018-05-02 14:58:15.1823 DEBUG ----- Starting -----
+2018-05-02 14:58:24.3539 DEBUG ----- Starting -----
+2018-05-02 14:58:37.8013 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 14:58:37.8098 DEBUG Setting the temperature to 90
+2018-05-02 14:58:37.8098 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 14:58:37.8509 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 90
+2018-05-02 14:58:37.8589 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 90.
+2018-05-02 14:59:11.2522 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 14:59:11.2618 DEBUG Setting the temperature to 55
+2018-05-02 14:59:11.2618 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 14:59:11.2963 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 55
+2018-05-02 14:59:11.2963 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 90 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 14:59:11.3115 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 14:59:11.3449 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 14:59:11.4879 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 14:59:11.6159 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 14:59:11.6638 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 14:59:31.5251 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 14:59:31.5251 DEBUG Setting the temperature to 90
+2018-05-02 14:59:31.5405 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 14:59:31.6455 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 90
+2018-05-02 14:59:31.6616 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 14:59:31.6736 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 14:59:31.7089 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 14:59:31.7418 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 14:59:31.7734 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 14:59:31.8214 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:07:25.6319 DEBUG Running the SetPCRTemperature command.  Temperature is 60
+2018-05-02 15:07:25.6399 DEBUG Setting the temperature to 60
+2018-05-02 15:07:25.6489 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 60
+2018-05-02 15:07:25.6734 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 90 to temp is 60
+2018-05-02 15:07:25.6806 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 90 making settings for the temperature range: From: 90-110 To: 55-65
+2018-05-02 15:07:25.6806 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 5 I: 0.05 D: 300
+2018-05-02 15:07:25.7213 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:07:25.7531 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:07:25.8967 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:07:26.0399 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:09:31.2373 DEBUG Running the SetPCRTemperature command.  Temperature is 50
+2018-05-02 15:09:31.2473 DEBUG Setting the temperature to 50
+2018-05-02 15:09:31.2473 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 50
+2018-05-02 15:09:31.2827 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 60 to temp is 50
+2018-05-02 15:09:31.2911 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 60 to 50.
+2018-05-02 15:11:47.9968 DEBUG ReadCmd, got an exception: The operation has timed out.
+2018-05-02 15:13:00.4752 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_13_00\Temperature Log.csv
+2018-05-02 15:13:00.4872 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:13:00.4950 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:13:00.4950 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:13:00.5100 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:13:00.5100 DEBUG Setting the temperature to 95
+2018-05-02 15:13:00.5269 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:13:00.5484 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 50 to temp is 95
+2018-05-02 15:13:00.5554 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 50 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 15:13:00.5554 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 15:13:00.5958 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:13:00.6258 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:13:00.6556 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:13:00.7956 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:16:40.2789 DEBUG ----- Starting -----
+2018-05-02 15:16:58.7679 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_16_58\Temperature Log.csv
+2018-05-02 15:16:58.7927 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:16:58.7927 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:16:58.7927 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:16:58.8128 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:16:58.8228 DEBUG Setting the temperature to 95
+2018-05-02 15:16:58.8228 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:16:58.9527 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 15:16:58.9727 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 15:17:53.3485 DEBUG Running the SetPCRTemperature command.  Temperature is 90
+2018-05-02 15:17:53.3595 DEBUG Setting the temperature to 90
+2018-05-02 15:17:53.3595 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 90
+2018-05-02 15:17:53.4643 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 95 to temp is 90
+2018-05-02 15:17:53.4784 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 95 making settings for the temperature range: From: 90-110 To: 90-110
+2018-05-02 15:17:53.4784 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 0, OvershootDuration: 0 P: 40 I: 0.05 D: 400
+2018-05-02 15:17:53.6087 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 15:17:53.6410 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 15:17:53.6727 DEBUG TEC; setting the overshootDuration to 0
+2018-05-02 15:17:53.7049 DEBUG TEC; setting the overshootoffset to 0
+2018-05-02 15:18:11.8111 DEBUG Running the SetPCRTemperature command.  Temperature is 95
+2018-05-02 15:18:11.8212 DEBUG Setting the temperature to 95
+2018-05-02 15:18:11.8212 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:18:23.0333 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_18_23\Temperature Log.csv
+2018-05-02 15:18:23.0433 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:18:23.0433 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:18:23.0433 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:18:23.0633 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:18:23.0733 DEBUG Setting the temperature to 95
+2018-05-02 15:18:23.0733 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:21:06.0631 DEBUG ----- Starting -----
+2018-05-02 15:21:16.4299 DEBUG Running the SetPCRTemperature command.  Temperature is 55
+2018-05-02 15:21:16.4379 DEBUG Setting the temperature to 55
+2018-05-02 15:21:16.4379 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 55
+2018-05-02 15:21:16.4715 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 55
+2018-05-02 15:21:16.4795 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 0 making settings for the temperature range: From: 0-35 To: 45-55
+2018-05-02 15:21:16.4795 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 15:21:16.5195 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:21:16.5512 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:21:16.5826 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:21:16.6147 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:21:35.4196 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_21_35\Temperature Log.csv
+2018-05-02 15:21:35.4196 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:21:35.4396 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:21:35.4496 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:21:35.4496 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:21:35.4696 DEBUG Setting the temperature to 95
+2018-05-02 15:21:35.4796 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:21:35.4997 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 55 to temp is 95
+2018-05-02 15:21:35.5096 DEBUG DevicePCRCycler SelectThermalParameters, found a plan; curTemp is 55 making settings for the temperature range: From: 45-55 To: 90-110
+2018-05-02 15:21:35.5096 DEBUG SetChannelSettings; Channel: 4 OvershootOffset: 1, OvershootDuration: 1 P: 40 I: 0.05 D: 400
+2018-05-02 15:21:35.5498 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:21:35.5796 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:21:35.6196 DEBUG TEC; setting the overshootDuration to 1
+2018-05-02 15:21:35.6498 DEBUG TEC; setting the overshootoffset to 1
+2018-05-02 15:24:58.4020 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_24_58\Temperature Log.csv
+2018-05-02 15:24:58.4020 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:24:58.4320 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:24:58.4320 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:24:58.4320 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:24:58.4520 DEBUG Setting the temperature to 95
+2018-05-02 15:24:58.4620 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:28:07.6511 DEBUG ----- Starting -----
+2018-05-02 15:28:16.8097 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_28_16\Temperature Log.csv
+2018-05-02 15:28:16.8097 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:28:16.8297 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:28:16.8397 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:28:16.8397 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:28:16.8597 DEBUG Setting the temperature to 95
+2018-05-02 15:28:16.8697 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:28:16.8899 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 15:28:16.8997 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 15:35:14.0992 DEBUG ----- Starting -----
+2018-05-02 15:35:28.5480 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_35_28\Temperature Log.csv
+2018-05-02 15:35:28.5634 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:35:28.5713 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:35:28.5713 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:35:28.5713 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:35:28.5950 DEBUG Setting the temperature to 95
+2018-05-02 15:35:28.6050 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:35:28.6252 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 15:35:28.6350 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 15:40:46.5071 DEBUG ----- Starting -----
+2018-05-02 15:40:54.3568 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_40_54\Temperature Log.csv
+2018-05-02 15:40:54.3768 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:40:54.3768 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:40:54.3868 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:40:54.3868 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:40:54.4168 DEBUG Setting the temperature to 95
+2018-05-02 15:40:54.4168 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:40:54.4968 DEBUG DevicePCRCycler SetToAppropriateBand, finding a new band, curTemp is 0 to temp is 95
+2018-05-02 15:40:54.5168 DEBUG DevicePCRCycler SelectThermalParameters did not find a plan for 0 to 95.
+2018-05-02 15:42:26.7709 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_42_26\Temperature Log.csv
+2018-05-02 15:42:26.7810 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:42:26.7909 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:42:26.7909 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:42:26.7909 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:42:41.2473 DEBUG Setting the temperature to 95
+2018-05-02 15:42:41.2623 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:45:02.9526 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_45_02\Temperature Log.csv
+2018-05-02 15:45:02.9826 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:45:02.9826 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:45:03.0026 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:45:03.0126 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:45:10.0513 DEBUG Setting the temperature to 95
+2018-05-02 15:45:10.0696 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:47:40.5135 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_47_40\Temperature Log.csv
+2018-05-02 15:47:40.5435 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:47:40.5435 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:47:40.5735 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:47:40.5735 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:47:47.7982 DEBUG Setting the temperature to 95
+2018-05-02 15:47:47.8082 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:47:59.1399 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_47_59\Temperature Log.csv
+2018-05-02 15:47:59.1699 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:47:59.1699 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:47:59.1899 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:47:59.1999 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:48:06.2154 DEBUG Setting the temperature to 95
+2018-05-02 15:48:06.2306 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:48:44.6679 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_48_44\Temperature Log.csv
+2018-05-02 15:48:44.7079 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:48:44.7179 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:48:44.7279 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:48:44.7479 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:48:51.9764 DEBUG Setting the temperature to 95
+2018-05-02 15:48:51.9964 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 15:49:11.9190 DEBUG Opening results file to: ..\..\Logs\Measurement\2018_05_02_15_49_11\Temperature Log.csv
+2018-05-02 15:49:11.9390 DEBUG Protocol: Execute step: HelixGen.Model.ProtocolStep line: 6
+2018-05-02 15:49:11.9590 DEBUG Executing the step from _pcrActions: HelixGen.Model.ProtocolStep
+2018-05-02 15:49:11.9690 DEBUG Executing the action: HelixGen.Model.pcrAction
+2018-05-02 15:49:11.9790 DEBUG gotoTempAndStay: temperature = 95 time = 0 ms
+2018-05-02 15:49:22.7106 DEBUG Setting the temperature to 95
+2018-05-02 15:49:22.7327 DEBUG Got a _model_PCRCyclerSetpointTemperature; temperature: 95
+2018-05-02 16:42:01.7816 DEBUG ----- Starting -----

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<protocol>
+  <pneumatics>
+    <chiptype>CHIP_A</chiptype>
+    <name>bio-1-pcr-2</name>
+    <load>1,15,30</load> <!-- param 1 = chip index (1-4),pressure (psi),time (secs) -->
+    <prime>1,20,150</prime> <!-- param 1 = chip index (1-4),pressure (psi),time (secs) -->
+    <digitize>1,25,200</digitize> <!-- param 1 = chip index (1-4),pressure (psi),time (secs) -->
+    <pcr_process>Gene_Expression_Assay</pcr_process>
+  </pneumatics>  
+  <pcr>
+    <steps>
+      <step>
+        <name>Initial_Denaturation</name>
+        <temperature>95</temperature> <!-- in degrees C -->
+        <!-- <holdtime>600</holdtime> --> <!-- seconds -->
+        <holdtime>60</holdtime>
+      </step>
+      <step>
+        <name>Denaturation</name>
+        <temperature>95</temperature> <!-- in degrees C -->
+        <holdtime>15</holdtime> <!-- seconds -->
+      </step>
+      <step>
+        <name>Anneal</name>
+        <temperature>72</temperature> <!-- in degrees C -->
+        <holdtime>15</holdtime> <!-- seconds -->
+      </step>
+      <step>
+        <name>Final_Measurement</name>
+        <temperature>60</temperature> <!-- in degrees C -->
+        <holdtime>60</holdtime> <!-- seconds -->
+        <measurement>
+          <ExposureTimeinMicroSeconds>10</ExposureTimeinMicroSeconds>
+          <filters>
+            <filter>1</filter>
+            <filter>2</filter> <!-- filter index, 1 to 2 -->
+          </filters>
+        </measurement>
+      </step>
+    </steps>
+    <cycles>
+      <cycle>
+        <name>Cycle_1</name>
+        <!-- <repetitions>40</repetitions> -->
+        <repetitions>5</repetitions>
+        <operations>
+          <step>Denaturation</step>
+          <step>Anneal</step>
+        </operations>
+      </cycle>
+    </cycles>
+    <process_sequence>
+      <name>Gene_Expression_Assay</name>
+      <!-- rate at which temperature logging occurs. Minimum is 0.1 second -->
+      <log_rate_in_secs>0.5</log_rate_in_secs>
+      <process_steps> <!-- user defined sequence of steps and/or cycles -->
+        <step>Initial_Denaturation</step>
+        <cycle>Cycle_1</cycle>
+        <step>Final_Measurement</step>
+      </process_steps>
+    </process_sequence>
+  </pcr>
+</protocol>

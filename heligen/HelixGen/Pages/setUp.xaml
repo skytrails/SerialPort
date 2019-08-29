@@ -1,0 +1,94 @@
+﻿<Page x:Class="HelixGen.Pages.setUp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HelixGen.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="setUp">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+         
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock  Grid.Row="2" Grid.Column="0"  HorizontalAlignment="Right" Margin="20,0" VerticalAlignment="Center" FontSize="25">通道</TextBlock>
+        <Button Grid.Row="2" Grid.Column="1"  Content="1"  Margin="0,0" FontSize="30"   Click="Button_Click" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+        <Button Grid.Row="2" Grid.Column="2"  Content="2"  Margin="0,0" FontSize="30" Click="Button_Click1" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+        <Button Grid.Row="2" Grid.Column="3"  Content="3"  Margin="0,0" FontSize="30" Click="Button_Click2" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+        <Button Grid.Row="2" Grid.Column="4"  Content="4"  Margin="0,0" FontSize="30" Click="Button_Click3" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+        <Button Grid.Row="2" Grid.Column="5"  Content="5"  Margin="0,0" FontSize="30" Click="Button_Click4" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+        <Button Grid.Row="2" Grid.Column="6"  Content="6"  Margin="0,0" FontSize="30" Click="Button_Click5" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush ImageSource="C:/snp_new/HelixGen/images/蓝色按钮.png" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+
+        <TextBlock  Grid.Row="3" Grid.Column="0"  HorizontalAlignment="Right" Margin="20,0" VerticalAlignment="Center" FontSize="25">检测项</TextBlock>
+
+        <TextBlock  Grid.Row="4" Grid.Column="0"  HorizontalAlignment="Right" Margin="20,0" VerticalAlignment="Center" FontSize="25">病人ID</TextBlock>
+
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="chan1patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="4" Grid.Column="1" x:Name="chan1materID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="3" Grid.Column="2" x:Name="chan2patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="4" Grid.Column="2" x:Name="chan2materID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="3" Grid.Column="3" x:Name="chan3patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="4" Grid.Column="3" x:Name="chan3materID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="3" Grid.Column="4" x:Name="chan4patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="4" Grid.Column="4" x:Name="chan4materID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="3" Grid.Column="5" x:Name="chan5patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="4" Grid.Column="5" x:Name="chan5materID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+        <TextBox Grid.Row="3" Grid.Column="6" x:Name="chan6patientID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+
+        <TextBox Grid.Row="4" Grid.Column="6" x:Name="chan6materID" Margin="0,0" VerticalContentAlignment="Stretch" FontSize="20" TextWrapping="Wrap" IsReadOnly="True"/>
+        <Button Grid.Row="6" Grid.Column="5"  Content="确定"  Margin="20,0" FontSize="30" Click="Button_Click_2"/>
+    </Grid>
+
+</Page>
